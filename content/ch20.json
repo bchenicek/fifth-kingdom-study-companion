@@ -1,0 +1,93 @@
+{
+  "n": 20,
+  "title": "Food Spoilage by Fungi and How to Prevent It",
+  "pages": [365, 371],
+  "sections": [
+    {
+      "title": "What Is Food Spoilage?",
+      "pages": [365, 366],
+      "questions": [
+        {"q": "Kendrick's mouldy damson plums were probably attacked by:", "c": ["*Monilia*", "*Botrytis*", "*Rhizopus*", "*Penicillium roquefortii*"], "a": 0, "r": {"p": 365}},
+        {"q": "Kendrick's definition adds that food is spoiled if it contains potentially harmful levels of:", "c": ["Mycotoxins", "Spores", "Water", "Sugar"], "a": 0, "r": {"p": 365}},
+        {"q": "Wet, alkaline foods tend to be spoiled by bacteria; drier or more acidic foods by:", "c": ["Fungi", "Viruses", "Insects", "Bacteria too"], "a": 0, "r": {"p": 366}},
+        {"q": "About what share of all produce harvested spoils before it can be eaten?", "c": ["About a quarter", "About 5%", "About 75%", "About half"], "a": 0, "r": {"p": 366}},
+        {"q": "Necrotrophic storage fungi like *Monilia fructigena*:", "c": ["Kill plant cells with toxins ahead of the hyphae, then feed saprobically", "Feed only on living cells", "Never kill cells", "Live only in soil"], "a": 0, "r": {"p": 366}},
+        {"q": "Kendrick thinks the easier route to preventing spoilage is to exclude all fungi from food.", "c": ["True", "False"], "a": 1, "r": {"p": 366}}
+      ]
+    },
+    {
+      "title": "Killing or Removing Microorganisms",
+      "pages": [366, 367],
+      "questions": [
+        {"q": "Ascospores of *Byssochlamys* and some *Talaromyces* can survive heating to:", "c": ["80°C", "40°C", "120°C", "200°C"], "a": 0, "r": {"p": 367, "h": "(1a) Heat sterilization"}},
+        {"q": "Heat sterilization is a very effective way of destroying mycotoxins.", "c": ["True", "False"], "a": 1, "r": {"p": 367}},
+        {"q": "Food irradiation uses:", "c": ["Gamma radiation on sealed food", "Ultraviolet lamps", "Microwaves", "X-rays on open food"], "a": 0, "r": {"p": 367, "h": "(1b) Irradiation"}},
+        {"q": "Irradiation has not been very successful with:", "c": ["Fresh vegetables", "Grains", "Meat", "Spices"], "a": 0, "r": {"p": 367}},
+        {"q": "Filtration can be used only for clear fluids because:", "c": ["Pores must be under 1 micron to catch microbes and soon clog", "It heats the liquid", "It removes flavour", "It only stops fungi"], "a": 0, "r": {"p": 367, "h": "(1c) Filtration"}}
+      ]
+    },
+    {
+      "title": "Inhibiting Growth: Drying, Cold, Chemicals, and No Oxygen",
+      "pages": [367, 369],
+      "questions": [
+        {"q": "Adding salt or sugar preserves food because it:", "c": ["Lowers water activity just as removing water would", "Kills fungi directly", "Raises pH", "Removes oxygen"], "a": 0, "r": {"p": 367, "h": "(2a) Drying"}},
+        {"q": "If air in a sealed container with food equilibrates at 85% relative humidity, the food's water activity is:", "c": ["0.85", "85", "0.15", "8.5"], "a": 0, "r": {"p": 367}},
+        {"q": "The most xerotolerant fungus, able to grow at a water activity of 0.62, is:", "c": ["*Aspergillus echinulatus*", "*Wallemia sebi*", "*Chrysosporium fastidium*", "*Penicillium roquefortii*"], "a": 0, "r": {"p": 368}},
+        {"q": "Below what water activity is fungal deterioration virtually eliminated?", "c": ["0.65", "0.95", "0.85", "0.75"], "a": 0, "r": {"p": 368}},
+        {"q": "*Fusarium poae* can grow at temperatures as low as:", "c": ["–7°C", "4°C", "0°C", "–18°C"], "a": 0, "r": {"p": 368, "h": "(2b) Refrigeration"}},
+        {"q": "To prevent fungal spoilage by cold, food should be kept at:", "c": ["–18°C or below", "4°C", "0°C", "–2°C"], "a": 0, "r": {"p": 368}},
+        {"q": "Calcium propionate can be added to bread dough because it:", "c": ["Has little effect on yeasts", "Kills all moulds instantly", "Adds flavour", "Speeds rising"], "a": 0, "r": {"p": 368, "h": "(2c) Addition of chemical inhibitors"}},
+        {"q": "Sodium benzoate inhibits moulds in acidic foods (pH 2.5–4.0); sorbates work at pH values:", "c": ["Above 4.0", "Below 2.5", "Exactly 7", "Only in meat"], "a": 0, "r": {"p": 368}},
+        {"q": "*Penicillium roquefortii* can grow at oxygen tensions only 10% of normal.", "c": ["True", "False"], "a": 0, "r": {"p": 369, "h": "(2d) Exclusion of oxygen"}}
+      ]
+    },
+    {
+      "title": "Spoilage of Foods from Plants",
+      "pages": [369, 370],
+      "questions": [
+        {"q": "*Aspergillus flavus* and *A. parasiticus* in stored grain and nuts produce:", "c": ["Aflatoxins", "Zearalenone", "Vomitoxin", "Patulin"], "a": 0, "r": {"p": 369, "h": "(1) Cereals and nuts"}},
+        {"q": "Flour won't mould if stored at a moisture content of:", "c": ["13% or less", "30% or less", "50% or less", "Any level"], "a": 0, "r": {"p": 369}},
+        {"q": "The zygomycete common on bread, with black pinhead sporangia, is:", "c": ["*Rhizopus stolonifer*", "*Pilobolus*", "*Mucor hiemalis*", "*Geotrichum*"], "a": 0, "r": {"p": 369}},
+        {"q": "Why are many modern jams more susceptible to mould?", "c": ["Less sugar raises their water activity nearer to 0.8", "They contain more fruit", "They are unsealed", "They contain yeast"], "a": 0, "r": {"p": 369, "h": "(2) High sugar"}},
+        {"q": "Sauerkraut resists spoilage because lactobacilli outcompete other organisms and lower pH.", "c": ["True", "False"], "a": 0, "r": {"p": 370, "h": "(3) Vegetables"}},
+        {"q": "Oranges and lemons are destroyed by:", "c": ["*Penicillium digitatum* and *P. italicum*", "*Botrytis cinerea*", "*Monilia*", "*Colletotrichum*"], "a": 0, "r": {"p": 370, "h": "(4) Fruits"}},
+        {"q": "Bananas become brown and mushy mainly because of:", "c": ["Their own enzymes", "*Rhizopus*", "Bacteria", "*Botrytis*"], "a": 0, "r": {"p": 370}}
+      ]
+    },
+    {
+      "title": "Spoilage of Foods from Animals",
+      "pages": [370, 371],
+      "questions": [
+        {"q": "Most serious spoilage of meat and eggs is caused by:", "c": ["Bacteria", "Fungi", "Yeasts", "Insects"], "a": 0, "r": {"p": 370, "h": "(5 and 6) Meat and eggs"}},
+        {"q": "The best way to prevent fungal spoilage of dried fish is:", "c": ["Reducing water activity", "Refrigeration", "Adding sugar", "Exposing to light"], "a": 0, "r": {"p": 371, "h": "(7) Fish"}},
+        {"q": "Raw milk is usually spoiled first by:", "c": ["Bacteria", "Moulds", "Yeasts", "Rusts"], "a": 0, "r": {"p": 371, "h": "(8) Raw milk"}},
+        {"q": "Which mould especially attacks cheese?", "c": ["*Penicillium commune*", "*Botrytis cinerea*", "*Fusarium poae*", "*Rhizopus stolonifer*"], "a": 0, "r": {"p": 371}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Why is mouldiness on raw peanuts no guarantee you'll notice it later?", "c": ["Processing into peanut butter hides it", "Mould disappears in storage", "Peanuts are never mouldy", "Roasting removes it completely"], "a": 0, "r": {"p": 365}},
+    {"s": 0, "q": "Most food spoilage problems in North America now occur:", "c": ["During transport and storage", "In the field", "In the kitchen", "At the table"], "a": 0, "r": {"p": 366}},
+    {"s": 0, "q": "Strictly saprobic storage fungi often have unusual abilities such as:", "c": ["Growing at low temperatures (psychrotolerance)", "Photosynthesis", "Nitrogen fixation", "Producing flagella"], "a": 0, "r": {"p": 366}},
+    {"s": 0, "q": "What naturally protects inner food tissues from spoilage for extended periods?", "c": ["Fruit skins, grain husks, and nut shells", "Salt", "Light", "Wax added by farmers"], "a": 0, "r": {"p": 366}},
+    {"s": 1, "q": "Which thermotolerant moulds can grow at 55°C–60°C?", "c": ["Species of *Aspergillus*, *Humicola*, and *Paecilomyces*", "*Botrytis*", "*Monilia*", "*Rhizopus stolonifer*"], "a": 0, "r": {"p": 367}},
+    {"s": 2, "q": "*Wallemia sebi*, which grows on salt fish, tolerates a water activity of:", "c": ["0.75", "0.95", "0.62", "0.99"], "a": 0, "r": {"p": 367}},
+    {"s": 2, "q": "*Chrysosporium fastidium* spoils which food in Australia?", "c": ["Dried prunes", "Salt fish", "Bread", "Cheese"], "a": 0, "r": {"p": 368}},
+    {"s": 2, "q": "Lactic acid preservation occurs naturally in sauerkraut, dill pickles, and:", "c": ["Green olives", "Jam", "Bread", "Wine"], "a": 0, "r": {"p": 368}},
+    {"s": 2, "q": "*Fusarium oxysporum* growth is much curtailed only when oxygen falls to:", "c": ["0.2%", "10%", "1%", "5%"], "a": 0, "r": {"p": 369}},
+    {"s": 3, "q": "Rice stained yellow by which fungi often contains mycotoxins?", "c": ["*Penicillium citrinum* and *P. islandicum*", "*Aspergillus niger*", "*Rhizopus*", "*Botrytis*"], "a": 0, "r": {"p": 369}},
+    {"s": 3, "q": "Barley is often contaminated with ochratoxin produced by:", "c": ["*Penicillium verrucosum* var. *verrucosum*", "*Aspergillus flavus*", "*Fusarium graminearum*", "*Wallemia*"], "a": 0, "r": {"p": 369}},
+    {"s": 3, "q": "Apricots and peaches for drying are treated with sulphur dioxide, which preserves colour and:", "c": ["Prevents fungal spoilage", "Adds sweetness", "Softens them", "Removes water"], "a": 0, "r": {"p": 370}},
+    {"s": 3, "q": "Thermotolerant *Byssochlamys* sometimes spoils canned strawberries and juices; in culture it develops anamorphs in:", "c": ["*Paecilomyces*", "*Penicillium*", "*Aspergillus*", "*Monilia*"], "a": 0, "r": {"p": 370}}
+  ],
+  "review": [
+    {"s": 0, "q": "Kendrick sealed his jam with a thin layer of:", "c": ["Melted paraffin wax", "Sugar", "Salt", "Vinegar"], "a": 0, "r": {"p": 365}},
+    {"s": 0, "q": "Kendrick notes that criteria for food acceptability are strongly affected by:", "c": ["Cultural or economic conditioning", "Genetics", "Weather", "Age only"], "a": 0, "r": {"p": 365}},
+    {"s": 1, "q": "Some environmentalists condemned irradiation, ostensibly because it reduces vitamins and produces:", "c": ["Free radicals", "Radioactivity in food", "Mycotoxins", "Heat"], "a": 0, "r": {"p": 367}},
+    {"s": 2, "q": "Most microorganisms can grow only above a water activity of:", "c": ["0.95", "0.65", "0.75", "0.50"], "a": 0, "r": {"p": 367}},
+    {"s": 2, "q": "*Cladosporium herbarum* can grow at temperatures as low as:", "c": ["–5°C", "4°C", "–18°C", "10°C"], "a": 0, "r": {"p": 368}},
+    {"s": 2, "q": "GRAS food additives are those:", "c": ["Generally regarded as safe", "Grown and refined at source", "Government-registered antifungal substances", "Graded by risk and safety"], "a": 0, "r": {"p": 368}},
+    {"s": 3, "q": "Corn and winter wheat in the field are threatened by *Fusarium graminearum*, the source of:", "c": ["Vomitoxin", "Aflatoxin", "Patulin", "Citreoviridin"], "a": 0, "r": {"p": 369}},
+    {"s": 3, "q": "Moist-pack prunes, with a water activity of 0.80–0.85, are protected from xerotolerant moulds by:", "c": ["Sorbic or benzoic acid", "Refrigeration only", "Irradiation", "Heat"], "a": 0, "r": {"p": 370}}
+  ]
+}

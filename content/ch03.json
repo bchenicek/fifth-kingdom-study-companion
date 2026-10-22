@@ -1,0 +1,908 @@
+{
+ "n": 3,
+ "title": "Eumycotan Fungi—the Mainstream and Others: Zygomycota, Glomeromycota, Microsporidia",
+ "pages": [
+  38,
+  54
+ ],
+ "sections": [
+  {
+   "title": "Introduction: Why Fungi Succeed",
+   "pages": [
+    38,
+    43
+   ],
+   "questions": [
+    {
+     "q": "What does the absence of motile cells from most eumycotan life cycles suggest?",
+     "c": [
+      "Most true fungi are basically terrestrial and have been for a long time",
+      "They evolved from Oomycota",
+      "They live mainly in salt water",
+      "They lost their spores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 39
+     }
+    },
+    {
+     "q": "True fungi that live in water are described as:",
+     "c": [
+      "Secondarily adapted to aquatic habitats",
+      "The most primitive living fungi",
+      "Descended from brown algae",
+      "Always flagellate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 39
+     }
+    },
+    {
+     "q": "Which tough substance found in wood does Kendrick list as nourishing many fungi but being unavailable to almost all animals?",
+     "c": [
+      "Lignin",
+      "Starch",
+      "Glycogen",
+      "Sucrose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 39
+     }
+    },
+    {
+     "q": "According to Kendrick, what are the two major reasons for fungal success?",
+     "c": [
+      "The spore and the hypha",
+      "Chitin and cellulose",
+      "Flagella and sexual reproduction",
+      "Mycotoxins and antibiotics"
+     ],
+     "a": 0,
+     "r": {
+      "p": 40
+     }
+    },
+    {
+     "q": "Fungal spores can occur at 10,000 or more per cubic metre of air.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 41
+     }
+    },
+    {
+     "q": "How many hyphal tips are in the illustrated young colony from a single spore?",
+     "c": [
+      "388",
+      "176",
+      "294",
+      "502"
+     ],
+     "a": 0,
+     "r": {
+      "p": 41
+     }
+    },
+    {
+     "q": "Where does all growth in length of a hypha take place?",
+     "c": [
+      "At the hyphal tip",
+      "Evenly along the whole hypha",
+      "At the septa",
+      "At the base near the spore"
+     ],
+     "a": 0,
+     "r": {
+      "p": 42
+     }
+    },
+    {
+     "q": "What is the lowest water activity at which some xerotolerant moulds can grow?",
+     "c": [
+      "0.65",
+      "0.98",
+      "0.20",
+      "0.90"
+     ],
+     "a": 0,
+     "r": {
+      "p": 42
+     }
+    },
+    {
+     "q": "Which temperature range does Kendrick give for fungal growth?",
+     "c": [
+      "From about –5°C to 60°C",
+      "From 0°C to 37°C",
+      "From 10°C to 45°C",
+      "From –20°C to 100°C"
+     ],
+     "a": 0,
+     "r": {
+      "p": 42
+     }
+    },
+    {
+     "q": "Fungal metabolites that contaminate food and can be carcinogenic are called:",
+     "c": [
+      "Mycotoxins",
+      "Antibiotics",
+      "Immunosuppressants",
+      "Pheromones"
+     ],
+     "a": 0,
+     "r": {
+      "p": 42
+     }
+    }
+   ]
+  },
+  {
+   "title": "Phylum 4: Zygomycota",
+   "pages": [
+    43,
+    52
+   ],
+   "questions": [
+    {
+     "q": "Where does the name 'Zygomycota' come from?",
+     "c": [
+      "'Zygos', Greek for a yoke or joining, referring to fusion of gametangia",
+      "Zygotes that swim",
+      "The zig-zag growth of hyphae",
+      "The name of the mycologist Zygo"
+     ],
+     "a": 0,
+     "r": {
+      "p": 43
+     }
+    },
+    {
+     "q": "Why are compatible *Phycomyces* mycelia labelled '+' and '–' rather than male and female?",
+     "c": [
+      "Their gametangia show no sexual differentiation in size or shape",
+      "One of them is always diploid",
+      "Only one produces gametangia",
+      "They are different species"
+     ],
+     "a": 0,
+     "r": {
+      "p": 43
+     }
+    },
+    {
+     "q": "After a zygosporangium forms, the former gametangia supporting it are called:",
+     "c": [
+      "Suspensors",
+      "Columellae",
+      "Sporangiophores",
+      "Sporocladia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 43
+     }
+    },
+    {
+     "q": "The nuclei in the somatic hyphae of zygomycetes are diploid.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 46
+     }
+    },
+    {
+     "q": "What is the 'trademark' structure of the Mucorales?",
+     "c": [
+      "A columella protruding into the sporangium",
+      "A coiled sporangiophore",
+      "A sticky mitosporangium shot from a fly",
+      "A subsporangial retina"
+     ],
+     "a": 0,
+     "r": {
+      "p": 47,
+      "h": "Order Mucorales"
+     }
+    },
+    {
+     "q": "Which genus represents the end of the reduction trend, with only one spore per mitosporangium?",
+     "c": [
+      "*Cunninghamella*",
+      "*Thamnidium*",
+      "*Helicostylum*",
+      "*Blakeslea*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 47,
+      "h": "Order Mucorales"
+     }
+    },
+    {
+     "q": "When a *Rhizopus stolonifer* zygosporangium germinates, it produces:",
+     "c": [
+      "A mitosporangium",
+      "A germ tube",
+      "Biflagellate zoospores",
+      "An ascus"
+     ],
+     "a": 0,
+     "r": {
+      "p": 48
+     }
+    },
+    {
+     "q": "Why do zygomycete teleomorphs look similar while anamorphs are wildly diverse?",
+     "c": [
+      "Teleomorphs serve long-term survival; anamorphs serve dispersal, which can be achieved in many ways",
+      "Teleomorphs evolve faster than anamorphs",
+      "Anamorphs are formed only by parasites",
+      "Teleomorphs are made only in culture"
+     ],
+     "a": 0,
+     "r": {
+      "p": 49
+     }
+    },
+    {
+     "q": "What aims the *Pilobolus* sporangiophore toward light?",
+     "c": [
+      "A light-sensitive 'retina' at the base of the subsporangial vesicle",
+      "Gravity sensors in the columella",
+      "Flagella on the sporangium",
+      "Chemical signals from dung"
+     ],
+     "a": 0,
+     "r": {
+      "p": 49
+     }
+    },
+    {
+     "q": "How far can *Pilobolus* throw its sporangium?",
+     "c": [
+      "Up to 2 metres",
+      "Up to 2 centimetres",
+      "Up to 20 metres",
+      "About 10 centimetres"
+     ],
+     "a": 0,
+     "r": {
+      "p": 49
+     }
+    },
+    {
+     "q": "Mortierellales resemble Mucorales but differ in that their asexual sporangia:",
+     "c": [
+      "Lack a columella",
+      "Contain only one spore",
+      "Are shot away explosively",
+      "Are always coiled"
+     ],
+     "a": 0,
+     "r": {
+      "p": 49
+     }
+    },
+    {
+     "q": "Why does Kendrick think *Spirodactylon* evolved coiled sporangiophores?",
+     "c": [
+      "To tangle in the hair of rats and mice, which may ingest the spores while grooming",
+      "To protect spores from UV light",
+      "To float on water",
+      "To trap nematodes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 50,
+      "h": "Order Kickxellales"
+     }
+    },
+    {
+     "q": "Harpellales and Asellariales live mainly:",
+     "c": [
+      "Attached to the gut lining of living arthropods",
+      "On horse dung",
+      "Inside plant roots",
+      "In the rumen of cattle"
+     ],
+     "a": 0,
+     "r": {
+      "p": 50
+     }
+    },
+    {
+     "q": "*Entomophthora muscae* infects and kills:",
+     "c": [
+      "Houseflies",
+      "Mosquito larvae",
+      "Nematodes",
+      "Bees"
+     ],
+     "a": 0,
+     "r": {
+      "p": 52,
+      "h": "Subphylum 3 Entomophthoromycotina"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Phylum 5: Glomeromycota",
+   "pages": [
+    52,
+    53
+   ],
+   "questions": [
+    {
+     "q": "What kind of symbiosis do Glomeromycota form?",
+     "c": [
+      "Arbuscular (endo-) mycorrhizas",
+      "Ectomycorrhizas",
+      "Lichens",
+      "Gut commensalism"
+     ],
+     "a": 0,
+     "r": {
+      "p": 52
+     }
+    },
+    {
+     "q": "Roughly what share of higher plants do they associate with?",
+     "c": [
+      "Perhaps 90%",
+      "About 10%",
+      "About 50%",
+      "Only conifers"
+     ],
+     "a": 0,
+     "r": {
+      "p": 52
+     }
+    },
+    {
+     "q": "AM fungi grow readily in axenic (pure) culture.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 52
+     }
+    },
+    {
+     "q": "What do AM fungi chiefly give the plant across the arbuscule, in exchange for sugars?",
+     "c": [
+      "Mineral nutrients, especially phosphorus",
+      "Nitrogen fixed from the air",
+      "Water only",
+      "Antibiotics"
+     ],
+     "a": 0,
+     "r": {
+      "p": 52
+     }
+    },
+    {
+     "q": "Lipid-filled structures produced inside roots by many Glomeromycota are called:",
+     "c": [
+      "Vesicles (intramatrical spores)",
+      "Arbuscules",
+      "Columellae",
+      "Zygosporangia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 53
+     }
+    }
+   ]
+  },
+  {
+   "title": "Phylum 6: Microsporidia",
+   "pages": [
+    53,
+    53
+   ],
+   "questions": [
+    {
+     "q": "Microsporidia are:",
+     "c": [
+      "Intracellular parasites of animals",
+      "Free-living soil saprobes",
+      "Mycorrhizal partners of plants",
+      "Parasites of pollen grains"
+     ],
+     "a": 0,
+     "r": {
+      "p": 53
+     }
+    },
+    {
+     "q": "Microsporidia have no mitochondria or flagella.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 53
+     }
+    },
+    {
+     "q": "How do Microsporidia mostly reproduce?",
+     "c": [
+      "By forming extremely resistant spores",
+      "By zoospores",
+      "By zygosporangia",
+      "By budding yeast cells"
+     ],
+     "a": 0,
+     "r": {
+      "p": 53
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "In 1990, Kendrick and Castañeda described fourteen new genera of moulds from dead leaves collected where?",
+   "c": [
+    "Cuban rainforest",
+    "Vancouver Island",
+    "Costa Rica",
+    "The Great Smoky Mountains"
+   ],
+   "a": 0,
+   "r": {
+    "p": 39
+   }
+  },
+  {
+   "s": 0,
+   "q": "Which human-made materials are, according to Kendrick, mostly immune to fungal attack?",
+   "c": [
+    "Plastics",
+    "Paints",
+    "Fabrics",
+    "Paper"
+   ],
+   "a": 0,
+   "r": {
+    "p": 39
+   }
+  },
+  {
+   "s": 0,
+   "q": "Desiccation means:",
+   "c": [
+    "Drying out",
+    "Freezing",
+    "Starvation",
+    "Exposure to light"
+   ],
+   "a": 0,
+   "r": {
+    "p": 41
+   }
+  },
+  {
+   "s": 0,
+   "q": "In the electron micrograph of a hyphal tip, what concentrates right at the tip?",
+   "c": [
+    "Vesicles containing wall material or enzymes",
+    "Mitochondria",
+    "Nuclei",
+    "Septa"
+   ],
+   "a": 0,
+   "r": {
+    "p": 42
+   }
+  },
+  {
+   "s": 0,
+   "q": "Some moulds can grow in oxygen concentrations as low as:",
+   "c": [
+    "0.2%",
+    "2%",
+    "10%",
+    "20%"
+   ],
+   "a": 0,
+   "r": {
+    "p": 42
+   }
+  },
+  {
+   "s": 1,
+   "q": "The subphylum Mucoromycotina contains roughly what share of known fungal species?",
+   "c": [
+    "About 1%",
+    "About 10%",
+    "About 25%",
+    "About half"
+   ],
+   "a": 0,
+   "r": {
+    "p": 43
+   }
+  },
+  {
+   "s": 1,
+   "q": "Zygomycota is regarded as monophyletic.",
+   "c": [
+    "True",
+    "False"
+   ],
+   "a": 1,
+   "r": {
+    "p": 43
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which homothallic genus does Kendrick sometimes find producing zygosporangia on over-mature wild mushrooms?",
+   "c": [
+    "*Syzygites*",
+    "*Pilobolus*",
+    "*Coemansia*",
+    "*Mucor*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 43
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Thamnidium elegans* 'compromises' by producing:",
+   "c": [
+    "One large columellate sporangium plus many tiny few-spored sporangioles",
+    "Only one-spored sporangia",
+    "Sporangia with no columella at all",
+    "Zygosporangia but no sporangia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 47
+   }
+  },
+  {
+   "s": 1,
+   "q": "How many spores are in each sporangium of *Blakeslea trispora*?",
+   "c": [
+    "Three",
+    "One",
+    "Ten to twenty",
+    "Hundreds"
+   ],
+   "a": 0,
+   "r": {
+    "p": 47
+   }
+  },
+  {
+   "s": 1,
+   "q": "The hydrostatic pressure that fires the *Pilobolus* sporangium exceeds about:",
+   "c": [
+    "100 pounds per square inch (7 kg/cm²)",
+    "10 pounds per square inch",
+    "1,000 pounds per square inch",
+    "1 pound per square inch"
+   ],
+   "a": 0,
+   "r": {
+    "p": 49
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which order includes fungi that form mycorrhizas and pea-sized sporocarps full of zygosporangia?",
+   "c": [
+    "Endogonales",
+    "Mortierellales",
+    "Kickxellales",
+    "Zoopagales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 49
+   }
+  },
+  {
+   "s": 1,
+   "q": "Unlike most zygomycetes, members of the Kickxellales often have:",
+   "c": [
+    "Regularly septate hyphae",
+    "Flagellate spores",
+    "Diploid hyphae",
+    "Cellulose walls"
+   ],
+   "a": 0,
+   "r": {
+    "p": 50
+   }
+  },
+  {
+   "s": 1,
+   "q": "In *Coemansia*, the one-spored sporangioles arise from cells called:",
+   "c": [
+    "Pseudophialides",
+    "Columellae",
+    "Suspensors",
+    "Arbuscules"
+   ],
+   "a": 0,
+   "r": {
+    "p": 50
+   }
+  },
+  {
+   "s": 1,
+   "q": "The 'Trichomycetes' are now regarded as:",
+   "c": [
+    "A polyphyletic group defined ecologically",
+    "A single monophyletic class of Zygomycota",
+    "A subphylum of Ascomycota",
+    "A synonym of Microsporidia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 50
+   }
+  },
+  {
+   "s": 1,
+   "q": "Flies killed by *Entomophthora* on a window leave what behind on the glass?",
+   "c": [
+    "A whitish halo of discharged mitosporangia",
+    "A black sooty stain",
+    "Coiled sporangiophores",
+    "Dried zygosporangia only"
+   ],
+   "a": 0,
+   "r": {
+    "p": 52
+   }
+  },
+  {
+   "s": 1,
+   "q": "Most Zoopagales are parasites or predators of:",
+   "c": [
+    "Microscopic organisms such as amoebae",
+    "Houseflies",
+    "Plant roots",
+    "Fish"
+   ],
+   "a": 0,
+   "r": {
+    "p": 52
+   }
+  },
+  {
+   "s": 2,
+   "q": "AM fungal resting spores can be up to about how large?",
+   "c": [
+    "600 microns",
+    "6 microns",
+    "60 microns",
+    "6 millimetres"
+   ],
+   "a": 0,
+   "r": {
+    "p": 52
+   }
+  },
+  {
+   "s": 2,
+   "q": "Molecular evidence suggests the Glomeromycota are most closely related to:",
+   "c": [
+    "Ascomycota and Basidiomycota",
+    "Chytridiomycota",
+    "Oomycota",
+    "Microsporidia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 53
+   }
+  },
+  {
+   "s": 3,
+   "q": "Which is the best-known microsporidian genus?",
+   "c": [
+    "*Nosema*",
+    "*Entomophthora*",
+    "*Smittium*",
+    "*Basidiobolus*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 53
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "Which tough animal substance in skin, hair, horn, and feathers nourishes some fungi?",
+   "c": [
+    "Keratin",
+    "Lignin",
+    "Cellulose",
+    "Chitin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 39
+   }
+  },
+  {
+   "s": 0,
+   "q": "Why are fungi better suited than bacteria to penetrating solid substrates?",
+   "c": [
+    "Strong branching hyphae with tip enzymes and hydrostatic pressure",
+    "They are smaller",
+    "They swim",
+    "They photosynthesize"
+   ],
+   "a": 0,
+   "r": {
+    "p": 41
+   }
+  },
+  {
+   "s": 0,
+   "q": "Most plants wilt permanently at a water activity of about:",
+   "c": [
+    "0.98",
+    "0.65",
+    "0.80",
+    "0.50"
+   ],
+   "a": 0,
+   "r": {
+    "p": 42
+   }
+  },
+  {
+   "s": 0,
+   "q": "Some fungi can grow at extremely acid conditions as low as pH:",
+   "c": [
+    "1",
+    "4",
+    "6",
+    "0.1"
+   ],
+   "a": 0,
+   "r": {
+    "p": 42
+   }
+  },
+  {
+   "s": 1,
+   "q": "In *Phycomyces*, before fusion, compatible hyphae develop finger-like outgrowths that seem to:",
+   "c": [
+    "Exchange chemical signals confirming compatibility",
+    "Shoot spores",
+    "Absorb food",
+    "Form clamps"
+   ],
+   "a": 0,
+   "r": {
+    "p": 43
+   }
+  },
+  {
+   "s": 1,
+   "q": "The common bread mould is:",
+   "c": [
+    "*Rhizopus stolonifer*",
+    "*Pilobolus crystallinus*",
+    "*Entomophthora muscae*",
+    "*Coemansia*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 46
+   }
+  },
+  {
+   "s": 1,
+   "q": "Roughly how many species are in the order Mucorales?",
+   "c": [
+    "About 300",
+    "About 30",
+    "About 3,000",
+    "About 100"
+   ],
+   "a": 0,
+   "r": {
+    "p": 46
+   }
+  },
+  {
+   "s": 1,
+   "q": "How tall are the unbranched sporangiophores of *Pilobolus*?",
+   "c": [
+    "2–4 cm",
+    "2–4 mm",
+    "20–40 cm",
+    "Under 1 mm"
+   ],
+   "a": 0,
+   "r": {
+    "p": 49
+   }
+  },
+  {
+   "s": 1,
+   "q": "Of almost 100 species in the Mortierellales, about how many are in *Mortierella*?",
+   "c": [
+    "90",
+    "10",
+    "50",
+    "100"
+   ],
+   "a": 0,
+   "r": {
+    "p": 49
+   }
+  },
+  {
+   "s": 1,
+   "q": "Kendrick found *Coemansia* on dung from:",
+   "c": [
+    "Bats in a cave",
+    "Horses in a field",
+    "Mice in a barn",
+    "Deer in a forest"
+   ],
+   "a": 0,
+   "r": {
+    "p": 50
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Basidiobolus* and *Conidiobolus* are notable because they:",
+   "c": [
+    "Cause serious animal, including human, diseases",
+    "Form mycorrhizas",
+    "Are edible",
+    "Produce penicillin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 52
+   }
+  },
+  {
+   "s": 2,
+   "q": "Glomeromycota were placed in the Zygomycota only tentatively because:",
+   "c": [
+    "The only genus forming zygosporangia belongs elsewhere",
+    "They have flagella",
+    "They form asci",
+    "They are photosynthetic"
+   ],
+   "a": 0,
+   "r": {
+    "p": 52
+   }
+  }
+ ]
+}

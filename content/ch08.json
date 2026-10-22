@@ -1,0 +1,1125 @@
+{
+ "n": 8,
+ "title": "Spore Dispersal in Fungi—Airborne Spores and Allergy",
+ "pages": [
+  156,
+  174
+ ],
+ "sections": [
+  {
+   "title": "Introduction and Chemotaxis—Swim for It!",
+   "pages": [
+    156,
+    157
+   ],
+   "questions": [
+    {
+     "q": "Kendrick says the main reason for fungal success he underplayed earlier is:",
+     "c": [
+      "Their ability to produce and disperse vast numbers of specialized spores",
+      "Their chitinous walls",
+      "Their ability to photosynthesize",
+      "Their large fruit bodies"
+     ],
+     "a": 0,
+     "r": {
+      "p": 156,
+      "h": "Introduction"
+     }
+    },
+    {
+     "q": "Which three phyla are basically aquatic, with flagellate spores?",
+     "c": [
+      "Chytridiomycota, Hyphochytriomycota, Oomycota",
+      "Zygomycota, Ascomycota, Basidiomycota",
+      "Glomeromycota, Microsporidia, Chytridiomycota",
+      "Oomycota, Zygomycota, Glomeromycota"
+     ],
+     "a": 0,
+     "r": {
+      "p": 156,
+      "h": "Chemotaxis"
+     }
+    },
+    {
+     "q": "How do *Pythium* and *Phytophthora* zoospores find host roots?",
+     "c": [
+      "By swimming up gradients of sugars and other chemicals leaking from roots",
+      "By random searching only",
+      "By sensing light",
+      "By following water currents"
+     ],
+     "a": 0,
+     "r": {
+      "p": 156
+     }
+    },
+    {
+     "q": "Some chytrids attacking nematodes swim toward substances from the worms' bodily orifices. This is called chemotaxis.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 157
+     }
+    }
+   ]
+  },
+  {
+   "title": "Airborne Sporangia and Zygomycete Sporangiospores",
+   "pages": [
+    157,
+    160
+   ],
+   "questions": [
+    {
+     "q": "Which two new structures evolved in oomycetes that parasitize aerial plant parts?",
+     "c": [
+      "The aerial sporangiophore and the detachable, wind-dispersed sporangium",
+      "Flagella and oospores",
+      "Zygosporangia and suspensors",
+      "Asci and ascomata"
+     ],
+     "a": 0,
+     "r": {
+      "p": 157,
+      "h": "Airborne Sporangia"
+     }
+    },
+    {
+     "q": "In the most highly evolved Peronosporaceae, airborne sporangia landing on a host:",
+     "c": [
+      "Produce a germ tube instead of zoospores",
+      "Release biflagellate zoospores",
+      "Form oospores",
+      "Remain dormant until winter"
+     ],
+     "a": 0,
+     "r": {
+      "p": 157
+     }
+    },
+    {
+     "q": "Human commerce carried *Phytophthora infestans* to Europe in which year?",
+     "c": [
+      "1845",
+      "1843",
+      "1870",
+      "1930"
+     ],
+     "a": 0,
+     "r": {
+      "p": 157
+     }
+    },
+    {
+     "q": "The antler-like suspensor outgrowths of *Phycomyces blakesleeanus* zygosporangia act as:",
+     "c": [
+      "A 'microburr' that passing arthropods may carry away",
+      "A spore-shooting device",
+      "A float on water",
+      "A light sensor"
+     ],
+     "a": 0,
+     "r": {
+      "p": 157
+     }
+    },
+    {
+     "q": "*Rhizopus stolonifer* sporangia release spores that are:",
+     "c": [
+      "Dry and wind-dispersed",
+      "In a slimy drop for animal vectors",
+      "Violently discharged",
+      "Flagellate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 159
+     }
+    },
+    {
+     "q": "*Pilobolus*'s subsporangial vesicle ruptures at an internal pressure of about:",
+     "c": [
+      "7 atmospheres",
+      "1 atmosphere",
+      "70 atmospheres",
+      "0.7 atmospheres"
+     ],
+     "a": 0,
+     "r": {
+      "p": 159
+     }
+    },
+    {
+     "q": "Small mitosporangia containing a row of spores, as in *Syncephalis* and *Piptocephalis*, are called:",
+     "c": [
+      "Merosporangia",
+      "Sporangioles",
+      "Columellae",
+      "Zygosporangia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 159
+     }
+    },
+    {
+     "q": "How does a one-spored zygomycete sporangium differ from a dikaryan conidium?",
+     "c": [
+      "It has a separate outer sporangial wall and inner spore wall",
+      "It is always flagellate",
+      "It is produced by meiosis",
+      "It is larger than a millimetre"
+     ],
+     "a": 0,
+     "r": {
+      "p": 159
+     }
+    },
+    {
+     "q": "In *Basidiobolus*, the spore flies off with part of the sporangiophore attached, which falls away in flight like:",
+     "c": [
+      "A two-stage rocket",
+      "A parachute",
+      "A boomerang",
+      "A glider"
+     ],
+     "a": 0,
+     "r": {
+      "p": 160
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ascospores—Shot or Not",
+   "pages": [
+    161,
+    164
+   ],
+   "questions": [
+    {
+     "q": "What is 'puffing' in apothecial ascomata?",
+     "c": [
+      "Thousands of asci discharging at once after a sudden humidity change",
+      "The ascoma inflating with gas",
+      "Spores released by rain impact",
+      "A disease of cup fungi"
+     ],
+     "a": 0,
+     "r": {
+      "p": 161
+     }
+    },
+    {
+     "q": "Why does puffing carry spores farther than individual discharge?",
+     "c": [
+      "The many simultaneous jets create a general air movement above the hymenium",
+      "The spores are larger",
+      "The asci are longer",
+      "The spores are electrically charged"
+     ],
+     "a": 0,
+     "r": {
+      "p": 161
+     }
+    },
+    {
+     "q": "In ostiolate ascomata, asci must take turns firing because each must:",
+     "c": [
+      "Stretch up the neck of the ascoma to the ostiole",
+      "Wait for the operculum to grow",
+      "Dry out completely",
+      "Be pushed out by the next ascus"
+     ],
+     "a": 0,
+     "r": {
+      "p": 161
+     }
+    },
+    {
+     "q": "*Podospora fimicola* shoots all eight of its large spores at once, achieving a range of:",
+     "c": [
+      "50 centimetres",
+      "5 centimetres",
+      "2 metres",
+      "5 millimetres"
+     ],
+     "a": 0,
+     "r": {
+      "p": 162
+     }
+    },
+    {
+     "q": "According to mycologists, when is the ascus shooting mechanism lost?",
+     "c": [
+      "Only where it has become useless, as in cryptic habitats under bark or underground",
+      "Randomly through mutation",
+      "Whenever the fungus becomes a parasite",
+      "Only in yeasts"
+     ],
+     "a": 0,
+     "r": {
+      "p": 162
+     }
+    },
+    {
+     "q": "Why were female pigs so keen on finding truffles?",
+     "c": [
+      "Truffles emit a chemical that sows otherwise encounter from rutting boars",
+      "Truffles are their natural food",
+      "Truffles contain sugar",
+      "Pigs were trained with rewards"
+     ],
+     "a": 0,
+     "r": {
+      "p": 162
+     }
+    },
+    {
+     "q": "*Chaetomium* asci break down and the spores ooze out in mucilage. They are likely dispersed by:",
+     "c": [
+      "Arthropods or rain",
+      "Wind only",
+      "Explosive discharge",
+      "Mammals digging them up"
+     ],
+     "a": 0,
+     "r": {
+      "p": 162
+     }
+    },
+    {
+     "q": "Dutch elm disease was first found in North America in Ohio in:",
+     "c": [
+      "1930",
+      "1946",
+      "1975",
+      "1845"
+     ],
+     "a": 0,
+     "r": {
+      "p": 162
+     }
+    },
+    {
+     "q": "Powdery mildew of grapes (*Uncinula necator*) was introduced to England in 1845 and spread through Mediterranean wine countries by:",
+     "c": [
+      "1851–1852",
+      "1846",
+      "1870",
+      "1900"
+     ],
+     "a": 0,
+     "r": {
+      "p": 164
+     }
+    }
+   ]
+  },
+  {
+   "title": "Basidiospores—A Gentle Rain (But Not from Heaven)",
+   "pages": [
+    164,
+    168
+   ],
+   "questions": [
+    {
+     "q": "How far are basidiospores typically projected?",
+     "c": [
+      "0.005–0.1 centimetres",
+      "1–50 centimetres",
+      "1–2 metres",
+      "Up to 7 metres"
+     ],
+     "a": 0,
+     "r": {
+      "p": 164
+     }
+    },
+    {
+     "q": "Why must agaric basidiospores be launched so delicately?",
+     "c": [
+      "A longer shot would hit the adjacent gill and stick there",
+      "Strong shots would damage the basidium",
+      "Spores need to stay on the gill to mature",
+      "The cap blocks long shots upward"
+     ],
+     "a": 0,
+     "r": {
+      "p": 164
+     }
+    },
+    {
+     "q": "As a gill grows downward, the developing mushroom is described as:",
+     "c": [
+      "Positively geotropic",
+      "Negatively geotropic",
+      "Diageotropic",
+      "Phototropic"
+     ],
+     "a": 0,
+     "r": {
+      "p": 164
+     }
+    },
+    {
+     "q": "Kendrick calls agarics 'biological umbrellas' because:",
+     "c": [
+      "Wet hymenia stop shooting spores, so the cap keeps them dry",
+      "They catch rain to disperse spores",
+      "They shade the mycelium",
+      "They store water"
+     ],
+     "a": 0,
+     "r": {
+      "p": 165
+     }
+    },
+    {
+     "q": "In *Coprinus comatus*, why does the gill tissue autolyze from the bottom edge upward?",
+     "c": [
+      "To expose successive bands of basidia so they can shoot their spores",
+      "To release a toxin",
+      "Because of bacterial rot",
+      "To make the mushroom fall over"
+     ],
+     "a": 0,
+     "r": {
+      "p": 165
+     }
+    },
+    {
+     "q": "If basidiospores sit symmetrically on their sterigmata, those spores will not be actively shot away.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 165
+     }
+    },
+    {
+     "q": "Sequestrate forms have arisen independently in how many agaric families?",
+     "c": [
+      "At least fourteen",
+      "Two",
+      "Five",
+      "About a hundred"
+     ],
+     "a": 0,
+     "r": {
+      "p": 167
+     }
+    },
+    {
+     "q": "How do raindrops help puffballs disperse spores?",
+     "c": [
+      "They dimple the papery peridium, puffing spores out the opening",
+      "They wash spores into streams",
+      "They split the puffball open",
+      "They carry spores on splashes from gills"
+     ],
+     "a": 0,
+     "r": {
+      "p": 167
+     }
+    },
+    {
+     "q": "*Sphaerobolus stellatus*, only 2 mm across, can throw its gleba up to:",
+     "c": [
+      "7 metres",
+      "7 centimetres",
+      "70 centimetres",
+      "70 metres"
+     ],
+     "a": 0,
+     "r": {
+      "p": 167
+     }
+    },
+    {
+     "q": "How does a *Phallus* stinkhorn get its spores dispersed?",
+     "c": [
+      "Flies gorge on the foul-smelling slime and carry spores away on their feet",
+      "The spores are shot from basidia",
+      "Rain splashes the slime",
+      "Rodents eat the egg"
+     ],
+     "a": 0,
+     "r": {
+      "p": 167
+     }
+    }
+   ]
+  },
+  {
+   "title": "Airborne Spores and Health (and Identifying Them)",
+   "pages": [
+    168,
+    172
+   ],
+   "questions": [
+    {
+     "q": "One specimen of *Ganoderma applanatum* can discharge how many spores per day?",
+     "c": [
+      "30 billion",
+      "30 million",
+      "30,000",
+      "3 trillion"
+     ],
+     "a": 0,
+     "r": {
+      "p": 168
+     }
+    },
+    {
+     "q": "About what share of the population is atopic and easily sensitized by normal spore levels?",
+     "c": [
+      "20%",
+      "2%",
+      "50%",
+      "80%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 168,
+      "h": "Fungal Allergies"
+     }
+    },
+    {
+     "q": "'Farmer's lung' is caused by repeated exposure to spores from:",
+     "c": [
+      "Mouldy hay",
+      "Fresh grain",
+      "Mushrooms",
+      "Rusts on wheat leaves"
+     ],
+     "a": 0,
+     "r": {
+      "p": 169
+     }
+    },
+    {
+     "q": "Which stage of farmer's lung is more serious, causing degenerative airway changes?",
+     "c": [
+      "The chronic stage, seen in silo and mill workers",
+      "The acute stage, seen in harvesters",
+      "Both are equally mild",
+      "Neither causes lasting damage"
+     ],
+     "a": 0,
+     "r": {
+      "p": 169
+     }
+    },
+    {
+     "q": "Farmer's lung was first described in which country?",
+     "c": [
+      "Canada",
+      "England",
+      "The United States",
+      "Germany"
+     ],
+     "a": 0,
+     "r": {
+      "p": 169
+     }
+    },
+    {
+     "q": "Why does Kendrick doubt that *Stachybotrys chartarum* in walls causes human illness?",
+     "c": [
+      "Its spores are in slimy droplets and rarely become airborne unless disturbed",
+      "It produces no mycotoxins",
+      "It cannot grow on wallboard",
+      "It is killed by room temperature"
+     ],
+     "a": 0,
+     "r": {
+      "p": 170,
+      "h": "A Cautionary Tale"
+     }
+    },
+    {
+     "q": "What does Kendrick recommend as the best *Stachybotrys* remediation?",
+     "c": [
+      "Prevent water entry and treat colonies with bleach",
+      "Demolish the building",
+      "Seal off the room permanently",
+      "Spray antibiotics"
+     ],
+     "a": 0,
+     "r": {
+      "p": 170
+     }
+    },
+    {
+     "q": "Which spore-sampling approach detects the widest range of taxa?",
+     "c": [
+      "Nonviable (impaction onto a slide)",
+      "Viable (culturing on agar)",
+      "Settle plates of nutrient broth",
+      "DNA swabs of surfaces"
+     ],
+     "a": 0,
+     "r": {
+      "p": 171,
+      "h": "Spore Sampling and Counting"
+     }
+    },
+    {
+     "q": "Which genus makes up an average of about 33% of air spore counts worldwide?",
+     "c": [
+      "*Cladosporium*",
+      "*Alternaria*",
+      "*Aspergillus*",
+      "*Penicillium*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 171
+     }
+    },
+    {
+     "q": "*Sporobolomyces* spore counts peak at what time of day?",
+     "c": [
+      "During the night",
+      "Around midday",
+      "At dawn only",
+      "In the late afternoon"
+     ],
+     "a": 0,
+     "r": {
+      "p": 172
+     }
+    },
+    {
+     "q": "Heavy or prolonged rain tends to:",
+     "c": [
+      "Remove most spores from the air",
+      "Greatly increase spore counts",
+      "Have no effect",
+      "Only increase basidiospores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 172
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "In Hyphochytriomycota, the single flagellum is:",
+   "c": [
+    "Tinsel and forwardly directed",
+    "Whiplash and backwardly directed",
+    "Paired with a whiplash flagellum",
+    "Absent"
+   ],
+   "a": 0,
+   "r": {
+    "p": 156
+   }
+  },
+  {
+   "s": 0,
+   "q": "Zoospores that rely on random searching for substrate have:",
+   "c": [
+    "Poor chances of survival",
+    "Excellent chances of survival",
+    "No need for food",
+    "Guaranteed success in water"
+   ],
+   "a": 0,
+   "r": {
+    "p": 156
+   }
+  },
+  {
+   "s": 1,
+   "q": "In many *Mucor* species, the exposed mucilage of the sporangium swells into:",
+   "c": [
+    "A stalked spore drop, often adapted for small animal vectors",
+    "A dry powder",
+    "A projectile",
+    "A zygosporangium"
+   ],
+   "a": 0,
+   "r": {
+    "p": 159
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Thamnidium* is unusual because its small sporangia are wind-dispersed while its large ones:",
+   "c": [
+    "Remain in place as slimy spore drops",
+    "Are shot away",
+    "Never form",
+    "Become zygosporangia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 159
+   }
+  },
+  {
+   "s": 1,
+   "q": "In some *Entomophthora* and in *Conidiobolus*, the mitosporangium is projected by pressure released between it and:",
+   "c": [
+    "A tiny intrusive columella",
+    "A subsporangial vesicle",
+    "A suspensor",
+    "An apical ring"
+   ],
+   "a": 0,
+   "r": {
+    "p": 160
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Cookeina sulcipes* aims its spores because its ascus lids develop:",
+   "c": [
+    "On the side toward the light",
+    "On the side toward gravity",
+    "On the windward side",
+    "Randomly"
+   ],
+   "a": 0,
+   "r": {
+    "p": 161
+   }
+  },
+  {
+   "s": 2,
+   "q": "Kendrick thinks *Saccobolus* glues its eight spores together because:",
+   "c": [
+    "A larger, heavier projectile carries farther",
+    "Spores must germinate together",
+    "It prevents spores from drying",
+    "It attracts insects"
+   ],
+   "a": 0,
+   "r": {
+    "p": 161
+   }
+  },
+  {
+   "s": 2,
+   "q": "In *Cordyceps militaris*, the ascospores emerge from the ascus:",
+   "c": [
+    "One at a time at about one-second intervals",
+    "All eight together",
+    "In a slimy mass",
+    "Only after the ascus dissolves"
+   ],
+   "a": 0,
+   "r": {
+    "p": 162
+   }
+  },
+  {
+   "s": 2,
+   "q": "Within about fifteen years of its arrival in Quebec, Dutch elm disease had killed how many trees?",
+   "c": [
+    "More than 600,000",
+    "About 6,000",
+    "About 60 million",
+    "Fewer than 1,000"
+   ],
+   "a": 0,
+   "r": {
+    "p": 162
+   }
+  },
+  {
+   "s": 2,
+   "q": "After a *Phyllactinia* ascoma lands upside down, how do its asci end up pointing outward?",
+   "c": [
+    "It splits at the equator and the lower half swings over 180°",
+    "The asci bend around",
+    "The mucilage flips it",
+    "Wind turns it over"
+   ],
+   "a": 0,
+   "r": {
+    "p": 163
+   }
+  },
+  {
+   "s": 3,
+   "q": "Umbrella-shaped basidiomata have evolved repeatedly. Which group is NOT listed as having them?",
+   "c": [
+    "Pezizales",
+    "Cantharellaceae",
+    "Polyporaceae",
+    "Auriculariales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 165
+   }
+  },
+  {
+   "s": 3,
+   "q": "What keeps the closely packed gills of *Coprinus comatus* from touching each other?",
+   "c": [
+    "Large specialized cells called cystidia",
+    "Clamp connections",
+    "Latex",
+    "A partial veil"
+   ],
+   "a": 0,
+   "r": {
+    "p": 165
+   }
+  },
+  {
+   "s": 3,
+   "q": "Sequestrate forms probably arose in response to:",
+   "c": [
+    "Exceptionally dry conditions",
+    "Excess rain",
+    "Insect attack",
+    "Cold winters"
+   ],
+   "a": 0,
+   "r": {
+    "p": 167
+   }
+  },
+  {
+   "s": 3,
+   "q": "The California red-backed vole lives almost exclusively on which basidiomycetous truffle?",
+   "c": [
+    "*Rhizopogon*",
+    "*Tuber*",
+    "*Elaphomyces*",
+    "*Hydnangium*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 167
+   }
+  },
+  {
+   "s": 3,
+   "q": "The 'eggs' of bird's-nest fungi are thrown out when:",
+   "c": [
+    "Raindrops strike the funnel-shaped splash cup",
+    "The cup dries and snaps",
+    "Insects step on them",
+    "Pressure builds inside"
+   ],
+   "a": 0,
+   "r": {
+    "p": 167
+   }
+  },
+  {
+   "s": 4,
+   "q": "A single wheat grain infected with stinking smut can contain how many spores?",
+   "c": [
+    "12 million",
+    "12 thousand",
+    "12 billion",
+    "1,200"
+   ],
+   "a": 0,
+   "r": {
+    "p": 168
+   }
+  },
+  {
+   "s": 4,
+   "q": "Why did scientists start suspecting fungal spores in respiratory allergies?",
+   "c": [
+    "Many allergies persisted in fall and winter, when allergenic pollen is absent",
+    "Pollen was proved harmless",
+    "Fungi produce histamine",
+    "Spores are larger than pollen"
+   ],
+   "a": 0,
+   "r": {
+    "p": 168
+   }
+  },
+  {
+   "s": 4,
+   "q": "Bronchial asthma provoked by fungal spores peaks in which season?",
+   "c": [
+    "Fall, with a lower peak in spring",
+    "Midsummer",
+    "Midwinter",
+    "Spring only"
+   ],
+   "a": 0,
+   "r": {
+    "p": 169
+   }
+  },
+  {
+   "s": 4,
+   "q": "Why can't viable (culturing) methods detect rust and smut spores?",
+   "c": [
+    "They don't germinate on standard culture media",
+    "They are too small",
+    "They are killed by air",
+    "They are always dead"
+   ],
+   "a": 0,
+   "r": {
+    "p": 171
+   }
+  },
+  {
+   "s": 4,
+   "q": "At 2,000 metres altitude, a European study found how many airborne spores compared with below 1,000 metres?",
+   "c": [
+    "One-quarter as many",
+    "Twice as many",
+    "The same",
+    "One-tenth as many"
+   ],
+   "a": 0,
+   "r": {
+    "p": 172
+   }
+  },
+  {
+   "s": 4,
+   "q": "Which book gives the widest coverage of mould spores, according to Kendrick?",
+   "c": [
+    "*The Genera of Hyphomycetes* (Seifert et al. 2011)",
+    "*Mushrooms Demystified*",
+    "*British Ascomycetes*",
+    "*Medical Mycology*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 172,
+    "h": "Identification of Airborne Spores"
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "Kendrick summarizes fungal movement: they cannot walk, but some can swim, most can soar, a few can jump, and some must be:",
+   "c": [
+    "Carried",
+    "Planted",
+    "Thrown",
+    "Pulled"
+   ],
+   "a": 0,
+   "r": {
+    "p": 156
+   }
+  },
+  {
+   "s": 1,
+   "q": "Downy mildew zoospores usually enter a new plant through:",
+   "c": [
+    "The stomates",
+    "Root hairs",
+    "Flowers",
+    "Wounds only"
+   ],
+   "a": 0,
+   "r": {
+    "p": 157
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Phytophthora infestans* reached northeastern North America in:",
+   "c": [
+    "1843",
+    "1845",
+    "1870",
+    "1930"
+   ],
+   "a": 0,
+   "r": {
+    "p": 157
+   }
+  },
+  {
+   "s": 1,
+   "q": "In *Phycomyces nitens*, the slimy spore mass is surrounded by:",
+   "c": [
+    "A thin but persistent peridium",
+    "A dissolving membrane",
+    "Nothing; spores are dry",
+    "A thick zygospore wall"
+   ],
+   "a": 0,
+   "r": {
+    "p": 159
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Kickxella* produces its sporangioles in:",
+   "c": [
+    "A drop of slime",
+    "Dry chains",
+    "A columellate sporangium",
+    "An explosive vesicle"
+   ],
+   "a": 0,
+   "r": {
+    "p": 159
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Cookeina sulcipes* produces how many asci per square centimetre?",
+   "c": [
+    "215,000",
+    "2,150",
+    "21.5 million",
+    "215"
+   ],
+   "a": 0,
+   "r": {
+    "p": 161
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Cordyceps militaris* ascospores are about how long?",
+   "c": [
+    "400–500 microns",
+    "4–5 microns",
+    "40–50 microns",
+    "4–5 mm"
+   ],
+   "a": 0,
+   "r": {
+    "p": 162
+   }
+  },
+  {
+   "s": 2,
+   "q": "Molecular techniques showed the powdery mildews to be related to:",
+   "c": [
+    "The Discomycetes",
+    "The Dothideales",
+    "The Zygomycota",
+    "The Oomycota"
+   ],
+   "a": 0,
+   "r": {
+    "p": 163
+   }
+  },
+  {
+   "s": 3,
+   "q": "As a mushroom develops, the cap spreading sideways is described as:",
+   "c": [
+    "Diageotropic",
+    "Positively geotropic",
+    "Negatively geotropic",
+    "Phototropic"
+   ],
+   "a": 0,
+   "r": {
+    "p": 164
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Coprinus comatus* is compared to which plants because of its success?",
+   "c": [
+    "Annual weeds",
+    "Giant sequoias",
+    "Orchids",
+    "Ferns"
+   ],
+   "a": 0,
+   "r": {
+    "p": 165
+   }
+  },
+  {
+   "s": 3,
+   "q": "Gilbert's potoroo, which lives almost entirely on truffles, is found in:",
+   "c": [
+    "Australia",
+    "California",
+    "New Zealand",
+    "Europe"
+   ],
+   "a": 0,
+   "r": {
+    "p": 167
+   }
+  },
+  {
+   "s": 3,
+   "q": "In *Sphaerobolus*, which stored compound is converted to glucose to build the pressure that flips the inner cup?",
+   "c": [
+    "Glycogen",
+    "Starch",
+    "Mannitol",
+    "Trehalose"
+   ],
+   "a": 0,
+   "r": {
+    "p": 167
+   }
+  },
+  {
+   "s": 4,
+   "q": "One 2.5-cm *Penicillium* colony can produce about how many spores?",
+   "c": [
+    "400 million",
+    "4 million",
+    "4 billion",
+    "40,000"
+   ],
+   "a": 0,
+   "r": {
+    "p": 168
+   }
+  },
+  {
+   "s": 4,
+   "q": "Allergic alveolitis (hypersensitivity pneumonitis) mainly causes:",
+   "c": [
+    "Breathlessness",
+    "Skin rash",
+    "Fever only",
+    "Hair loss"
+   ],
+   "a": 0,
+   "r": {
+    "p": 169
+   }
+  },
+  {
+   "s": 4,
+   "q": "The Samplair trap draws air through a slit onto a slide coated with:",
+   "c": [
+    "Silicone grease or agar",
+    "Glue",
+    "Water",
+    "Oil paint"
+   ],
+   "a": 0,
+   "r": {
+    "p": 171
+   }
+  }
+ ]
+}

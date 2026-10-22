@@ -1,0 +1,96 @@
+{
+  "n": 24,
+  "title": "Commercial Exploitation of Fungal Metabolites and Mycelia",
+  "pages": [420, 428],
+  "sections": [
+    {
+      "title": "Introduction and Antibiotics",
+      "pages": [420, 422],
+      "questions": [
+        {"q": "Kendrick considers fungi grown in pure culture a prime example of a:", "c": ["Renewable resource", "Depleting resource", "Dangerous resource", "Luxury product"], "a": 0, "r": {"p": 420}},
+        {"q": "Bagasse is:", "c": ["What is left of sugarcane after sugar extraction", "A fungal enzyme", "A type of cheese", "Spent brewer's grain"], "a": 0, "r": {"p": 420}},
+        {"q": "Anne Sheafe Miller, saved in 1942, was the first patient cured by:", "c": ["Penicillin", "Cyclosporine", "Streptomycin", "Sulfa drugs"], "a": 0, "r": {"p": 421, "h": "Antibiotics"}},
+        {"q": "Fleming discovered penicillin when a mould contaminated a plate of:", "c": ["*Staphylococcus aureus*", "*E. coli*", "*Streptococcus*", "Yeast"], "a": 0, "r": {"p": 421}},
+        {"q": "The crucial test of a useful antibiotic is that it:", "c": ["Damages bacteria far more than it damages the host", "Kills all microbes", "Is cheap to make", "Is a fungal product"], "a": 0, "r": {"p": 421}},
+        {"q": "Which species was found to produce much more penicillin than *P. notatum*?", "c": ["*Penicillium chrysogenum*", "*Penicillium roquefortii*", "*Penicillium expansum*", "*Penicillium griseofulvum*"], "a": 0, "r": {"p": 422}},
+        {"q": "Fleming shared the 1945 Nobel Prize with:", "c": ["Howard Florey and Ernst Chain", "John Tyndall and Pasteur", "Brown and Hazen", "Watson and Crick"], "a": 0, "r": {"p": 422}},
+        {"q": "Cephalosporin, a β-lactam active against some gram-negative bacteria, came from a mould now called:", "c": ["*Acremonium*", "*Tolypocladium*", "*Trichoderma*", "*Aspergillus*"], "a": 0, "r": {"p": 422}},
+        {"q": "β-lactam antibiotics work by:", "c": ["Preventing cell wall synthesis in bacteria", "Damaging sterols in membranes", "Blocking RNA polymerase", "Dissolving DNA"], "a": 0, "r": {"p": 422}}
+      ]
+    },
+    {
+      "title": "Immunosuppressants—the Cyclosporine Story",
+      "pages": [423, 425],
+      "questions": [
+        {"q": "Cyclosporine was discovered by which company from a Norwegian soil sample?", "c": ["Sandoz", "Pfizer", "Merck", "Xenova"], "a": 0, "r": {"p": 423}},
+        {"q": "The fungus producing cyclosporine is:", "c": ["*Tolypocladium niveum*", "*Penicillium notatum*", "*Acremonium*", "*Aspergillus niger*"], "a": 0, "r": {"p": 423}},
+        {"q": "Cyclosporine was saved from being abandoned because it proved effective against:", "c": ["Rheumatoid arthritis", "Cancer", "Leukaemia", "Bacterial infection"], "a": 0, "r": {"p": 423}},
+        {"q": "Cyclosporine is a cyclopeptide of how many amino acids?", "c": ["Eleven", "Eight", "Seven", "Twenty-five"], "a": 0, "r": {"p": 423}},
+        {"q": "Cyclosporine is superior to early immunosuppressants because it:", "c": ["Selectively inhibits lymphocyte division without harming bone marrow and gut", "Blocks mitosis in all cells", "Kills lymphocytes permanently", "Needs only one dose"], "a": 0, "r": {"p": 424}},
+        {"q": "Patients must take cyclosporine indefinitely because:", "c": ["Its immunosuppressive effect stops when the drug is discontinued", "It accumulates slowly", "It is addictive", "It cures transplants permanently"], "a": 0, "r": {"p": 424}},
+        {"q": "*Tolypocladium niveum* was found in 1996 to be the anamorph of:", "c": ["*Cordyceps subsessilis*", "*Claviceps purpurea*", "*Ophiostoma*", "*Neurospora*"], "a": 0, "r": {"p": 424}},
+        {"q": "A fungus from an African rainforest leaf produces a substance that mimics:", "c": ["Insulin, and can be taken by mouth", "Penicillin", "Cyclosporine", "Growth hormone"], "a": 0, "r": {"p": 424}}
+      ]
+    },
+    {
+      "title": "Other Useful Metabolites and Enzymes",
+      "pages": [425, 425],
+      "questions": [
+        {"q": "Citric acid is produced industrially by:", "c": ["*Aspergillus niger*", "*Aspergillus terreus*", "*Rhizopus nigricans*", "*Eremothecium ashbyi*"], "a": 0, "r": {"p": 425, "h": "Other Useful Fungal Metabolites"}},
+        {"q": "Gibberellic acid, a plant growth hormone, is derived from:", "c": ["*Fusarium moniliforme*", "*Aspergillus niger*", "*Trichoderma*", "*Rhizopus*"], "a": 0, "r": {"p": 425}},
+        {"q": "Invertase is used in candy making because it:", "c": ["Hydrolyzes sucrose to glucose and fructose, making syrups that won't crystallize", "Breaks down starch", "Softens leather", "Removes oxygen"], "a": 0, "r": {"p": 425, "h": "Enzymes"}},
+        {"q": "Pectinase is used to clarify fruit juices and to speed:", "c": ["Retting of flax", "Bread rising", "Cheese ripening", "Beer foaming"], "a": 0, "r": {"p": 425}},
+        {"q": "Glucose oxidase is used in making test papers for:", "c": ["Diabetics", "Pregnancy", "Allergies", "Water hardness"], "a": 0, "r": {"p": 425}},
+        {"q": "Beano prevents flatulence using which *Aspergillus niger* enzyme?", "c": ["Alpha-galactosidase", "Amylase", "Lipase", "Cellulase"], "a": 0, "r": {"p": 425}}
+      ]
+    },
+    {
+      "title": "Rumen Cellulases and Exogenous Gene Products",
+      "pages": [426, 426],
+      "questions": [
+        {"q": "In 1975, Orpin discovered obligately anaerobic chytrid-like fungi living in:", "c": ["The rumens of herbivores", "Deep-sea vents", "Hot springs", "Human intestines"], "a": 0, "r": {"p": 426, "h": "Other Sources of Cellulases"}},
+        {"q": "The rumen fungi (mostly *Neocallimastix*) notably lack:", "c": ["Mitochondria", "Nuclei", "Cell walls", "Flagella"], "a": 0, "r": {"p": 426}},
+        {"q": "The rumen fungi's cellulases may have been acquired by lateral transfer from:", "c": ["Bacteria", "Plants", "Their host animals", "Viruses"], "a": 0, "r": {"p": 426}},
+        {"q": "*Neocallimastix* and relatives are now placed in their own phylum:", "c": ["Neocallimastigomycota", "Chytridiomycota", "Zygomycota", "Glomeromycota"], "a": 0, "r": {"p": 426}},
+        {"q": "Fungi suit expressing mammalian genes better than bacteria because they are:", "c": ["Eukaryotes", "Faster-growing", "Smaller", "Photosynthetic"], "a": 0, "r": {"p": 426, "h": "Exogenous Gene Products"}}
+      ]
+    },
+    {
+      "title": "Dyes, Plastics, and Mycelial Products",
+      "pages": [426, 427],
+      "questions": [
+        {"q": "Oluna Ceska dyed wool for a vest using sixteen fungal species, yielding how many shades?", "c": ["Forty-two", "Sixteen", "Ten", "One hundred"], "a": 0, "r": {"p": 427, "h": "Arts and Crafts—Dyeing with Mushrooms"}},
+        {"q": "Yale students found in 2011 that *Pestalotiopsis microspora* can break down:", "c": ["Polyurethane", "Styrofoam", "Glass", "Nylon"], "a": 0, "r": {"p": 427, "h": "Breakdown of Plastics"}},
+        {"q": "Mycelial packaging replacing Styrofoam has the big advantage of being:", "c": ["Readily compostable", "Waterproof forever", "Transparent", "Edible"], "a": 0, "r": {"p": 427, "h": "Fungal Packing Material and Car Parts"}},
+        {"q": "Fungal mycelium grown in a mould takes on the desired shape in about:", "c": ["Five to ten days", "Five hours", "Five months", "One year"], "a": 0, "r": {"p": 427}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "The top twenty pharmaceuticals of 1997 included six fungal drugs; three were:", "c": ["Cholesterol-reducing drugs", "Antibiotics", "Painkillers", "Antifungals"], "a": 0, "r": {"p": 420}},
+    {"s": 0, "q": "Antibiosis was noted as early as 1881 by:", "c": ["John Tyndall", "Alexander Fleming", "Louis Pasteur", "Howard Florey"], "a": 0, "r": {"p": 421}},
+    {"s": 0, "q": "In 1941 an Oxford policeman treated with crude penicillin:", "c": ["Rallied but died when supplies ran out", "Recovered fully", "Had an allergic reaction", "Was never treated"], "a": 0, "r": {"p": 421}},
+    {"s": 0, "q": "Phenethicillin's advantage over natural penicillins was that it:", "c": ["Was more readily absorbed by the intestine", "Killed fungi", "Was cheaper", "Worked on viruses"], "a": 0, "r": {"p": 422}},
+    {"s": 0, "q": "MRSA stands for:", "c": ["Methicillin-resistant *Staphylococcus aureus*", "Multi-resistant streptococcal antigen", "Mould-resistant soil actinomycete", "Major resistance to streptomycin agents"], "a": 0, "r": {"p": 422}},
+    {"s": 0, "q": "Griseofulvin is more fungistatic than fungicidal.", "c": ["True", "False"], "a": 0, "r": {"p": 422}},
+    {"s": 1, "q": "Developing cyclosporine and gaining FDA approval was expected to cost:", "c": ["$250 million", "$2.5 million", "$25 billion", "$25,000"], "a": 0, "r": {"p": 423}},
+    {"s": 1, "q": "Cyclosporine's kidney damage is minimized by using lower doses together with:", "c": ["Prednisone", "Penicillin", "Insulin", "Amphotericin B"], "a": 0, "r": {"p": 424}},
+    {"s": 1, "q": "By 1996, about how many transplant recipients were using cyclosporine daily?", "c": ["200,000", "2,000", "2 million", "20,000"], "a": 0, "r": {"p": 424}},
+    {"s": 1, "q": "Xenova's screening success rate is about one useful compound per:", "c": ["10,000–100,000 organisms screened", "10 organisms", "100 organisms", "10 million organisms"], "a": 0, "r": {"p": 424}},
+    {"s": 2, "q": "Itaconic acid, used in acrylic resins, is produced by:", "c": ["*Aspergillus terreus*", "*Aspergillus niger*", "*Rhizopus nigricans*", "*Fusarium*"], "a": 0, "r": {"p": 425}},
+    {"s": 2, "q": "Commercial cellulases are usually derived from:", "c": ["*Trichoderma*", "*Rhizopus*", "*Saccharomyces*", "*Candida*"], "a": 0, "r": {"p": 425}},
+    {"s": 3, "q": "Rumen fungus cellulases break down cellulose more effectively than those of *Trichoderma*.", "c": ["True", "False"], "a": 0, "r": {"p": 426}},
+    {"s": 3, "q": "Which of these eukaryotic gene products have fungi been engineered to secrete?", "c": ["Insulin and bovine chymosin", "Hemoglobin and keratin", "Chlorophyll", "Cellulose"], "a": 0, "r": {"p": 426}},
+    {"s": 4, "q": "Ford planned to replace about how much plastic per car with fungal foam?", "c": ["14 kg", "1.4 kg", "140 kg", "140 g"], "a": 0, "r": {"p": 427}}
+  ],
+  "review": [
+    {"s": 0, "q": "Penicillin was discovered in 1927 but didn't save a life until:", "c": ["1942", "1929", "1951", "1938"], "a": 0, "r": {"p": 421}},
+    {"s": 0, "q": "The antibiotic of last resort to which some bacteria are now acquiring resistance is:", "c": ["Vancomycin", "Penicillin G", "Nystatin", "Griseofulvin"], "a": 0, "r": {"p": 422}},
+    {"s": 0, "q": "By 1951, worldwide antibiotic sales had reached almost:", "c": ["$350 million per year", "$3.5 million", "$35 billion", "$350,000"], "a": 0, "r": {"p": 422}},
+    {"s": 1, "q": "*Tolypocladium niveum* produces how many different cyclosporins?", "c": ["Twenty-five", "One", "Eleven", "Two hundred"], "a": 0, "r": {"p": 423}},
+    {"s": 1, "q": "Cyclosporine mainly inhibits division of which cells?", "c": ["T helper lymphocytes", "Red blood cells", "Bone marrow stem cells", "Gut lining cells"], "a": 0, "r": {"p": 424}},
+    {"s": 2, "q": "Riboflavin is produced commercially by:", "c": ["*Eremothecium ashbyi*", "*Aspergillus niger*", "*Fusarium moniliforme*", "*Trichoderma*"], "a": 0, "r": {"p": 425}},
+    {"s": 3, "q": "The rumen chytrids often have zoospores that are:", "c": ["Multiflagellate", "Nonflagellate", "Amoeboid", "Biflagellate with tinsel"], "a": 0, "r": {"p": 426}},
+    {"s": 4, "q": "Dell planned to cut about how much packaging a year using fungal foam?", "c": ["20 million pounds", "20,000 pounds", "2 billion pounds", "200 pounds"], "a": 0, "r": {"p": 427}}
+  ]
+}

@@ -1,0 +1,2223 @@
+{
+ "n": 4,
+ "title": "Phylum Ascomycota—the Ascomycetes",
+ "pages": [
+  55,
+  104
+ ],
+ "sections": [
+  {
+   "title": "Dikarya and the Ascomycete Teleomorph",
+   "pages": [
+    55,
+    63
+   ],
+   "questions": [
+    {
+     "q": "How do the hyphae of Dikarya differ from those of most zygomycetes?",
+     "c": [
+      "They are narrower and septate (have regular cross-walls)",
+      "They are wider and coenocytic",
+      "They lack chitin",
+      "They are diploid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 55
+     }
+    },
+    {
+     "q": "What two benefits do septa provide, according to Kendrick?",
+     "c": [
+      "Physical rigidity and limiting cytoplasm loss if the wall is ruptured",
+      "Faster nuclear fusion and spore discharge",
+      "Photosynthesis and water storage",
+      "Attachment to substrates and toxin secretion"
+     ],
+     "a": 0,
+     "r": {
+      "p": 55
+     }
+    },
+    {
+     "q": "Powdery mildews are caused by Oomycota, just like downy mildews.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 56
+     }
+    },
+    {
+     "q": "Roughly how many ascomycetes have become lichens?",
+     "c": [
+      "Nearly 20,000",
+      "About 2,000",
+      "About 200",
+      "Nearly 100,000"
+     ],
+     "a": 0,
+     "r": {
+      "p": 56
+     }
+    },
+    {
+     "q": "Hyphal fusion that lets dikaryan hyphae exchange nuclei is called:",
+     "c": [
+      "Anastomosis",
+      "Karyogamy",
+      "Plasmogamy of gametes",
+      "Sympodial extension"
+     ],
+     "a": 0,
+     "r": {
+      "p": 56,
+      "h": "Characteristics of Teleomorphs"
+     }
+    },
+    {
+     "q": "What is a dikaryon?",
+     "c": [
+      "A cell with two sexually compatible haploid nuclei that have paired but not fused",
+      "A diploid nucleus formed after fusion",
+      "A cell with two identical nuclei from mitosis",
+      "A spore with two cells"
+     ],
+     "a": 0,
+     "r": {
+      "p": 56,
+      "h": "Characteristics of Teleomorphs"
+     }
+    },
+    {
+     "q": "A typical mature ascus contains how many ascospores?",
+     "c": [
+      "Eight",
+      "Four",
+      "Two",
+      "Sixteen"
+     ],
+     "a": 0,
+     "r": {
+      "p": 57
+     }
+    },
+    {
+     "q": "Basidiospores are borne on tiny projections of the basidium called:",
+     "c": [
+      "Sterigmata",
+      "Operculi",
+      "Metulae",
+      "Suspensors"
+     ],
+     "a": 0,
+     "r": {
+      "p": 57
+     }
+    },
+    {
+     "q": "What is the advantage of the dikaryophase in ascomycetes?",
+     "c": [
+      "It multiplies the products of one rare sexual encounter before meiosis reshuffles genes",
+      "It lets the fungus skip meiosis",
+      "It produces motile gametes",
+      "It allows photosynthesis inside the ascoma"
+     ],
+     "a": 0,
+     "r": {
+      "p": 58,
+      "h": "Teleomorph Stage of Ascomycota"
+     }
+    },
+    {
+     "q": "Which type of ascoma has its entire hymenium exposed, allowing many asci to discharge at once?",
+     "c": [
+      "Apothecial",
+      "Perithecial",
+      "Pseudothecial",
+      "Cleistothecial"
+     ],
+     "a": 0,
+     "r": {
+      "p": 58,
+      "h": "Four Kinds of Ascoma"
+     }
+    },
+    {
+     "q": "A cleistothecial ascoma usually indicates that:",
+     "c": [
+      "The asci are spherical and no longer shoot their spores",
+      "The asci are bitunicate",
+      "The spores are flagellate",
+      "The fungus is a basidiomycete"
+     ],
+     "a": 0,
+     "r": {
+      "p": 59,
+      "h": "Four Kinds of Ascoma"
+     }
+    },
+    {
+     "q": "Unitunicate-operculate asci open by means of:",
+     "c": [
+      "A built-in lid (operculum)",
+      "An elastic apical ring (sphincter)",
+      "A double 'jack-in-the-box' wall",
+      "Dissolving at maturity"
+     ],
+     "a": 0,
+     "r": {
+      "p": 60,
+      "h": "Four Kinds of Ascus"
+     }
+    },
+    {
+     "q": "Prototunicate asci are thought to be a primitive condition from which unitunicate asci evolved.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 61,
+      "h": "Four Kinds of Ascus"
+     }
+    },
+    {
+     "q": "Pseudothecial ascomata always produce which kind of ascus?",
+     "c": [
+      "Bitunicate",
+      "Unitunicate-operculate",
+      "Unitunicate-inoperculate",
+      "Prototunicate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 63
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ascomycete Anamorphs and Conidiogenesis",
+   "pages": [
+    63,
+    75
+   ],
+   "questions": [
+    {
+     "q": "Complete Kendrick's 'mantra': Holomorph = ...",
+     "c": [
+      "Anamorph + Teleomorph",
+      "Ascus + Basidium",
+      "Mycelium + Spore",
+      "Haploid + Diploid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 63,
+      "h": "Anamorph Stages of Ascomycota"
+     }
+    },
+    {
+     "q": "How do ascomycete conidia differ in origin from zygomycete mitospores?",
+     "c": [
+      "Conidia are modified bits of hyphae, not cleaved from cytoplasm inside a sporangium",
+      "Conidia always form inside sporangia",
+      "Conidia are produced by meiosis",
+      "Conidia are flagellate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 63
+     }
+    },
+    {
+     "q": "Which term does Kendrick say should be 'excised from the mycological lexicon'?",
+     "c": [
+      "Deuteromycotina",
+      "Holomorph",
+      "Anamorph",
+      "Conidiogenesis"
+     ],
+     "a": 0,
+     "r": {
+      "p": 64
+     }
+    },
+    {
+     "q": "Anamorphs belonging to the same teleomorph are called:",
+     "c": [
+      "Synanamorphs",
+      "Holomorphs",
+      "Teleomorphs",
+      "Pseudophialides"
+     ],
+     "a": 0,
+     "r": {
+      "p": 65
+     }
+    },
+    {
+     "q": "What is the informal basis for dividing anamorphs into hyphomycetes and coelomycetes?",
+     "c": [
+      "Whether conidia are produced in enclosed conidiomata",
+      "Whether conidia are pigmented",
+      "Whether conidia are septate",
+      "Whether the teleomorph is known"
+     ],
+     "a": 0,
+     "r": {
+      "p": 65,
+      "h": "Morphology of Anamorphs"
+     }
+    },
+    {
+     "q": "A flask-shaped conidioma whose conidia ooze out through an apical ostiole is a(n):",
+     "c": [
+      "Pycnidium",
+      "Acervulus",
+      "Synnema",
+      "Sporodochium"
+     ],
+     "a": 0,
+     "r": {
+      "p": 65,
+      "h": "Coelomycetes"
+     }
+    },
+    {
+     "q": "Hyphomycete conidiophores aggregated into a cushion-shaped mass form a:",
+     "c": [
+      "Sporodochial conidioma",
+      "Synnematal conidioma",
+      "Pycnidial conidioma",
+      "Acervular conidioma"
+     ],
+     "a": 0,
+     "r": {
+      "p": 66,
+      "h": "Hyphomycetes"
+     }
+    },
+    {
+     "q": "Conidia with septa running two ways, like a brick wall, are called:",
+     "c": [
+      "Dictyospores",
+      "Phragmospores",
+      "Didymospores",
+      "Staurospores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 67,
+      "h": "Conidium Morphology"
+     }
+    },
+    {
+     "q": "In blastic conidiogenesis, the young conidium is recognizable before it is cut off by a cross-wall.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 68,
+      "h": "Conidiogenesis"
+     }
+    },
+    {
+     "q": "Rhexolytic secession involves:",
+     "c": [
+      "Breakdown or rupture of the outer wall of a cell beneath or between conidia",
+      "Splitting of a double septum",
+      "Explosive discharge from an ascus",
+      "Dissolving of the conidium wall"
+     ],
+     "a": 0,
+     "r": {
+      "p": 69
+     }
+    },
+    {
+     "q": "In blastic-acropetal chains (e.g., *Cladosporium*), where is the youngest conidium?",
+     "c": [
+      "At the tip of the chain",
+      "At the base of the chain",
+      "In the middle",
+      "There is no consistent position"
+     ],
+     "a": 0,
+     "r": {
+      "p": 69,
+      "h": "Type I: blastic-acropetal conidiogenesis"
+     }
+    },
+    {
+     "q": "Each seceding conidium leaving a ring-like scar around the conidiogenous cell is characteristic of which type?",
+     "c": [
+      "Blastic-annellidic (percurrent)",
+      "Blastic-sympodial",
+      "Basauxic",
+      "Thallic-arthric"
+     ],
+     "a": 0,
+     "r": {
+      "p": 69,
+      "h": "Type IV: blastic-annellidic"
+     }
+    },
+    {
+     "q": "*Penicillium* and *Aspergillus* produce conidia from which kind of conidiogenous cell?",
+     "c": [
+      "Phialides",
+      "Annellides",
+      "Arthric hyphae",
+      "Sympodial rachises"
+     ],
+     "a": 0,
+     "r": {
+      "p": 70,
+      "h": "Type V: blastic-phialidic conidiogenesis"
+     }
+    },
+    {
+     "q": "In basauxic conidiogenesis (powdery mildew), where is new material added to the conidial chain?",
+     "c": [
+      "At the base of the chain",
+      "At the tip of the chain",
+      "In the middle of the chain",
+      "Nowhere; the chain forms all at once"
+     ],
+     "a": 0,
+     "r": {
+      "p": 71,
+      "h": "Type VII: basauxic conidiogenesis"
+     }
+    },
+    {
+     "q": "Southern corn blight devastated the 1970 U.S. corn crop because the widely planted 'Texas male sterile' corn was highly susceptible. Which fungus caused it?",
+     "c": [
+      "*Drechslera* (*Helminthosporium*) *maydis*",
+      "*Fusarium graminearum*",
+      "*Aspergillus flavus*",
+      "*Stachybotrys chartarum*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 73,
+      "h": "Importance of Conidial Anamorphs"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Survey I: Taphrinomycotina, Saccharomycotina, and Pezizales",
+   "pages": [
+    75,
+    81
+   ],
+   "questions": [
+    {
+     "q": "Into which three subphyla is Ascomycota now divided?",
+     "c": [
+      "Taphrinomycotina, Saccharomycotina, Pezizomycotina",
+      "Agaricomycotina, Pucciniomycotina, Ustilaginomycotina",
+      "Mucoromycotina, Kickxellomycotina, Zoopagomycotina",
+      "Dothideomycetes, Eurotiomycetes, Sordariomycetes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 75
+     }
+    },
+    {
+     "q": "*Taphrina deformans* causes which disease?",
+     "c": [
+      "Peach leaf curl",
+      "Apple scab",
+      "Black knot of cherry",
+      "Brown rot of peach"
+     ],
+     "a": 0,
+     "r": {
+      "p": 75,
+      "h": "Order 1—Taphrinales"
+     }
+    },
+    {
+     "q": "Which is one of the unusual features of *Taphrina*?",
+     "c": [
+      "Its assimilative mycelium is dikaryotic and it forms no ascoma",
+      "Its asci open by a hinged lid",
+      "It forms a hypogeous truffle",
+      "It has flagellate ascospores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 75,
+      "h": "Order 1—Taphrinales"
+     }
+    },
+    {
+     "q": "*Pneumocystis jirovecii* is notorious for causing:",
+     "c": [
+      "A serious pneumonia common in AIDS patients",
+      "Athlete's foot",
+      "Thrush",
+      "Ringworm of the scalp"
+     ],
+     "a": 0,
+     "r": {
+      "p": 76,
+      "h": "Order 2—Pneumocystidiales"
+     }
+    },
+    {
+     "q": "How does the fission yeast *Schizosaccharomyces pombe* divide?",
+     "c": [
+      "It lays down a transverse septum and splits across the middle",
+      "By budding",
+      "By releasing zoospores",
+      "By forming asci only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 76,
+      "h": "Order 3—Schizosaccharomycetales"
+     }
+    },
+    {
+     "q": "'Pombe' is the Swahili word for:",
+     "c": [
+      "Beer",
+      "Bread",
+      "Millet",
+      "Yeast"
+     ],
+     "a": 0,
+     "r": {
+      "p": 76
+     }
+    },
+    {
+     "q": "Pezizaceae asci have amyloid tips. What does amyloid mean?",
+     "c": [
+      "They stain blue in iodine (Melzer's reagent)",
+      "They contain starch grains",
+      "They lack a lid",
+      "They are double-walled"
+     ],
+     "a": 0,
+     "r": {
+      "p": 77,
+      "h": "Family Pezizaceae"
+     }
+    },
+    {
+     "q": "What can happen if you blow on a ripe *Peziza*?",
+     "c": [
+      "A massive synchronized discharge of ascospores, like a puff of smoke",
+      "The apothecium closes up",
+      "The asci dissolve",
+      "Nothing; *Peziza* asci do not shoot"
+     ],
+     "a": 0,
+     "r": {
+      "p": 77
+     }
+    },
+    {
+     "q": "The scarlet cup fungus *Sarcoscypha coccinea* grows from buried branches of which tree?",
+     "c": [
+      "Hemlock",
+      "Oak",
+      "Elm",
+      "Birch"
+     ],
+     "a": 0,
+     "r": {
+      "p": 77,
+      "h": "Family Sarcosomataceae"
+     }
+    },
+    {
+     "q": "'Sequestrate' fruit bodies are those that:",
+     "c": [
+      "Do not liberate their spores at maturity",
+      "Grow only on dung",
+      "Shoot spores in bundles",
+      "Are compound apothecia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 78,
+      "h": "Family Otideaceae"
+     }
+    },
+    {
+     "q": "What gives *Saccobolus* ascospores extra range?",
+     "c": [
+      "All eight are stuck together and expelled as one projectile",
+      "They have long appendages",
+      "They are discharged by an exploding vesicle",
+      "They float on water"
+     ],
+     "a": 0,
+     "r": {
+      "p": 79,
+      "h": "Family Ascobolaceae"
+     }
+    },
+    {
+     "q": "*Gyromitra esculenta*, the false morel, can be fatal because it contains gyromitrin, a precursor of:",
+     "c": [
+      "Monomethylhydrazine",
+      "Amanitin",
+      "Muscarine",
+      "Aflatoxin"
+     ],
+     "a": 0,
+     "r": {
+      "p": 80,
+      "h": "Family Helvellaceae"
+     }
+    },
+    {
+     "q": "How can you tell *Verpa bohemica* from a true morel by cutting it in half?",
+     "c": [
+      "*Verpa*'s cap is attached only at the apex and its stipe is stuffed with cottony mycelium",
+      "*Verpa* is solid throughout",
+      "*Verpa*'s cap is fully fused to a hollow stalk",
+      "*Verpa* exudes a milky latex"
+     ],
+     "a": 0,
+     "r": {
+      "p": 80,
+      "h": "Family Morchellaceae"
+     }
+    },
+    {
+     "q": "How do *Tuber* truffles get their spores dispersed?",
+     "c": [
+      "They develop smells that lead mammals to dig up and eat them",
+      "Their asci shoot spores through the soil",
+      "Rainwater washes spores out",
+      "Insects carry spores from exposed hymenia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81,
+      "h": "Family Tuberaceae"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Survey II: Dothideomycetes, Eurotiomycetes, and Laboulbeniomycetes",
+   "pages": [
+    81,
+    87
+   ],
+   "questions": [
+    {
+     "q": "What kind of asci do Dothideomycetes produce?",
+     "c": [
+      "Bitunicate",
+      "Unitunicate-operculate",
+      "Prototunicate",
+      "Unitunicate-inoperculate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81,
+      "h": "Class 2 Dothideomycetes"
+     }
+    },
+    {
+     "q": "If a fungus has phragmoseptate or dictyoseptate ascospores, what are the odds it is a member of the Dothideomycetes?",
+     "c": [
+      "About nine to one",
+      "About even",
+      "About one in ten",
+      "Certain"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81
+     }
+    },
+    {
+     "q": "*Venturia inaequalis* causes:",
+     "c": [
+      "Apple scab",
+      "Peach leaf curl",
+      "Black knot",
+      "Dutch elm disease"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81,
+      "h": "Order 6—Dothideales"
+     }
+    },
+    {
+     "q": "When does *Venturia inaequalis* shoot its ascospores?",
+     "c": [
+      "In spring, from pseudothecia that matured over winter in dead leaves",
+      "In late summer from fruit scabs",
+      "Continuously through the growing season",
+      "Only in autumn on fallen apples"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81
+     }
+    },
+    {
+     "q": "*Apiosporina morbosa* causes black knot, especially on:",
+     "c": [
+      "Wild cherry and damson plum",
+      "Apple and pear",
+      "Oak and hazel",
+      "Elm"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81
+     }
+    },
+    {
+     "q": "The common mould *Alternaria* is the anamorph of:",
+     "c": [
+      "*Lewia*",
+      "*Pleospora*",
+      "*Venturia*",
+      "*Eurotium*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81,
+      "h": "Order 7—Pleosporales"
+     }
+    },
+    {
+     "q": "Sooty moulds (Capnodiales) grow on:",
+     "c": [
+      "The sugary excreta of insects such as scale insects and mealy bugs",
+      "Animal dung",
+      "Burned soil",
+      "Keratin"
+     ],
+     "a": 0,
+     "r": {
+      "p": 81,
+      "h": "Order 8—Capnodiales"
+     }
+    },
+    {
+     "q": "*Elaphomyces* ('deer truffles') has a discrete hymenium like true truffles.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 82,
+      "h": "Order 9—Elaphomycetales"
+     }
+    },
+    {
+     "q": "The dermatophytes that cause ringworm and athlete's foot belong to which order?",
+     "c": [
+      "Onygenales",
+      "Eurotiales",
+      "Laboulbeniales",
+      "Pleosporales"
+     ],
+     "a": 0,
+     "r": {
+      "p": 84,
+      "h": "Order 10—Onygenales"
+     }
+    },
+    {
+     "q": "Which dermatophyte anamorph genus has no known teleomorph?",
+     "c": [
+      "*Epidermophyton*",
+      "*Microsporum*",
+      "*Trichophyton*",
+      "*Chrysosporium*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 84
+     }
+    },
+    {
+     "q": "*Aspergillus* conidiophores have apical vesicles, while *Penicillium* conidiophore apices are:",
+     "c": [
+      "Brush-like",
+      "Coiled",
+      "Swollen and spherical",
+      "Annellidic"
+     ],
+     "a": 0,
+     "r": {
+      "p": 84,
+      "h": "Order 11—Eurotiales"
+     }
+    },
+    {
+     "q": "Laboulbeniales are always found:",
+     "c": [
+      "Attached to the exoskeleton of insects (or millipedes and mites)",
+      "In soil enriched with keratin",
+      "On dead leaves of apple",
+      "Inside lung cells"
+     ],
+     "a": 0,
+     "r": {
+      "p": 86,
+      "h": "Order 12—Laboulbeniales"
+     }
+    },
+    {
+     "q": "Why might many Laboulbeniales be restricted to one part of one sex of an insect?",
+     "c": [
+      "They lack anamorphs and spread by sticky ascospores during host mating or swarming",
+      "They are killed by light elsewhere on the body",
+      "They need the host's eggs to complete their life cycle",
+      "They can grow only on the wings"
+     ],
+     "a": 0,
+     "r": {
+      "p": 86
+     }
+    }
+   ]
+  },
+  {
+   "title": "Survey III: Leotiomycetes (Helotiales, Rhytismatales, Erysiphales)",
+   "pages": [
+    87,
+    92
+   ],
+   "questions": [
+    {
+     "q": "Many unitunicate-inoperculate asci have apical rings that are either amyloid or 'chitinoid'. What does chitinoid mean here?",
+     "c": [
+      "The ring does not react (turn blue) with iodine",
+      "The ring is made of pure chitin and stains black",
+      "The ring is absent",
+      "The ring is operculate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 87,
+      "h": "Now for the Classical Unitunicate-Inoperculates"
+     }
+    },
+    {
+     "q": "Kendrick sees the apothecia of Helotiales and Pezizales as an example of:",
+     "c": [
+      "Parallel or convergent evolution",
+      "Close common ancestry",
+      "Hybridization",
+      "Mimicry"
+     ],
+     "a": 0,
+     "r": {
+      "p": 88,
+      "h": "Order 13—Helotiales"
+     }
+    },
+    {
+     "q": "In the Sclerotiniaceae, how do the ascospores typically infect the host?",
+     "c": [
+      "They are shot while the host flowers and enter through the stigma",
+      "They enter through roots in autumn",
+      "Insects inject them into fruit",
+      "They enter through wounds made by hail"
+     ],
+     "a": 0,
+     "r": {
+      "p": 88,
+      "h": "Family Sclerotiniaceae"
+     }
+    },
+    {
+     "q": "Soft brown rot of peaches and cherries is caused by the *Monilia* anamorph of which genus?",
+     "c": [
+      "*Monilinia*",
+      "*Botryotinia*",
+      "*Sclerotinia*",
+      "*Phacidium*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 88
+     }
+    },
+    {
+     "q": "*Botrytis* growing on overripe grapes in certain regions is called the 'noble rot'.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 88
+     }
+    },
+    {
+     "q": "Which family includes fungi causing snow blight of conifers?",
+     "c": [
+      "Phacidiaceae",
+      "Geoglossaceae",
+      "Leotiaceae",
+      "Dermateaceae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 90,
+      "h": "Family Phacidiaceae"
+     }
+    },
+    {
+     "q": "'Earth tongues' belong to which family?",
+     "c": [
+      "Geoglossaceae",
+      "Leotiaceae",
+      "Sclerotiniaceae",
+      "Helvellaceae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 90,
+      "h": "Family Geoglossaceae"
+     }
+    },
+    {
+     "q": "Black spot of roses is caused by:",
+     "c": [
+      "*Diplocarpon rosae* (anamorph *Marssonina*)",
+      "*Rhytisma acerinum*",
+      "*Bulgaria inquinans*",
+      "*Trochila ilicicola*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 90,
+      "h": "Family Dermateaceae"
+     }
+    },
+    {
+     "q": "*Rhytisma acerinum* causes which disease?",
+     "c": [
+      "Tar spot of red maple",
+      "Powdery mildew of grape",
+      "Snow blight",
+      "Black knot of cherry"
+     ],
+     "a": 0,
+     "r": {
+      "p": 90,
+      "h": "Order 14—Rhytismatales"
+     }
+    },
+    {
+     "q": "Powdery mildew fungi obtain nourishment through absorbing organs that penetrate host epidermal cells, called:",
+     "c": [
+      "Haustoria",
+      "Hyphopodia",
+      "Rhizoids",
+      "Sclerotia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 90,
+      "h": "Order 15—Erysiphales"
+     }
+    },
+    {
+     "q": "Teleomorph genera of the Erysiphales are defined mainly by:",
+     "c": [
+      "The number of asci in the ascoma and the kind of appendages",
+      "Their anamorph types",
+      "Ascospore colour",
+      "Host family"
+     ],
+     "a": 0,
+     "r": {
+      "p": 92
+     }
+    },
+    {
+     "q": "How does *Phyllactinia* detach its ascomata from alder leaves?",
+     "c": [
+      "Its appendages bend downward together and lever the ascoma off the leaf",
+      "The ascoma explodes",
+      "Insects carry it away",
+      "The leaf tissue dissolves beneath it"
+     ],
+     "a": 0,
+     "r": {
+      "p": 92
+     }
+    }
+   ]
+  },
+  {
+   "title": "Survey IV: Sordariomycetes and the Key to Ascomycetes",
+   "pages": [
+    92,
+    103
+   ],
+   "questions": [
+    {
+     "q": "The compound fructification of *Xylaria* contains:",
+     "c": [
+      "Hundreds of perithecial cavities just below the surface",
+      "A single large apothecium",
+      "Asci scattered in a cleistothecium",
+      "Sporodochia only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 92,
+      "h": "Order 16—Xylariales"
+     }
+    },
+    {
+     "q": "*Hypoxylon mammatum* causes:",
+     "c": [
+      "Poplar canker",
+      "Oak wilt",
+      "Chestnut blight",
+      "Dutch elm disease"
+     ],
+     "a": 0,
+     "r": {
+      "p": 93
+     }
+    },
+    {
+     "q": "Meliolales are described as tropical, darkly pigmented analogues of which order?",
+     "c": [
+      "Erysiphales (powdery mildews)",
+      "Capnodiales",
+      "Pezizales",
+      "Hypocreales"
+     ],
+     "a": 0,
+     "r": {
+      "p": 94,
+      "h": "Order 17—Meliolales"
+     }
+    },
+    {
+     "q": "Oak wilt is caused by *Ceratocystis fagacearum*, whose anamorph is:",
+     "c": [
+      "*Chalara quercina*",
+      "*Graphium*",
+      "*Trichoderma*",
+      "*Fusarium*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 94,
+      "h": "Order 18—Microascales"
+     }
+    },
+    {
+     "q": "How are Hypocreales perithecia usually recognized?",
+     "c": [
+      "They are brightly coloured (yellow, orange, red) and fleshy or waxy",
+      "They are black, brittle, and carbonaceous",
+      "They have very long beaks",
+      "They are hidden inside insects"
+     ],
+     "a": 0,
+     "r": {
+      "p": 94,
+      "h": "Order 19—Hypocreales"
+     }
+    },
+    {
+     "q": "Gibberellic acid, a plant growth hormone, was discovered through a *Gibberella* disease of rice called:",
+     "c": [
+      "'Foolish seedling'",
+      "'Take-all'",
+      "'Choke'",
+      "'Whiteheads'"
+     ],
+     "a": 0,
+     "r": {
+      "p": 94
+     }
+    },
+    {
+     "q": "The 'lobster fungus' is *Hypomyces lactifluorum* parasitizing:",
+     "c": [
+      "The mushroom genera *Lactarius* and *Russula*",
+      "Lobsters",
+      "Rye grains",
+      "Insect larvae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 94
+     }
+    },
+    {
+     "q": "*Trichoderma*, a major mould of forest soils used in biocontrol, is the anamorph of:",
+     "c": [
+      "*Hypocrea*",
+      "*Nectria*",
+      "*Neurospora*",
+      "*Cordyceps*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 95
+     }
+    },
+    {
+     "q": "The ergot of *Claviceps purpurea* is a:",
+     "c": [
+      "Sclerotium that replaces the host's grain",
+      "Perithecium on the leaf",
+      "Conidial nectar droplet",
+      "Stalked apothecium"
+     ],
+     "a": 0,
+     "r": {
+      "p": 96,
+      "h": "Family Clavicipitaceae"
+     }
+    },
+    {
+     "q": "How many ascospores does Kendrick estimate a single ergot can produce?",
+     "c": [
+      "About 200,000",
+      "About 64 million",
+      "About 2,000",
+      "About 8"
+     ],
+     "a": 0,
+     "r": {
+      "p": 97
+     }
+    },
+    {
+     "q": "Poisoning from ergot alkaloids is known as:",
+     "c": [
+      "St. Anthony's Fire",
+      "Foolish seedling",
+      "Facial eczema",
+      "Take-all"
+     ],
+     "a": 0,
+     "r": {
+      "p": 97
+     }
+    },
+    {
+     "q": "*Cordyceps* multiplies its propagules because each long ascospore:",
+     "c": [
+      "Breaks up into about 100 part-spores",
+      "Buds like a yeast",
+      "Germinates into a new perithecium",
+      "Divides into eight conidia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 99
+     }
+    },
+    {
+     "q": "*Epichloë*'s systemic anamorph protects its host grass from herbivores.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 99
+     }
+    },
+    {
+     "q": "Which genus has been called the 'Drosophila of the fungus world'?",
+     "c": [
+      "*Neurospora*",
+      "*Podospora*",
+      "*Chaetomium*",
+      "*Sordaria*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 99,
+      "h": "Order 20—Sordariales"
+     }
+    },
+    {
+     "q": "Dutch elm disease is caused by *Ophiostoma ulmi*. How are its spores carried between trees?",
+     "c": [
+      "By bark beetles picking up elevated slimy spore drops",
+      "By wind-borne ascospores shot from asci",
+      "By rain splash from leaf spots",
+      "By root grafts only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 101,
+      "h": "Order 22—Ophiostomatales"
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "Some moulds, especially among the Dikarya, can grow at water activities below:",
+   "c": [
+    "0.70",
+    "0.98",
+    "0.90",
+    "0.99"
+   ],
+   "a": 0,
+   "r": {
+    "p": 56
+   }
+  },
+  {
+   "s": 0,
+   "q": "Some ascomycetes specialize in metabolizing keratin, the main component of:",
+   "c": [
+    "Hair, skin, and nails",
+    "Wood",
+    "Insect exoskeletons",
+    "Plant cell walls"
+   ],
+   "a": 0,
+   "r": {
+    "p": 56
+   }
+  },
+  {
+   "s": 0,
+   "q": "Which group of organisms shows an interesting parallel to the ascomycete dikaryophase (despite no close relationship)?",
+   "c": [
+    "Red algae",
+    "Brown algae",
+    "Mosses",
+    "Slime moulds"
+   ],
+   "a": 0,
+   "r": {
+    "p": 58
+   }
+  },
+  {
+   "s": 0,
+   "q": "Why do mature asci of *Ascobolus* point toward the light before discharging?",
+   "c": [
+    "So their spores won't hit obstacles on the way up into turbulent air",
+    "To warm the spores",
+    "To attract insects",
+    "To trigger meiosis"
+   ],
+   "a": 0,
+   "r": {
+    "p": 58
+   }
+  },
+  {
+   "s": 0,
+   "q": "Unitunicate-inoperculate asci release spores through:",
+   "c": [
+    "An elastic apical ring that acts as a pressure-release valve",
+    "A hinged lid",
+    "A splitting outer wall with expanding inner wall",
+    "Wall dissolution"
+   ],
+   "a": 0,
+   "r": {
+    "p": 60
+   }
+  },
+  {
+   "s": 0,
+   "q": "In many bitunicate ascomycetes, special sterile hyphae that grow down from the top of the stroma to make room for the asci are called:",
+   "c": [
+    "Pseudoparaphyses",
+    "Sterigmata",
+    "Metulae",
+    "Suspensors"
+   ],
+   "a": 0,
+   "r": {
+    "p": 63
+   }
+  },
+  {
+   "s": 1,
+   "q": "Roughly how many ascomycetes have been connected to their anamorphs so far?",
+   "c": [
+    "About 5,000 of about 30,000",
+    "About 30,000 of about 30,000",
+    "About 500 of about 100,000",
+    "About 15,000 of about 20,000"
+   ],
+   "a": 0,
+   "r": {
+    "p": 64
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which two mechanisms help 'anamorphic-holomorphs' that have given up sex keep some genetic flexibility?",
+   "c": [
+    "Heterokaryosis and the parasexual cycle",
+    "Meiosis and crossing-over in asci",
+    "Flagellate gametes and oogamy",
+    "Dikaryon formation and clamp connections"
+   ],
+   "a": 0,
+   "r": {
+    "p": 64
+   }
+  },
+  {
+   "s": 1,
+   "q": "Teleomorphs are known for roughly what percentage of anamorphic species?",
+   "c": [
+    "10%–15%",
+    "50%–60%",
+    "About 90%",
+    "Under 1%"
+   ],
+   "a": 0,
+   "r": {
+    "p": 64
+   }
+  },
+  {
+   "s": 1,
+   "q": "Long, thin conidia more than fifteen times as long as wide are called:",
+   "c": [
+    "Scolecospores",
+    "Helicospores",
+    "Amerospores",
+    "Phragmospores"
+   ],
+   "a": 0,
+   "r": {
+    "p": 67
+   }
+  },
+  {
+   "s": 1,
+   "q": "Insect pathogens in *Beauveria*, used to control potato beetle, show which kind of conidiogenesis?",
+   "c": [
+    "Blastic-sympodial",
+    "Blastic-phialidic",
+    "Thallic-solitary",
+    "Basauxic"
+   ],
+   "a": 0,
+   "r": {
+    "p": 69
+   }
+  },
+  {
+   "s": 1,
+   "q": "Why were *Pesotum* and *Graphium* reunited as *Graphium*?",
+   "c": [
+    "Both sympodial and percurrent conidiogenesis were found on the same conidiophore",
+    "DNA showed they were different phyla",
+    "Their teleomorphs were discovered to be identical lichens",
+    "One of the names was illegitimate"
+   ],
+   "a": 0,
+   "r": {
+    "p": 70
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Basipetospora*, used in Indonesia for a red food colouring, shows which unusual conidiogenesis?",
+   "c": [
+    "Blastic-retrogressive",
+    "Blastic-annellidic",
+    "Thallic alternate-arthric",
+    "Blastic-synchronous"
+   ],
+   "a": 0,
+   "r": {
+    "p": 71
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Geotrichum* produces 'fission arthroconidia' by which mode?",
+   "c": [
+    "Thallic-arthric",
+    "Blastic-acropetal",
+    "Thallic-solitary",
+    "Blastic-phialidic"
+   ],
+   "a": 0,
+   "r": {
+    "p": 71
+   }
+  },
+  {
+   "s": 1,
+   "q": "According to Kendrick, how many ways can look-alike chains of conidia develop?",
+   "c": [
+    "Seven",
+    "Two",
+    "Three",
+    "Ten"
+   ],
+   "a": 0,
+   "r": {
+    "p": 73
+   }
+  },
+  {
+   "s": 1,
+   "q": "Aquatic hyphomycetes on dead leaves in streams usually form conidia with how many arms?",
+   "c": [
+    "Four (tetraradiate)",
+    "Two",
+    "Six",
+    "None; they are coiled"
+   ],
+   "a": 0,
+   "r": {
+    "p": 74
+   }
+  },
+  {
+   "s": 1,
+   "q": "Cyclosporine, an immunosuppressant used in organ transplants, comes from which mould?",
+   "c": [
+    "*Tolypocladium niveum*",
+    "*Penicillium chrysogenum*",
+    "*Aspergillus oryzae*",
+    "*Penicillium roquefortii*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 74
+   }
+  },
+  {
+   "s": 2,
+   "q": "Of the sixty or so orders of Ascomycota, how many does Kendrick survey?",
+   "c": [
+    "Twenty-two",
+    "Sixty",
+    "Ten",
+    "Six"
+   ],
+   "a": 0,
+   "r": {
+    "p": 75
+   }
+  },
+  {
+   "s": 2,
+   "q": "Why don't *Taphrina* asci fit with the operculate group?",
+   "c": [
+    "They tend to split across the tip rather than around it",
+    "They have a sphincter ring",
+    "They are bitunicate",
+    "They never release their spores"
+   ],
+   "a": 0,
+   "r": {
+    "p": 75
+   }
+  },
+  {
+   "s": 2,
+   "q": "Work on the cell cycle of *Schizosaccharomyces pombe* contributed to a Nobel Prize awarded in:",
+   "c": [
+    "2001",
+    "1945",
+    "1976",
+    "2016"
+   ],
+   "a": 0,
+   "r": {
+    "p": 76
+   }
+  },
+  {
+   "s": 2,
+   "q": "The 'eyelash fungus', with orange apothecia rimmed by dark hairs, is:",
+   "c": [
+    "*Scutellinia scutellata*",
+    "*Sarcoscypha coccinea*",
+    "*Ascobolus*",
+    "*Helvella*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 78
+   }
+  },
+  {
+   "s": 2,
+   "q": "Which genus does Kendrick present as a step toward truffles, being hypogeous with less air space than *Genea*?",
+   "c": [
+    "*Geopora*",
+    "*Cookeina*",
+    "*Verpa*",
+    "*Saccobolus*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 79
+   }
+  },
+  {
+   "s": 2,
+   "q": "Why does Kendrick think a morel is a compound ascoma?",
+   "c": [
+    "The hymenium doesn't cover the ridges, so each pit may be a separate apothecium",
+    "It has several stalks",
+    "Its asci are bitunicate",
+    "It produces several different anamorphs"
+   ],
+   "a": 0,
+   "r": {
+    "p": 80
+   }
+  },
+  {
+   "s": 2,
+   "q": "The anamorph of the morel is the blastic-sympodial hyphomycete:",
+   "c": [
+    "*Costantinella*",
+    "*Chromelosporium*",
+    "*Spilocaea*",
+    "*Stemphylium*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 80
+   }
+  },
+  {
+   "s": 2,
+   "q": "Truffle asci usually contain how many spores?",
+   "c": [
+    "One to three",
+    "Eight",
+    "Four",
+    "Sixteen"
+   ],
+   "a": 0,
+   "r": {
+    "p": 80
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Tuber melanosporum*, the Perigord truffle, forms ectomycorrhizas with the roots of:",
+   "c": [
+    "Oak and hazelnut",
+    "Pine and spruce",
+    "Birch and alder",
+    "Beech and maple"
+   ],
+   "a": 0,
+   "r": {
+    "p": 81
+   }
+  },
+  {
+   "s": 3,
+   "q": "Which kind of anamorph is common among the Dothideomycetes?",
+   "c": [
+    "Coelomycetous",
+    "Zygomycetous",
+    "Yeast-like",
+    "None; they lack anamorphs"
+   ],
+   "a": 0,
+   "r": {
+    "p": 81
+   }
+  },
+  {
+   "s": 3,
+   "q": "Kendrick found blankets of sooty moulds covering southern beech (*Nothofagus*) in:",
+   "c": [
+    "New Zealand",
+    "Chile",
+    "Tasmania",
+    "Argentina"
+   ],
+   "a": 0,
+   "r": {
+    "p": 81
+   }
+  },
+  {
+   "s": 3,
+   "q": "Kendrick infers that the spherical, non-shooting asci of the Onygenales are:",
+   "c": [
+    "'Reduced' forms simplified from spore-shooting ancestors",
+    "The ancestral form of all asci",
+    "Bitunicate asci that lost one wall",
+    "Basidia in disguise"
+   ],
+   "a": 0,
+   "r": {
+    "p": 84
+   }
+  },
+  {
+   "s": 3,
+   "q": "Seven species of *Trichophyton* have teleomorphs in which genus?",
+   "c": [
+    "*Arthroderma*",
+    "*Nannizzia*",
+    "*Eurotium*",
+    "*Talaromyces*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 84
+   }
+  },
+  {
+   "s": 3,
+   "q": "Ascospores of the Eurotiales often have which shape?",
+   "c": [
+    "Pulley wheel",
+    "Sausage",
+    "Thread-like",
+    "Star-shaped"
+   ],
+   "a": 0,
+   "r": {
+    "p": 86
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Stigmatomyces baerii* is a laboulbenialean found on:",
+   "c": [
+    "Houseflies",
+    "Mosquitoes",
+    "Bees",
+    "Beetles"
+   ],
+   "a": 0,
+   "r": {
+    "p": 86
+   }
+  },
+  {
+   "s": 4,
+   "q": "In the Sclerotiniaceae, some teleomorph genera have unusually been named after their anamorphs. Which pairing is correct?",
+   "c": [
+    "*Botryotinia* with *Botrytis* anamorphs",
+    "*Monilinia* with *Botrytis* anamorphs",
+    "*Sclerotinia* with *Monilia* anamorphs",
+    "*Streptotinia* with *Sclerotium* anamorphs"
+   ],
+   "a": 0,
+   "r": {
+    "p": 88
+   }
+  },
+  {
+   "s": 4,
+   "q": "Which fungus stains wood green and forms small green apothecia?",
+   "c": [
+    "*Chlorociboria*",
+    "*Bisporella*",
+    "*Leotia viscosa*",
+    "*Bulgaria inquinans*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 90
+   }
+  },
+  {
+   "s": 4,
+   "q": "How do Rhytismatales asci and ascospores differ from those of the Phacidiaceae?",
+   "c": [
+    "Small chitinoid rings and long thin ascospores with a slimy sheath",
+    "Large amyloid rings and round spores",
+    "Operculate asci",
+    "Bitunicate asci"
+   ],
+   "a": 0,
+   "r": {
+    "p": 90
+   }
+  },
+  {
+   "s": 4,
+   "q": "The Erysiphales are the 'antithesis' of the Sclerotiniaceae because in Erysiphales:",
+   "c": [
+    "The teleomorphs are diverse while the anamorphs are uniform",
+    "There are no teleomorphs",
+    "The anamorphs are diverse while the teleomorphs are uniform",
+    "Both phases are always found together"
+   ],
+   "a": 0,
+   "r": {
+    "p": 92
+   }
+  },
+  {
+   "s": 4,
+   "q": "Most anamorphs of the Erysiphales belong to which hyphomycete genus?",
+   "c": [
+    "*Oidium*",
+    "*Monilia*",
+    "*Botrytis*",
+    "*Fusarium*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 92
+   }
+  },
+  {
+   "s": 5,
+   "q": "The Diatrypaceae, now folded into the Xylariales, are known for ascospores that are:",
+   "c": [
+    "Tiny and sausage-shaped",
+    "Large and muriform",
+    "Thread-like and fragmenting",
+    "Pulley-wheel shaped"
+   ],
+   "a": 0,
+   "r": {
+    "p": 93
+   }
+  },
+  {
+   "s": 5,
+   "q": "Which nectriaceous anamorph forms erumpent sporodochia causing 'coral spot'?",
+   "c": [
+    "*Tubercularia*",
+    "*Fusarium*",
+    "*Cladobotryum*",
+    "*Neotyphodium*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 94
+   }
+  },
+  {
+   "s": 5,
+   "q": "Which is one of the three features of the Clavicipitaceae?",
+   "c": [
+    "Extremely long, thread-like ascospores",
+    "Operculate asci",
+    "Cleistothecial ascomata",
+    "Bitunicate asci"
+   ],
+   "a": 0,
+   "r": {
+    "p": 96
+   }
+  },
+  {
+   "s": 5,
+   "q": "LSD is described as how many times more potent than psilocybin?",
+   "c": [
+    "About a hundred times",
+    "About twice",
+    "About ten times",
+    "About a thousand times"
+   ],
+   "a": 0,
+   "r": {
+    "p": 98
+   }
+  },
+  {
+   "s": 5,
+   "q": "*Cordyceps subsessilis* was found to be the teleomorph of *Tolypocladium niveum*, a relative of the cyclosporine producer.",
+   "c": [
+    "True",
+    "False"
+   ],
+   "a": 0,
+   "r": {
+    "p": 99
+   }
+  },
+  {
+   "s": 5,
+   "q": "*Podospora* species have from 4 up to how many ascospores per ascus?",
+   "c": [
+    "2,048",
+    "64",
+    "16",
+    "512"
+   ],
+   "a": 0,
+   "r": {
+    "p": 99
+   }
+  },
+  {
+   "s": 5,
+   "q": "*Chaetomium* is an important cellulolytic genus that damages:",
+   "c": [
+    "Fabrics and paper",
+    "Living tree roots",
+    "Grape berries",
+    "Insect larvae"
+   ],
+   "a": 0,
+   "r": {
+    "p": 100
+   }
+  },
+  {
+   "s": 5,
+   "q": "'Take-all' or 'whiteheads' of wheat is caused by:",
+   "c": [
+    "*Gaeumannomyces graminis*",
+    "*Cryphonectria parasitica*",
+    "*Claviceps purpurea*",
+    "*Gibberella*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 100,
+    "h": "Order 21—Diaporthales"
+   }
+  },
+  {
+   "s": 5,
+   "q": "In Kendrick's key, ascomycetes whose thallus contains algal cells lead to:",
+   "c": [
+    "Lichens",
+    "Taphrinales",
+    "Laboulbeniales",
+    "Yeasts"
+   ],
+   "a": 0,
+   "r": {
+    "p": 101,
+    "h": "(Mostly) Dichotomous Key"
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "Why does *Rhizopus* sporulating on bread collapse when taken out of a damp bag?",
+   "c": [
+    "Zygomycetes thrive and sporulate only in near-saturated air",
+    "The bread dries out and kills the mycelium",
+    "Light destroys the sporangia",
+    "Oxygen poisons the fungus"
+   ],
+   "a": 0,
+   "r": {
+    "p": 55
+   }
+  },
+  {
+   "s": 0,
+   "q": "Dikaryan hyphae average about how wide?",
+   "c": [
+    "5 microns",
+    "50 microns",
+    "0.5 microns",
+    "500 microns"
+   ],
+   "a": 0,
+   "r": {
+    "p": 55
+   }
+  },
+  {
+   "s": 0,
+   "q": "Dikaryan septa are centrally perforated to allow:",
+   "c": [
+    "Movement of cytoplasm and sometimes nuclei between compartments",
+    "Spore discharge",
+    "Water storage",
+    "Attachment of sterigmata"
+   ],
+   "a": 0,
+   "r": {
+    "p": 56
+   }
+  },
+  {
+   "s": 0,
+   "q": "In basidiomycetes, the final nuclear fusion of the dikaryon may be delayed for:",
+   "c": [
+    "Years",
+    "Seconds",
+    "Exactly one day",
+    "Never; it happens at once"
+   ],
+   "a": 0,
+   "r": {
+    "p": 57
+   }
+  },
+  {
+   "s": 0,
+   "q": "Within an ascoma, the dikaryotic hyphae that grow among the haploid tissue are often called:",
+   "c": [
+    "Ascogenous hyphae",
+    "Paraphyses",
+    "Rhizomorphs",
+    "Generative hyphae"
+   ],
+   "a": 0,
+   "r": {
+    "p": 58
+   }
+  },
+  {
+   "s": 0,
+   "q": "Fungi whose closed ascomata fruit underground or under bark usually rely on:",
+   "c": [
+    "Animals attracted by chemical lures",
+    "Explosive asci",
+    "Flagellate spores",
+    "Wind alone"
+   ],
+   "a": 0,
+   "r": {
+    "p": 59
+   }
+  },
+  {
+   "s": 0,
+   "q": "Unitunicate-operculate asci are found only in which kind of ascoma?",
+   "c": [
+    "Apothecial",
+    "Perithecial",
+    "Pseudothecial",
+    "Cleistothecial"
+   ],
+   "a": 0,
+   "r": {
+    "p": 60
+   }
+  },
+  {
+   "s": 1,
+   "q": "Why could an ascomycete legally carry two binomials until recently?",
+   "c": [
+    "Anamorph and teleomorph were often collected separately and named independently",
+    "Two mycologists disagreed",
+    "It was a hybrid",
+    "It lived in two kingdoms"
+   ],
+   "a": 0,
+   "r": {
+    "p": 64
+   }
+  },
+  {
+   "s": 1,
+   "q": "We no longer call anamorphic fungi by which old name?",
+   "c": [
+    "Fungi imperfecti",
+    "Hyphomycetes",
+    "Coelomycetes",
+    "Holomorphs"
+   ],
+   "a": 0,
+   "r": {
+    "p": 64
+   }
+  },
+  {
+   "s": 1,
+   "q": "Roughly how many genera of conidial fungi have been described?",
+   "c": [
+    "At least 2,000",
+    "About 200",
+    "About 20,000",
+    "About 30"
+   ],
+   "a": 0,
+   "r": {
+    "p": 65
+   }
+  },
+  {
+   "s": 1,
+   "q": "A covered conidioma that splits the host epidermis to release conidia is a(n):",
+   "c": [
+    "Acervulus",
+    "Pycnidium",
+    "Synnema",
+    "Ascoma"
+   ],
+   "a": 0,
+   "r": {
+    "p": 65
+   }
+  },
+  {
+   "s": 1,
+   "q": "Conidia with one cross-wall are:",
+   "c": [
+    "Didymospores",
+    "Amerospores",
+    "Phragmospores",
+    "Scolecospores"
+   ],
+   "a": 0,
+   "r": {
+    "p": 67
+   }
+  },
+  {
+   "s": 1,
+   "q": "A branching conidium at the tip of an acropetal chain is called a:",
+   "c": [
+    "Ramoconidium",
+    "Polyphialide",
+    "Annellide",
+    "Arthroconidium"
+   ],
+   "a": 0,
+   "r": {
+    "p": 69
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Botrytis* and *Gonatobotryum* produce many conidia at once on a swollen cell. This is:",
+   "c": [
+    "Blastic-synchronous",
+    "Blastic-phialidic",
+    "Basauxic",
+    "Thallic-solitary"
+   ],
+   "a": 0,
+   "r": {
+    "p": 69
+   }
+  },
+  {
+   "s": 1,
+   "q": "Phialides that develop more than one conidiogenous locus are called:",
+   "c": [
+    "Polyphialides",
+    "Annellides",
+    "Metulae",
+    "Sporocladia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 71
+   }
+  },
+  {
+   "s": 1,
+   "q": "In Kendrick's tally of important plant-disease fungi, how many were conidial?",
+   "c": [
+    "62",
+    "111",
+    "22",
+    "6"
+   ],
+   "a": 0,
+   "r": {
+    "p": 73
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which mould is used in the Far East to make soy sauce?",
+   "c": [
+    "*Aspergillus oryzae*",
+    "*Aspergillus flavus*",
+    "*Penicillium roquefortii*",
+    "*Fusarium graminearum*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 74
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Pneumocystis* species are hard to study partly because they:",
+   "c": [
+    "Won't grow in pure culture",
+    "Live only in deep sea",
+    "Have no DNA",
+    "Die in air"
+   ],
+   "a": 0,
+   "r": {
+    "p": 76
+   }
+  },
+  {
+   "s": 2,
+   "q": "In which order are Sarcosomataceae asci described as suboperculate and nonamyloid?",
+   "c": [
+    "Pezizales",
+    "Helotiales",
+    "Xylariales",
+    "Taphrinales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 77
+   }
+  },
+  {
+   "s": 2,
+   "q": "Morels sometimes fruited profusely around trees killed by:",
+   "c": [
+    "Dutch elm disease",
+    "Chestnut blight",
+    "Fire alone",
+    "Oak wilt"
+   ],
+   "a": 0,
+   "r": {
+    "p": 80
+   }
+  },
+  {
+   "s": 2,
+   "q": "Truffle ascospores come in two basic ornamentation patterns:",
+   "c": [
+    "Spiny and lacunose",
+    "Smooth and striate",
+    "Warty and ridged",
+    "Winged and tailed"
+   ],
+   "a": 0,
+   "r": {
+    "p": 80
+   }
+  },
+  {
+   "s": 3,
+   "q": "Dothideomycetes is a large class of roughly how many species?",
+   "c": [
+    "6,300",
+    "630",
+    "63,000",
+    "63"
+   ],
+   "a": 0,
+   "r": {
+    "p": 81
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Pleospora*, on dead herbaceous stems, has anamorphs in *Stemphylium* and:",
+   "c": [
+    "*Phoma*",
+    "*Alternaria*",
+    "*Spilocaea*",
+    "*Oidium*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 81
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Trochila ilicicola* fruits on dead leaves of which plant?",
+   "c": [
+    "Holly",
+    "Maple",
+    "Rose",
+    "Alder"
+   ],
+   "a": 0,
+   "r": {
+    "p": 90
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Lophodermium* is notable because it can be:",
+   "c": [
+    "Endophytic and symptomless in pine needles until they die",
+    "Lethal to all pines",
+    "Bioluminescent",
+    "Edible"
+   ],
+   "a": 0,
+   "r": {
+    "p": 90
+   }
+  },
+  {
+   "s": 5,
+   "q": "Meliolales are anchored to their hosts by conspicuous:",
+   "c": [
+    "Hyphopodia",
+    "Rhizomorphs",
+    "Sclerotia",
+    "Appendages that bend"
+   ],
+   "a": 0,
+   "r": {
+    "p": 94
+   }
+  },
+  {
+   "s": 5,
+   "q": "*Cordyceps* stromata growing from insect larvae are known as:",
+   "c": [
+    "Vegetable caterpillars",
+    "Lobster fungi",
+    "Earth tongues",
+    "Dead man's fingers"
+   ],
+   "a": 0,
+   "r": {
+    "p": 98
+   }
+  }
+ ],
+ "parts": [
+  {
+   "until": 1,
+   "title": "Ascomycete Biology"
+  },
+  {
+   "until": 3,
+   "title": "Survey: Taphrinomycotina to Laboulbeniomycetes"
+  },
+  {
+   "until": 5,
+   "title": "Survey: Leotiomycetes and Sordariomycetes"
+  }
+ ]
+}

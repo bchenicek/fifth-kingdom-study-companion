@@ -1,0 +1,108 @@
+{
+  "n": 14,
+  "title": "Fungi as Agents of Biological Control",
+  "pages": [276, 294],
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [276, 277],
+      "questions": [
+        {"q": "Which bird suffered population crashes from accumulated DDT residues?", "c": ["The peregrine falcon", "The robin", "The bald eagle", "The crow"], "a": 0, "r": {"p": 276}},
+        {"q": "Biocontrol works by:", "c": ["Shifting the ecological balance in favour of a natural enemy of the target", "Breeding resistant crops", "Using persistent chemicals", "Removing all host plants"], "a": 0, "r": {"p": 276}},
+        {"q": "Which biocontrol success involved a moth introduced to Australia?", "c": ["*Cactoblastis* against prickly pear", "Ladybugs against aphids", "Myxomatosis against rabbits", "*Beauveria* against beetles"], "a": 0, "r": {"p": 276}},
+        {"q": "Which is one of the four advantages Kendrick lists for fungi as biocontrol agents?", "c": ["Very short generation time", "Quick, total kill", "Broad action on all insects", "No dependence on climate"], "a": 0, "r": {"p": 277}},
+        {"q": "A shortcoming of fungal biocontrol is that it may act relatively slowly.", "c": ["True", "False"], "a": 0, "r": {"p": 277}},
+        {"q": "Which is a critical condition for successful fungal biocontrol?", "c": ["Inoculum distributed early enough to saturate the target before its peak", "Spraying after the pest peaks", "Using as little inoculum as possible", "Dry weather"], "a": 0, "r": {"p": 277}},
+        {"q": "In which three main areas can fungi be used in biocontrol?", "c": ["Animal pests, weeds, and fungal pathogens", "Bacteria, viruses, and weeds", "Rodents, birds, and insects", "Algae, mosses, and ferns"], "a": 0, "r": {"p": 277}}
+      ]
+    },
+    {
+      "title": "(1) Control of Animal Pests by Entomogenous Fungi",
+      "pages": [277, 282],
+      "questions": [
+        {"q": "Bassi's 1834 work on the muscardine disease of silkworms gave rise to:", "c": ["The germ theory of disease", "The gene-for-gene theory", "Koch's postulates", "The first fungicide"], "a": 0, "r": {"p": 279}},
+        {"q": "Which fungus caused the muscardine disease?", "c": ["*Beauveria bassiana*", "*Metarhizium anisopliae*", "*Entomophthora*", "*Hirsutella thompsonii*"], "a": 0, "r": {"p": 279}},
+        {"q": "Boverin has been used in Russia since 1965 to control:", "c": ["Colorado potato beetle", "Mosquitoes", "Citrus rust mite", "Spittlebugs"], "a": 0, "r": {"p": 279}},
+        {"q": "*Metarhizium* helped save coconut palms on Tongatapu and Western Samoa from:", "c": ["The rhinoceros beetle", "Termites", "Locusts", "Fruit flies"], "a": 0, "r": {"p": 279}},
+        {"q": "*Metarhizium* is registered in the United States for control of:", "c": ["Household cockroaches", "Lawn grubs", "Bed bugs", "Ants"], "a": 0, "r": {"p": 279}},
+        {"q": "Mycar (*Hirsutella thompsonii*) is used against:", "c": ["Citrus rust mite", "Aphids", "Whitefly", "Grasshoppers"], "a": 0, "r": {"p": 279}},
+        {"q": "Which *Verticillium lecanii* product targets greenhouse whitefly?", "c": ["Mycotal", "Vertalec", "Boverin", "Metaquino"], "a": 0, "r": {"p": 280}},
+        {"q": "*Nomuraea rileyi* causes high mortality in which pests?", "c": ["Caterpillars (Noctuidae)", "Mosquito larvae", "Scale insects", "Mites"], "a": 0, "r": {"p": 280}},
+        {"q": "Roland Thaxter was drawn to insect fungi when *Entomophthora* struck the fly colony at:", "c": ["Harvard", "Cornell", "Oxford", "Toronto"], "a": 0, "r": {"p": 280}},
+        {"q": "*Entomophthora* was introduced to Australia because the spotted alfalfa aphid arrived without its natural pathogens.", "c": ["True", "False"], "a": 0, "r": {"p": 280}},
+        {"q": "Why did attempts to infect mosquito larvae with *Coelomomyces* fail?", "c": ["It needs a copepod or ostracod as an obligate alternate host", "It is killed by water", "Mosquitoes are immune", "It grows too slowly"], "a": 0, "r": {"p": 280}},
+        {"q": "Which insects are susceptible to the widest range of entomogenous fungi?", "c": ["Scale insects and whiteflies", "Houseflies", "Beetles", "Moths"], "a": 0, "r": {"p": 281}}
+      ]
+    },
+    {
+      "title": "(2) Control of Weeds by Plant Pathogenic Fungi",
+      "pages": [282, 286],
+      "questions": [
+        {"q": "Of over 300,000 plant species, about how many cause almost all our weed problems?", "c": ["200", "2,000", "20", "20,000"], "a": 0, "r": {"p": 282}},
+        {"q": "Of 117 common weeds in Canada, how many were introduced from other continents?", "c": ["More than three-quarters", "About a quarter", "About half", "None"], "a": 0, "r": {"p": 282}},
+        {"q": "The classical weed biocontrol strategy is to:", "c": ["Search the weed's homeland for pathogens that keep it in check there", "Breed new herbicides", "Use fire", "Introduce grazing animals"], "a": 0, "r": {"p": 282}},
+        {"q": "Which European rust suppressed blackberry in Chile?", "c": ["*Phragmidium violaceum*", "*Puccinia chondrillina*", "*Puccinia graminis*", "*Cronartium ribicola*"], "a": 0, "r": {"p": 282}},
+        {"q": "A rust that completes its life cycle on one host is called:", "c": ["Autoecious", "Heteroecious", "Macrocyclic", "Biotrophic"], "a": 0, "r": {"p": 282}},
+        {"q": "The *Puccinia chondrillina* program against rush skeleton weed has saved Australia how many times its cost?", "c": ["112", "12", "1,000", "2"], "a": 0, "r": {"p": 283}},
+        {"q": "Why was imported *Puccinia chondrillina* checked carefully before release?", "c": ["To make sure it wasn't carrying its hyperparasite", "To check it wasn't toxic", "To count spores", "To check its mating type"], "a": 0, "r": {"p": 284}},
+        {"q": "The first practical mycoherbicide, Collego, targets:", "c": ["Northern joint vetch", "Strangler vine", "Water hyacinth", "Dodder"], "a": 0, "r": {"p": 284}},
+        {"q": "Devine, used against strangler vine in Florida citrus, contains:", "c": ["*Phytophthora palmivora*", "*Colletotrichum gloeosporioides*", "*Cercospora rodmanii*", "*Puccinia*"], "a": 0, "r": {"p": 284}},
+        {"q": "Why is there concern about *Acremonium zonatum* against water hyacinth?", "c": ["It also attacks figs and coffee", "It is toxic to fish", "It doesn't harm hyacinth", "It spreads too slowly"], "a": 0, "r": {"p": 284}}
+      ]
+    },
+    {
+      "title": "(3) Fungi in Biocontrol of Other Fungi",
+      "pages": [286, 293],
+      "questions": [
+        {"q": "Which three reasons make fungi useful against other fungi?", "c": ["Mycoparasitism, competition, and cross-protection by preinoculation", "Toxicity, speed, and cheapness", "Flagella, spores, and sex", "Photosynthesis, nitrogen fixation, and chitin"], "a": 0, "r": {"p": 286}},
+        {"q": "*Sphaerellopsis filum* (*Darluca filum*) is a parasite of:", "c": ["Rust fungi", "Powdery mildews", "Insects", "Nematodes"], "a": 0, "r": {"p": 287}},
+        {"q": "Why was *Sphaerellopsis* likelier to control *Cronartium strobilinum* than *C. fusiforme*?", "c": ["*C. strobilinum* grows actively in oaks all summer, giving the parasite time", "*C. fusiforme* is immune", "*C. strobilinum* lives on pines", "*C. fusiforme* has no teliospores"], "a": 0, "r": {"p": 287}},
+        {"q": "*Cicinnobolus cesatii* is sprayed to control powdery mildew on greenhouse:", "c": ["Cucumbers", "Tomatoes", "Roses", "Lettuce"], "a": 0, "r": {"p": 288}},
+        {"q": "*Cladobotryum amazonense* controls witches' broom of:", "c": ["Cocoa", "Coffee", "Bananas", "Pines"], "a": 0, "r": {"p": 289}},
+        {"q": "How does *Trichoderma viride* deal with soil pathogens?", "c": ["It parasitizes their hyphae and produces an antibiotic", "It only competes for space", "It induces phytoalexins", "It produces auxins"], "a": 0, "r": {"p": 289}},
+        {"q": "In France, *Trichoderma* is used to control *Verticillium fungicola* on:", "c": ["Cultivated mushrooms", "Grapes", "Strawberries", "Apples"], "a": 0, "r": {"p": 290}},
+        {"q": "*Trichoderma* on fresh pruning wounds of plum trees prevents infection by *Stereum purpureum*, which causes:", "c": ["Silverleaf", "Black knot", "Brown rot", "Leaf curl"], "a": 0, "r": {"p": 290}},
+        {"q": "Inoculating eggplant potting medium with *Talaromyces flavus* reduced *Verticillium* wilt by:", "c": ["67%–76%", "6%–7%", "100%", "30%"], "a": 0, "r": {"p": 290}},
+        {"q": "Cross-protection with weak *Verticillium* strains works because the weak pathogen stimulates the plant to produce:", "c": ["Phytoalexins", "Auxins", "Mycotoxins", "Lignin"], "a": 0, "r": {"p": 290}},
+        {"q": "Peach canker in Ontario, caused by a *Cytospora* anamorph, gains access mainly through:", "c": ["Wounds such as pruning cuts", "Flowers", "Roots", "Insect bites"], "a": 0, "r": {"p": 291}},
+        {"q": "How is *Gliocladium roseum* delivered to strawberry flowers against grey mould?", "c": ["Honeybees leaving the hive are dusted with conidia", "Crop-dusting planes", "Drip irrigation", "Seed coating"], "a": 0, "r": {"p": 292}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Eliminating natural enemies with chemical pesticides can cause:", "c": ["Outbreaks of secondary pests and resurgence of the target", "Permanent pest eradication", "Increased crop resistance", "More pollinators"], "a": 0, "r": {"p": 276}},
+    {"s": 0, "q": "Most early biocontrol attempts pitted:", "c": ["One arthropod against another", "Fungi against weeds", "Bacteria against fungi", "Viruses against insects"], "a": 0, "r": {"p": 277}},
+    {"s": 0, "q": "Fungi often produce resting stages or saprobic phases that let them survive without hosts.", "c": ["True", "False"], "a": 0, "r": {"p": 277}},
+    {"s": 1, "q": "Entomogenous fungal spores enter an insect by:", "c": ["Germinating on the cuticle and penetrating the exoskeleton", "Being eaten only", "Entering through spiracles only", "Being injected by mites"], "a": 0, "r": {"p": 278}},
+    {"s": 1, "q": "Boverin contains about how many conidia per gram?", "c": ["30 billion", "30 million", "300", "3 trillion"], "a": 0, "r": {"p": 279}},
+    {"s": 1, "q": "*Beauveria bassiana* strain GHA (Mycotrol) is registered against:", "c": ["Grasshoppers, locusts, and Mormon crickets", "Cockroaches only", "Bark beetles only", "Mosquitoes only"], "a": 0, "r": {"p": 279}},
+    {"s": 1, "q": "Metaquino (*Metarhizium*) is widely used in Brazil against:", "c": ["Spittlebugs on sugarcane and pastures", "Coffee berry borer", "Leaf-cutting ants", "Termites"], "a": 0, "r": {"p": 279}},
+    {"s": 1, "q": "*Paecilomyces fumosoroseus* Apopka strain 97 is approved for use on:", "c": ["Ornamentals and non-food greenhouse crops", "Wheat fields", "Stored grain", "Forests"], "a": 0, "r": {"p": 280}},
+    {"s": 1, "q": "In Britain, which coelomycete in elm bark disrupts breeding of the bark beetles that carry Dutch elm disease?", "c": ["*Phomopsis oblonga*", "*Cytospora*", "*Coniothyrium minitans*", "*Sphaerellopsis filum*"], "a": 0, "r": {"p": 280}},
+    {"s": 1, "q": "Each year in Africa there are about how many malaria deaths, mostly children?", "c": ["Half a million", "Five thousand", "Fifty million", "Fifty thousand"], "a": 0, "r": {"p": 281}},
+    {"s": 2, "q": "Crop losses caused by weeds in the United States cost about how much a year?", "c": ["$14 billion", "$14 million", "$140 billion", "$1.4 billion"], "a": 0, "r": {"p": 282}},
+    {"s": 2, "q": "No herbicide is available to control which weeds?", "c": ["Annual grasses in small grains", "Dandelions", "Dicot weeds in grasses", "Water hyacinth"], "a": 0, "r": {"p": 282}},
+    {"s": 2, "q": "When the biocontrol fungus is an obligate biotroph, how is it deployed?", "c": ["Small amounts are introduced and it spreads naturally", "Mass produced and sprayed", "Injected into plants", "Applied as seed dressing"], "a": 0, "r": {"p": 284}},
+    {"s": 2, "q": "*Cercospora rodmanii* was found causing an epidemic on water hyacinth in Florida in:", "c": ["1976", "1996", "1956", "1986"], "a": 0, "r": {"p": 284}},
+    {"s": 2, "q": "In China, a *Colletotrichum* is used to control which parasitic flowering plant?", "c": ["Dodder (*Cuscuta*)", "Mistletoe", "Broomrape", "Witchweed"], "a": 0, "r": {"p": 285}},
+    {"s": 3, "q": "In some natural populations of *Cronartium strobilinum* on oak, what share of rust sori were infected by *Sphaerellopsis*?", "c": ["93%", "9%", "50%", "0.8%"], "a": 0, "r": {"p": 287}},
+    {"s": 3, "q": "Repeated fungicide sprays for peanut leaf spot can increase *Sclerotium rolfsii* stem blight because they:", "c": ["Also reduce the *Trichoderma* population", "Feed *Sclerotium*", "Damage peanut roots", "Kill bees"], "a": 0, "r": {"p": 290}},
+    {"s": 3, "q": "Spraying apple leaves with *Chaetomium globosum* reduces infection by:", "c": ["The apple scab fungus", "Fire blight", "Powdery mildew", "Brown rot"], "a": 0, "r": {"p": 290}},
+    {"s": 3, "q": "Weakly pathogenic *Verticillium nigrescens* induces resistance to *V. dahliae* in:", "c": ["Mint", "Cotton", "Eggplant", "Tomato"], "a": 0, "r": {"p": 290}},
+    {"s": 3, "q": "Each honeybee leaving the hive is dusted with about how many *Gliocladium* conidia?", "c": ["50,000", "500", "5 million", "50"], "a": 0, "r": {"p": 293}}
+  ],
+  "review": [
+    {"s": 0, "q": "Newer pesticides are less persistent than DDT but are often:", "c": ["Very toxic to non-target organisms, including humans", "Completely harmless", "Unable to kill pests", "Fungal in origin"], "a": 0, "r": {"p": 276}},
+    {"s": 0, "q": "Kendrick notes that fungi killing houseflies in September is little help because:", "c": ["The flies were a nuisance all summer and October frosts would end them anyway", "Flies are beneficial", "The fungus also kills bees", "September is too wet"], "a": 0, "r": {"p": 277}},
+    {"s": 1, "q": "Boverin also controls codling moth, whose larvae:", "c": ["Tunnel into young apples", "Eat potato leaves", "Bore into elm bark", "Feed on stored grain"], "a": 0, "r": {"p": 279}},
+    {"s": 1, "q": "In damp seasons, natural *Beauveria bassiana* helps control which lawn pest?", "c": ["Chinch bugs", "Japanese beetles", "Cutworms", "Ants"], "a": 0, "r": {"p": 279}},
+    {"s": 1, "q": "*Verticillium lecanii* causes natural epidemics in aphids and:", "c": ["Scale insects", "Mosquitoes", "Beetles", "Spiders"], "a": 0, "r": {"p": 280}},
+    {"s": 1, "q": "Biocontrol could be especially useful against arthropods in stored food because:", "c": ["Regular pesticides can't be used there", "Fungi grow best in silos", "Stored food is cold", "Arthropods there are immune to everything else"], "a": 0, "r": {"p": 281}},
+    {"s": 2, "q": "Rush skeleton weed (*Chondrilla juncea*) arrived in Australia in the early 1900s and by the 1940s:", "c": ["Some farmers had given up growing wheat", "It had died out", "It was used as fodder", "It was controlled by sheep"], "a": 0, "r": {"p": 283}},
+    {"s": 2, "q": "Collego spray suspensions contained 2–6 million conidia/mL and killed what share of sprayed plants?", "c": ["95%–100%", "10%–20%", "About half", "Under 5%"], "a": 0, "r": {"p": 284}},
+    {"s": 2, "q": "*Phomopsis convolvulus* is being tested in Canada against:", "c": ["Field bindweed", "Canada thistle", "Bracken", "Dandelion"], "a": 0, "r": {"p": 285}},
+    {"s": 3, "q": "*Tuberculina maxima* parasitizes which disease fungus?", "c": ["*Cronartium ribicola* (white pine blister rust)", "*Venturia inaequalis*", "*Botrytis cinerea*", "*Pythium*"], "a": 0, "r": {"p": 288}},
+    {"s": 3, "q": "Corn seed can be protected against *Fusarium* seedling blight by spores of:", "c": ["*Chaetomium globosum*", "*Penicillium*", "*Gliocladium*", "*Beauveria*"], "a": 0, "r": {"p": 290}},
+    {"s": 3, "q": "In 1980, Ontario imported how many tonnes of peaches, partly due to peach canker?", "c": ["57,000", "5,700", "570,000", "570"], "a": 0, "r": {"p": 291}}
+  ]
+}

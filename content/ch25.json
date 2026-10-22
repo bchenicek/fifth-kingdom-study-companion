@@ -1,0 +1,125 @@
+{
+  "n": 25,
+  "title": "But How Do You Actually Do Mycology?",
+  "pages": [429, 454],
+  "sections": [
+    {
+      "title": "Introduction and Photography",
+      "pages": [429, 430],
+      "questions": [
+        {"q": "Microscopic fungi can be sampled from almost any dry substrate using:", "c": ["Transparent adhesive tape", "A cotton swab", "A plant press", "Melzer's reagent"], "a": 0, "r": {"p": 429}},
+        {"q": "On North America's west coast, macrofungi can be found for up to how many months a year?", "c": ["Ten", "Three", "Six", "Twelve"], "a": 0, "r": {"p": 429}},
+        {"q": "Which camera feature is essential to get close enough to photograph fungi?", "c": ["A macro (or supermacro) setting", "A zoom lens", "Black-and-white mode", "A tripod"], "a": 0, "r": {"p": 429, "h": "Photography"}},
+        {"q": "A built-in flash matters because:", "c": ["Woodlands are apt to be dark", "Fungi glow", "It kills insects", "It dries specimens"], "a": 0, "r": {"p": 429}},
+        {"q": "Kendrick warns that most simple point-and-shoot film cameras:", "c": ["Can't focus close enough to get useful images of fungi", "Are best for fungi", "Damage specimens", "Need special film"], "a": 0, "r": {"p": 430}}
+      ]
+    },
+    {
+      "title": "Collecting Fungi",
+      "pages": [430, 432],
+      "questions": [
+        {"q": "Specimens kept permanently in a herbarium so others can study them are called:", "c": ["Voucher specimens", "Type cultures", "Field notes", "Spore prints"], "a": 0, "r": {"p": 430, "h": "Collecting"}},
+        {"q": "Europe has been collecting and keeping fungi for over 200 years, allowing it to publish:", "c": ["Red Lists of declining species", "Edibility guides", "Mycotoxin limits", "Cultivation manuals"], "a": 0, "r": {"p": 430}},
+        {"q": "For collecting mushrooms, you should carry them in:", "c": ["A basket or other hard-sided container", "A plastic bag", "Your pockets", "A sealed jar"], "a": 0, "r": {"p": 431, "h": "Collecting Large Fungi"}},
+        {"q": "Why dig down when collecting a mushroom growing on the ground?", "c": ["Features like a basal sheath (volva) or a deep stipe are diagnostic", "To get the mycelium for eating", "To avoid insects", "To find truffles"], "a": 0, "r": {"p": 431}},
+        {"q": "Kendrick suggests not collecting more than about how many specimens at once?", "c": ["Twenty", "Five", "One hundred", "Two"], "a": 0, "r": {"p": 431}},
+        {"q": "To make a spore print, you place the cap:", "c": ["Gill side down on white paper, covered overnight", "Gill side up in water", "In Melzer's reagent", "In a fruit dryer"], "a": 0, "r": {"p": 431}},
+        {"q": "In Melzer's reagent, amyloid spores stain:", "c": ["Blue-grey", "Red", "Green", "Not at all"], "a": 0, "r": {"p": 432}},
+        {"q": "Downy mildews and many zygomycetes are too delicate to press, so you should:", "c": ["Make a slide preparation while they are sporulating", "Freeze them", "Dry them in an oven", "Store them in alcohol"], "a": 0, "r": {"p": 432, "h": "Collecting Microscopic Fungi"}}
+      ]
+    },
+    {
+      "title": "Preserving, Documenting, and Using the Microscope",
+      "pages": [432, 435],
+      "questions": [
+        {"q": "The two secrets to drying macrofungi are gentle warmth and:", "c": ["Moving air", "Darkness", "Salt", "Pressure"], "a": 0, "r": {"p": 433, "h": "Preserving and Documenting"}},
+        {"q": "Why shouldn't you dry mushrooms in an oven?", "c": ["Without moving air you'll just cook them", "Ovens are too cold", "It destroys spores", "It is illegal"], "a": 0, "r": {"p": 433}},
+        {"q": "Dried specimen tissue can be revived for microscopy by gently heating it in dilute:", "c": ["KOH", "Ethanol", "Salt water", "Vinegar"], "a": 0, "r": {"p": 433}},
+        {"q": "Dried specimens must be protected from moisture and from:", "c": ["Dermestid beetles", "Light", "Mice", "Bacteria only"], "a": 0, "r": {"p": 433}},
+        {"q": "Kendrick recommends writing collection dates as:", "c": ["Year, then month, then day", "Day, month, year", "Month, day, year", "Season only"], "a": 0, "r": {"p": 433}},
+        {"q": "The advantage of a dissecting microscope over a high-power one is:", "c": ["Room to manipulate the specimen under the objective", "Higher magnification", "Oil immersion", "Built-in camera"], "a": 0, "r": {"p": 433, "h": "Using the Microscope—Slide Preparations"}},
+        {"q": "For ascomycetes and moulds, a common mountant is:", "c": ["Lactophenol with cotton blue", "Melzer's reagent only", "Water", "Immersion oil"], "a": 0, "r": {"p": 434}},
+        {"q": "Measurements of spores and other structures require a microscope fitted with a calibrated:", "c": ["Eyepiece graticule", "Mechanical stage", "Dissecting needle", "Camera"], "a": 0, "r": {"p": 434}},
+        {"q": "Tape lifts are useful for moulds because they:", "c": ["Show conidiophores and conidia in a more or less undisturbed arrangement", "Kill contaminants", "Stain spores", "Magnify structures"], "a": 0, "r": {"p": 435}}
+      ]
+    },
+    {
+      "title": "Describing a Fungus",
+      "pages": [435, 443],
+      "questions": [
+        {"q": "Why does Kendrick think naming fungi after friends is a bad idea?", "c": ["It tells you nothing about the fungus", "It is forbidden by the Code", "Friends may object", "Names must be Greek"], "a": 0, "r": {"p": 435, "h": "Describing a Fungus"}},
+        {"q": "Kendrick's first new genus *Sympodiella* was named for its:", "c": ["Sympodial growth of the conidiophore", "Habitat on pine needles", "Discoverer", "Colour"], "a": 0, "r": {"p": 436}},
+        {"q": "A first description of a new genus should be:", "c": ["Qualitative and generalized, without measurements", "Full of precise measurements", "Only in Latin", "Only a drawing"], "a": 0, "r": {"p": 436}},
+        {"q": "A Latin diagnosis is still required to name a new fungus.", "c": ["True", "False"], "a": 1, "r": {"p": 436}},
+        {"q": "*Zanclospora*, Kendrick's worked example, was described with Stan Hughes from:", "c": ["New Zealand", "Canada", "Brazil", "South Africa"], "a": 0, "r": {"p": 436}},
+        {"q": "Species measurements in a description are given as:", "c": ["Ranges, followed by means in brackets", "A single average", "Maximum values only", "Approximate words"], "a": 0, "r": {"p": 436}},
+        {"q": "Stephen Jay Gould's quotation praises Dobzhansky to emphasize the value of:", "c": ["Detailed taxonomic and natural-history knowledge", "Quantitative lab work over fieldwork", "Molecular sequencing", "Statistics"], "a": 0, "r": {"p": 442}}
+      ]
+    },
+    {
+      "title": "Culturing and Media",
+      "pages": [443, 445],
+      "questions": [
+        {"q": "Growing a fungus in pure culture is also called:", "c": ["Axenic culture", "Dual culture", "Mixed culture", "Field culture"], "a": 0, "r": {"p": 443, "h": "Culturing and Media"}},
+        {"q": "At home, media and dishes can be sterilized in a:", "c": ["Pressure cooker for 15 minutes at 15 pounds pressure", "Microwave for 1 minute", "Freezer", "Dishwasher"], "a": 0, "r": {"p": 443}},
+        {"q": "Why is culturing difficult in an ordinary house?", "c": ["The air contains many fungal spores", "Houses are too cold", "Tap water is toxic", "Light inhibits fungi"], "a": 0, "r": {"p": 443}},
+        {"q": "Fungi like powdery mildews and arbuscular mycorrhizal fungi can be cultured only:", "c": ["In association with their hosts (dual culture)", "On potato dextrose agar", "In liquid malt", "Under UV light"], "a": 0, "r": {"p": 443}},
+        {"q": "Kendrick waited how long for shiitake to fruit on his inoculated oak log?", "c": ["Three years", "Three weeks", "Three months", "Ten years"], "a": 0, "r": {"p": 445}}
+      ]
+    },
+    {
+      "title": "Molecular Techniques in Fungal Taxonomy",
+      "pages": [445, 447],
+      "questions": [
+        {"q": "For DNA extraction, mycelium is first ground to a fine powder in:", "c": ["Liquid nitrogen", "Ethanol", "Sand and water", "Agar"], "a": 0, "r": {"p": 446, "h": "DNA Isolation (Courtesy Dr. Karin Jacobs)"}},
+        {"q": "Which commercial medium works best for growing most fungi for DNA extraction?", "c": ["PDA (potato dextrose agar)", "Tap water agar", "Rabbit dung agar", "Sabouraud's agar"], "a": 0, "r": {"p": 445}},
+        {"q": "The presence of extracted DNA is confirmed by:", "c": ["Agarose gel electrophoresis", "Microscopy", "Spore printing", "Taste"], "a": 0, "r": {"p": 446}},
+        {"q": "For most fungal phylogenetic studies, the target gene region has been:", "c": ["Nuclear rDNA (including ITS)", "Mitochondrial genes only", "Chitin synthase", "Insulin genes"], "a": 0, "r": {"p": 446, "h": "PCR"}},
+        {"q": "PCR increases copies of a gene through repeated cycles of:", "c": ["Denaturing and reannealing DNA strands", "Freezing and thawing", "Cutting and pasting", "Staining and washing"], "a": 0, "r": {"p": 446}},
+        {"q": "The most commonly used software for analyzing aligned sequences is:", "c": ["PAUP*", "Excel", "BLAST only", "Photoshop"], "a": 0, "r": {"p": 447, "h": "Sequencing"}}
+      ]
+    },
+    {
+      "title": "Research Problems and Careers in Mycology",
+      "pages": [448, 452],
+      "questions": [
+        {"q": "Kendrick's research questions arose from repeatedly seeing which little lichenized mushroom on a hike?", "c": ["*Lichenomphalia ericetorum*", "*Amanita muscaria*", "*Coprinus comatus*", "*Heterotextus*"], "a": 0, "r": {"p": 448, "h": "How Do We Come Up with Research Problems in Mycology?"}},
+        {"q": "The algal partner of *Lichenomphalia ericetorum* is:", "c": ["*Coccomyxa*", "*Trebouxia*", "*Nostoc*", "*Chlorella*"], "a": 0, "r": {"p": 448}},
+        {"q": "Kendrick summarizes the process of science as:", "c": ["Observe, question, hypothesize, test, rehypothesize", "Read, memorize, repeat", "Guess and publish", "Collect, eat, describe"], "a": 0, "r": {"p": 449}},
+        {"q": "In 2002, the Jobs Rated Almanac rated which job the single best?", "c": ["Biologist", "Doctor", "Lawyer", "Engineer"], "a": 0, "r": {"p": 450, "h": "Jobs, Careers, Avocations: What Can You Do for a Living If You Are Trained as a Mycologist?"}},
+        {"q": "The list of careers open to mycologists was compiled by:", "c": ["The Mycological Society of America", "The British Mycological Society", "Sandoz", "The FDA"], "a": 0, "r": {"p": 450}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Digital photography's advantages include being able to see the picture you just took and:", "c": ["Take many pictures and delete the poor ones", "Avoid needing specimens", "Identify fungi automatically", "Skip the microscope"], "a": 0, "r": {"p": 430}},
+    {"s": 0, "q": "Kendrick found that a phone or small-lens camera can take good pictures through a:", "c": ["Dissecting microscope eyepiece", "Telescope", "Magnifying glass only", "Window"], "a": 0, "r": {"p": 430}},
+    {"s": 1, "q": "A photograph can fully replace an actual specimen for identification.", "c": ["True", "False"], "a": 1, "r": {"p": 430}},
+    {"s": 1, "q": "Cutting a specimen in half vertically reveals features such as:", "c": ["Gill attachment, latex, and hollow stipe", "Spore colour", "DNA", "Age"], "a": 0, "r": {"p": 431}},
+    {"s": 1, "q": "Microscopic fungi on leaves are preserved:", "c": ["Pressed on herbarium sheets, like plants", "In liquid nitrogen", "In fruit dryers", "As tape lifts only"], "a": 0, "r": {"p": 432}},
+    {"s": 2, "q": "Which mushroom won't dry properly because it self-digests anyway?", "c": ["*Coprinus comatus*", "*Amanita muscaria*", "*Boletus edulis*", "*Morchella*"], "a": 0, "r": {"p": 433}},
+    {"s": 2, "q": "Kendrick suggests documented dried collections should ultimately be:", "c": ["Donated to the nearest herbarium", "Kept at home", "Discarded after identification", "Sold"], "a": 0, "r": {"p": 433}},
+    {"s": 2, "q": "A better way to apply a cover slip, trapping fewer air bubbles, is to:", "c": ["Invert the slide and lower it onto the cover slip", "Drop the cover slip from a height", "Use two cover slips", "Add more mountant"], "a": 0, "r": {"p": 434}},
+    {"s": 2, "q": "When measuring a structure, how many should you measure at minimum?", "c": ["At least ten (preferably twenty)", "One", "Three", "One hundred"], "a": 0, "r": {"p": 434}},
+    {"s": 2, "q": "When making slide preps of moulds, take samples from:", "c": ["The edge of the colony", "The centre of the colony", "The underside of the agar", "Old dried colonies"], "a": 0, "r": {"p": 435}},
+    {"s": 3, "q": "Kendrick's species epithet *acicola* means:", "c": ["Needle dweller", "Little sympodium", "Sharp spore", "Pine lover"], "a": 0, "r": {"p": 436}},
+    {"s": 3, "q": "Under which code are fungi still named?", "c": ["The International Code of Botanical Nomenclature", "The Zoological Code", "The Bacteriological Code", "No code"], "a": 0, "r": {"p": 436}},
+    {"s": 3, "q": "One easy way to tell *Zanclospora novae-zelandiae* from *Z. brevispora* is:", "c": ["Conidia length (much longer in *Z. novae-zelandiae*)", "Colour of colonies", "Host country", "Presence of phialides"], "a": 0, "r": {"p": 440}},
+    {"s": 4, "q": "Kendrick's advice for learning specialized techniques is to:", "c": ["Find a specialist and ply them with questions", "Teach yourself entirely", "Buy kits only", "Avoid professionals"], "a": 0, "r": {"p": 445}},
+    {"s": 5, "q": "In the CTAB extraction method, proteins are removed by extraction with:", "c": ["Phenol and chloroform", "Ethanol only", "Water", "Salt"], "a": 0, "r": {"p": 446}},
+    {"s": 5, "q": "Ready-To-Go PCR beads have the advantage that:", "c": ["Contamination of solutions is avoided", "No DNA is needed", "No thermocycler is needed", "They are cheaper"], "a": 0, "r": {"p": 446}},
+    {"s": 6, "q": "*Lichenomphalia* colonies near Kendrick's trail seemed to range in extent from about:", "c": ["10 cm to 2 m", "1 mm to 1 cm", "10 m to 100 m", "1 km"], "a": 0, "r": {"p": 449}}
+  ],
+  "review": [
+    {"s": 0, "q": "Kendrick recommends an SD card of at least:", "c": ["4 GB", "4 MB", "400 GB", "40 KB"], "a": 0, "r": {"p": 429}},
+    {"s": 1, "q": "Kendrick's undergraduates once found a fungus new to science, which was described later by:", "c": ["A European mycologist", "Kendrick himself", "The students", "Nobody"], "a": 0, "r": {"p": 430}},
+    {"s": 1, "q": "Probably the best single book for identifying mushrooms, especially in western North America, is:", "c": ["*Mushrooms Demystified* by Arora", "*Funghi Velenosi*", "*Mushrooms for Color*", "*Dictionary of the Fungi*"], "a": 0, "r": {"p": 431}},
+    {"s": 2, "q": "Under the 40× objective in Kendrick's microscope, each graticule division measures:", "c": ["2.5 μm", "10 μm", "1 μm", "25 μm"], "a": 0, "r": {"p": 434}},
+    {"s": 2, "q": "For basidiomycetes, a usual mountant is dilute KOH or:", "c": ["Melzer's reagent", "Cotton blue", "PVLG", "Glycerin jelly"], "a": 0, "r": {"p": 434}},
+    {"s": 3, "q": "Kendrick and Hughes described *Zanclospora* in:", "c": ["1965", "1995", "1925", "2002"], "a": 0, "r": {"p": 436}},
+    {"s": 3, "q": "How many *Zanclospora* taxa were keyed out by 2002?", "c": ["Seven", "Two", "Twenty", "One"], "a": 0, "r": {"p": 441}},
+    {"s": 4, "q": "Recipes for many culture media are listed under 'media' in:", "c": ["The *Dictionary of the Fungi*", "*Mushrooms Demystified*", "The Bible", "*Methods in Microbiology* only"], "a": 0, "r": {"p": 443}},
+    {"s": 5, "q": "Universal primers for 18S, 28S, and ITS regions were published by:", "c": ["White et al. (1990)", "Raeder and Broda", "Sambrook et al.", "Talbot et al."], "a": 0, "r": {"p": 446}},
+    {"s": 6, "q": "*Lichenomphalia ericetorum* seemed to grow mainly on:", "c": ["Well-rotted wood, often stumps near the ground", "Living leaves", "Dung", "Bare rock"], "a": 0, "r": {"p": 449}}
+  ]
+}

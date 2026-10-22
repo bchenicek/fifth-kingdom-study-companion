@@ -1,0 +1,97 @@
+{
+  "n": 18,
+  "title": "Fungi as Food: Mycophagy",
+  "pages": [345, 358],
+  "sections": [
+    {
+      "title": "Introduction and the Cultivated Mushrooms",
+      "pages": [345, 351],
+      "questions": [
+        {"q": "Of more than 10,000 species of fleshy fungi, how many are lethal?", "c": ["Only a handful", "About half", "About 1,000", "None"], "a": 0, "r": {"p": 345}},
+        {"q": "Folk tests such as 'if the cap peels, it's edible' are:", "c": ["Misleading and dangerous fictions", "Reliable for agarics", "Reliable for boletes only", "Approved by NAMA"], "a": 0, "r": {"p": 345}},
+        {"q": "Why should you eat only small amounts of a new mushroom the first few times?", "c": ["Some people have severe allergic reactions even to species generally considered safe", "To make it last", "Large amounts are always toxic", "To test cooking times"], "a": 0, "r": {"p": 346}},
+        {"q": "Why can't chanterelles or matsutake be brought into cultivation easily?", "c": ["They are mycorrhizal and fruit only with their tree partner", "They are poisonous", "They grow too fast", "They need salt water"], "a": 0, "r": {"p": 346}},
+        {"q": "Mushroom cultivation can yield roughly how much protein per hectare?", "c": ["80,000 kg/ha", "80 kg/ha", "660 kg/ha", "8,000,000 kg/ha"], "a": 0, "r": {"p": 346}},
+        {"q": "Why should cultivated *Agaricus* not be eaten raw?", "c": ["It contains a carcinogenic ion destroyed by cooking", "It is indigestible", "It contains amanitin", "It causes allergies"], "a": 0, "r": {"p": 347}},
+        {"q": "What snag did *Pleurotus* growers run into?", "c": ["The basidiospores are extremely allergenic to workers", "It won't fruit indoors", "It tastes bitter", "It kills nematodes"], "a": 0, "r": {"p": 347}},
+        {"q": "For about 2,000 years, shiitake has been cultivated on:", "c": ["Stacked oak and chestnut logs", "Composted manure", "Rice straw", "Pine needles"], "a": 0, "r": {"p": 347}},
+        {"q": "The paddy straw mushroom (*Volvariella volvacea*) is recognized in Chinese food by its:", "c": ["Well-developed volva enveloping the young fruit body", "Long thin stalks", "Ear-like shape", "Black colour"], "a": 0, "r": {"p": 347}},
+        {"q": "Cultivated enokitake (*Flammulina velutipes*) looks like:", "c": ["Long narrow stipes with tiny caps", "A large brown bolete", "A jelly ear", "A puffball"], "a": 0, "r": {"p": 347}},
+        {"q": "Something in the cloud ear (*Auricularia polytricha*) has been suggested to:", "c": ["Reduce blood clotting tendencies", "Raise blood pressure", "Cause hallucinations", "Kill bacteria"], "a": 0, "r": {"p": 348}},
+        {"q": "Truffle odour contains α-androstenol, which is also a pheromone of:", "c": ["Rutting boars", "Bees", "Deer", "Moths"], "a": 0, "r": {"p": 349}},
+        {"q": "Morels were first persuaded to fruit in culture in:", "c": ["1982", "1950", "2005", "1889"], "a": 0, "r": {"p": 351}},
+        {"q": "*Dictyophora duplicata*, a stinkhorn prized in China, is called:", "c": ["Zhu-sun ('bamboo sprouts')", "Yin-er", "Mu-er", "Ling chi"], "a": 0, "r": {"p": 351}}
+      ]
+    },
+    {
+      "title": "Wild Edible Fungi Not Commercially Cultivated",
+      "pages": [352, 355],
+      "questions": [
+        {"q": "*Boletus edulis* is the cep of France and the ____ of Italy.", "c": ["Porcini", "Girolle", "Matsutake", "Steinpilz"], "a": 0, "r": {"p": 352}},
+        {"q": "Which boletes should generally be avoided?", "c": ["Those with reddish or orange pore mouths or flesh that bruises blue", "All yellow ones", "Those growing under conifers", "Those with tubes"], "a": 0, "r": {"p": 352}},
+        {"q": "Japanese matsutake is *Tricholoma matsutake*. What does Japan import from western North America?", "c": ["*Tricholoma magnivelare*", "*Boletus edulis*", "*Cantharellus cibarius*", "*Morchella*"], "a": 0, "r": {"p": 352}},
+        {"q": "Grade 1 matsutake are:", "c": ["Tight buttons more than 6 cm long with no veil evident", "Expanded caps", "Wormy but firm", "Caps with broken veils"], "a": 0, "r": {"p": 352}},
+        {"q": "Chanterelles are recognized by their yellow, funnel-shaped fruit bodies.", "c": ["True", "False"], "a": 0, "r": {"p": 353}},
+        {"q": "The blewit, sold in English markets despite British mycophobia, is:", "c": ["*Clitocybe nuda*, coloured lilac to purple", "*Lactarius deliciosus*", "*Marasmius oreades*", "*Coprinus comatus*"], "a": 0, "r": {"p": 353}},
+        {"q": "The common name 'honey mushroom' for *Armillaria mellea* refers to its:", "c": ["Colour, not flavour", "Sweet taste", "Attraction to bees", "Sticky cap"], "a": 0, "r": {"p": 354}},
+        {"q": "Which *Amanita* was the favourite mushroom of Roman emperors?", "c": ["*Amanita caesarea*", "*Amanita phalloides*", "*Amanita virosa*", "*Amanita muscaria*"], "a": 0, "r": {"p": 354}},
+        {"q": "Perhaps the largest edible mushroom on record, with a 66 cm cap, was a:", "c": ["*Termitomyces* from Zambia", "Giant puffball from Ontario", "*Boletus* from Oregon", "*Agaricus* from France"], "a": 0, "r": {"p": 354}},
+        {"q": "The Araucans of Chile make an alcoholic drink from *Cyttaria* because it contains:", "c": ["Up to 15% fermentable sugars and surface *Saccharomyces* yeast", "Ethanol already", "Hallucinogens", "Hops"], "a": 0, "r": {"p": 354}}
+      ]
+    },
+    {
+      "title": "A Warning, and Other Edible Fungi",
+      "pages": [355, 356],
+      "questions": [
+        {"q": "After Chernobyl, wild mushrooms in Poland and Russia contain high levels of:", "c": ["Radioactive cesium", "Lead", "Mercury", "Aflatoxin"], "a": 0, "r": {"p": 355, "h": "A Warning"}},
+        {"q": "The Ames test showed some edible mushrooms, including *Agaricus* and shiitake, contain:", "c": ["Mutagens", "Antibiotics", "Vitamins only", "Hallucinogens"], "a": 0, "r": {"p": 355}},
+        {"q": "Quorn is made from:", "c": ["Mycelium of a *Fusarium graminearum* strain", "Yeast", "Mushroom stems", "Soy and fungi mixed"], "a": 0, "r": {"p": 355, "h": "Other Edible Fungi"}},
+        {"q": "How is the nucleic acid content of Quorn mycelium reduced from 10% to 1%?", "c": ["Heating to 64°C so the fungus's own ribonucleases break it down", "Washing in alcohol", "Freezing", "Adding salt"], "a": 0, "r": {"p": 356}},
+        {"q": "Eating more than about 2 grams of nucleic acid a day can cause hyperuricaemia, possibly leading to gout.", "c": ["True", "False"], "a": 0, "r": {"p": 356}},
+        {"q": "Yeast protein is nutritionally inferior because it is low in:", "c": ["Methionine and tryptophan", "Lysine", "Leucine", "All amino acids"], "a": 0, "r": {"p": 356}}
+      ]
+    },
+    {
+      "title": "Animal Mycophagy",
+      "pages": [356, 357],
+      "questions": [
+        {"q": "If a mushroom has been nibbled by slugs or squirrels, it must be edible for humans.", "c": ["True", "False"], "a": 1, "r": {"p": 356}},
+        {"q": "Why were flying squirrel remains found in bobcat and coyote faeces?", "c": ["Squirrels were lured to the ground by the smell of ripe truffles", "Bobcats climb trees", "Squirrels ate poison mushrooms", "Coyotes eat truffles"], "a": 0, "r": {"p": 356}},
+        {"q": "Larvae of *Helomyza* flies will eat only:", "c": ["Truffles", "Boletes", "Dung fungi", "Rusts"], "a": 0, "r": {"p": 357}},
+        {"q": "Migrating larks in Kuwait eat desert truffles of which genus?", "c": ["*Phaeangium*", "*Tuber*", "*Terfezia*", "*Elaphomyces*"], "a": 0, "r": {"p": 357}},
+        {"q": "Which small animals have been found preferring a diet of fungal spores and mycelium?", "c": ["Springtails and oribatid mites", "Earthworms", "Spiders", "Leeches"], "a": 0, "r": {"p": 357}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Superstitions linking toadstools with fairies and witches in the English-speaking world probably:", "c": ["Saved many lives over the centuries", "Caused many poisonings", "Led to mushroom farming", "Came from Central Europe"], "a": 0, "r": {"p": 345}},
+    {"s": 0, "q": "Representatives of only about how many genera are regarded as prime edible fungi?", "c": ["Twenty", "Two hundred", "Five", "Two thousand"], "a": 0, "r": {"p": 345}},
+    {"s": 0, "q": "*Agaricus* was domesticated in the seventeenth century by the:", "c": ["French", "Chinese", "Japanese", "Romans"], "a": 0, "r": {"p": 346}},
+    {"s": 0, "q": "Nuclear missile silos at Császár in Hungary are now used to:", "c": ["Grow mushrooms exported to Germany", "Store truffles", "Make cheese", "Brew beer"], "a": 0, "r": {"p": 346}},
+    {"s": 0, "q": "Nameko is the Japanese name for which cultivated mushroom?", "c": ["*Pholiota nameko*", "*Flammulina velutipes*", "*Lentinula edodes*", "*Tremella fuciformis*"], "a": 0, "r": {"p": 347}},
+    {"s": 0, "q": "Kendrick found the smell of white truffle reminiscent of:", "c": ["An overripe sock", "Fresh watercress", "Cinnamon", "Chocolate"], "a": 0, "r": {"p": 348}},
+    {"s": 0, "q": "French truffle harvests fell from 2,000 tonnes in 1889 to about:", "c": ["200 tonnes in 1976", "1,000 tonnes in 1976", "20 tonnes in 1976", "Nothing by 1950"], "a": 0, "r": {"p": 348}},
+    {"s": 0, "q": "*Ustilago esculenta* is inoculated into wild rice in China, making its stem:", "c": ["Thick and fleshy, eaten as a vegetable", "Black and powdery", "Shrivelled", "Bioluminescent"], "a": 0, "r": {"p": 351}},
+    {"s": 0, "q": "*Ganoderma*, called reishi or ling chi, is used in China mainly:", "c": ["For medicinal purposes", "As a staple food", "As a dye", "For brewing"], "a": 0, "r": {"p": 351}},
+    {"s": 1, "q": "Around 1900, over 500 of 850 tonnes of mushrooms in the Munich market were:", "c": ["*Boletus edulis* and *Leccinum scabrum*", "Chanterelles", "Morels", "*Agaricus*"], "a": 0, "r": {"p": 352}},
+    {"s": 1, "q": "Kendrick thought the matsutake aroma smelled like:", "c": ["Fresh watercress", "Cinnamon", "Overripe socks", "Apricots"], "a": 0, "r": {"p": 352}},
+    {"s": 1, "q": "Which black relative of the chanterelle, the horn of plenty, reputedly tastes better?", "c": ["*Craterellus cornucopioides*", "*Cantharellus subalbidus*", "*Gomphus*", "*Hydnum*"], "a": 0, "r": {"p": 353}},
+    {"s": 1, "q": "*Lactarius deliciosus* appears in frescoes excavated at:", "c": ["Pompeii", "Athens", "Knossos", "Ostia"], "a": 0, "r": {"p": 353}},
+    {"s": 1, "q": "Agrippina's mushroom plot failed when Claudius vomited, so poison was finally given by:", "c": ["Enema from the imperial physician", "Wine", "A second mushroom dish", "An arrow"], "a": 0, "r": {"p": 354}},
+    {"s": 2, "q": "Wild mushrooms anywhere tend to accumulate which toxic element?", "c": ["Cadmium", "Sodium", "Iodine", "Fluorine"], "a": 0, "r": {"p": 355}},
+    {"s": 2, "q": "Quorn dried mycelium contains about how much protein?", "c": ["45%", "5%", "90%", "20%"], "a": 0, "r": {"p": 355}},
+    {"s": 3, "q": "Some amphipods graze preferentially on the conidiophores of:", "c": ["Amphibious hyphomycetes on stream leaves", "Mushrooms", "Rusts", "Lichens"], "a": 0, "r": {"p": 357}}
+  ],
+  "review": [
+    {"s": 0, "q": "Kendrick says you should eat a mushroom only if you know its:", "c": ["Scientific name (binomial) with considerable precision", "Common name", "Colour", "Smell"], "a": 0, "r": {"p": 345}},
+    {"s": 0, "q": "Which two genera are cited as containing both prized edibles and dangerous members?", "c": ["*Agaricus* and *Amanita*", "*Morchella* and *Tuber*", "*Boletus* and *Russula*", "*Pleurotus* and *Lentinula*"], "a": 0, "r": {"p": 345}},
+    {"s": 0, "q": "Annual world production of *Agaricus* is estimated at about:", "c": ["1,000,000 tonnes", "10,000 tonnes", "100 million tonnes", "100,000 tonnes"], "a": 0, "r": {"p": 346}},
+    {"s": 0, "q": "In southeast Asia, about how many growers produce shiitake?", "c": ["200,000", "2,000", "20 million", "200"], "a": 0, "r": {"p": 347}},
+    {"s": 0, "q": "Molière gave the old French name for a truffle to the title character of which comedy?", "c": ["*Tartuffe*", "*The Miser*", "*The Misanthrope*", "*Don Juan*"], "a": 0, "r": {"p": 348}},
+    {"s": 0, "q": "In Michigan, which morel is hunted first in mid-May?", "c": ["The black morel, *Morchella angusticeps*", "The white morel, *Morchella esculenta*", "*Verpa bohemica*", "*Gyromitra esculenta*"], "a": 0, "r": {"p": 350}},
+    {"s": 0, "q": "*Tremella fuciformis*, used in soups as a tonic in China, is called:", "c": ["Silver ear (yin-er)", "Cloud ear", "Bamboo sprouts", "Ling chi"], "a": 0, "r": {"p": 351}},
+    {"s": 1, "q": "The fairy ring mushroom, usually dried as a flavouring, is:", "c": ["*Marasmius oreades*", "*Clitocybe nuda*", "*Agaricus campestris*", "*Coprinus comatus*"], "a": 0, "r": {"p": 353}},
+    {"s": 1, "q": "Shaggy manes must be eaten before:", "c": ["The gills darken and deliquesce", "They are cooked", "Spring", "The cap opens fully"], "a": 0, "r": {"p": 353}},
+    {"s": 1, "q": "The giant puffball, sold in Ontario markets, is edible when its interior is:", "c": ["Like marshmallow in colour and texture", "Olive brown and powdery", "Purple", "Hollow"], "a": 0, "r": {"p": 353}}
+  ]
+}

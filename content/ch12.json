@@ -1,0 +1,147 @@
+{
+  "n": 12,
+  "title": "Fungal Diseases of Crops and Trees",
+  "pages": [247, 264],
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [247, 249],
+      "questions": [
+        {"q": "Crops in Ohio are attacked by about how many fungal diseases?", "c": ["1,000", "100", "50", "10,000"], "a": 0, "r": {"p": 247}},
+        {"q": "About what share of all plant disease literature concerns fungal diseases?", "c": ["60%", "10%", "30%", "90%"], "a": 0, "r": {"p": 247}},
+        {"q": "Why are diseases more of a problem in monocultures than in natural communities?", "c": ["Pathogens with limited host ranges find new hosts much more readily", "Monocultures have poorer soil", "Monocultures lack insects", "Natural plants are all immune"], "a": 0, "r": {"p": 247}},
+        {"q": "The 'bayoud' fungus, *Fusarium oxysporum*, has killed millions of which trees in Morocco and Algeria?", "c": ["Date palms", "Olive trees", "Cork oaks", "Cedars"], "a": 0, "r": {"p": 249}},
+        {"q": "'Brewer's droop' of hops is caused by:", "c": ["*Verticillium*", "*Peronospora*", "*Puccinia*", "*Botrytis*"], "a": 0, "r": {"p": 249}},
+        {"q": "Finding a fungus fruiting on a diseased plant is enough to prove it caused the disease.", "c": ["True", "False"], "a": 1, "r": {"p": 249}},
+        {"q": "Which is one of Koch's postulates?", "c": ["The fungus reinoculated onto healthy plants must produce the original disease", "The fungus must produce a toxin", "The fungus must have a teleomorph", "The disease must be seen in two countries"], "a": 0, "r": {"p": 249}},
+        {"q": "Southern corn blight in 1970 destroyed up to what share of the crop in several states?", "c": ["70%", "7%", "30%", "100%"], "a": 0, "r": {"p": 248}}
+      ]
+    },
+    {
+      "title": "Classification of Plant Diseases",
+      "pages": [249, 253],
+      "questions": [
+        {"q": "Long-associated hosts and parasites tend to reach a balanced relationship. When does catastrophe usually strike?", "c": ["When a pathogen meets a new, related host lacking resistance genes", "When the host is very old", "When the climate is dry", "When the fungus becomes homothallic"], "a": 0, "r": {"p": 250, "h": "Host-pathogen relationships"}},
+        {"q": "Panama disease of bananas (*Fusarium oxysporum* var. *cubense*) can survive in soil without its host for at least:", "c": ["Forty years", "Four years", "One season", "Four hundred years"], "a": 0, "r": {"p": 250}},
+        {"q": "Fungi that are basically saprobic but produce toxins specific to susceptible host cells are:", "c": ["Necrotrophs", "Obligate biotrophs", "Facultative parasites only", "Endophytes"], "a": 0, "r": {"p": 250}},
+        {"q": "Rust fungi like *Puccinia* are examples of:", "c": ["Obligate biotrophs", "Necrotrophs", "Facultative parasites", "Saprobes"], "a": 0, "r": {"p": 250}},
+        {"q": "Why was barberry widely eradicated in North America?", "c": ["To break the life cycle of wheat stem rust", "It was poisonous to cattle", "It hosted apple scab", "It competed with wheat"], "a": 0, "r": {"p": 250, "h": "Life cycle studies"}},
+        {"q": "Kendrick calls which stage the 'Achilles' heel' of *Phytophthora infestans*?", "c": ["The short-lived swimming zoospores", "The oospores", "The hyphae in the tuber", "The airborne sporangia"], "a": 0, "r": {"p": 251}},
+        {"q": "Loose smut of wheat (*Ustilago tritici*) is:", "c": ["Seed borne", "Soil borne only", "A postharvest rot", "Spread by insects"], "a": 0, "r": {"p": 251, "h": "Stage of host development affected"}},
+        {"q": "In vascular wilts, the transpiration stream may fall to:", "c": ["2%–4% of normal", "50% of normal", "90% of normal", "Twice normal"], "a": 0, "r": {"p": 252}},
+        {"q": "Why do rust infections reduce yield so much despite small biomass?", "c": ["Ruptured epidermis lets the plant lose water and turgor", "They kill all host cells", "They block the xylem", "They produce aflatoxin"], "a": 0, "r": {"p": 252}},
+        {"q": "Hypertrophy, as in corn smut and peach leaf curl, is caused by:", "c": ["Growth hormones (auxins) liberated by the pathogen", "Water loss", "Toxins that kill cells", "Blocked xylem"], "a": 0, "r": {"p": 253, "h": "Host organs attacked"}},
+        {"q": "Etiolation in 'foolish seedling' disease of rice is caused by:", "c": ["Gibberellic acid", "Auxin", "Ethylene", "Aflatoxin"], "a": 0, "r": {"p": 253}}
+      ]
+    },
+    {
+      "title": "Establishment of Disease",
+      "pages": [254, 255],
+      "questions": [
+        {"q": "Spores causing the first infection of the season are called:", "c": ["Primary inoculum", "Secondary inoculum", "Phytoalexins", "Appressoria"], "a": 0, "r": {"p": 254}},
+        {"q": "In apple scab, the conidia produced on the new season's growth are:", "c": ["Secondary inocula", "Primary inocula", "Teliospores", "Resting spores"], "a": 0, "r": {"p": 254}},
+        {"q": "Smuts have only primary inoculum.", "c": ["True", "False"], "a": 0, "r": {"p": 254}},
+        {"q": "A small, tightly adhering swelling that gives a germ tube leverage to penetrate is a(n):", "c": ["Appressorium", "Haustorium", "Sclerotium", "Tylosis"], "a": 0, "r": {"p": 254}},
+        {"q": "In a hypersensitive reaction:", "c": ["The penetrated host cell dies almost at once", "The host grows faster", "The fungus becomes dormant", "The host produces more stomates"], "a": 0, "r": {"p": 255}},
+        {"q": "Antifungal compounds produced by plants only when attacked are called:", "c": ["Phytoalexins", "Mycotoxins", "Auxins", "Gibberellins"], "a": 0, "r": {"p": 255}}
+      ]
+    },
+    {
+      "title": "Epidemiology",
+      "pages": [255, 257],
+      "questions": [
+        {"q": "Smut incidence is predetermined by:", "c": ["The level of seed infection or contamination at planting", "Midsummer rainfall", "Insect numbers", "Wind speed at harvest"], "a": 0, "r": {"p": 255}},
+        {"q": "Without spraying 8–20 times a season, what share of an apple crop might be unsaleable from scab?", "c": ["70%–100%", "10%–20%", "About 35%", "None"], "a": 0, "r": {"p": 255}},
+        {"q": "Grains can often be protected against their worst diseases by:", "c": ["A single seed treatment", "Twenty sprays a season", "Crop burning", "Night irrigation"], "a": 0, "r": {"p": 255}},
+        {"q": "Potato growers commonly use Mancozeb for early blight and which fungicide for late blight?", "c": ["Ridomil", "Benomyl", "Captan", "Tridemorph"], "a": 0, "r": {"p": 256}},
+        {"q": "The ergot fungus can infect its host only through:", "c": ["The stigma of the open flower", "The roots", "Leaf stomates", "Wounds in the stem"], "a": 0, "r": {"p": 256}},
+        {"q": "Why are expensive control programs routine for greenhouse crops but rare for forests?", "c": ["Greenhouse crops are valuable enough for the cost to pay off", "Forests have no diseases", "Fungicides don't work outdoors", "Greenhouses have more fungi"], "a": 0, "r": {"p": 257}}
+      ]
+    },
+    {
+      "title": "Control of Plant Diseases",
+      "pages": [257, 259],
+      "questions": [
+        {"q": "Which four approaches does Kendrick list for controlling fungal plant diseases?", "c": ["Exclusion, eradication, protection, immunization", "Burning, flooding, freezing, spraying", "Rotation, fertilization, irrigation, pruning", "Quarantine, breeding, forecasting, IPM"], "a": 0, "r": {"p": 257}},
+        {"q": "*Ophiostoma ulmi* entered the United States in 1930 on:", "c": ["Elm burl logs imported for veneer", "Elm seedlings", "Bark beetles in luggage", "Wooden crates"], "a": 0, "r": {"p": 257}},
+        {"q": "How were the old elms of Fredericton and the Niagara Parkway preserved?", "c": ["By immediately removing any infected tree", "By pruning infected branches", "By fungicide injections", "By planting resistant elms"], "a": 0, "r": {"p": 257}},
+        {"q": "Why do French grapevine leaves look blue for much of the season?", "c": ["Residue of copper-containing spray against downy mildew", "A natural pigment", "Powdery mildew", "Frost damage"], "a": 0, "r": {"p": 258}},
+        {"q": "True immunization (as with animal vaccines) is practical in plants.", "c": ["True", "False"], "a": 1, "r": {"p": 258}},
+        {"q": "Crop rotation length depends on:", "c": ["How long the pathogen survives without the host", "The price of the crop", "The farm's size", "Rainfall"], "a": 0, "r": {"p": 258}},
+        {"q": "Neck rot of onions is minimized by storing onions at 0°C and relative humidity below:", "c": ["70%", "90%", "30%", "100%"], "a": 0, "r": {"p": 259}},
+        {"q": "Which genus is common to both the onion and carrot disease lists?", "c": ["*Alternaria*", "*Botrytis*", "*Fusarium*", "*Rhizoctonia*"], "a": 0, "r": {"p": 259}},
+        {"q": "Across plant disease fungi generally, the most prominent group is:", "c": ["Dikaryan anamorphs, mainly hyphomycetes", "Oomycetes", "Rusts", "Zygomycetes"], "a": 0, "r": {"p": 259}}
+      ]
+    },
+    {
+      "title": "Plant Disease Forecasting",
+      "pages": [260, 261],
+      "questions": [
+        {"q": "In the simple late-blight program, the first spray is triggered by:", "c": ["Ten successive blight-favourable ('+') days", "The first rain", "One hot day", "The first visible lesion"], "a": 0, "r": {"p": 260}},
+        {"q": "Carrot leaf blight spraying aims to keep blight below what share of leaf area?", "c": ["15%", "1%", "50%", "90%"], "a": 0, "r": {"p": 260}},
+        {"q": "Sprays aren't needed before forecast rains if night temperatures will be below:", "c": ["9°C", "16°C", "0°C", "20°C"], "a": 0, "r": {"p": 260}},
+        {"q": "Powdery mildews are less affected by moisture and more by:", "c": ["Availability of airborne conidia", "Soil pH", "Day length", "Wind direction"], "a": 0, "r": {"p": 260}},
+        {"q": "The carrot blight forecasting program saved an average of how many sprays?", "c": ["Two to five", "Twenty", "One", "None"], "a": 0, "r": {"p": 260}}
+      ]
+    },
+    {
+      "title": "Forest Pathology",
+      "pages": [261, 263],
+      "questions": [
+        {"q": "Chestnut blight (*Cryphonectria parasitica*) arrived in North America on:", "c": ["Chestnut seedlings imported from Asia", "Elm logs from Europe", "Bark beetles", "Ship ballast"], "a": 0, "r": {"p": 262}},
+        {"q": "Where were the first blight-diseased chestnuts noticed in 1904?", "c": ["The New York Zoo", "The Great Smoky Mountains", "Ontario", "Maine"], "a": 0, "r": {"p": 262}},
+        {"q": "Some large chestnuts survive because they are infected with:", "c": ["A hypovirulent (virus-infected) strain of the pathogen", "A resistant mycorrhiza", "A different fungus", "Nothing; they are immune"], "a": 0, "r": {"p": 262}},
+        {"q": "Root rot by *Phellinus weirii* is especially destructive in:", "c": ["Douglas fir", "White pine", "Red oak", "Black spruce"], "a": 0, "r": {"p": 262}},
+        {"q": "Trees with *Fomes pini* heart rot should be cut because the fungus:", "c": ["Doesn't cause further decay after harvest", "Spreads to people", "Kills the roots", "Is edible"], "a": 0, "r": {"p": 262}},
+        {"q": "Which biocontrol agent is applied to stumps against *Heterobasidion annosum*?", "c": ["*Peniophora gigantea*", "*Trichoderma*", "*Beauveria*", "*Armillaria*"], "a": 0, "r": {"p": 263}},
+        {"q": "Which disease was in the top ten for all six Canadian forest regions?", "c": ["*Armillaria* root rot", "Chestnut blight", "Fusiform rust", "Dutch elm disease"], "a": 0, "r": {"p": 263}},
+        {"q": "Fusiform rust in the southern U.S. is increasing partly because improved fire prevention increased its alternate host:", "c": ["Red oak", "Currant", "Barberry", "Juniper"], "a": 0, "r": {"p": 263}}
+      ]
+    },
+    {
+      "title": "Integrated Pest Management",
+      "pages": [263, 264],
+      "questions": [
+        {"q": "Integrated pest management treats the crop as:", "c": ["An ecosystem, considering all pests and control measures together", "A single organism", "A chemical factory", "A monoculture to be sprayed regularly"], "a": 0, "r": {"p": 263}},
+        {"q": "IPM is expected to reduce our dependence on chemical pesticides.", "c": ["True", "False"], "a": 0, "r": {"p": 264}},
+        {"q": "Under IPM, sprays may be:", "c": ["Fewer but more complex, aimed at several kinds of pests", "More frequent and simpler", "Eliminated entirely", "Applied only to seeds"], "a": 0, "r": {"p": 264}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Besides fungi, which group is our chief competitor for food, according to Kendrick?", "c": ["Insects", "Bacteria", "Birds", "Nematodes"], "a": 0, "r": {"p": 247}},
+    {"s": 0, "q": "Fungal diseases were not linked to the organisms causing them until:", "c": ["The mid-nineteenth century", "Roman times", "The 1700s", "The 1930s"], "a": 0, "r": {"p": 247}},
+    {"s": 0, "q": "Kendrick explains why fungi attack living plants: once autotrophs and heterotrophs exist, some heterotrophs will:", "c": ["Attack autotrophs before they die rather than wait", "Become autotrophs", "Stop feeding", "Live only on dead matter"], "a": 0, "r": {"p": 249}},
+    {"s": 1, "q": "Which group of pathogens is particularly hard to eradicate because it survives in soil between crops?", "c": ["Facultative parasites", "Obligate biotrophs", "Lichens", "Mycorrhizal fungi"], "a": 0, "r": {"p": 250}},
+    {"s": 1, "q": "Outgrowths a plant develops into its own vessels to stop a wilt fungus are called:", "c": ["Tyloses", "Appressoria", "Haustoria", "Cankers"], "a": 0, "r": {"p": 252}},
+    {"s": 1, "q": "Why is carrot leaf blight taken seriously even though it barely reduces root yield?", "c": ["Weakened leaves break off, leaving carrots in the ground at harvest", "It poisons the carrots", "It spreads to onions", "It kills the soil"], "a": 0, "r": {"p": 252}},
+    {"s": 1, "q": "Leaf abscission caused by pathogen hormones occurs in coffee rust and:", "c": ["Powdery mildew of gooseberry", "Corn smut", "Damping-off", "Ergot"], "a": 0, "r": {"p": 253}},
+    {"s": 1, "q": "Choke of grasses (*Epichloë typhina*) causes disease mainly by:", "c": ["Preventing flowering", "Killing roots", "Blocking xylem", "Etiolation"], "a": 0, "r": {"p": 253}},
+    {"s": 2, "q": "Encapsulation of an invading hypha by the host may:", "c": ["Starve the fungus out", "Feed the fungus", "Spread the infection", "Trigger sporulation"], "a": 0, "r": {"p": 255}},
+    {"s": 2, "q": "A plant resisting all the many pathogens that aren't adapted to it shows:", "c": ["Nonhost resistance", "Hypersensitivity only", "Immunization", "Tolerance"], "a": 0, "r": {"p": 255}},
+    {"s": 3, "q": "Peanut growers who didn't spray for foliar diseases could lose:", "c": ["20%–75% of their crop", "1%–2%", "All of it every year", "None"], "a": 0, "r": {"p": 255}},
+    {"s": 3, "q": "Peach soft rot becomes visible within hours of infection because of:", "c": ["A specific phytotoxin from the *Monilia* anamorph", "Insect damage", "Frost", "Bacterial rot"], "a": 0, "r": {"p": 257}},
+    {"s": 4, "q": "Hot water treatment of seeds is used to kill spores of:", "c": ["*Ustilago tritici*", "*Monilia*", "*Phytophthora*", "*Armillaria*"], "a": 0, "r": {"p": 257}},
+    {"s": 4, "q": "Pruning would not work against Dutch elm disease because the pathogen:", "c": ["Spreads rapidly through the vascular system by microconidia", "Lives only in roots", "Is a virus", "Is in the leaves"], "a": 0, "r": {"p": 258}},
+    {"s": 4, "q": "Why is *Fusarium* bulb rot of onions hard to eliminate?", "c": ["It survives in soil as chlamydospores or on crop residues", "It is airborne", "It is seed borne only", "It has no known cause"], "a": 0, "r": {"p": 259}},
+    {"s": 4, "q": "For the two *Rhizoctonia* diseases of carrots, the only current recourse is:", "c": ["Growing carrots in uninfected soil", "Spraying weekly", "Seed treatment", "Crop rotation of one year"], "a": 0, "r": {"p": 259}},
+    {"s": 5, "q": "Carrot blight fungicide is first applied when blight covers:", "c": ["1%–2% of leaf area", "15% of leaf area", "Half the leaves", "Any single spot"], "a": 0, "r": {"p": 260}},
+    {"s": 6, "q": "In Canada, insects and diseases together cause an annual loss of almost how much wood?", "c": ["130 million cubic metres", "13 million cubic metres", "1.3 billion cubic metres", "130,000 cubic metres"], "a": 0, "r": {"p": 262}},
+    {"s": 6, "q": "In the southern U.S., pine heart-rot losses fell from 30% to below 1% by:", "c": ["Shortening the rotation (harvesting younger trees)", "Spraying fungicides", "Planting resistant pines", "Burning stumps"], "a": 0, "r": {"p": 263}},
+    {"s": 6, "q": "Since 1975, which race of *Gremmeniella abietina* has been found killing mature pines?", "c": ["The European race", "The American race", "The Asian race", "A hybrid race"], "a": 0, "r": {"p": 263}}
+  ],
+  "review": [
+    {"s": 0, "q": "Infectious plant diseases can be caused by nematodes, bacteria, mycoplasmas, viruses, and fungi. What causes noninfectious diseases?", "c": ["Mineral deficiencies, climate, or pollutants", "Fungi only", "Insects", "Viruses"], "a": 0, "r": {"p": 247}},
+    {"s": 0, "q": "Blue mould destroyed how much Ontario tobacco in 1979?", "c": ["$100 million worth", "$1 million worth", "$1 billion worth", "$10,000 worth"], "a": 0, "r": {"p": 249}},
+    {"s": 1, "q": "Some obligate biotrophs are so dependent that a race may be supported by:", "c": ["Only one host species or a few cultivars", "Any plant", "Any grass", "Only dead hosts"], "a": 0, "r": {"p": 250}},
+    {"s": 1, "q": "Removing dead leaves from orchards and dormant-season disinfectant sprays reduce which apple scab inoculum?", "c": ["Spring ascospores", "Summer conidia", "Teliospores", "Zoospores"], "a": 0, "r": {"p": 251}},
+    {"s": 1, "q": "Heart rots of trees often have symptoms that are:", "c": ["Cryptic", "Obvious leaf spots", "Bright orange pustules", "Wilting within days"], "a": 0, "r": {"p": 251}},
+    {"s": 1, "q": "Anthracnose, blight, canker, scab, and shot hole are all names for which kind of symptom?", "c": ["Necrosis", "Wilting", "Hypertrophy", "Etiolation"], "a": 0, "r": {"p": 252}},
+    {"s": 2, "q": "In shot hole disease, the host isolates the pathogen by:", "c": ["Letting the infected part of the leaf drop out", "Producing a toxin", "Wilting", "Growing faster"], "a": 0, "r": {"p": 255}},
+    {"s": 3, "q": "Without treatment, strawberry growers stand to lose about what share of their crop?", "c": ["70%", "7%", "35%", "100%"], "a": 0, "r": {"p": 255}},
+    {"s": 4, "q": "Onion smut is controlled by coating seed with a systemic fungicide and, if soil is contaminated, by:", "c": ["Using transplants, since established plants aren't affected", "Flooding fields", "Planting in winter", "Removing all leaves"], "a": 0, "r": {"p": 259}},
+    {"s": 4, "q": "Which carrot disease probably causes the greatest losses?", "c": ["Sclerotinia rot", "Rusty root", "Black rot", "Cercospora blight"], "a": 0, "r": {"p": 259}},
+    {"s": 6, "q": "Some American chestnuts in the Great Smoky Mountains were how big?", "c": ["4 m in diameter and 40 m high", "1 m in diameter and 10 m high", "10 m in diameter", "40 cm in diameter"], "a": 0, "r": {"p": 261}},
+    {"s": 6, "q": "*Heterobasidion annosum* was the subject of nearly how many publications between 1960 and 1970?", "c": ["600", "60", "6,000", "6"], "a": 0, "r": {"p": 263}}
+  ]
+}

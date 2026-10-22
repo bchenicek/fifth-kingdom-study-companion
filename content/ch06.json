@@ -1,0 +1,517 @@
+{
+ "n": 6,
+ "title": "Yeasts—Compact Polyphyletic Extremophile Fungi",
+ "pages": [
+  139,
+  144
+ ],
+ "sections": [
+  {
+   "title": "What Yeasts Are and How They Develop",
+   "pages": [
+    139,
+    142
+   ],
+   "questions": [
+    {
+     "q": "About how many species of yeasts are currently known?",
+     "c": [
+      "About 1,500",
+      "About 150",
+      "About 15,000",
+      "About 100"
+     ],
+     "a": 0,
+     "r": {
+      "p": 139
+     }
+    },
+    {
+     "q": "Kendrick describes 'yeast' as a growth form that has evolved in many different fungal groups.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 139
+     }
+    },
+    {
+     "q": "The yeast cells of *Candida* are basically conidia developing in which pattern?",
+     "c": [
+      "Blastic-acropetal branched chains",
+      "Thallic-solitary",
+      "Basauxic chains",
+      "Blastic-retrogressive"
+     ],
+     "a": 0,
+     "r": {
+      "p": 139
+     }
+    },
+    {
+     "q": "Zymologists traditionally classified yeasts using mainly:",
+     "c": [
+      "Physiological tests such as fermenting or assimilating sugars",
+      "Fruit body shape",
+      "Spore print colour",
+      "Host plant range"
+     ],
+     "a": 0,
+     "r": {
+      "p": 139
+     }
+    },
+    {
+     "q": "Roughly how many yeast species never develop a teleomorph?",
+     "c": [
+      "About 600",
+      "About 60",
+      "About 1,400",
+      "None"
+     ],
+     "a": 0,
+     "r": {
+      "p": 139
+     }
+    },
+    {
+     "q": "Multilateral budding yeasts like *Saccharomyces* bud from many points, leaving:",
+     "c": [
+      "Many scars, one daughter cell per site",
+      "One scar at each pole",
+      "Annellations around a single site",
+      "No scars"
+     ],
+     "a": 0,
+     "r": {
+      "p": 141
+     }
+    },
+    {
+     "q": "So-called 'fission' yeasts such as *Schizosaccharomyces* actually extend in what way?",
+     "c": [
+      "Percurrently, on a broad base",
+      "Sympodially",
+      "By thallic-arthric breakup",
+      "By budding from many points"
+     ],
+     "a": 0,
+     "r": {
+      "p": 141
+     }
+    },
+    {
+     "q": "Yeast meiosporangia are comparable to asci, but how do they differ from mainline ascomycete asci?",
+     "c": [
+      "Different wall chemistry, and never produced in a fruit body",
+      "They contain sixteen spores",
+      "They are shot from sterigmata",
+      "They are always bitunicate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 141
+     }
+    },
+    {
+     "q": "*Mucor rouxii* can be switched between hyphal and yeast-like forms by changing levels of:",
+     "c": [
+      "Carbon dioxide or nutrients",
+      "Light",
+      "Temperature only",
+      "pH only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 142
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ascomycetous and Basidiomycetous Yeasts",
+   "pages": [
+    142,
+    144
+   ],
+   "questions": [
+    {
+     "q": "Which is one line of evidence that hyphal forms like *Dipodascus* are related to the unicellular yeasts?",
+     "c": [
+      "Their walls contain less chitin and more mannan than regular ascomycetes'",
+      "They form ascomata",
+      "They have a long dikaryophase",
+      "They have dolipore septa"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143
+     }
+    },
+    {
+     "q": "*Candida albicans* causes which disease?",
+     "c": [
+      "Candidiasis",
+      "Cryptococcosis",
+      "Histoplasmosis",
+      "Athlete's foot"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143,
+      "h": "Class Saccharomycetes"
+     }
+    },
+    {
+     "q": "*Hanseniaspora* has anamorphs in which genus?",
+     "c": [
+      "*Kloeckera*",
+      "*Candida*",
+      "*Geotrichum*",
+      "*Rhodotorula*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143
+     }
+    },
+    {
+     "q": "Walls of tremellomycete yeasts contain xylose or fucose, which are absent from the Saccharomycetes.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143,
+      "h": "Class Tremellomycetes"
+     }
+    },
+    {
+     "q": "*Cryptococcus neoformans* causes cryptococcosis, a potentially serious disease of the:",
+     "c": [
+      "Lungs",
+      "Skin",
+      "Liver",
+      "Kidneys"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143
+     }
+    },
+    {
+     "q": "Why does *Trichosporon* probably belong with the basidiomycetous yeasts?",
+     "c": [
+      "Its hyphae have dolipore septa",
+      "It forms asci",
+      "It is red",
+      "It ferments sugar"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143
+     }
+    },
+    {
+     "q": "Why are *Rhodotorula* and its relatives called 'red yeasts'?",
+     "c": [
+      "They contain carotenoids",
+      "They grow on red fruit",
+      "They produce blood-red mycotoxins",
+      "They stain red with iodine"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143,
+      "h": "Class Microbotryomycetes"
+     }
+    },
+    {
+     "q": "*Sporobolomyces* forcibly discharges spores using the basidium mechanism. What kind of spores are these?",
+     "c": [
+      "Asexual mitospores (conidia)",
+      "Meiospores",
+      "Teliospores",
+      "Ascospores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 143
+     }
+    },
+    {
+     "q": "Which stain can now distinguish basidiomycetous yeasts from Saccharomycetes?",
+     "c": [
+      "Buffered diazonium blue B",
+      "Melzer's reagent",
+      "Cotton blue",
+      "Gram stain"
+     ],
+     "a": 0,
+     "r": {
+      "p": 144
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "Yeasts are described as a rich source of which vitamins?",
+   "c": [
+    "B vitamins",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin K"
+   ],
+   "a": 0,
+   "r": {
+    "p": 139
+   }
+  },
+  {
+   "s": 0,
+   "q": "About how many genera do the known yeasts fall into?",
+   "c": [
+    "About 100",
+    "About 10",
+    "About 1,000",
+    "About 22"
+   ],
+   "a": 0,
+   "r": {
+    "p": 139
+   }
+  },
+  {
+   "s": 0,
+   "q": "Apiculate, bipolar budding yeasts such as *Saccharomycodes*:",
+   "c": [
+    "Bud repeatedly from each end of long cells",
+    "Bud from many points around the cell",
+    "Break up into arthroconidia",
+    "Never bud"
+   ],
+   "a": 0,
+   "r": {
+    "p": 141
+   }
+  },
+  {
+   "s": 0,
+   "q": "Which yeast-like group can have a dikaryophase?",
+   "c": [
+    "Yeast phases of smut fungi (Ustilaginomycotina)",
+    "*Saccharomyces*",
+    "*Schizosaccharomyces*",
+    "*Candida*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 141
+   }
+  },
+  {
+   "s": 0,
+   "q": "*Histoplasma capsulatum* and *Blastomyces dermatitidis* are:",
+   "c": [
+    "Filamentous in culture but yeast-like inside the human body",
+    "Always yeast-like",
+    "Always filamentous",
+    "Red yeasts"
+   ],
+   "a": 0,
+   "r": {
+    "p": 142
+   }
+  },
+  {
+   "s": 0,
+   "q": "Yeast morphology is sometimes a response to environmental factors such as:",
+   "c": [
+    "Osmotic stress",
+    "Light quality",
+    "Gravity",
+    "Magnetic fields"
+   ],
+   "a": 0,
+   "r": {
+    "p": 142
+   }
+  },
+  {
+   "s": 1,
+   "q": "Some hyphal yeasts have septa pierced by many narrow micropores rather than:",
+   "c": [
+    "A single central pore",
+    "A dolipore with parenthesomes",
+    "A pulley-wheel occlusion",
+    "No pore at all"
+   ],
+   "a": 0,
+   "r": {
+    "p": 143
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Saccharomycopsis* has anamorphs in which genus?",
+   "c": [
+    "*Candida*",
+    "*Kloeckera*",
+    "*Geotrichum*",
+    "*Cryptococcus*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 143
+   }
+  },
+  {
+   "s": 1,
+   "q": "What proportion of the Pucciniomycotina are rust fungi?",
+   "c": [
+    "99%",
+    "50%",
+    "75%",
+    "10%"
+   ],
+   "a": 0,
+   "r": {
+    "p": 143
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which is listed as a feature now needed to identify yeasts to genus and species?",
+   "c": [
+    "Osmotolerance (growth in high sugar or salt)",
+    "Spore print colour",
+    "Fruit body size",
+    "Host plant"
+   ],
+   "a": 0,
+   "r": {
+    "p": 144
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "Which techniques have been added to yeast taxonomy beyond sugar tests?",
+   "c": [
+    "DNA reassociation and DNA base composition",
+    "Spore print colour",
+    "Fruit body measurements",
+    "Host plant testing"
+   ],
+   "a": 0,
+   "r": {
+    "p": 139
+   }
+  },
+  {
+   "s": 0,
+   "q": "Basidiomycetous yeasts like *Rhodotorula* and *Sporobolomyces* produce conidia in which mode?",
+   "c": [
+    "Blastic-phialidic",
+    "Thallic-arthric",
+    "Multilateral budding",
+    "Basauxic"
+   ],
+   "a": 0,
+   "r": {
+    "p": 141
+   }
+  },
+  {
+   "s": 0,
+   "q": "*Geotrichum* yeasts produce which kind of conidia?",
+   "c": [
+    "Thallic-arthric",
+    "Blastic-sympodial",
+    "Blastic-phialidic",
+    "Ballistospores"
+   ],
+   "a": 0,
+   "r": {
+    "p": 141
+   }
+  },
+  {
+   "s": 0,
+   "q": "Sex in most unicellular yeasts involves fusion of individual cells, so there is:",
+   "c": [
+    "No dikaryophase",
+    "A long dikaryophase",
+    "No meiosis",
+    "No zygote"
+   ],
+   "a": 0,
+   "r": {
+    "p": 141
+   }
+  },
+  {
+   "s": 0,
+   "q": "Some basidiomycetous yeasts that produce hyphae even make:",
+   "c": [
+    "Clamp connections",
+    "Asci",
+    "Zygosporangia",
+    "Flagella"
+   ],
+   "a": 0,
+   "r": {
+    "p": 142
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Phaffia* and *Bullera* are known only as:",
+   "c": [
+    "Anamorphs",
+    "Teleomorphs",
+    "Lichens",
+    "Smuts"
+   ],
+   "a": 0,
+   "r": {
+    "p": 143
+   }
+  },
+  {
+   "s": 1,
+   "q": "In *Sporobolomyces*, a series of ballistospores forms by:",
+   "c": [
+    "Sympodial extension of the sterigma",
+    "Budding from many points",
+    "Breaking up of hyphae",
+    "Meiosis in an ascus"
+   ],
+   "a": 0,
+   "r": {
+    "p": 143
+   }
+  },
+  {
+   "s": 1,
+   "q": "Red yeast teleomorphs produce a chlamydospore-like spore that germinates to give meiotic ballistospores. That spore is a:",
+   "c": [
+    "Teliospore",
+    "Ascospore",
+    "Zygospore",
+    "Oospore"
+   ],
+   "a": 0,
+   "r": {
+    "p": 143
+   }
+  }
+ ]
+}

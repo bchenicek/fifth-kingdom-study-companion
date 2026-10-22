@@ -1,0 +1,1793 @@
+{
+ "n": 5,
+ "title": "Phylum Basidiomycota—the Basidiomycetes",
+ "pages": [
+  105,
+  138
+ ],
+ "sections": [
+  {
+   "title": "Introduction: Basidiomycetes vs. Ascomycetes",
+   "pages": [
+    105,
+    110
+   ],
+   "questions": [
+    {
+     "q": "Ascomycete septal pores are often guarded by round bodies ready to plug the pore if the hypha is damaged. What are these called?",
+     "c": [
+      "Woronin bodies",
+      "Parenthesomes",
+      "Dolipores",
+      "Sterigmata"
+     ],
+     "a": 0,
+     "r": {
+      "p": 105
+     }
+    },
+    {
+     "q": "In many basidiomycetes, the septum has a barrel-shaped pore capped on each side by a membrane called a:",
+     "c": [
+      "Parenthesome",
+      "Woronin body",
+      "Crozier",
+      "Pulley-wheel occlusion"
+     ],
+     "a": 0,
+     "r": {
+      "p": 106
+     }
+    },
+    {
+     "q": "How does the dikaryophase differ between the two phyla?",
+     "c": [
+      "Ascomycetes have a restricted dikaryophase; basidiomycetes often have an extended one in the feeding mycelium",
+      "Ascomycetes have an extended dikaryophase; basidiomycetes have none",
+      "Both have identical dikaryophases",
+      "Neither has a dikaryophase"
+     ],
+     "a": 0,
+     "r": {
+      "p": 106
+     }
+    },
+    {
+     "q": "If a septate somatic hypha has regular clamp connections, it must be:",
+     "c": [
+      "Dikaryotic",
+      "Monokaryotic",
+      "Diploid",
+      "An ascomycete"
+     ],
+     "a": 0,
+     "r": {
+      "p": 107
+     }
+    },
+    {
+     "q": "The ascomycete structure comparable to a clamp connection is the:",
+     "c": [
+      "Crozier",
+      "Sterigma",
+      "Ostiole",
+      "Columella"
+     ],
+     "a": 0,
+     "r": {
+      "p": 107
+     }
+    },
+    {
+     "q": "Where do basidiospores form relative to the basidium?",
+     "c": [
+      "Outside it, on sterigmata",
+      "Inside it, like ascospores",
+      "Inside a sporangium on top of it",
+      "In a columella"
+     ],
+     "a": 0,
+     "r": {
+      "p": 108
+     }
+    },
+    {
+     "q": "Basidiospores that are forcibly discharged are called:",
+     "c": [
+      "Ballistospores",
+      "Chlamydospores",
+      "Arthroconidia",
+      "Zoospores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 108
+     }
+    },
+    {
+     "q": "The basidiospore discharge mechanism has been described as a:",
+     "c": [
+      "Surface tension catapult",
+      "Squirt gun",
+      "Spring-loaded lid",
+      "Explosive vesicle"
+     ],
+     "a": 0,
+     "r": {
+      "p": 108
+     }
+    },
+    {
+     "q": "The same spore-shooting mechanism found in mushrooms, jelly fungi, rusts, and some yeasts is a strong argument for basidiomycete monophyly.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 109
+     }
+    },
+    {
+     "q": "Basidiomycetes that keep their mature spores inside the basidioma are called:",
+     "c": [
+      "Sequestrate",
+      "Ballistosporic",
+      "Resupinate",
+      "Coprophilous"
+     ],
+     "a": 0,
+     "r": {
+      "p": 109
+     }
+    }
+   ]
+  },
+  {
+   "title": "Agaricomycotina I: Agaricomycetes and the Agaric Fruit Body",
+   "pages": [
+    110,
+    116
+   ],
+   "questions": [
+    {
+     "q": "Which subphylum includes all mushrooms, bracket fungi, puffballs, and jelly fungi?",
+     "c": [
+      "Agaricomycotina",
+      "Pucciniomycotina",
+      "Ustilaginomycotina",
+      "Pezizomycotina"
+     ],
+     "a": 0,
+     "r": {
+      "p": 110
+     }
+    },
+    {
+     "q": "Kendrick warns that molecular data have shown boletes are no longer just fleshy mushrooms with tubes. What else can they look like?",
+     "c": [
+      "Gilled mushrooms, crusts, brackets, stalked puffballs, or earthballs",
+      "Only fleshy tubed mushrooms with rings",
+      "Only hypogeous truffles",
+      "Cup fungi"
+     ],
+     "a": 0,
+     "r": {
+      "p": 112
+     }
+    },
+    {
+     "q": "Some fairy rings are estimated to be over how old?",
+     "c": [
+      "Four hundred years",
+      "Forty years",
+      "Four years",
+      "Four thousand years"
+     ],
+     "a": 0,
+     "r": {
+      "p": 113
+     }
+    },
+    {
+     "q": "A single genet of *Armillaria ostoyae* (the 'humongous fungus') covers about:",
+     "c": [
+      "600 hectares",
+      "6 hectares",
+      "60 hectares",
+      "6,000 hectares"
+     ],
+     "a": 0,
+     "r": {
+      "p": 113
+     }
+    },
+    {
+     "q": "Most agarics are either saprobic or:",
+     "c": [
+      "Ectomycorrhizal",
+      "Parasitic on insects",
+      "Lichenized",
+      "Endophytic in grasses"
+     ],
+     "a": 0,
+     "r": {
+      "p": 113
+     }
+    },
+    {
+     "q": "What is the cap of an agaric called?",
+     "c": [
+      "Pileus",
+      "Stipe",
+      "Lamella",
+      "Volva"
+     ],
+     "a": 0,
+     "r": {
+      "p": 113
+     }
+    },
+    {
+     "q": "The remnant of the universal veil around the base of an *Amanita* stipe is the:",
+     "c": [
+      "Volva",
+      "Annulus",
+      "Cortina",
+      "Pileipellis"
+     ],
+     "a": 0,
+     "r": {
+      "p": 116
+     }
+    },
+    {
+     "q": "A cobwebby partial veil, as in *Cortinarius*, is called a:",
+     "c": [
+      "Cortina",
+      "Volva",
+      "Annulus",
+      "Gleba"
+     ],
+     "a": 0,
+     "r": {
+      "p": 116
+     }
+    },
+    {
+     "q": "Why is the label 'Gasteromycetes' falling into disuse?",
+     "c": [
+      "Its features evolved convergently in many different groups",
+      "All gasteromycetes turned out to be ascomycetes",
+      "The name was illegitimate",
+      "They were found to shoot their spores after all"
+     ],
+     "a": 0,
+     "r": {
+      "p": 116
+     }
+    }
+   ]
+  },
+  {
+   "title": "Agaricomycotina II: Order Agaricales",
+   "pages": [
+    116,
+    121
+   ],
+   "questions": [
+    {
+     "q": "Which features describe the genus *Agaricus*?",
+     "c": [
+      "Ring present, no volva, free gills, dark spore print",
+      "Volva and ring, white spores",
+      "Cortina, rusty-brown spores",
+      "Pink spores and angular spores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 117,
+      "h": "Family 1 Agaricaceae"
+     }
+    },
+    {
+     "q": "Why does Kendrick advise against eating *Leucoagaricus naucinus*?",
+     "c": [
+      "It closely resembles the deadly *Amanita virosa*",
+      "It is always deadly",
+      "It is hallucinogenic",
+      "It is protected by law"
+     ],
+     "a": 0,
+     "r": {
+      "p": 117
+     }
+    },
+    {
+     "q": "Puffball genera such as *Lycoperdon* and *Calvatia* are now placed in which family?",
+     "c": [
+      "Agaricaceae",
+      "Strophariaceae",
+      "Amanitaceae",
+      "Phallaceae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 117
+     }
+    },
+    {
+     "q": "*Psilocybe* and *Stropharia* species with psilocybin often show what reaction when bruised?",
+     "c": [
+      "The flesh turns blue",
+      "They exude milky latex",
+      "They turn bright yellow",
+      "They glow"
+     ],
+     "a": 0,
+     "r": {
+      "p": 117,
+      "h": "Family 2 Strophariaceae"
+     }
+    },
+    {
+     "q": "*Cortinarius* has roughly how many species?",
+     "c": [
+      "2,100",
+      "210",
+      "21",
+      "21,000"
+     ],
+     "a": 0,
+     "r": {
+      "p": 118,
+      "h": "Family 8 Cortinariaceae"
+     }
+    },
+    {
+     "q": "Which deadly toxin occurs in at least thirty-four Cortinariaceae?",
+     "c": [
+      "Orellanine",
+      "Psilocybin",
+      "Muscarine",
+      "Coprine"
+     ],
+     "a": 0,
+     "r": {
+      "p": 118
+     }
+    },
+    {
+     "q": "Bird's-nest fungi disperse their 'eggs' (peridioles) by:",
+     "c": [
+      "Rain splash",
+      "Wind",
+      "Insects attracted by smell",
+      "Explosive discharge from asci"
+     ],
+     "a": 0,
+     "r": {
+      "p": 119,
+      "h": "Family 12 Nidulariaceae"
+     }
+    },
+    {
+     "q": "*Termitomyces* has a symbiotic association with:",
+     "c": [
+      "Mound-building termites",
+      "Leaf-cutting ants",
+      "Bark beetles",
+      "Root aphids"
+     ],
+     "a": 0,
+     "r": {
+      "p": 119,
+      "h": "Family 1 Lyophyllaceae"
+     }
+    },
+    {
+     "q": "Entolomataceae can be recognized by:",
+     "c": [
+      "Pinkish spore prints and angular basidiospores",
+      "White spores and a volva",
+      "Black spores and liquefying gills",
+      "Latex and brittle flesh"
+     ],
+     "a": 0,
+     "r": {
+      "p": 119,
+      "h": "Family 2 Entolomataceae"
+     }
+    },
+    {
+     "q": "Thirty species of *Mycena* share which property?",
+     "c": [
+      "Bioluminescence",
+      "Hallucinogenic compounds",
+      "Mycorrhizal partnerships",
+      "Parasitism of other mushrooms"
+     ],
+     "a": 0,
+     "r": {
+      "p": 120,
+      "h": "Family 4 Mycenaceae"
+     }
+    },
+    {
+     "q": "The shiitake mushroom belongs to which genus?",
+     "c": [
+      "*Lentinula*",
+      "*Pleurotus*",
+      "*Flammulina*",
+      "*Volvariella*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 120,
+      "h": "Family 1 Omphalotaceae"
+     }
+    },
+    {
+     "q": "Many oyster mushrooms (*Pleurotus*) also prey on nematodes.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 120,
+      "h": "Family 1 Pleurotaceae"
+     }
+    },
+    {
+     "q": "The 'destroying angel' is:",
+     "c": [
+      "*Amanita virosa*",
+      "*Amanita fulva*",
+      "*Galerina*",
+      "*Chlorophyllum molybdites*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 121,
+      "h": "Family 2 Amanitaceae"
+     }
+    },
+    {
+     "q": "Pluteaceae and Entolomataceae both have pink spore prints. How do their spores differ?",
+     "c": [
+      "Pluteaceae spores are rounded; Entolomataceae spores are angular",
+      "Pluteaceae spores are spiny; Entolomataceae spores are smooth",
+      "Pluteaceae spores are amyloid; Entolomataceae spores are not",
+      "There is no difference"
+     ],
+     "a": 0,
+     "r": {
+      "p": 121,
+      "h": "Family 3 Pluteaceae"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Agaricomycotina III: Boletales, Phallomycetidae, Other Orders, and the Jelly Fungi",
+   "pages": [
+    121,
+    128
+   ],
+   "questions": [
+    {
+     "q": "*Rhizopogon*, a hypogeous basidiotruffle, has been shown by DNA studies to be closely related to:",
+     "c": [
+      "*Suillus*",
+      "*Russula*",
+      "*Amanita*",
+      "*Lycoperdon*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 122,
+      "h": "Suillineae"
+     }
+    },
+    {
+     "q": "*Pisolithus* is an important sequestrate mycorrhizal genus in which kinds of soils?",
+     "c": [
+      "Dry, poor, or toxic soils",
+      "Waterlogged peat",
+      "Rich garden loam",
+      "Coastal sand dunes only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 121,
+      "h": "Sclerodermatineae"
+     }
+    },
+    {
+     "q": "How do earthstars raise their spore mass above the litter?",
+     "c": [
+      "The outer peridium splits radially and bends backward",
+      "The stipe elongates rapidly",
+      "The spore mass is shot upward",
+      "Insects carry it up"
+     ],
+     "a": 0,
+     "r": {
+      "p": 122,
+      "h": "Order 1—Geastrales"
+     }
+    },
+    {
+     "q": "Stinkhorns (Phallaceae) all have spores in a foul-smelling slime that attracts:",
+     "c": [
+      "Flying insects",
+      "Rodents",
+      "Birds",
+      "Slugs only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 122,
+      "h": "Order 4—Phallales"
+     }
+    },
+    {
+     "q": "Kendrick guesses that the lacy skirt of *Dictyophora* serves as:",
+     "c": [
+      "A landing platform for flies",
+      "Protection from rain",
+      "A spore-shooting device",
+      "A way to anchor in soil"
+     ],
+     "a": 0,
+     "r": {
+      "p": 122
+     }
+    },
+    {
+     "q": "The largest basidioma ever recorded (about 10.85 m long) was a specimen of:",
+     "c": [
+      "*Fomitiporia ellipsoidea*",
+      "*Bridgeoporus nobilissimus*",
+      "*Rigidoporus ulmarius*",
+      "*Ganoderma applanatum*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 124,
+      "h": "5—Order Hymenochaetales"
+     }
+    },
+    {
+     "q": "Brown rot fungi digest cellulose but not lignin.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 125
+     }
+    },
+    {
+     "q": "A polypore basidioma with generative, skeletal, and binding hyphae is called:",
+     "c": [
+      "Trimitic",
+      "Dimitic",
+      "Monomitic",
+      "Resupinate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 126
+     }
+    },
+    {
+     "q": "*Lactarius* (milky caps) can be recognized because broken flesh:",
+     "c": [
+      "Exudes latex",
+      "Turns blue",
+      "Glows",
+      "Liquefies"
+     ],
+     "a": 0,
+     "r": {
+      "p": 126,
+      "h": "7—Order Russulales"
+     }
+    },
+    {
+     "q": "Why is *Russula* flesh brittle?",
+     "c": [
+      "It is partly made of inflated, thin-walled sphaerocysts",
+      "It is trimitic",
+      "It contains crystals of calcium oxalate",
+      "It lacks any hyphae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 126
+     }
+    },
+    {
+     "q": "Dacrymycetes have 'tuning fork' basidia. How do tremelloid basidia differ?",
+     "c": [
+      "Tremelloid basidia are vertically and cruciately septate",
+      "Tremelloid basidia have no sterigmata",
+      "Tremelloid basidia are coiled",
+      "There is no difference"
+     ],
+     "a": 0,
+     "r": {
+      "p": 127,
+      "h": "2—Class Dacrymycetes"
+     }
+    },
+    {
+     "q": "Teleomorphs of the Tremellales are parasites of:",
+     "c": [
+      "Other wood-inhabiting fungi",
+      "Scale insects",
+      "Mosses",
+      "Human skin"
+     ],
+     "a": 0,
+     "r": {
+      "p": 128,
+      "h": "3—Class Tremellomycetes"
+     }
+    },
+    {
+     "q": "The yeast genus *Cryptococcus*, which contains human pathogens, belongs to which class?",
+     "c": [
+      "Tremellomycetes",
+      "Dacrymycetes",
+      "Agaricomycetes",
+      "Pucciniomycetes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 128
+     }
+    }
+   ]
+  },
+  {
+   "title": "Subphylum Pucciniomycotina: The Rust Fungi",
+   "pages": [
+    129,
+    134
+   ],
+   "questions": [
+    {
+     "q": "*Septobasidium* parasitizes scale insects. What happens to the infected scales?",
+     "c": [
+      "They are rendered sterile but not killed, and shelter healthy scales",
+      "They are killed within days",
+      "They are turned into sclerotia",
+      "They become hallucinogenic"
+     ],
+     "a": 0,
+     "r": {
+      "p": 130,
+      "h": "Order Septobasidiales"
+     }
+    },
+    {
+     "q": "Rust fungi (Pucciniales) have which kind of septal pore?",
+     "c": [
+      "Simple pores with pulley-wheel occlusions",
+      "Dolipores with parenthesomes",
+      "Many micropores",
+      "No septa at all"
+     ],
+     "a": 0,
+     "r": {
+      "p": 130,
+      "h": "Order Pucciniales"
+     }
+    },
+    {
+     "q": "How many different kinds of spores can a macrocyclic rust produce?",
+     "c": [
+      "Five",
+      "Two",
+      "Three",
+      "Eight"
+     ],
+     "a": 0,
+     "r": {
+      "p": 130
+     }
+    },
+    {
+     "q": "A rust that produces all spore forms and alternates between two different hosts is described as:",
+     "c": [
+      "Macrocyclic and heteroecious",
+      "Microcyclic and autoecious",
+      "Macrocyclic and autoecious",
+      "Microcyclic and heteroecious"
+     ],
+     "a": 0,
+     "r": {
+      "p": 130
+     }
+    },
+    {
+     "q": "For *Puccinia graminis* ssp. *tritici*, which spores are produced on barberry in spring?",
+     "c": [
+      "Spermatia (in spermagonia) and aeciospores",
+      "Urediniospores",
+      "Teliospores",
+      "Basidiospores only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 130
+     }
+    },
+    {
+     "q": "Spermatia in rust spermagonia are carried between mating types by:",
+     "c": [
+      "Insects attracted to sweet nectar",
+      "Wind",
+      "Rain splash",
+      "Swimming in water films"
+     ],
+     "a": 0,
+     "r": {
+      "p": 130
+     }
+    },
+    {
+     "q": "Kendrick calls aeciospores 'transfer spores' because:",
+     "c": [
+      "They can't infect barberry and must land on wheat",
+      "They transfer nuclei between hyphae",
+      "They move from leaf to stem",
+      "They transfer the fungus to the soil"
+     ],
+     "a": 0,
+     "r": {
+      "p": 131
+     }
+    },
+    {
+     "q": "Which spores, the 'summer spores', cause the massive wheat-rust epidemics that sweep North America?",
+     "c": [
+      "Urediniospores",
+      "Teliospores",
+      "Aeciospores",
+      "Basidiospores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 132
+     }
+    },
+    {
+     "q": "Teliospores overwinter in what nuclear condition?",
+     "c": [
+      "Diploid (after karyogamy)",
+      "Haploid",
+      "Dikaryotic",
+      "Anucleate"
+     ],
+     "a": 0,
+     "r": {
+      "p": 132
+     }
+    },
+    {
+     "q": "In wheat stem rust, wheat is the primary host and barberry is the alternate host.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 132
+     }
+    },
+    {
+     "q": "Roughly how many physiological races of *P. graminis* ssp. *tritici* are known?",
+     "c": [
+      "Over 200",
+      "About 5",
+      "About 20",
+      "Over 2,000"
+     ],
+     "a": 0,
+     "r": {
+      "p": 132
+     }
+    },
+    {
+     "q": "*Cronartium ribicola* (white pine blister rust) alternates between white pines and:",
+     "c": [
+      "Wild currant (*Ribes*)",
+      "Juniper",
+      "Oak",
+      "Barberry"
+     ],
+     "a": 0,
+     "r": {
+      "p": 133
+     }
+    },
+    {
+     "q": "Coffee rust, *Hemileia vastatrix*, led which country to switch from coffee to tea?",
+     "c": [
+      "Sri Lanka (Ceylon)",
+      "India",
+      "Kenya",
+      "Java (Indonesia)"
+     ],
+     "a": 0,
+     "r": {
+      "p": 133
+     }
+    }
+   ]
+  },
+  {
+   "title": "Subphylum Ustilaginomycotina: The Smut Fungi",
+   "pages": [
+    134,
+    135
+   ],
+   "questions": [
+    {
+     "q": "Which is a difference between rusts and smuts?",
+     "c": [
+      "Smuts never require two hosts; rusts often do",
+      "Smuts form spermagonia; rusts don't",
+      "Smut basidiospores are shot from sterigmata; rust spores aren't",
+      "Smuts attack ferns and gymnosperms; rusts attack only angiosperms"
+     ],
+     "a": 0,
+     "r": {
+      "p": 134,
+      "h": "Table 5.1"
+     }
+    },
+    {
+     "q": "Smut fungi are facultatively biotrophic and yeast-like in culture.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 134,
+      "h": "Table 5.1"
+     }
+    },
+    {
+     "q": "In anther smut (*Ustilago violacea* on *Silene*), what replaces the pollen?",
+     "c": [
+      "Dikaryotic mycelium that becomes teliospores",
+      "Spermagonia",
+      "Aecia",
+      "Sclerotia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 135,
+      "h": "Family Ustilaginaceae"
+     }
+    },
+    {
+     "q": "What do the organs attacked by smut fungi (anthers, seeds, bulbs) have in common?",
+     "c": [
+      "The plant directs high-energy resources into them",
+      "They are all underground",
+      "They all lack chlorophyll",
+      "They are all short-lived"
+     ],
+     "a": 0,
+     "r": {
+      "p": 135
+     }
+    },
+    {
+     "q": "The corn smut delicacy eaten in Mexico is called:",
+     "c": [
+      "Huitlacoche",
+      "Shiitake",
+      "Enokitake",
+      "Ket-jap"
+     ],
+     "a": 0,
+     "r": {
+      "p": 135
+     }
+    },
+    {
+     "q": "*Tilletia caries* causes 'bunt' or stinking smut of:",
+     "c": [
+      "Wheat",
+      "Corn",
+      "Onion",
+      "Rice"
+     ],
+     "a": 0,
+     "r": {
+      "p": 135,
+      "h": "Class 2—Exobasidiomycetes"
+     }
+    },
+    {
+     "q": "*Exobasidium* parasitizes members of which plant family?",
+     "c": [
+      "Ericaceae",
+      "Rosaceae",
+      "Poaceae",
+      "Brassicaceae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 135
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "Which is listed as a feature shared by Ascomycota and Basidiomycota?",
+   "c": [
+    "Haploid nuclei in somatic hyphae",
+    "Diploid somatic hyphae",
+    "Flagellate gametes",
+    "Cellulose walls"
+   ],
+   "a": 0,
+   "r": {
+    "p": 105
+   }
+  },
+  {
+   "s": 0,
+   "q": "Basidiomycete hyphal walls are:",
+   "c": [
+    "Multilayered",
+    "Two-layered",
+    "Single-layered",
+    "Absent"
+   ],
+   "a": 0,
+   "r": {
+    "p": 105
+   }
+  },
+  {
+   "s": 0,
+   "q": "Septa of the Saccharomycetes are often perforated by:",
+   "c": [
+    "Many micropores",
+    "A single dolipore",
+    "A pulley wheel occlusion",
+    "No pores at all"
+   ],
+   "a": 0,
+   "r": {
+    "p": 106
+   }
+  },
+  {
+   "s": 0,
+   "q": "Basidiomycete anamorphs can be dikaryotic. How can we tell?",
+   "c": [
+    "Some have clamp connections",
+    "They produce asci",
+    "They have flagella",
+    "They are always diploid"
+   ],
+   "a": 0,
+   "r": {
+    "p": 107
+   }
+  },
+  {
+   "s": 0,
+   "q": "What happens just before a basidiospore is shot?",
+   "c": [
+    "A droplet forms at the spore base and coalesces with a water film on the spore",
+    "The sterigma dissolves",
+    "The basidium explodes",
+    "The spore fills with gas"
+   ],
+   "a": 0,
+   "r": {
+    "p": 108
+   }
+  },
+  {
+   "s": 0,
+   "q": "Why might some mushrooms chill their fruit bodies by evaporative cooling?",
+   "c": [
+    "To enhance condensation on spores, which the shooting mechanism needs",
+    "To slow down rot",
+    "To deter insects",
+    "To prevent spores from germinating"
+   ],
+   "a": 0,
+   "r": {
+    "p": 109
+   }
+  },
+  {
+   "s": 1,
+   "q": "Class Agaricomycetes contains roughly how many species?",
+   "c": [
+    "21,000",
+    "2,100",
+    "210,000",
+    "1,147"
+   ],
+   "a": 0,
+   "r": {
+    "p": 111
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which statement about agaric fruit bodies compared to polypores is correct?",
+   "c": [
+    "Agarics are relatively ephemeral, lasting hours to weeks",
+    "Agarics are woody and perennial",
+    "Agarics fruit only in spring",
+    "Agarics persist for many years"
+   ],
+   "a": 0,
+   "r": {
+    "p": 112
+   }
+  },
+  {
+   "s": 1,
+   "q": "How do basidiospores from an agaric reach the air?",
+   "c": [
+    "They are gently launched, drop between gills, and enter turbulent air below",
+    "They are shot several metres straight up",
+    "Rain splashes them out",
+    "Insects carry them out of the gills"
+   ],
+   "a": 0,
+   "r": {
+    "p": 113
+   }
+  },
+  {
+   "s": 1,
+   "q": "Kendrick is convinced that the basidium originally evolved as:",
+   "c": [
+    "A spore-shooting mechanism",
+    "A spore-storage chamber",
+    "An insect-attracting organ",
+    "A water-absorbing organ"
+   ],
+   "a": 0,
+   "r": {
+    "p": 116
+   }
+  },
+  {
+   "s": 2,
+   "q": "The shaggy mane (*Coprinus comatus*) has gills that:",
+   "c": [
+    "Autolyze (liquefy) at maturity",
+    "Exude latex",
+    "Are bioluminescent",
+    "Turn blue when touched"
+   ],
+   "a": 0,
+   "r": {
+    "p": 117
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Galerina* is notable as a genus of small mushrooms some of which are:",
+   "c": [
+    "Extremely poisonous",
+    "Prized edibles",
+    "Bioluminescent",
+    "Parasitic on termites"
+   ],
+   "a": 0,
+   "r": {
+    "p": 117
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Thaxterogaster* is a sequestrate relative of which genus?",
+   "c": [
+    "*Cortinarius*",
+    "*Amanita*",
+    "*Russula*",
+    "*Agaricus*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 118
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Gastrocybe* always falls over soon after coming up. What does Kendrick suggest this indicates?",
+   "c": [
+    "It is evolving toward spore dispersal by invertebrates",
+    "It is killed by frost",
+    "It is a parasite of grasses",
+    "It has a weak volva"
+   ],
+   "a": 0,
+   "r": {
+    "p": 118
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Laccaria* belongs to the same family as which basidiotruffle?",
+   "c": [
+    "*Hydnangium*",
+    "*Rhizopogon*",
+    "*Melanogaster*",
+    "*Gautieria*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 119
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Asterophora* is unusual because it:",
+   "c": [
+    "Parasitizes other mushrooms and turns much of its cap into chlamydospores",
+    "Grows only on termite mounds",
+    "Is aquatic",
+    "Is lichenized"
+   ],
+   "a": 0,
+   "r": {
+    "p": 119
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Armillaria mellea* forms blackish mycelial strands under bark called:",
+   "c": [
+    "Rhizomorphs",
+    "Sclerotia",
+    "Synnemata",
+    "Cortinas"
+   ],
+   "a": 0,
+   "r": {
+    "p": 120
+   }
+  },
+  {
+   "s": 2,
+   "q": "The cultivated edible enokitake is a form of:",
+   "c": [
+    "*Flammulina*",
+    "*Lentinula*",
+    "*Pleurotus*",
+    "*Volvariella*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 120
+   }
+  },
+  {
+   "s": 2,
+   "q": "The straw mushroom, widely cultivated in Asia, is:",
+   "c": [
+    "*Volvariella volvacea*",
+    "*Pluteus cervinus*",
+    "*Lyophyllum decastes*",
+    "*Agaricus brunnescens*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 121
+   }
+  },
+  {
+   "s": 3,
+   "q": "Which bolete is symbiotic with root aphids and secondarily parasitic on ash?",
+   "c": [
+    "*Boletinellus*",
+    "*Suillus*",
+    "*Gyroporus*",
+    "*Calostoma*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 121
+   }
+  },
+  {
+   "s": 3,
+   "q": "What attracts such a wide range of insect vectors to *Aseroë*?",
+   "c": [
+    "Bright red, petal-like, meaty-looking arms plus odour",
+    "Sweet nectar alone",
+    "Bioluminescence",
+    "Ultraviolet patterns"
+   ],
+   "a": 0,
+   "r": {
+    "p": 124
+   }
+  },
+  {
+   "s": 3,
+   "q": "U.S. law protects how much forest around each known site of *Bridgeoporus nobilissimus*?",
+   "c": [
+    "240 hectares (600 acres)",
+    "24 hectares",
+    "2,400 hectares",
+    "1 hectare"
+   ],
+   "a": 0,
+   "r": {
+    "p": 125
+   }
+  },
+  {
+   "s": 3,
+   "q": "Which pathogenic polypore killed fourteen different conifer species in a California clearing Kendrick visited?",
+   "c": [
+    "*Heterobasidion annosum*",
+    "*Piptoporus betulinus*",
+    "*Laetiporus sulphureus*",
+    "*Trametes versicolor*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 125
+   }
+  },
+  {
+   "s": 3,
+   "q": "In Melzer's reagent, *Perenniporia* basidiospores are dextrinoid. What colour is that?",
+   "c": [
+    "Brown",
+    "Blue",
+    "Green",
+    "No reaction"
+   ],
+   "a": 0,
+   "r": {
+    "p": 126
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Arcangeliella* and *Zelleromyces* are sequestrate genera derived from:",
+   "c": [
+    "*Lactarius*",
+    "*Russula*",
+    "*Suillus*",
+    "*Cortinarius*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 127
+   }
+  },
+  {
+   "s": 3,
+   "q": "Dacrymycetes basidiospores are unusual because after release they:",
+   "c": [
+    "Become phragmoseptate",
+    "Bud like yeasts",
+    "Grow flagella",
+    "Fuse in pairs"
+   ],
+   "a": 0,
+   "r": {
+    "p": 127
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Eocronartium*, with a gelatinous basidioma, parasitizes:",
+   "c": [
+    "Mosses",
+    "Scale insects",
+    "Carrots",
+    "Rotting wood in houses"
+   ],
+   "a": 0,
+   "r": {
+    "p": 130
+   }
+  },
+  {
+   "s": 4,
+   "q": "In the wheat stem rust cycle, where on the barberry leaf do the aecia form?",
+   "c": [
+    "On the lower surface",
+    "On the upper surface",
+    "On the stem only",
+    "On the flowers"
+   ],
+   "a": 0,
+   "r": {
+    "p": 131
+   }
+  },
+  {
+   "s": 4,
+   "q": "How does *Puccinia poae-nemoralis* survive in the Canadian arctic without an alternate host?",
+   "c": [
+    "Its urediniospores overwinter",
+    "Its teliospores survive for decades",
+    "It becomes systemic in roots",
+    "It lives as a yeast in soil"
+   ],
+   "a": 0,
+   "r": {
+    "p": 132
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Gymnosporangium* produces its gelatinous telial horns on:",
+   "c": [
+    "Juniper",
+    "Pear",
+    "Serviceberry",
+    "Barberry"
+   ],
+   "a": 0,
+   "r": {
+    "p": 133
+   }
+  },
+  {
+   "s": 4,
+   "q": "The commonest *Phragmidium* on roses, with six-celled teliospores and an apical spine, is:",
+   "c": [
+    "*Phragmidium mucronatum*",
+    "*Phragmidium rubi*",
+    "*Puccinia graminis*",
+    "*Uromyces pisi*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 133
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Uromyces pisi* induces *Euphorbia cyparissias* to form:",
+   "c": [
+    "Pseudoflowers of yellow leaves bearing spermagonia",
+    "Galls on its roots",
+    "Witches' brooms",
+    "Black knots"
+   ],
+   "a": 0,
+   "r": {
+    "p": 134
+   }
+  },
+  {
+   "s": 5,
+   "q": "In smuts, where are teliospores produced relative to the hypha?",
+   "c": [
+    "Intercalary (within the hypha)",
+    "Terminal",
+    "On sterigmata",
+    "Inside asci"
+   ],
+   "a": 0,
+   "r": {
+    "p": 134
+   }
+  },
+  {
+   "s": 5,
+   "q": "Smut infections are usually:",
+   "c": [
+    "Systemic",
+    "Localized",
+    "Restricted to roots",
+    "Restricted to ferns"
+   ],
+   "a": 0,
+   "r": {
+    "p": 134
+   }
+  },
+  {
+   "s": 5,
+   "q": "Onion smut, our only example of the Urocystales, is caused by:",
+   "c": [
+    "*Urocystis cepulae*",
+    "*Ustilago maydis*",
+    "*Tilletia caries*",
+    "*Ustilago esculenta*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 135
+   }
+  },
+  {
+   "s": 5,
+   "q": "*Ustilago esculenta*, eaten in China, causes hypertrophy in the stems of:",
+   "c": [
+    "Wild rice",
+    "Corn",
+    "Bamboo",
+    "Wheat"
+   ],
+   "a": 0,
+   "r": {
+    "p": 135
+   }
+  },
+  {
+   "s": 5,
+   "q": "Why is bunt of wheat as serious an economic problem as stem rust?",
+   "c": [
+    "No resistant wheat strains have yet been bred",
+    "It also infects barberry",
+    "It is spread by insects",
+    "It produces aflatoxin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 135
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "Which statement about the shared ancestry of ascomycetes and basidiomycetes is correct?",
+   "c": [
+    "They evolved from a common stock hundreds of millions of years ago",
+    "Basidiomycetes evolved from ascomycetes recently",
+    "They are unrelated",
+    "Ascomycetes evolved from rusts"
+   ],
+   "a": 0,
+   "r": {
+    "p": 105
+   }
+  },
+  {
+   "s": 0,
+   "q": "Both basidiomycete septal pore mechanisms almost entirely block:",
+   "c": [
+    "Migration of nuclei between cells",
+    "Movement of water",
+    "Passage of enzymes to the tip",
+    "Growth in length"
+   ],
+   "a": 0,
+   "r": {
+    "p": 106
+   }
+  },
+  {
+   "s": 0,
+   "q": "Many boletes are dikaryotic yet have no clamp connections.",
+   "c": [
+    "True",
+    "False"
+   ],
+   "a": 0,
+   "r": {
+    "p": 107
+   }
+  },
+  {
+   "s": 0,
+   "q": "The fluid droplet that forms at the base of a basidiospore before discharge is produced by secretion of:",
+   "c": [
+    "Mannitol and hexose sugars",
+    "Salt",
+    "Oil",
+    "Protein"
+   ],
+   "a": 0,
+   "r": {
+    "p": 108
+   }
+  },
+  {
+   "s": 0,
+   "q": "Basidiomycete mycelia can often be recognized on decaying wood as:",
+   "c": [
+    "Delicate fan-like arrangements",
+    "Black crusts",
+    "Orange slime",
+    "Powdery green mats"
+   ],
+   "a": 0,
+   "r": {
+    "p": 110
+   }
+  },
+  {
+   "s": 1,
+   "q": "The Mycological Society of San Francisco holds its Mushroom Fair in which month?",
+   "c": [
+    "December",
+    "May",
+    "August",
+    "October"
+   ],
+   "a": 0,
+   "r": {
+    "p": 113
+   }
+  },
+  {
+   "s": 1,
+   "q": "Agarics with ectomycorrhizal habits especially partner with conifers of which family?",
+   "c": [
+    "Pinaceae",
+    "Cupressaceae",
+    "Taxaceae",
+    "Fagaceae"
+   ],
+   "a": 0,
+   "r": {
+    "p": 113
+   }
+  },
+  {
+   "s": 1,
+   "q": "Vertical plates under an agaric cap are called gills or:",
+   "c": [
+    "Lamellae",
+    "Pores",
+    "Cystidia",
+    "Sterigmata"
+   ],
+   "a": 0,
+   "r": {
+    "p": 113
+   }
+  },
+  {
+   "s": 1,
+   "q": "Matchmaker, which Kendrick recommends, is:",
+   "c": [
+    "A mushroom identification software program",
+    "A mating test",
+    "A culture medium",
+    "A spore trap"
+   ],
+   "a": 0,
+   "r": {
+    "p": 116
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Chlorophyllum molybdites* is a poisonous *Lepiota* lookalike with what colour spores?",
+   "c": [
+    "Green",
+    "Pink",
+    "Black",
+    "Rusty brown"
+   ],
+   "a": 0,
+   "r": {
+    "p": 117
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Podaxis*, the desert shaggy mane, disperses its dry gleba:",
+   "c": [
+    "Only when the fruit body disintegrates or is disrupted",
+    "By shooting basidiospores",
+    "Through rain splash",
+    "Through insects attracted by smell"
+   ],
+   "a": 0,
+   "r": {
+    "p": 117
+   }
+  },
+  {
+   "s": 2,
+   "q": "Strophariaceae gills often bear chrysocystidia, whose contents stain yellow in:",
+   "c": [
+    "Alkali",
+    "Iodine",
+    "Water",
+    "Acid"
+   ],
+   "a": 0,
+   "r": {
+    "p": 117
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Inocybe* (fibre head) is a large genus; many species are:",
+   "c": [
+    "Toxic",
+    "Bioluminescent",
+    "Parasitic on mushrooms",
+    "Lichenized"
+   ],
+   "a": 0,
+   "r": {
+    "p": 118
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Bolbitius vitellinus* is better known as the:",
+   "c": [
+    "Fried egg mushroom",
+    "Shaggy mane",
+    "Honey mushroom",
+    "Velvet-stalk"
+   ],
+   "a": 0,
+   "r": {
+    "p": 118
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Dendrocollybia racemosa* is unique for developing many synnemata of which anamorph along its stipe?",
+   "c": [
+    "*Tilachlidiopsis*",
+    "*Graphium*",
+    "*Spiniger*",
+    "*Ptychogaster*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 119
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Lichenomphalia* is a lichenized genus in which family?",
+   "c": [
+    "Hygrophoraceae",
+    "Amanitaceae",
+    "Agaricaceae",
+    "Russulaceae"
+   ],
+   "a": 0,
+   "r": {
+    "p": 120
+   }
+  },
+  {
+   "s": 3,
+   "q": "A recently described epigeous sequestrate bolete with a species named *squarepantsii* is:",
+   "c": [
+    "*Spongiforma*",
+    "*Rhizopogon*",
+    "*Truncocolumella*",
+    "*Melanogaster*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 121
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Myriostoma* differs from *Geastrum* in having:",
+   "c": [
+    "Many ostioles",
+    "No peridium",
+    "Gills",
+    "A volva"
+   ],
+   "a": 0,
+   "r": {
+    "p": 122
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Laetiporus sulphureus* is soft enough to eat when young and is commonly called:",
+   "c": [
+    "Chicken-of-the-woods",
+    "Turkey tail",
+    "Artist's conk",
+    "Dryad's saddle"
+   ],
+   "a": 0,
+   "r": {
+    "p": 125
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Piptoporus betulinus* kills only which trees?",
+   "c": [
+    "Birch",
+    "Oak",
+    "Pine",
+    "Poplar"
+   ],
+   "a": 0,
+   "r": {
+    "p": 125
+   }
+  },
+  {
+   "s": 3,
+   "q": "Most saprobic bracket fungi belong to which order?",
+   "c": [
+    "Polyporales",
+    "Russulales",
+    "Agaricales",
+    "Cantharellales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 124
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Pachnocybe ferruginea*, found on rotting wood in houses, was long misinterpreted as:",
+   "c": [
+    "A synnematal hyphomycete",
+    "A lichen",
+    "A slime mould",
+    "A zygomycete"
+   ],
+   "a": 0,
+   "r": {
+    "p": 130
+   }
+  },
+  {
+   "s": 4,
+   "q": "Rust urediniospores are unicellular, thick-walled, and have:",
+   "c": [
+    "Distinct equatorial germ pores",
+    "Flagella",
+    "Apical spines",
+    "Long stalks"
+   ],
+   "a": 0,
+   "r": {
+    "p": 132
+   }
+  },
+  {
+   "s": 5,
+   "q": "Smut basidiospores, unlike rust basidiospores, are:",
+   "c": [
+    "Variable in number and not discharged from sterigmata",
+    "Always four and shot away",
+    "Produced inside asci",
+    "Flagellate"
+   ],
+   "a": 0,
+   "r": {
+    "p": 134
+   }
+  }
+ ]
+}

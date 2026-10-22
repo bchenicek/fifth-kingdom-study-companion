@@ -1,0 +1,1775 @@
+{
+ "n": 10,
+ "title": "Fungal Genetics—Mendelian and Molecular",
+ "pages": [
+  195,
+  226
+ ],
+ "sections": [
+  {
+   "title": "Introduction: Why Fungi Suit Genetic Study",
+   "pages": [
+    195,
+    198
+   ],
+   "questions": [
+    {
+     "q": "Why does being somatically haploid make most true fungi convenient for genetics?",
+     "c": [
+      "There are no competing alleles, so every gene can be expressed in the phenotype",
+      "They have more chromosomes",
+      "They never mutate",
+      "They have no meiosis"
+     ],
+     "a": 0,
+     "r": {
+      "p": 196
+     }
+    },
+    {
+     "q": "Mycelia containing genetically different nuclei are called:",
+     "c": [
+      "Heterokaryons",
+      "Heteroplasmons",
+      "Homokaryons",
+      "Dikaryons only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 196
+     }
+    },
+    {
+     "q": "Hyphal fusions that exchange cytoplasm produce heteroplasmons, useful for studying:",
+     "c": [
+      "Cytoplasmic (extranuclear) inheritance",
+      "Chromosome counts",
+      "Spore colour",
+      "Meiotic crossing-over"
+     ],
+     "a": 0,
+     "r": {
+      "p": 196
+     }
+    },
+    {
+     "q": "Why are *Neurospora* and *Sordaria* ideal for studying crossing-over?",
+     "c": [
+      "The eight meiotic products lie in a linear sequence within the ascus",
+      "They have huge chromosomes",
+      "They are diploid",
+      "They have no anamorph"
+     ],
+     "a": 0,
+     "r": {
+      "p": 196
+     }
+    },
+    {
+     "q": "Genetic recombination without sex, via somatic diploids and mitotic crossover, is called:",
+     "c": [
+      "Parasexuality",
+      "Heterothallism",
+      "Gene conversion",
+      "Amphithallism"
+     ],
+     "a": 0,
+     "r": {
+      "p": 196
+     }
+    },
+    {
+     "q": "In fungal mitosis, the spindle develops inside the nuclear envelope and there is no metaphase plate.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 197
+     }
+    },
+    {
+     "q": "Why have fungi been little used in population genetics?",
+     "c": [
+      "It is often hard to decide what a fungal individual is",
+      "They have no populations",
+      "They reproduce too slowly",
+      "Their DNA can't be sequenced"
+     ],
+     "a": 0,
+     "r": {
+      "p": 198
+     }
+    }
+   ]
+  },
+  {
+   "title": "Investigating Crossing-Over in a Fungus Using Marker Genes",
+   "pages": [
+    198,
+    204
+   ],
+   "questions": [
+    {
+     "q": "The point at which chromatids are functionally joined, and the last to separate at mitosis, is the:",
+     "c": [
+      "Centromere",
+      "Telomere",
+      "Kinetosome",
+      "Septum"
+     ],
+     "a": 0,
+     "r": {
+      "p": 199
+     }
+    },
+    {
+     "q": "The farther a marker gene is from the centromere, the more likely it is to be involved in a crossover.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 199
+     }
+    },
+    {
+     "q": "In a *Sordaria fimicola* cross with no crossover at the colour gene, an ascus shows:",
+     "c": [
+      "Four dark spores at one end and four light at the other",
+      "Alternating pairs of dark and light spores",
+      "All dark spores",
+      "All light spores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 199
+     }
+    },
+    {
+     "q": "If 8 of 20 asci show crossing-over at a marker, the recombination frequency is:",
+     "c": [
+      "20%",
+      "40%",
+      "8%",
+      "80%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 200
+     }
+    },
+    {
+     "q": "One map unit is defined as the distance between linked genes giving:",
+     "c": [
+      "1% recombination",
+      "10% recombination",
+      "50% recombination",
+      "One crossover per ascus"
+     ],
+     "a": 0,
+     "r": {
+      "p": 201
+     }
+    },
+    {
+     "q": "In a two-factor cross, an ascus AB AB Ab Ab aB aB ab ab (two parental, two recombinant types) is a:",
+     "c": [
+      "Tetratype",
+      "Parental ditype",
+      "Nonparental ditype",
+      "Second-division segregation only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 202
+     }
+    },
+    {
+     "q": "If no nonparental ditype asci appear in a two-factor cross, the two markers are probably:",
+     "c": [
+      "Linked on the same chromosome",
+      "On different chromosomes",
+      "At the centromere",
+      "Mitochondrial"
+     ],
+     "a": 0,
+     "r": {
+      "p": 202
+     }
+    },
+    {
+     "q": "When crossing-over at one point reduces the chance of another nearby, this is called:",
+     "c": [
+      "Interference",
+      "Gene conversion",
+      "Complementation",
+      "Staling"
+     ],
+     "a": 0,
+     "r": {
+      "p": 203
+     }
+    },
+    {
+     "q": "Nonreciprocal recombination is also called:",
+     "c": [
+      "Gene conversion",
+      "Interference",
+      "Parasexuality",
+      "Complementation"
+     ],
+     "a": 0,
+     "r": {
+      "p": 203
+     }
+    },
+    {
+     "q": "Mutants that need a nutrient the wild type doesn't are called:",
+     "c": [
+      "Auxotrophs",
+      "Prototrophs",
+      "Suppressors",
+      "Heterokaryons"
+     ],
+     "a": 0,
+     "r": {
+      "p": 203
+     }
+    },
+    {
+     "q": "Mutants that overcome an earlier mutation's deficiency, causing apparent reversion to wild type, are:",
+     "c": [
+      "Suppressor mutants",
+      "Resistance mutants",
+      "Fermentation mutants",
+      "Physiological mutants"
+     ],
+     "a": 0,
+     "r": {
+      "p": 204
+     }
+    },
+    {
+     "q": "The commercial strains of *Penicillium chrysogenum* that make large amounts of penicillin are:",
+     "c": [
+      "Overproducing biochemical mutants",
+      "Wild-type strains",
+      "Heterokaryons with *Aspergillus*",
+      "Diploid hybrids"
+     ],
+     "a": 0,
+     "r": {
+      "p": 204
+     }
+    }
+   ]
+  },
+  {
+   "title": "Mating Systems: One Sex, Two Sexes, Many Sexes",
+   "pages": [
+    204,
+    207
+   ],
+   "questions": [
+    {
+     "q": "A mycelium that can produce sex organs of both kinds and self-fertilize is:",
+     "c": [
+      "Homothallic",
+      "Heterothallic",
+      "Amphithallic",
+      "Bipolar"
+     ],
+     "a": 0,
+     "r": {
+      "p": 204,
+      "h": "One Sex, Two Sexes, Many Sexes"
+     }
+    },
+    {
+     "q": "The 'lonely spore hypothesis' explains an advantage of:",
+     "c": [
+      "Homothallism, allowing sex when no compatible partner is found",
+      "Heterothallism",
+      "Parasexuality",
+      "Interference"
+     ],
+     "a": 0,
+     "r": {
+      "p": 204
+     }
+    },
+    {
+     "q": "Groups within a species defined by whether hyphae can fuse are called:",
+     "c": [
+      "Vegetative compatibility groups (VCGs)",
+      "Mating types",
+      "Physiological races",
+      "Linkage groups"
+     ],
+     "a": 0,
+     "r": {
+      "p": 205
+     }
+    },
+    {
+     "q": "In basidiomycetes, vegetative incompatibility can effectively prevent sexual reproduction.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 205
+     }
+    },
+    {
+     "q": "Random matings in a population with a two-allele system can be at most how successful?",
+     "c": [
+      "50%",
+      "25%",
+      "100%",
+      "75%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 206,
+      "h": "Bipolar and Tetrapolar Mating Systems"
+     }
+    },
+    {
+     "q": "Compatibility alleles at two loci (A and B) define which mating system?",
+     "c": [
+      "Tetrapolar",
+      "Bipolar",
+      "Homothallic",
+      "Two-allele"
+     ],
+     "a": 0,
+     "r": {
+      "p": 205
+     }
+    },
+    {
+     "q": "What share of random matings among siblings from one tetrapolar dikaryon will be successful?",
+     "c": [
+      "25%",
+      "50%",
+      "100%",
+      "75%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 206
+     }
+    },
+    {
+     "q": "In *Schizophyllum commune*, clamp connections develop only if the dikaryon is heterozygous at the:",
+     "c": [
+      "A locus",
+      "B locus",
+      "Both loci",
+      "Neither locus"
+     ],
+     "a": 0,
+     "r": {
+      "p": 206
+     }
+    },
+    {
+     "q": "*Saccharomyces cerevisiae* can switch mating type by:",
+     "c": [
+      "Splicing in a 'silent' copy of the other allele at the active locus",
+      "Fusing with another cell",
+      "Losing a chromosome",
+      "Changing temperature"
+     ],
+     "a": 0,
+     "r": {
+      "p": 206
+     }
+    },
+    {
+     "q": "Self-sterile one-nucleus spores and self-fertile two-nucleus spores in the same fruit body is called:",
+     "c": [
+      "Amphithallism",
+      "Secondary homothallism",
+      "Intersterility",
+      "Syntopy"
+     ],
+     "a": 0,
+     "r": {
+      "p": 207
+     }
+    }
+   ]
+  },
+  {
+   "title": "Intersterility and Parasexuality",
+   "pages": [
+    207,
+    209
+   ],
+   "questions": [
+    {
+     "q": "A system that can block mating despite compatible mating types is called:",
+     "c": [
+      "Intersterility",
+      "Heterokaryosis",
+      "Interference",
+      "Amphithallism"
+     ],
+     "a": 0,
+     "r": {
+      "p": 207,
+      "h": "Intersterility"
+     }
+    },
+    {
+     "q": "In closely related *Neurospora* species, the reproductive barriers are mostly:",
+     "c": [
+      "Postzygotic: interspecific crosses give largely nonviable ascospores",
+      "Prezygotic",
+      "Absent",
+      "Caused by mitochondria"
+     ],
+     "a": 0,
+     "r": {
+      "p": 208
+     }
+    },
+    {
+     "q": "Which correctly lists the stages of the parasexual cycle?",
+     "c": [
+      "Anastomosis → somatic diploid → mitotic crossing-over → haploidization",
+      "Meiosis → mitosis → fusion → budding",
+      "Fusion → meiosis → spore formation → germination",
+      "Haploidization → fusion → meiosis → crossing-over"
+     ],
+     "a": 0,
+     "r": {
+      "p": 208,
+      "h": "Parasexuality"
+     }
+    },
+    {
+     "q": "Parasexual events happen in fewer than one conidium in a million, yet matter because:",
+     "c": [
+      "Conidia are produced in astronomical numbers",
+      "They always produce better strains",
+      "They occur in every hypha",
+      "They happen during meiosis"
+     ],
+     "a": 0,
+     "r": {
+      "p": 208
+     }
+    },
+    {
+     "q": "Two auxotrophs combined into a diploid can grow on minimal medium because each set of chromosomes compensates for the other. This is called:",
+     "c": [
+      "Complementation",
+      "Interference",
+      "Gene conversion",
+      "Countertransport"
+     ],
+     "a": 0,
+     "r": {
+      "p": 209
+     }
+    },
+    {
+     "q": "Which substance stimulates haploidization in the parasexual cycle?",
+     "c": [
+      "Low concentrations of Benomyl or p-fluorophenylalanine",
+      "Camphor vapour",
+      "Acriflavine",
+      "Glucose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 209
+     }
+    }
+   ]
+  },
+  {
+   "title": "Extranuclear Inheritance",
+   "pages": [
+    209,
+    210
+   ],
+   "questions": [
+    {
+     "q": "The 'poky' mutant of *Neurospora* is transmitted only when the poky strain:",
+     "c": [
+      "Forms the perithecium initial (acts as maternal parent)",
+      "Supplies the spermatia",
+      "Is grown in light",
+      "Is homothallic"
+     ],
+     "a": 0,
+     "r": {
+      "p": 210
+     }
+    },
+    {
+     "q": "'Petite' yeast cells arise at about what frequency?",
+     "c": [
+      "1 in 500",
+      "1 in 5",
+      "1 in a million",
+      "1 in 50,000"
+     ],
+     "a": 0,
+     "r": {
+      "p": 210
+     }
+    },
+    {
+     "q": "'Petite' cells form small colonies because they:",
+     "c": [
+      "Have defective mitochondria and can respire only anaerobically",
+      "Lack nuclei",
+      "Cannot bud",
+      "Are diploid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 210
+     }
+    },
+    {
+     "q": "Growing yeast on acriflavine can convert whole colonies to petite cells.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 210
+     }
+    }
+   ]
+  },
+  {
+   "title": "Genetics and Plant Pathology",
+   "pages": [
+    210,
+    211
+   ],
+   "questions": [
+    {
+     "q": "The gene-for-gene theory says that:",
+     "c": [
+      "For every host resistance gene there's a pathogen gene that can mutate to overcome it",
+      "Each host gene matches a pathogen chromosome",
+      "Pathogens and hosts share genes",
+      "Resistance is controlled by one gene in all plants"
+     ],
+     "a": 0,
+     "r": {
+      "p": 210
+     }
+    },
+    {
+     "q": "With three tomato varieties carrying resistance genes 1, 2, and 3, how many races of *Cladosporium fulvum* can be distinguished?",
+     "c": [
+      "Eight",
+      "Three",
+      "Six",
+      "Twelve"
+     ],
+     "a": 0,
+     "r": {
+      "p": 211
+     }
+    },
+    {
+     "q": "Almost 200 races of flax rust (*Melampsora lini*) have been identified using how many host varieties?",
+     "c": [
+      "Eighteen",
+      "Three",
+      "Seven",
+      "Two hundred"
+     ],
+     "a": 0,
+     "r": {
+      "p": 211
+     }
+    },
+    {
+     "q": "In central Mexico, potato breeders have found it more useful to aim for:",
+     "c": [
+      "Field resistance mediated by many genes with small effects",
+      "A single major resistance gene",
+      "Chemical control only",
+      "Growing potatoes in winter"
+     ],
+     "a": 0,
+     "r": {
+      "p": 211
+     }
+    },
+    {
+     "q": "Virulence genes of *Venturia inaequalis* were found to segregate regularly in the ascus.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 211
+     }
+    }
+   ]
+  },
+  {
+   "title": "Recombinant DNA and Gene Cloning in Fungi",
+   "pages": [
+    212,
+    214
+   ],
+   "questions": [
+    {
+     "q": "The fungal genome is only about how many times larger than that of *E. coli*?",
+     "c": [
+      "Six to ten",
+      "A hundred",
+      "A thousand",
+      "Two"
+     ],
+     "a": 0,
+     "r": {
+      "p": 212
+     }
+    },
+    {
+     "q": "Enzymes that cleave plasmid vectors and leave 'sticky' ends are:",
+     "c": [
+      "Restriction endonucleases",
+      "DNA ligases",
+      "Polymerases",
+      "Glucanases"
+     ],
+     "a": 0,
+     "r": {
+      "p": 212
+     }
+    },
+    {
+     "q": "Which enzyme repairs the sugar-phosphate backbone after vector and donor DNA join?",
+     "c": [
+      "DNA ligase",
+      "Restriction endonuclease",
+      "Reverse transcriptase",
+      "Laccase"
+     ],
+     "a": 0,
+     "r": {
+      "p": 212
+     }
+    },
+    {
+     "q": "Why is yeast a better host than *E. coli* for many eukaryotic genes?",
+     "c": [
+      "Yeast can glycosylate and fold proteins like other eukaryotes",
+      "Yeast grows faster",
+      "Yeast has no plasmids",
+      "Yeast lacks a cell wall"
+     ],
+     "a": 0,
+     "r": {
+      "p": 212
+     }
+    },
+    {
+     "q": "In the alkali salt method, intact yeast cells are made competent by incubation in:",
+     "c": [
+      "Lithium acetate",
+      "Sorbitol",
+      "β-mercaptoethanol",
+      "Snail glucanases"
+     ],
+     "a": 0,
+     "r": {
+      "p": 213
+     }
+    },
+    {
+     "q": "The first yeast transformation (1978) used a plasmid carrying which yeast gene?",
+     "c": [
+      "LEU 2 (for leucine synthesis)",
+      "GAL4",
+      "ADH1",
+      "CO1"
+     ],
+     "a": 0,
+     "r": {
+      "p": 213
+     }
+    },
+    {
+     "q": "A plasmid that works in both yeast and *E. coli* is called a:",
+     "c": [
+      "Shuttle vector",
+      "Petite plasmid",
+      "Mycovirus",
+      "Barcode"
+     ],
+     "a": 0,
+     "r": {
+      "p": 213
+     }
+    }
+   ]
+  },
+  {
+   "title": "Expressing Foreign Genes in Yeasts and Filamentous Fungi",
+   "pages": [
+    214,
+    217
+   ],
+   "questions": [
+    {
+     "q": "The TATA promoter element is named for its sequence of:",
+     "c": [
+      "Thymine-adenine-thymine-adenine",
+      "Two amino acids",
+      "Transcription and translation",
+      "Tryptophan-alanine"
+     ],
+     "a": 0,
+     "r": {
+      "p": 214,
+      "h": "Expression of Exogenous Genes in Yeast"
+     }
+    },
+    {
+     "q": "The GAL1, GAL7, and GAL10 promoters are repressed by glucose and induced by:",
+     "c": [
+      "Galactose",
+      "Glycerol",
+      "Leucine",
+      "Light"
+     ],
+     "a": 0,
+     "r": {
+      "p": 214
+     }
+    },
+    {
+     "q": "GAL80 protein acts as a negative regulator by binding to GAL4 protein.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 214
+     }
+    },
+    {
+     "q": "Light beers have had dextrins removed using which enzyme?",
+     "c": [
+      "Glucoamylase",
+      "Cellulase",
+      "Chymosin",
+      "Laccase"
+     ],
+     "a": 0,
+     "r": {
+      "p": 215
+     }
+    },
+    {
+     "q": "Fusing brewing yeast with *S. diastaticus* also brought in a compound that ruined beer flavour. What was it?",
+     "c": [
+      "4-vinyl guaiacol",
+      "Acetic acid",
+      "Malic acid",
+      "Patulin"
+     ],
+     "a": 0,
+     "r": {
+      "p": 215
+     }
+    },
+    {
+     "q": "Excess malic acid in Brazilian wines was reduced by fusing wine yeast with:",
+     "c": [
+      "*Schizosaccharomyces pombe*",
+      "*Candida albicans*",
+      "*Aspergillus niger*",
+      "*Trichoderma reesei*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 215
+     }
+    },
+    {
+     "q": "Why are filamentous fungi like *Aspergillus niger* becoming preferred hosts over yeasts?",
+     "c": [
+      "They secrete enzymes more efficiently than yeasts or bacteria",
+      "They grow faster than bacteria",
+      "They lack introns",
+      "They are easier to transform"
+     ],
+     "a": 0,
+     "r": {
+      "p": 216,
+      "h": "Expression of Eukaryotic Genes in Filamentous Fungi"
+     }
+    },
+    {
+     "q": "Which mammalian cheese-making protease has been expressed and secreted in *Aspergillus nidulans*?",
+     "c": [
+      "Bovine chymosin",
+      "Human insulin",
+      "Trypsin",
+      "Pepsin"
+     ],
+     "a": 0,
+     "r": {
+      "p": 217
+     }
+    }
+   ]
+  },
+  {
+   "title": "Molecular Taxonomy, Population Genetics, and PCR",
+   "pages": [
+    217,
+    221
+   ],
+   "questions": [
+    {
+     "q": "SDS-PAGE separates proteins by:",
+     "c": [
+      "Molecular weight",
+      "Charge only",
+      "Colour",
+      "Solubility in alcohol"
+     ],
+     "a": 0,
+     "r": {
+      "p": 218
+     }
+    },
+    {
+     "q": "Mitochondrial DNA studies showed the basidiotruffle *Rhizopogon* is extremely close to:",
+     "c": [
+      "*Suillus*",
+      "*Amanita*",
+      "*Tuber*",
+      "*Russula*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 218
+     }
+    },
+    {
+     "q": "PCR lets researchers:",
+     "c": [
+      "Replicate tiny DNA samples thousands of times",
+      "Cut DNA into fragments",
+      "Separate proteins",
+      "Count chromosomes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 218,
+      "h": "PCR"
+     }
+    },
+    {
+     "q": "The *Armillaria ostoyae* genet in Malheur National Forest is estimated to be how old?",
+     "c": [
+      "2,400 years",
+      "240 years",
+      "24,000 years",
+      "400 years"
+     ],
+     "a": 0,
+     "r": {
+      "p": 219
+     }
+    },
+    {
+     "q": "Which part of the rRNA operon, being non-coding and highly mutable, is best for comparing related species?",
+     "c": [
+      "The ITS regions",
+      "The 5.8S gene",
+      "The SSU gene",
+      "The promoter"
+     ],
+     "a": 0,
+     "r": {
+      "p": 219
+     }
+    },
+    {
+     "q": "The 5.8S gene is of limited phylogenetic value because it is short (~150 bp) and highly conserved.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 219
+     }
+    },
+    {
+     "q": "Kendrick says morphology seems to be:",
+     "c": [
+      "An emergent phenomenon from interacting developmental genes",
+      "Coded directly by single genes",
+      "Unrelated to genes",
+      "Determined only by environment"
+     ],
+     "a": 0,
+     "r": {
+      "p": 220
+     }
+    },
+    {
+     "q": "Environmental metagenomics techniques such as 454 pyrosequencing:",
+     "c": [
+      "Generate millions of sequences to detect thousands of species from soil",
+      "Count spores in air",
+      "Measure enzyme activity",
+      "Grow fungi from soil"
+     ],
+     "a": 0,
+     "r": {
+      "p": 220
+     }
+    }
+   ]
+  },
+  {
+   "title": "Genomes, Proteomics, Epigenetics, Barcodes, Mycoviruses, and CRISPR",
+   "pages": [
+    221,
+    225
+   ],
+   "questions": [
+    {
+     "q": "The fungal genome project target, reached in early 2017, was how many fungi?",
+     "c": [
+      "1,000",
+      "100",
+      "10,000",
+      "50"
+     ],
+     "a": 0,
+     "r": {
+      "p": 221,
+      "h": "Genome Projects"
+     }
+    },
+    {
+     "q": "*Saccharomyces*, the first fungus fully sequenced, has about how many genes?",
+     "c": [
+      "6,000",
+      "600",
+      "60,000",
+      "16"
+     ],
+     "a": 0,
+     "r": {
+      "p": 221
+     }
+    },
+    {
+     "q": "The 'proteome' is:",
+     "c": [
+      "The entire complement of proteins produced by an organism, varying with time and stress",
+      "The set of all genes",
+      "The protein coat of a virus",
+      "The ribosome"
+     ],
+     "a": 0,
+     "r": {
+      "p": 222,
+      "h": "Proteomics"
+     }
+    },
+    {
+     "q": "Epigenetic changes such as methylation alter gene expression without changing DNA sequence, and can be inherited.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 222,
+      "h": "Epigenetics"
+     }
+    },
+    {
+     "q": "Talbot et al.'s survey of 600 soil cores from pine forests found how many fungal species?",
+     "c": [
+      "More than 10,000",
+      "About 100",
+      "About 1,000",
+      "More than a million"
+     ],
+     "a": 0,
+     "r": {
+      "p": 223,
+      "h": "High-Throughput Sequencing Analysis"
+     }
+    },
+    {
+     "q": "Which region was formally adopted in 2012 as the DNA barcode for fungi?",
+     "c": [
+      "ITS",
+      "CO1",
+      "rbcL",
+      "LSU"
+     ],
+     "a": 0,
+     "r": {
+      "p": 223,
+      "h": "A Proposed DNA Barcode"
+     }
+    },
+    {
+     "q": "The hypovirus reduces virulence in which pathogen?",
+     "c": [
+      "*Cryphonectria parasitica* (chestnut blight)",
+      "*Phytophthora infestans*",
+      "*Puccinia graminis*",
+      "*Armillaria*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 224,
+      "h": "Mycoviruses"
+     }
+    },
+    {
+     "q": "Why do mycoviruses spread poorly in genetically diverse pathogen populations?",
+     "c": [
+      "They transmit only by anastomosis, which needs the same VCG",
+      "They need insect vectors",
+      "They are killed by sunlight",
+      "They only infect diploids"
+     ],
+     "a": 0,
+     "r": {
+      "p": 224
+     }
+    },
+    {
+     "q": "The killer yeast phenomenon in *S. cerevisiae* involves a mycovirus genome coding for:",
+     "c": [
+      "A protein toxin",
+      "A coat protein only",
+      "Cellulase",
+      "An antibiotic"
+     ],
+     "a": 0,
+     "r": {
+      "p": 224
+     }
+    },
+    {
+     "q": "CRISPR-Cas9 originated as:",
+     "c": [
+      "A prokaryotic immune system against viruses",
+      "A fungal sex hormone",
+      "A yeast plasmid",
+      "A plant resistance gene"
+     ],
+     "a": 0,
+     "r": {
+      "p": 225,
+      "h": "CRISPR-Cas9"
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "In a diploid organism, a 'dwarf' allele that shows only when both copies are present is called:",
+   "c": [
+    "Recessive",
+    "Dominant",
+    "Codominant",
+    "Lethal"
+   ],
+   "a": 0,
+   "r": {
+    "p": 195
+   }
+  },
+  {
+   "s": 0,
+   "q": "Which group is an exception, being somatically diploid?",
+   "c": [
+    "Oomycetes",
+    "Ascomycetes",
+    "Zygomycetes",
+    "Basidiomycetes"
+   ],
+   "a": 0,
+   "r": {
+    "p": 196
+   }
+  },
+  {
+   "s": 0,
+   "q": "Normal fungal mitosis takes about:",
+   "c": [
+    "Five minutes",
+    "Five hours",
+    "Five seconds",
+    "Five days"
+   ],
+   "a": 0,
+   "r": {
+    "p": 197
+   }
+  },
+  {
+   "s": 0,
+   "q": "Pulsed gel electrophoresis to count fungal chromosomes takes:",
+   "c": [
+    "Seven to ten days",
+    "A few minutes",
+    "A month",
+    "One hour"
+   ],
+   "a": 0,
+   "r": {
+    "p": 198
+   }
+  },
+  {
+   "s": 1,
+   "q": "Crossovers can happen between any two homologous chromatids. How many possibilities for single crossovers exist?",
+   "c": [
+    "Four",
+    "Two",
+    "Eight",
+    "One"
+   ],
+   "a": 0,
+   "r": {
+    "p": 199
+   }
+  },
+  {
+   "s": 1,
+   "q": "Recombination frequency for a gene equals what fraction of its crossing-over frequency?",
+   "c": [
+    "Half",
+    "Double",
+    "The same",
+    "A quarter"
+   ],
+   "a": 0,
+   "r": {
+    "p": 200
+   }
+  },
+  {
+   "s": 1,
+   "q": "In Kendrick's worked example (56 PD, 44 T, 0 NPD), what is the distance between Aa and Bb?",
+   "c": [
+    "12.5 map units",
+    "10 map units",
+    "25 map units",
+    "44 map units"
+   ],
+   "a": 0,
+   "r": {
+    "p": 203
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Aspergillus nidulans* 'bristle' mutants have conidiophores that:",
+   "c": [
+    "Lack any conidium-producing apparatus at the apex",
+    "Are twice as long",
+    "Produce white conidia",
+    "Branch repeatedly"
+   ],
+   "a": 0,
+   "r": {
+    "p": 203
+   }
+  },
+  {
+   "s": 1,
+   "q": "A minimal medium for *Neurospora crassa* contains inorganic salts, a nitrogen source, sucrose, agar, and which vitamin?",
+   "c": [
+    "Biotin",
+    "Thiamin",
+    "Riboflavin",
+    "Vitamin C"
+   ],
+   "a": 0,
+   "r": {
+    "p": 203
+   }
+  },
+  {
+   "s": 2,
+   "q": "Heterothallism is the fungal equivalent of:",
+   "c": [
+    "Separate sexes",
+    "Hermaphroditism",
+    "Asexual reproduction",
+    "Parthenogenesis"
+   ],
+   "a": 0,
+   "r": {
+    "p": 205
+   }
+  },
+  {
+   "s": 2,
+   "q": "Among 230 polypores, agarics, and gasteromycetes, about what share were tetrapolar heterothallic?",
+   "c": [
+    "About 55%",
+    "About 10%",
+    "About 35%",
+    "About 90%"
+   ],
+   "a": 0,
+   "r": {
+    "p": 206
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Schizophyllum commune* is estimated to have about how many different A alleles?",
+   "c": [
+    "460",
+    "10",
+    "76",
+    "2"
+   ],
+   "a": 0,
+   "r": {
+    "p": 206
+   }
+  },
+  {
+   "s": 2,
+   "q": "Why can *Agaricus brunnescens* behave as secondarily homothallic?",
+   "c": [
+    "Its basidia bear two spores, each with two compatible nuclei",
+    "It has no mating-type genes",
+    "It switches mating type",
+    "It forms asci"
+   ],
+   "a": 0,
+   "r": {
+    "p": 206
+   }
+  },
+  {
+   "s": 3,
+   "q": "Partly interfertile 'bridging' strains alongside intersterile populations occur in:",
+   "c": [
+    "*Ustilago cynodontis*",
+    "*Saccharomyces cerevisiae*",
+    "*Neurospora tetrasperma*",
+    "*Venturia inaequalis*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 208
+   }
+  },
+  {
+   "s": 3,
+   "q": "Somatic haploidization in the parasexual cycle probably occurs by:",
+   "c": [
+    "Successive chromosome losses from an aneuploid nucleus",
+    "Meiosis",
+    "Budding",
+    "Nuclear fusion"
+   ],
+   "a": 0,
+   "r": {
+    "p": 209
+   }
+  },
+  {
+   "s": 3,
+   "q": "Parasexuality has been detected in species of:",
+   "c": [
+    "*Aspergillus*, *Fusarium*, and *Verticillium*",
+    "*Amanita* and *Russula*",
+    "*Puccinia* and *Ustilago*",
+    "*Tuber* and *Morchella*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 208
+   }
+  },
+  {
+   "s": 4,
+   "q": "In *Aspergillus glaucus*, which attributes are under cytoplasmic control?",
+   "c": [
+    "Spore germination, growth rate, pigmentation, and perithecial density",
+    "Mating type only",
+    "Chromosome number",
+    "Ascospore number"
+   ],
+   "a": 0,
+   "r": {
+    "p": 210
+   }
+  },
+  {
+   "s": 5,
+   "q": "Plant breeders get resistance genes for crops mainly from:",
+   "c": [
+    "Wild relatives of the crop plant",
+    "Fungal pathogens",
+    "Bacteria",
+    "Unrelated weeds"
+   ],
+   "a": 0,
+   "r": {
+    "p": 210
+   }
+  },
+  {
+   "s": 6,
+   "q": "In protoplast transformation of yeast, which reagent promotes plasmid uptake?",
+   "c": [
+    "Polyethylene glycol",
+    "Lithium acetate",
+    "Acriflavine",
+    "Camphor"
+   ],
+   "a": 0,
+   "r": {
+    "p": 213
+   }
+  },
+  {
+   "s": 6,
+   "q": "Most strains of *S. cerevisiae* contain up to how many 2 µm plasmids per cell?",
+   "c": [
+    "A hundred",
+    "Ten",
+    "A thousand",
+    "One"
+   ],
+   "a": 0,
+   "r": {
+    "p": 213
+   }
+  },
+  {
+   "s": 7,
+   "q": "Complete degradation of cellulose to glucose requires endoglucanase, exocellobiohydrolase, and:",
+   "c": [
+    "β-glucosidase",
+    "Laccase",
+    "Amylase",
+    "Chymosin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 215
+   }
+  },
+  {
+   "s": 7,
+   "q": "Why isn't *Trichoderma reesei* used directly to produce its cellulases commercially?",
+   "c": [
+    "All three enzymes are inhibited by their end products",
+    "It grows too slowly",
+    "It is pathogenic",
+    "It produces no cellulases"
+   ],
+   "a": 0,
+   "r": {
+    "p": 215
+   }
+  },
+  {
+   "s": 7,
+   "q": "Using a 'petite' parent in intergeneric protoplast fusion gives more stable hybrids because:",
+   "c": [
+    "The hybrid has functional mitochondria from only one parent",
+    "Petites have more chromosomes",
+    "Petites grow faster",
+    "Petites are haploid"
+   ],
+   "a": 0,
+   "r": {
+    "p": 216
+   }
+  },
+  {
+   "s": 8,
+   "q": "When *Armillaria* homokaryons anastomose, which organelles do NOT migrate?",
+   "c": [
+    "Mitochondria",
+    "Nuclei",
+    "Ribosomes",
+    "Vacuoles"
+   ],
+   "a": 0,
+   "r": {
+    "p": 219
+   }
+  },
+  {
+   "s": 8,
+   "q": "Which rRNA gene is least conserved, allowing comparisons within and between species?",
+   "c": [
+    "LSU",
+    "SSU",
+    "5.8S",
+    "None vary"
+   ],
+   "a": 0,
+   "r": {
+    "p": 219
+   }
+  },
+  {
+   "s": 8,
+   "q": "Comparing multiple non-ribosomal genes to define species is called:",
+   "c": [
+    "Genealogical concordance (multigene sequence typing)",
+    "SDS-PAGE",
+    "Complementation",
+    "Lichenometry"
+   ],
+   "a": 0,
+   "r": {
+    "p": 219
+   }
+  },
+  {
+   "s": 9,
+   "q": "Where in Talbot et al.'s study was overlap of fungal species between regions?",
+   "c": [
+    "Relatively little; regional endemism was strong",
+    "Nearly complete",
+    "Only on the West Coast",
+    "Not measured"
+   ],
+   "a": 0,
+   "r": {
+    "p": 223
+   }
+  },
+  {
+   "s": 9,
+   "q": "The standard barcode gene for animals is:",
+   "c": [
+    "Mitochondrial CO1",
+    "ITS",
+    "rbcL plus matK",
+    "LSU"
+   ],
+   "a": 0,
+   "r": {
+    "p": 223
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "The entire genetic information of an organism is called its:",
+   "c": [
+    "Genome",
+    "Proteome",
+    "Phenotype",
+    "Karyotype"
+   ],
+   "a": 0,
+   "r": {
+    "p": 195
+   }
+  },
+  {
+   "s": 0,
+   "q": "Fungi resemble bacteria in handling (small storage, short generation time) but are more relevant to plants and animals because they are:",
+   "c": [
+    "Eukaryotic",
+    "Diploid",
+    "Multicellular",
+    "Photosynthetic"
+   ],
+   "a": 0,
+   "r": {
+    "p": 197
+   }
+  },
+  {
+   "s": 0,
+   "q": "Somatic crossing-over was first seen in:",
+   "c": [
+    "The fruit fly *Drosophila*",
+    "*Neurospora*",
+    "Yeast",
+    "Peas"
+   ],
+   "a": 0,
+   "r": {
+    "p": 196
+   }
+  },
+  {
+   "s": 1,
+   "q": "In Kendrick's worked example, how far was Aa from the centromere?",
+   "c": [
+    "10 map units",
+    "12.5 map units",
+    "20 map units",
+    "25 map units"
+   ],
+   "a": 0,
+   "r": {
+    "p": 203
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which mutagenic agent is mentioned for producing biochemical mutants?",
+   "c": [
+    "UV light",
+    "Heat",
+    "Salt",
+    "Glucose"
+   ],
+   "a": 0,
+   "r": {
+    "p": 203
+   }
+  },
+  {
+   "s": 1,
+   "q": "Normally dark *Aspergillus niger* has colour mutants that are:",
+   "c": [
+    "White, fawn, and olive",
+    "Red and blue",
+    "Pink and purple",
+    "Green only"
+   ],
+   "a": 0,
+   "r": {
+    "p": 203
+   }
+  },
+  {
+   "s": 1,
+   "q": "One *Phycomyces blakesleeanus* physiological mutant's sporangiophores no longer:",
+   "c": [
+    "Grow toward the light",
+    "Produce spores",
+    "Grow upward",
+    "Form columellae"
+   ],
+   "a": 0,
+   "r": {
+    "p": 204
+   }
+  },
+  {
+   "s": 2,
+   "q": "Homothallism helps perpetuate:",
+   "c": [
+    "Particularly successful genotypes",
+    "Genetic diversity",
+    "Interspecific hybrids",
+    "Mycoviruses"
+   ],
+   "a": 0,
+   "r": {
+    "p": 204
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Cryphonectria parasitica* and *Neurospora crassa* each contain many:",
+   "c": [
+    "Vegetative compatibility groups",
+    "Mating types",
+    "Clamp connections",
+    "Basidia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 205
+   }
+  },
+  {
+   "s": 2,
+   "q": "Examples of bipolar fungi include most smuts and:",
+   "c": [
+    "*Coprinus comatus*",
+    "*Schizophyllum commune*",
+    "*Saccharomyces cerevisiae*",
+    "*Neurospora crassa*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 205
+   }
+  },
+  {
+   "s": 2,
+   "q": "Bird's-nest fungi are believed to have only about how many alleles per mating locus?",
+   "c": [
+    "10",
+    "100",
+    "460",
+    "2"
+   ],
+   "a": 0,
+   "r": {
+    "p": 206
+   }
+  },
+  {
+   "s": 3,
+   "q": "Prezygotic intersterility occurs between closely related populations of *Armillaria*, *Pleurotus*, and:",
+   "c": [
+    "*Heterobasidion*",
+    "*Neurospora*",
+    "*Saccharomyces*",
+    "*Aspergillus*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 207
+   }
+  },
+  {
+   "s": 3,
+   "q": "Which vapour selects for somatic diploids in some fungi?",
+   "c": [
+    "Camphor",
+    "Ether",
+    "Ammonia",
+    "Chlorine"
+   ],
+   "a": 0,
+   "r": {
+    "p": 209
+   }
+  },
+  {
+   "s": 5,
+   "q": "Which apple variety was resistant to the avirulent alleles of *Venturia* genes 1, 3, and 4?",
+   "c": [
+    "Yellow Transparent",
+    "McIntosh",
+    "Granny Smith",
+    "Golden Delicious"
+   ],
+   "a": 0,
+   "r": {
+    "p": 211
+   }
+  },
+  {
+   "s": 6,
+   "q": "Repetitive DNA makes up what share of the fungal nuclear genome?",
+   "c": [
+    "Less than 20%",
+    "About 50%",
+    "About 90%",
+    "None"
+   ],
+   "a": 0,
+   "r": {
+    "p": 212
+   }
+  },
+  {
+   "s": 6,
+   "q": "Small plasmids with only a fragment of 2 µm DNA can give up to how many copies per transformed cell?",
+   "c": [
+    "300",
+    "3",
+    "30",
+    "3,000"
+   ],
+   "a": 0,
+   "r": {
+    "p": 214
+   }
+  },
+  {
+   "s": 7,
+   "q": "Which highly expressed yeast genes have very high mRNA levels and strong promoters?",
+   "c": [
+    "ADH1 and G3PDH",
+    "GAL80 and GAL4",
+    "LEU 2 and CO1",
+    "rbcL and matK"
+   ],
+   "a": 0,
+   "r": {
+    "p": 214
+   }
+  },
+  {
+   "s": 7,
+   "q": "Transformation of a filamentous fungus was first reported in *Neurospora crassa* in:",
+   "c": [
+    "1979",
+    "1958",
+    "1995",
+    "2015"
+   ],
+   "a": 0,
+   "r": {
+    "p": 216
+   }
+  },
+  {
+   "s": 8,
+   "q": "In most fungi, the rRNA operon genes are ordered:",
+   "c": [
+    "SSU, 5.8S, LSU",
+    "LSU, SSU, 5.8S",
+    "5.8S, LSU, SSU",
+    "SSU, LSU, 5.8S"
+   ],
+   "a": 0,
+   "r": {
+    "p": 219
+   }
+  },
+  {
+   "s": 9,
+   "q": "Which purely fungal sequence repository does Kendrick mention alongside GenBank?",
+   "c": [
+    "UNITE",
+    "BOLD",
+    "PDB",
+    "Ensembl"
+   ],
+   "a": 0,
+   "r": {
+    "p": 222
+   }
+  }
+ ]
+}

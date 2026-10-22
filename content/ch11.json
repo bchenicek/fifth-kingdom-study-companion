@@ -1,0 +1,127 @@
+{
+  "n": 11,
+  "title": "Fungal Ecology",
+  "pages": [227, 246],
+  "sections": [
+    {
+      "title": "The Succession of Coprophilous Fungi",
+      "pages": [227, 231],
+      "questions": [
+        {"q": "Herbivore dung may contain about how much nitrogen?", "c": ["4%, more than the plants originally eaten", "0.4%", "40%", "None"], "a": 0, "r": {"p": 227}},
+        {"q": "How do coprophilous fungi make sure they are first to exploit fresh dung?", "c": ["They are eaten by the animal and are already in the dung when it's deposited", "They grow fastest once it lands", "They arrive on flies", "They kill bacteria in it"], "a": 0, "r": {"p": 228}},
+        {"q": "About how many ascomycete genera are largely or exclusively found on dung?", "c": ["175", "17", "1,750", "5"], "a": 0, "r": {"p": 227}},
+        {"q": "In what order do the major groups typically sporulate on dung?", "c": ["Zygomycetes, then ascomycetes, then basidiomycetes", "Basidiomycetes, then ascomycetes, then zygomycetes", "Ascomycetes, then zygomycetes, then basidiomycetes", "All at once"], "a": 0, "r": {"p": 228}},
+        {"q": "The original nutritional hypothesis for the dung succession held up under testing.", "c": ["True", "False"], "a": 1, "r": {"p": 229}},
+        {"q": "The second hypothesis explained the succession by:", "c": ["The time each fungus needs to build reserves to fruit", "Light levels", "Temperature changes", "Insect visits"], "a": 0, "r": {"p": 229}},
+        {"q": "What factor did the second hypothesis neglect?", "c": ["Antagonism", "Nitrogen content", "Moisture", "Spore size"], "a": 0, "r": {"p": 229}},
+        {"q": "What happens when a *Coprinellus* or *Coprinopsis* hypha touches an *Ascobolus* hypha?", "c": ["The *Ascobolus* hypha collapses within minutes", "They anastomose", "Both stop growing", "The *Ascobolus* hypha forms a clamp"], "a": 0, "r": {"p": 230}},
+        {"q": "How does *Coprinopsis* pool resources to make more and larger basidiomata?", "c": ["Compatible mycelia anastomose until the dung holds essentially one mycelium", "It parasitizes other fungi", "It absorbs ascospores", "It moves to new dung"], "a": 0, "r": {"p": 230}},
+        {"q": "Which dung zygomycete parasitizes nematode eggs?", "c": ["*Rhopalomyces elegans*", "*Piptocephalis*", "*Circinella minor*", "*Cunninghamella*"], "a": 0, "r": {"p": 230}}
+      ]
+    },
+    {
+      "title": "The Pine Needle Microsere",
+      "pages": [231, 234],
+      "questions": [
+        {"q": "Kendrick's PhD problem: soil isolations yielded light-coloured fungi, but most hyphae seen in soil were:", "c": ["Darkly pigmented", "Colourless", "Bright orange", "Absent"], "a": 0, "r": {"p": 231}},
+        {"q": "In order of depth, the organic horizon layers are:", "c": ["L, F1, F2, H", "H, F2, F1, L", "F1, L, H, F2", "L, H, F1, F2"], "a": 0, "r": {"p": 231}},
+        {"q": "On average, how long does it take a pine needle to become humified?", "c": ["About nine years", "About nine months", "About ninety years", "About one year"], "a": 0, "r": {"p": 232}},
+        {"q": "*Lophodermium pinastri* in living needles appears to act as:", "c": ["An endophyte that may deter herbivores", "A lethal pathogen", "A mycorrhizal partner", "A lichen"], "a": 0, "r": {"p": 232}},
+        {"q": "*Sympodiella acicola* is unusual because its conidiophore extends sympodially while its conidia are:", "c": ["Thallic-arthric", "Blastic-phialidic", "Basauxic", "Flagellate"], "a": 0, "r": {"p": 233}},
+        {"q": "Needles partitioned between neighbouring fungi showed what between species?", "c": ["A black, melanized barrier", "A gap of empty tissue", "Mixed hyphae", "Clamp connections"], "a": 0, "r": {"p": 233}},
+        {"q": "In the Meathhop Wood biomass table, which group had by far the greatest biomass after plants?", "c": ["Fungi", "Bacteria", "Earthworms", "Nematodes"], "a": 0, "r": {"p": 234}},
+        {"q": "Kendrick argues that food webs in textbooks often miss microorganisms like saprobic and mycorrhizal fungi.", "c": ["True", "False"], "a": 0, "r": {"p": 234}}
+      ]
+    },
+    {
+      "title": "Amphibious Fungi in Streams",
+      "pages": [234, 238],
+      "questions": [
+        {"q": "What is unusual about the spores trapped in stream foam?", "c": ["Many are tetraradiate (four-armed) or sigmoid", "They are all flagellate", "They are dark and round", "They are all ascospores"], "a": 0, "r": {"p": 234}},
+        {"q": "Energy entering a shaded stream from autumn-shed leaves is described as:", "c": ["Allochthonous", "Autochthonous", "Primary", "Endogenous"], "a": 0, "r": {"p": 235}},
+        {"q": "Antibiotic experiments showed that leaves became palatable to *Gammarus* mainly through the action of:", "c": ["Fungi", "Bacteria", "Algae", "Protozoa"], "a": 0, "r": {"p": 236}},
+        {"q": "Teleomorphs of tetraradiate-spored fungi turned out to be:", "c": ["A mixed bunch of ascomycetes and basidiomycetes (convergent evolution)", "All one order of ascomycetes", "All basidiomycetes", "Zygomycetes"], "a": 0, "r": {"p": 236}},
+        {"q": "How do amphibious fungi get back upstream?", "c": ["Their emergent teleomorphs release airborne spores", "Fish carry them", "Their spores swim upstream", "Currents reverse in spring"], "a": 0, "r": {"p": 236}},
+        {"q": "Why does a tetraradiate shape help a spore in a stream?", "c": ["It makes a stable three-point landing on submerged leaves", "It helps it float", "It deters animals from eating it", "It speeds germination"], "a": 0, "r": {"p": 237}},
+        {"q": "Aquatic hyphomycetes sporulate only with high oxygen and the physical stimulus of flowing water.", "c": ["True", "False"], "a": 0, "r": {"p": 237}},
+        {"q": "Spore numbers in streams peak in:", "c": ["Fall and spring", "Midsummer", "Midwinter", "Late summer only"], "a": 0, "r": {"p": 237}},
+        {"q": "Fungal biomass in decaying leaves is often estimated by measuring:", "c": ["Ergosterol", "Chitin", "Glucose", "Chlorophyll"], "a": 0, "r": {"p": 238}},
+        {"q": "Which leaves are among the best baits for aquatic hyphomycetes in temperate streams?", "c": ["Alder leaves", "Conifer needles", "Oak bark", "Grass blades"], "a": 0, "r": {"p": 238}}
+      ]
+    },
+    {
+      "title": "Aero-Aquatic Fungi in Ponds",
+      "pages": [238, 241],
+      "questions": [
+        {"q": "What is special about the propagules of pond fungi like *Beverwykella* and *Helicoon*?", "c": ["They are hollow, air-filled, and float", "They are tetraradiate", "They swim", "They are shot into the air"], "a": 0, "r": {"p": 238}},
+        {"q": "*Helicoon* builds its floating propagule by:", "c": ["Coiling its conidiophore tip into a barrel-shaped, air-filled structure", "Fusing swollen branch tips", "Inflating a single cell", "Secreting a gas bubble"], "a": 0, "r": {"p": 238}},
+        {"q": "Why are they called aero-aquatic fungi?", "c": ["They grow underwater but sporulate only above the surface", "They live in clouds", "They need air bubbles to grow", "They are dispersed by birds"], "a": 0, "r": {"p": 239}},
+        {"q": "Their floating propagules give them which advantage?", "c": ["Being first to colonize newly fallen leaves before they sink", "Avoiding fish", "Faster photosynthesis", "Escaping frost"], "a": 0, "r": {"p": 240}},
+        {"q": "*Limnoperdon*, a tiny floating gasteromycete, has been recorded only from Kendrick's Ontario pond and near:", "c": ["Seattle", "London", "Mexico City", "Sydney"], "a": 0, "r": {"p": 238}},
+        {"q": "Which animals skeletonize the conditioned leaves in the pond?", "c": ["Tadpoles", "Trout", "Beetles", "Earthworms"], "a": 0, "r": {"p": 241}}
+      ]
+    },
+    {
+      "title": "Other Habitats and Fire Fungi",
+      "pages": [241, 242],
+      "questions": [
+        {"q": "Wood with black boundary lines between fungal 'territories' is described as:", "c": ["Spalted", "Stained", "Charred", "Lignified"], "a": 0, "r": {"p": 241, "h": "Other Habitats"}},
+        {"q": "The black material in spalted wood is a precursor of:", "c": ["Humic acids, important for soil fertility", "Lignin", "Chitin", "Cellulose"], "a": 0, "r": {"p": 242}},
+        {"q": "According to Kendrick, the richest reservoir of fungal diversity is:", "c": ["The soil", "Living leaves", "Streams", "Dung"], "a": 0, "r": {"p": 241}},
+        {"q": "Black morels typically appear in spring on areas that were:", "c": ["Burned the previous year", "Flooded", "Clear-cut ten years before", "Fertilized"], "a": 0, "r": {"p": 242, "h": "Fire Fungi"}},
+        {"q": "Many 'fire fungi' are associated with which plants on old burns?", "c": ["Mosses and liverworts", "Grasses", "Fireweed", "Young pines"], "a": 0, "r": {"p": 242}}
+      ]
+    },
+    {
+      "title": "Macrofungal Ecology and ATBIs",
+      "pages": [242, 244],
+      "questions": [
+        {"q": "Why can't North America produce fungal 'red lists' like Europe's?", "c": ["Historical records don't go back far enough and are fragmentary", "There are no endangered fungi there", "It is illegal", "Fungi aren't collected there"], "a": 0, "r": {"p": 242}},
+        {"q": "About what share of known agarics are mycorrhizal?", "c": ["About half", "About 10%", "Nearly all", "None"], "a": 0, "r": {"p": 243}},
+        {"q": "Many old-growth fungi don't recolonize clear-cuts for how long?", "c": ["Forty to fifty years", "Four to five years", "A century", "One season"], "a": 0, "r": {"p": 243}},
+        {"q": "Molecular studies showed that fungi forming sheaths around tree roots are often NOT the ones fruiting above ground.", "c": ["True", "False"], "a": 0, "r": {"p": 243}},
+        {"q": "After 21 years collecting agarics in one Scottish woodland, Tofts and Orton found:", "c": ["They still found new species every year", "They had found every species", "Species numbers declined", "Only 50 species"], "a": 0, "r": {"p": 243}},
+        {"q": "The proposed Costa Rican fungal ATBI was not carried out mainly because:", "c": ["It would have cost about US$25 million", "There were no fungi", "The forest was logged", "Mycologists disagreed on methods"], "a": 0, "r": {"p": 244, "h": "What’s an ATBI?"}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Which animals, unusually, eat their own dung?", "c": ["Rabbits", "Horses", "Cattle", "Deer"], "a": 0, "r": {"p": 228}},
+    {"s": 0, "q": "In the lab, *Mucor hiemalis* sporulates in 2–3 days. How long does *Sordaria fimicola* take?", "c": ["Nine to ten days", "One day", "A month", "Two to three days"], "a": 0, "r": {"p": 229}},
+    {"s": 0, "q": "Slimy-spored coprophilous hyphomycetes like *Graphium* are probably dispersed by:", "c": ["Arthropods that seek out dung", "Wind", "Rain splash", "Explosive discharge"], "a": 0, "r": {"p": 229}},
+    {"s": 0, "q": "Which fungus may appear on hair that an animal swallowed while grooming?", "c": ["Keratinolytic *Microsporum*", "*Pilobolus*", "*Arthrobotrys*", "*Sordaria*"], "a": 0, "r": {"p": 230}},
+    {"s": 0, "q": "Kendrick's students saw *Stylopage anomala* on horse dung years before it was described in:", "c": ["1983", "1958", "1995", "1970"], "a": 0, "r": {"p": 231}},
+    {"s": 0, "q": "As many as how many fungal species are commonly recorded from one collection of horse dung?", "c": ["Forty", "Four", "Four hundred", "Ten"], "a": 0, "r": {"p": 231}},
+    {"s": 1, "q": "How many needles from each layer did Kendrick examine each month?", "c": ["300", "30", "3,000", "3"], "a": 0, "r": {"p": 231}},
+    {"s": 1, "q": "Why did Kendrick embed some needles in wax and section them?", "c": ["To permit spatial analysis of colonization", "To kill surface fungi", "To make them float", "To measure their weight"], "a": 0, "r": {"p": 232}},
+    {"s": 1, "q": "One decomposition pathway begins with pycnidia of which coelomycete?", "c": ["*Fusicoccum*", "*Phoma*", "*Lophodermium*", "*Sympodiella*"], "a": 0, "r": {"p": 232}},
+    {"s": 1, "q": "Which tiny animals, described as 'miniature armoured tanks', eat both fungi and needles?", "c": ["Oribatid mites", "Springtails", "Nematodes", "Earthworms"], "a": 0, "r": {"p": 233}},
+    {"s": 2, "q": "In feeding experiments, *Gammarus* preferred to eat:", "c": ["Fungal mycelium rather than unconditioned leaf discs", "Unconditioned leaves", "Bacteria", "Algae"], "a": 0, "r": {"p": 236}},
+    {"s": 2, "q": "In *Tetrachaetum*, how do the arms of the conidium develop?", "c": ["Three arms grow upward and outward from the top of the first arm", "All four grow at once from a central cell", "They form by coiling", "They are produced inside a sporangium"], "a": 0, "r": {"p": 236}},
+    {"s": 2, "q": "About how many species of aquatic hyphomycetes have been described?", "c": ["About 300", "About 30", "About 3,000", "About 3"], "a": 0, "r": {"p": 237}},
+    {"s": 2, "q": "In a nutrient-poor woodland stream, up to what share of decaying leaf biomass has been attributed to fungi?", "c": ["17%", "1.7%", "70%", "50%"], "a": 0, "r": {"p": 238}},
+    {"s": 2, "q": "Compared with spore identification, molecular methods revealed what in the first one to two weeks after leaves enter a stream?", "c": ["Higher species richness", "Lower species richness", "No fungi at all", "Only bacteria"], "a": 0, "r": {"p": 238}},
+    {"s": 3, "q": "*Beverwykella* forms its floating propagule by:", "c": ["Swelling and fusing the tips of fine branches", "Coiling its tip", "Inflating a single giant cell", "Trapping air under a lid"], "a": 0, "r": {"p": 238}},
+    {"s": 3, "q": "Aero-aquatic fungi survive winter at the pond bottom because they can tolerate:", "c": ["Virtually anaerobic conditions", "Strong light", "High salinity", "Drying out"], "a": 0, "r": {"p": 241}},
+    {"s": 3, "q": "*Limnoperdon* basidia are nonshooting, with spores mounted:", "c": ["Symmetrically", "Asymmetrically", "Inside asci", "On flagella"], "a": 0, "r": {"p": 239}},
+    {"s": 4, "q": "Which ascomycete on burn sites attacks conifer seedlings and looks like a pile of dung?", "c": ["*Rhizina undulata*", "*Pyronema*", "*Morchella elata*", "*Peziza*"], "a": 0, "r": {"p": 242}},
+    {"s": 4, "q": "Fire fungi can be induced in the lab by:", "c": ["Heat-shock treatment of soil samples", "Freezing soil", "Adding nitrogen", "Watering heavily"], "a": 0, "r": {"p": 242}},
+    {"s": 5, "q": "Kendrick's own view is that morels are:", "c": ["Opportunistic saprobes exploiting new substrates", "Strictly mycorrhizal", "Parasites of elms", "Lichenized"], "a": 0, "r": {"p": 242}},
+    {"s": 5, "q": "How many mycologists met in Costa Rica in 1995 to plan a fungal ATBI?", "c": ["Twenty-two", "Two", "Two hundred", "Twelve"], "a": 0, "r": {"p": 243}}
+  ],
+  "review": [
+    {"s": 0, "q": "Why must coprophilous fungi distance their spores from the dung itself?", "c": ["Animals generally don't eat their own dung, so spores must reach the vegetation they eat", "Dung is toxic to spores", "Spores need light to mature", "Dung is too wet"], "a": 0, "r": {"p": 228}},
+    {"s": 0, "q": "Spores of coprophilous fungi are presumably triggered to germinate by:", "c": ["Passage through the mammalian gut", "Contact with air", "Sunlight on the dung", "Rain"], "a": 0, "r": {"p": 229}},
+    {"s": 0, "q": "*Coprinellus heptemerus* takes how long to sporulate in culture?", "c": ["Seven to thirteen days", "Two to three days", "One day", "Over a month"], "a": 0, "r": {"p": 229}},
+    {"s": 0, "q": "Which dung zygomycete attacks other zygomycetes?", "c": ["*Piptocephalis*", "*Pilobolus*", "*Rhopalomyces*", "*Circinella*"], "a": 0, "r": {"p": 230}},
+    {"s": 1, "q": "Kendrick began his PhD studies in:", "c": ["1955", "1965", "1945", "1975"], "a": 0, "r": {"p": 231}},
+    {"s": 1, "q": "In the lower F1 layer, the needle's upper surface becomes coated with:", "c": ["Arthropod frass containing hyphal fragments", "Moss", "Algae", "Snow mould"], "a": 0, "r": {"p": 233}},
+    {"s": 1, "q": "*Verticicladium trifidum* is the anamorph of:", "c": ["*Desmazierella acicola*", "*Lophodermium pinastri*", "*Botryosphaeria*", "*Sympodiella*"], "a": 0, "r": {"p": 233}},
+    {"s": 2, "q": "Spores collect in stream foam because of:", "c": ["A surface tension effect", "Attraction to bubbles' chemistry", "Spores producing gas", "Water temperature"], "a": 0, "r": {"p": 234}},
+    {"s": 2, "q": "Released aquatic hyphomycete spores may be captured by:", "c": ["Filter feeders", "Trout directly", "Birds", "Plant roots"], "a": 0, "r": {"p": 236}},
+    {"s": 2, "q": "In *Lemonniera*, how do the conidial arms develop?", "c": ["One arm grows up while others grow outward and downward at once from a central cell", "Three arms grow from the top of the first", "By coiling", "By budding in chains"], "a": 0, "r": {"p": 236}},
+    {"s": 3, "q": "Sporulation of aero-aquatic fungi happens again when:", "c": ["The pond dries and leaves lie just below the surface", "Ice forms", "Leaves first fall", "Snow melts"], "a": 0, "r": {"p": 241}},
+    {"s": 5, "q": "How many species did Tofts and Orton record over 21 years in a Scottish woodland?", "c": ["502", "52", "5,020", "102"], "a": 0, "r": {"p": 243}},
+    {"s": 5, "q": "The planned Costa Rican ATBI estimated how many fungi in the Guanacaste Conservation Area?", "c": ["About 50,000", "About 5,000", "About 500,000", "About 2,250"], "a": 0, "r": {"p": 243}}
+  ]
+}

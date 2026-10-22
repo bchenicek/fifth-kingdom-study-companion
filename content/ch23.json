@@ -1,0 +1,111 @@
+{
+  "n": 23,
+  "title": "Medical Mycology",
+  "pages": [409, 419],
+  "sections": [
+    {
+      "title": "Introduction and Cutaneous Infections",
+      "pages": [409, 411],
+      "questions": [
+        {"q": "Fungi that can attack people only when their immune defences are down are called:", "c": ["Opportunistic saprobes", "Dermatophytes", "Thermal dimorphic saprobes", "Obligate symbionts"], "a": 0, "r": {"p": 409}},
+        {"q": "Subcutaneous infections usually begin when fungi of low virulence are introduced through:", "c": ["A wound", "Inhalation", "Food", "Insect saliva only"], "a": 0, "r": {"p": 409}},
+        {"q": "The three genera of dermatophytes are *Epidermophyton*, *Microsporum*, and:", "c": ["*Trichophyton*", "*Candida*", "*Aspergillus*", "*Malassezia*"], "a": 0, "r": {"p": 409, "h": "Cutaneous Infections"}},
+        {"q": "Dermatophytes are keratinolytic, meaning they:", "c": ["Break down keratin", "Digest sugars", "Fix nitrogen", "Produce toxins in food"], "a": 0, "r": {"p": 409}},
+        {"q": "Despite its name, the reservoir of *Microsporum canis* is:", "c": ["Cats", "Dogs", "Humans", "Soil"], "a": 0, "r": {"p": 410}},
+        {"q": "Athlete's foot is technically called:", "c": ["Tinea pedis", "Tinea capitis", "Tinea cruris", "Tinea versicolor"], "a": 0, "r": {"p": 410}},
+        {"q": "Clinically, tinea is really a form of toxic dermatitis, because dermatophytes:", "c": ["Don't grow on living tissue; their irritant enzymes cause the symptoms", "Invade living cells", "Produce aflatoxin", "Attack nerves"], "a": 0, "r": {"p": 410}}
+      ]
+    },
+    {
+      "title": "Dandruff and Candidiasis",
+      "pages": [411, 411],
+      "questions": [
+        {"q": "The most common cause of dandruff is the basidiomycetous yeast:", "c": ["*Malassezia globosa*", "*Candida albicans*", "*Cryptococcus neoformans*", "*Saccharomyces cerevisiae*"], "a": 0, "r": {"p": 411, "h": "Dandruff and Seborrhoeic Dermatitis—Malassezia globosa"}},
+        {"q": "*Malassezia globosa* feeds on:", "c": ["Sebum", "Keratin", "Blood sugar", "Sweat"], "a": 0, "r": {"p": 411}},
+        {"q": "Digesting sebum, *Malassezia* produces which substance that penetrates the skin and causes dandruff?", "c": ["Oleic acid", "Lactic acid", "Ethanol", "Acetaldehyde"], "a": 0, "r": {"p": 411}},
+        {"q": "Oral candidiasis (thrush) in newborns arises when:", "c": ["The normal lactobacilli flora doesn't develop quickly enough", "The mother has diabetes", "Milk is contaminated", "The baby is too warm"], "a": 0, "r": {"p": 411, "h": "Candidiasis"}},
+        {"q": "Vaginal candidiasis is common in pregnancy because secretions have altered levels of:", "c": ["Glycogen", "Salt", "Iron", "Oxygen"], "a": 0, "r": {"p": 411}}
+      ]
+    },
+    {
+      "title": "Subcutaneous Infections",
+      "pages": [412, 412],
+      "questions": [
+        {"q": "Chromoblastomycosis produces stalked, warty growths on the feet or legs of people who:", "c": ["Go barefoot in the tropics", "Work with birds", "Live in deserts", "Are diabetic"], "a": 0, "r": {"p": 412}},
+        {"q": "Entomophthoromycosis is caused by *Basidiobolus ranarum*, which may be introduced by:", "c": ["Insect bites", "Inhaled conidia", "Contaminated food", "Pigeon droppings"], "a": 0, "r": {"p": 412}},
+        {"q": "In mycotic mycetoma, the compact fungal colonies within the tumour are called:", "c": ["Grains", "Sclerotia", "Pellets", "Spherules"], "a": 0, "r": {"p": 412}},
+        {"q": "Sporotrichosis is caused by:", "c": ["*Sporothrix schenckii*", "*Blastomyces dermatitidis*", "*Madurella mycetomatis*", "*Fonsecaea pedrosoi*"], "a": 0, "r": {"p": 412}},
+        {"q": "Inside the host, the normally mycelial *Sporothrix* becomes:", "c": ["Yeast-like", "A mushroom", "A sclerotium", "Spherical sporangia"], "a": 0, "r": {"p": 412}}
+      ]
+    },
+    {
+      "title": "Systemic Mycoses: Dimorphic Pathogens",
+      "pages": [412, 414],
+      "questions": [
+        {"q": "The four true pathogens causing systemic mycoses are all:", "c": ["Dimorphic", "Basidiomycetes", "Yeasts in culture", "Opportunistic"], "a": 0, "r": {"p": 412, "h": "Systemic Mycoses"}},
+        {"q": "*Histoplasma capsulatum* grows well in high-nitrogen substrates such as:", "c": ["Bird droppings and bat guano", "Rotting wood", "Desert sand", "Fruit"], "a": 0, "r": {"p": 413, "h": "Dimorphic Pathogens"}},
+        {"q": "About what share of histoplasmosis cases produce no obvious symptoms?", "c": ["95%", "50%", "5%", "25%"], "a": 0, "r": {"p": 413}},
+        {"q": "Histoplasmosis is endemic in which region?", "c": ["The Mississippi and Ohio valleys", "The Southwest deserts", "Vancouver Island", "Central America"], "a": 0, "r": {"p": 413}},
+        {"q": "'Valley fever' in the Southwestern U.S. is:", "c": ["Coccidioidomycosis", "Histoplasmosis", "Blastomycosis", "Cryptococcosis"], "a": 0, "r": {"p": 413}},
+        {"q": "Paracoccidioidomycosis is found exclusively in:", "c": ["Central and South America", "Africa", "Asia", "Europe"], "a": 0, "r": {"p": 413}},
+        {"q": "Blastomycosis infection often seems to come from:", "c": ["Disturbing plant debris", "Eating mushrooms", "Pigeon droppings", "Hospital catheters"], "a": 0, "r": {"p": 413}}
+      ]
+    },
+    {
+      "title": "Opportunistic Pathogens",
+      "pages": [414, 416],
+      "questions": [
+        {"q": "Opportunistic pathogenic fungi can usually infect healthy individuals.", "c": ["True", "False"], "a": 1, "r": {"p": 414, "h": "Opportunistic Pathogens"}},
+        {"q": "More than half of patients on hyperalimentation for over twenty days develop septicaemia caused by:", "c": ["*Candida*", "*Aspergillus*", "*Rhizopus*", "*Cryptococcus*"], "a": 0, "r": {"p": 414}},
+        {"q": "Rhinocerebral zygomycosis attacks:", "c": ["Acidotic diabetics", "Burn patients", "Children with kwashiorkor", "Healthy athletes"], "a": 0, "r": {"p": 414}},
+        {"q": "Rhinocerebral zygomycosis is often fatal within:", "c": ["Seven days", "Seven hours", "Seven months", "Seven years"], "a": 0, "r": {"p": 414}},
+        {"q": "*Cryptococcus neoformans* commonly grows on:", "c": ["Pigeon droppings", "Bat guano", "Eucalyptus trees", "Desert soil"], "a": 0, "r": {"p": 415}},
+        {"q": "Untreated cryptococcal meningitis is:", "c": ["Always fatal", "Usually mild", "Self-limiting", "Contagious"], "a": 0, "r": {"p": 415}},
+        {"q": "*Cryptococcus gattii* caused an unusual cluster of cases on:", "c": ["Vancouver Island", "Hawaii", "Long Island", "Newfoundland"], "a": 0, "r": {"p": 415}},
+        {"q": "In aspergilloma, the fungus forms:", "c": ["A mycelial ball in an old tuberculosis cavity in the lung", "Warty skin growths", "Brain abscesses", "Grains in a tumour"], "a": 0, "r": {"p": 416}}
+      ]
+    },
+    {
+      "title": "AIDS and Mycoses; Treatment of Mycoses",
+      "pages": [416, 418],
+      "questions": [
+        {"q": "Which two mycoses are particularly strong indicators of AIDS?", "c": ["Oesophageal candidiasis and CNS cryptococcosis", "Tinea pedis and dandruff", "Histoplasmosis and coccidioidomycosis", "Sporotrichosis and mycetoma"], "a": 0, "r": {"p": 416, "h": "AIDS and Mycoses"}},
+        {"q": "Candidiasis of mucous membranes is seen in what share of AIDS patients?", "c": ["Two-thirds", "One-tenth", "All", "One-half"], "a": 0, "r": {"p": 416}},
+        {"q": "Potassium iodide has been used since 1903 to treat:", "c": ["Sporotrichosis", "Histoplasmosis", "Candidiasis", "Aspergillosis"], "a": 0, "r": {"p": 417, "h": "Treatment of Mycoses"}},
+        {"q": "Nystatin was discovered by Drs. Rachel Brown and Elizabeth Hazen, who:", "c": ["Gave their profits to fund medical mycology research", "Patented it for personal wealth", "Refused to publish it", "Sold it to a drug company"], "a": 0, "r": {"p": 417}},
+        {"q": "Amphotericin B is effective but should be used only when the condition is potentially fatal, because:", "c": ["It is very toxic, with severe side effects", "It is very expensive", "It acts too slowly", "Fungi quickly resist it"], "a": 0, "r": {"p": 417}},
+        {"q": "Griseofulvin, used orally for dermatophyte infections, is derived from:", "c": ["*Penicillium griseofulvum*", "*Streptomyces*", "*Strobilurus*", "*Aspergillus niger*"], "a": 0, "r": {"p": 417}},
+        {"q": "Kendrick concludes that most people will never contract a serious mycosis but will probably be infected several times by:", "c": ["Dermatophytes", "*Cryptococcus*", "*Histoplasma*", "Zygomycetes"], "a": 0, "r": {"p": 418}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Thermal dimorphic saprobes are normally soil organisms that, inside the body:", "c": ["Often develop a different morphology", "Die quickly", "Produce mushrooms", "Become dermatophytes"], "a": 0, "r": {"p": 409}},
+    {"s": 0, "q": "Teleomorphs of *Trichophyton* are placed in *Arthroderma*, and those of *Microsporum* in:", "c": ["*Nannizzia*", "*Ajellomyces*", "*Filobasidiella*", "*Ophiostoma*"], "a": 0, "r": {"p": 409}},
+    {"s": 0, "q": "Arthric conidia of human-only dermatophytes can survive in carpets for up to:", "c": ["Two years", "Two days", "Two weeks", "Twenty years"], "a": 0, "r": {"p": 410}},
+    {"s": 0, "q": "Tinea imbricata, caused by *Trichophyton concentricum*, affects:", "c": ["Polynesians but not others living in the same communities", "Everyone equally", "Only children", "Only cats"], "a": 0, "r": {"p": 410}},
+    {"s": 1, "q": "The *Malassezia globosa* genome is notably:", "c": ["Very small, about 4,285 genes", "Larger than the human genome", "Unsequenced", "Identical to *Candida*'s"], "a": 0, "r": {"p": 411}},
+    {"s": 2, "q": "Mycetoma grains have been found to belong to fungi such as:", "c": ["*Madurella mycetomatis*", "*Candida albicans*", "*Histoplasma capsulatum*", "*Rhizopus oryzae*"], "a": 0, "r": {"p": 412}},
+    {"s": 2, "q": "Sporotrichosis spreads from the initial lesion mainly through the:", "c": ["Lymphatic system", "Lungs", "Digestive tract", "Skin surface only"], "a": 0, "r": {"p": 412}},
+    {"s": 3, "q": "In the 5% of histoplasmosis cases with symptoms, inhaled conidia become yeast-like and parasitize:", "c": ["Histiocytes", "Red blood cells", "Neurons", "Skin cells"], "a": 0, "r": {"p": 413}},
+    {"s": 3, "q": "Inside the host, *Coccidioides immitis* forms:", "c": ["Spherical structures containing spores", "Intracellular yeasts", "Mushrooms", "Mycelial balls"], "a": 0, "r": {"p": 413}},
+    {"s": 3, "q": "Secondary paracoccidioidomycosis infections often cause:", "c": ["Ulceration of mouth and nose with loss of teeth", "Warty growths on the feet", "Hallucinations", "Kidney failure"], "a": 0, "r": {"p": 413}},
+    {"s": 3, "q": "The teleomorph of *Blastomyces dermatitidis* is:", "c": ["*Ajellomyces dermatitidis*", "*Arthroderma*", "*Filobasidiella*", "Unknown"], "a": 0, "r": {"p": 414}},
+    {"s": 4, "q": "Gastrointestinal zygomycosis, caused by *Absidia corymbifera*, attacks children suffering from:", "c": ["Kwashiorkor", "Leukaemia", "Diabetes", "Burns"], "a": 0, "r": {"p": 415}},
+    {"s": 4, "q": "*Cryptococcus neoformans* is the anamorph of:", "c": ["*Filobasidiella neoformans*", "*Ajellomyces capsulatus*", "*Arthroderma*", "*Nannizzia*"], "a": 0, "r": {"p": 415}},
+    {"s": 4, "q": "*C. gattii* may have been carried to Vancouver Island by a weather system called:", "c": ["The Pineapple Express", "The Chinook", "El Niño", "The Polar Vortex"], "a": 0, "r": {"p": 416}},
+    {"s": 4, "q": "Opportunistic infections caused by about forty darkly pigmented conidial fungi are called:", "c": ["Phaeohyphomycosis", "Hyalohyphomycosis", "Zygomycosis", "Chromoblastomycosis"], "a": 0, "r": {"p": 416}},
+    {"s": 5, "q": "Cryptococcosis is now treated with Amphotericin B combined with:", "c": ["5-fluorocytosine", "Griseofulvin", "Nystatin", "Potassium iodide"], "a": 0, "r": {"p": 417}},
+    {"s": 5, "q": "Ketoconazole should be used only in extreme cases because of side effects including:", "c": ["Adrenal suppression and impotence", "Hair loss", "Hallucinations", "Hearing loss"], "a": 0, "r": {"p": 417}}
+  ],
+  "review": [
+    {"s": 0, "q": "About half of dermatophyte species are found only on:", "c": ["People", "Cats", "Soil", "Cattle"], "a": 0, "r": {"p": 410}},
+    {"s": 0, "q": "Which dermatophyte causes chronic infections of feet and toenails over years?", "c": ["*Trichophyton rubrum*", "*Epidermophyton floccosum*", "*Microsporum canis*", "*Trichophyton concentricum*"], "a": 0, "r": {"p": 410}},
+    {"s": 1, "q": "*Malassezia globosa* also causes which skin condition besides dandruff?", "c": ["Tinea versicolor", "Tinea pedis", "Chromoblastomycosis", "Mycetoma"], "a": 0, "r": {"p": 411}},
+    {"s": 2, "q": "Chromoblastomycosis agents are typically 'inoculated' by:", "c": ["A thorn or sliver", "Inhalation", "Insect bites", "Contaminated water"], "a": 0, "r": {"p": 412}},
+    {"s": 3, "q": "*Coccidioides immitis* thrives in:", "c": ["Dry, saline soils", "Bird droppings", "Tropical mountain forests", "Rotting wood"], "a": 0, "r": {"p": 413}},
+    {"s": 3, "q": "Blastomycosis lesions often reappear on exposed parts of the:", "c": ["Face and neck", "Feet", "Scalp", "Hands only"], "a": 0, "r": {"p": 414}},
+    {"s": 4, "q": "Invasive aspergillosis is found only in patients who are:", "c": ["Severely debilitated or immunosuppressed", "Children", "Farmers", "Pregnant"], "a": 0, "r": {"p": 416}},
+    {"s": 5, "q": "Amphotericin B and Nystatin are polyene antibiotics produced by:", "c": ["*Streptomyces*", "*Penicillium*", "*Aspergillus*", "*Bacillus*"], "a": 0, "r": {"p": 417}}
+  ]
+}

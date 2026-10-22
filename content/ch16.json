@@ -1,0 +1,113 @@
+{
+  "n": 16,
+  "title": "Mutualistic Symbioses between Animals and Fungi",
+  "pages": [308, 322],
+  "sections": [
+    {
+      "title": "Introduction (and E. O. Wilson on Leafcutters)",
+      "pages": [308, 314],
+      "questions": [
+        {"q": "What is the most important driving force behind animal–fungus mutualisms?", "c": ["Almost all animals cannot digest cellulose and lignin", "Fungi need protection from UV", "Animals need antibiotics", "Fungi cannot disperse spores"], "a": 0, "r": {"p": 308}},
+        {"q": "Leaf-cutting ants and fungus-growing termites are exclusively:", "c": ["Mycophagous (fungus-eating)", "Herbivorous", "Predators", "Omnivorous"], "a": 0, "r": {"p": 308}},
+        {"q": "Leaf-cutter ants follow trails guided by:", "c": ["A chemical secreted onto the soil through the sting", "Sight", "Sound", "Magnetic fields"], "a": 0, "r": {"p": 309}},
+        {"q": "How do ants detect the trail substance?", "c": ["As a cloud of molecules sensed with their antennae", "By tasting the soil", "By seeing it", "By feeling vibrations"], "a": 0, "r": {"p": 310}},
+        {"q": "Inside the nest, the leaf-processing assembly line is organized by:", "c": ["Worker size, with smaller workers doing finer tasks", "Age only", "Random choice", "The queen's commands"], "a": 0, "r": {"p": 311}},
+        {"q": "Leafcutter ants eat the leaves they collect.", "c": ["True", "False"], "a": 1, "r": {"p": 311}},
+        {"q": "How many leafcutter species are in *Atta* and *Acromyrmex* combined?", "c": ["Thirty-seven (14 + 23)", "Two", "About 400", "Seven"], "a": 0, "r": {"p": 312}},
+        {"q": "A full-size leafcutter colony contains about how many workers?", "c": ["Three to four million", "Three to four thousand", "Thirty thousand", "Three hundred million"], "a": 0, "r": {"p": 312}},
+        {"q": "How does a new queen start her own fungus garden?", "c": ["She carries a wad of fungus in a pocket in her mouth", "She finds wild fungus in the soil", "Workers bring it later", "She grows it from spores on her wings"], "a": 0, "r": {"p": 313}},
+        {"q": "Wilson describes the leafcutter colony as a:", "c": ["Superorganism", "Monarchy", "Random swarm", "Single animal"], "a": 0, "r": {"p": 313}}
+      ]
+    },
+    {
+      "title": "Leaf-Cutting Ants, Leucoagaricus and Lepiota",
+      "pages": [314, 317],
+      "questions": [
+        {"q": "The gardening ants of the New World make up the tribe:", "c": ["Attini", "Macrotermitinae", "Scolytidae", "Formicini"], "a": 0, "r": {"p": 314}},
+        {"q": "Which is the most economically important and most studied attine species?", "c": ["*Atta sexdens*", "*Atta cephalotes*", "*Acromyrmex*", "*Pseudacanthotermes*"], "a": 0, "r": {"p": 315}},
+        {"q": "What share of new attine nests are destroyed in their first six months?", "c": ["About 99.7%", "About 50%", "About 10%", "About 75%"], "a": 0, "r": {"p": 315}},
+        {"q": "Why does each garden contain only one fungus species?", "c": ["Chemicals in the ants' saliva and anal fluid probably inhibit other microbes", "No other fungi exist underground", "The fungus kills all competitors itself", "The leaves are sterile"], "a": 0, "r": {"p": 317}},
+        {"q": "The ants eat clusters of the fungus's:", "c": ["Inflated hyphal tips", "Mushrooms", "Spores", "Sclerotia"], "a": 0, "r": {"p": 317}},
+        {"q": "Fruit bodies obtained from ant fungi in culture belonged to:", "c": ["*Leucoagaricus* or *Lepiota*", "*Termitomyces*", "*Amanita*", "*Coprinus*"], "a": 0, "r": {"p": 317}},
+        {"q": "Fungus cultivation by ants is thought to have evolved:", "c": ["Once, about fifty million years ago", "Many times recently", "Twice, in Africa and America", "Only in the last 10,000 years"], "a": 0, "r": {"p": 317}},
+        {"q": "The ants carry *Streptomyces* bacteria on their cuticle that produce antibiotics against the garden parasite:", "c": ["*Escovopsis*", "*Xylaria*", "*Trichoderma*", "*Fusarium*"], "a": 0, "r": {"p": 317}}
+      ]
+    },
+    {
+      "title": "Termites and Termitomyces",
+      "pages": [317, 319],
+      "questions": [
+        {"q": "Fungus-growing termites (Macrotermitinae) are found in:", "c": ["The Old World (Africa and Asia)", "Central and South America", "North America only", "Australia only"], "a": 0, "r": {"p": 317}},
+        {"q": "Unlike many termites, Macrotermitinae lack:", "c": ["Cellulolytic protozoa in their gut", "A queen", "Workers", "Mounds"], "a": 0, "r": {"p": 317}},
+        {"q": "Termite mounds can reach about what height?", "c": ["6 metres", "60 cm", "60 metres", "1 metre"], "a": 0, "r": {"p": 317}},
+        {"q": "Termite fungus gardens are made entirely from:", "c": ["Faecal material", "Cut leaves", "Insect excreta from other species", "Soil"], "a": 0, "r": {"p": 318}},
+        {"q": "The termite fungus produces conidia in spherical structures on the comb, which workers eat. These are:", "c": ["Sporodochial conidiomata", "Pycnidia", "Perithecia", "Apothecia"], "a": 0, "r": {"p": 318}},
+        {"q": "Termite fungi are better known taxonomically than ant fungi because they:", "c": ["Fruit in nature as *Termitomyces* mushrooms", "Grow easily in culture", "Have been sequenced", "Are all yeasts"], "a": 0, "r": {"p": 318}},
+        {"q": "Many *Termitomyces* species are among the most prized edible tropical agarics.", "c": ["True", "False"], "a": 0, "r": {"p": 319}}
+      ]
+    },
+    {
+      "title": "Beetles and Ambrosia Fungi; Scales and Septobasidiales",
+      "pages": [319, 319],
+      "questions": [
+        {"q": "Ambrosia beetles carry their fungi in special organs called:", "c": ["Mycangia", "Mycetomes", "Spermathecae", "Sclerotia"], "a": 0, "r": {"p": 319, "h": "Beetles and Ambrosia Fungi"}},
+        {"q": "Ambrosia beetle larvae feed on:", "c": ["Fungal biomass lining the tunnels", "The wood itself", "Tree sap", "Other larvae"], "a": 0, "r": {"p": 319}},
+        {"q": "Scale insects parasitized by Septobasidiales are:", "c": ["Dwarfed and sterile but keep feeding, while the fungal mat shelters healthy scales", "Killed quickly", "Unaffected", "Turned into sclerotia"], "a": 0, "r": {"p": 319, "h": "Scales and Septobasidiales"}},
+        {"q": "The Septobasidiales mutualism is perfectly balanced; the insects can never survive without the fungus.", "c": ["True", "False"], "a": 1, "r": {"p": 319}}
+      ]
+    },
+    {
+      "title": "Midges, Woodwasps, and Anobiid Beetles",
+      "pages": [320, 320],
+      "questions": [
+        {"q": "Gall midge larvae in 'ambrosia galls' eat the mycelium of:", "c": ["*Macrophoma* (teleomorph *Botryosphaeria*)", "*Termitomyces*", "*Stereum*", "*Symbiotaphrina*"], "a": 0, "r": {"p": 320, "h": "Midges and Macrophoma"}},
+        {"q": "Woodwasps (*Sirex*) deposit which fungi with their eggs?", "c": ["*Stereum* and *Amylostereum*", "*Leucoagaricus*", "*Xylaria*", "*Ambrosiella*"], "a": 0, "r": {"p": 320, "h": "Woodwasps and Wood-Rotting Fungi"}},
+        {"q": "What shows the woodwasp–fungus relationship is obligatory?", "c": ["Fungus-free females cannot reproduce successfully", "The wasps die without eating fungi as adults", "The fungus dies without the wasp", "The trees die"], "a": 0, "r": {"p": 320}},
+        {"q": "Anobiid beetles keep yeast-like *Symbiotaphrina* in gut pouches called:", "c": ["Mycetomes", "Mycangia", "Cephalodia", "Haustoria"], "a": 0, "r": {"p": 320, "h": "Anobiid Beetles and Endosymbiotic Yeasts"}},
+        {"q": "The anobiid symbiont's main role is to:", "c": ["Recycle nitrogen and supply vitamins and amino acids", "Digest lignin", "Produce antibiotics", "Attract mates"], "a": 0, "r": {"p": 320}}
+      ]
+    },
+    {
+      "title": "Boletinellus and Root Aphids; Voles, Potoroos, and Truffles",
+      "pages": [320, 321],
+      "questions": [
+        {"q": "Mark Brundrett found that ash roots associated with *Boletinellus* were:", "c": ["Exclusively endomycorrhizal", "Ectomycorrhizal with *Boletinellus*", "Free of fungi", "Parasitized by *Boletinellus*"], "a": 0, "r": {"p": 321, "h": "Boletinellus and Root Aphids"}},
+        {"q": "Root aphids live inside what structures produced by *Boletinellus*?", "c": ["Hollow black sclerotia", "Mushroom caps", "Rhizomorphs", "Mycangia"], "a": 0, "r": {"p": 321}},
+        {"q": "What does the fungus probably get from the aphids?", "c": ["Sugars excreted in their honeydew", "Nitrogen from their bodies", "Spore dispersal", "Water"], "a": 0, "r": {"p": 321}},
+        {"q": "The California red-backed vole feeds almost exclusively on hypogeous fungi such as *Rhizopogon*.", "c": ["True", "False"], "a": 0, "r": {"p": 321, "h": "Red-Backed Voles, Gilbert’s Potoroo, and Truffles"}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Herbivorous mammals cope with indigestible cellulose by:", "c": ["Keeping large populations of cellulolytic microbes in their gut", "Cultivating fungi", "Eating only fruit", "Producing their own cellulases"], "a": 0, "r": {"p": 308}},
+    {"s": 0, "q": "Stream detritivores 'wait' for which fungi to exploit plant remains before eating the fungi?", "c": ["Amphibious and aero-aquatic hyphomycetes", "Rusts", "Mycorrhizal fungi", "Yeasts"], "a": 0, "r": {"p": 308}},
+    {"s": 0, "q": "If an ant meets another whose odour signature is wrong, it:", "c": ["Attacks at once and may spray an alarm chemical", "Ignores it", "Follows it", "Feeds it"], "a": 0, "r": {"p": 310}},
+    {"s": 0, "q": "Soldier leafcutter ants are about how many times heavier than gardener workers?", "c": ["Three hundred", "Three", "Thirty", "Three thousand"], "a": 0, "r": {"p": 311}},
+    {"s": 0, "q": "The leafcutter queen can control the sex of her offspring by:", "c": ["Opening or closing the passage from her sperm store to the oviduct", "Choosing which males to mate with", "Changing the fungus diet", "Laying eggs in different chambers"], "a": 0, "r": {"p": 313}},
+    {"s": 0, "q": "Workers and queens share the same genes; their differences come from:", "c": ["Different treatment as larvae", "Different fathers", "Mutation", "The fungus strain they eat"], "a": 0, "r": {"p": 312}},
+    {"s": 1, "q": "Sixteenth-century Spaniards in South America blamed their failure to grow cassava and citrus on:", "c": ["Attine ants", "Termites", "Rusts", "Drought"], "a": 0, "r": {"p": 314}},
+    {"s": 1, "q": "How do attine nests benefit rainforest soils?", "c": ["They greatly increase soil organic matter and open the soil to other organisms", "They remove nitrogen", "They prevent tree growth", "They drain the soil"], "a": 0, "r": {"p": 314}},
+    {"s": 1, "q": "A six-year-old *Atta* colony was calculated to have consumed nearly how much vegetation?", "c": ["6,000 kg", "60 kg", "600,000 kg", "600 kg"], "a": 0, "r": {"p": 315}},
+    {"s": 1, "q": "Some attines that are not leaf cutters grow gardens on:", "c": ["Plant debris and insect excreta", "Living roots", "Stones", "Animal carcasses"], "a": 0, "r": {"p": 317}},
+    {"s": 2, "q": "In a termite colony, the soldiers, nymphs, king, and queen live on:", "c": ["Salivary secretions from workers", "The fungus directly", "Wood", "Leaves"], "a": 0, "r": {"p": 318}},
+    {"s": 2, "q": "*Termitomyces* basidiomata develop when rainfall exceeds about:", "c": ["2 cm/day", "2 mm/month", "20 cm/day", "Any rainfall"], "a": 0, "r": {"p": 318}},
+    {"s": 2, "q": "Besides *Termitomyces*, termite combs are often inhabited by a species of:", "c": ["*Xylaria*", "*Escovopsis*", "*Streptomyces*", "*Leucoagaricus*"], "a": 0, "r": {"p": 319}},
+    {"s": 3, "q": "Before leaving a tree, a female ambrosia beetle rocks back and forth to:", "c": ["Stock her mycangium with fungus", "Shake off mites", "Mark the tunnel", "Lay eggs"], "a": 0, "r": {"p": 319}},
+    {"s": 3, "q": "There are almost how many species of Septobasidiales?", "c": ["200", "20", "2,000", "2"], "a": 0, "r": {"p": 319}},
+    {"s": 4, "q": "How is *Symbiotaphrina* passed to anobiid offspring?", "c": ["Adults smear eggs with fungal cells and larvae eat the eggshell", "Through the air", "In the wood", "By mating"], "a": 0, "r": {"p": 320}},
+    {"s": 5, "q": "Gilbert's potoroo, which lives almost entirely on hypogeous fungi, is:", "c": ["A highly endangered marsupial in Western Australia", "A rodent in California", "A bird in New Zealand", "A beetle"], "a": 0, "r": {"p": 321}}
+  ],
+  "review": [
+    {"s": 0, "q": "Scaled up to human size, Wilson says a forager running back with its load covers each mile in about:", "c": ["Four minutes", "Forty minutes", "Forty seconds", "Two hours"], "a": 0, "r": {"p": 309}},
+    {"s": 0, "q": "Leafcutter fungus gardens lie in chambers down to about what depth?", "c": ["Fifteen feet or more, near the water table", "One inch", "One hundred feet", "At the surface"], "a": 0, "r": {"p": 311}},
+    {"s": 0, "q": "The smallest leafcutter workers:", "c": ["Patrol fungus beds and pluck out alien moulds", "Cut leaves", "Defend the nest", "Mate with the queen"], "a": 0, "r": {"p": 311}},
+    {"s": 0, "q": "Combined leafcutter populations inflict about how much damage yearly?", "c": ["Over a billion dollars", "About a million dollars", "About ten thousand dollars", "None"], "a": 0, "r": {"p": 312}},
+    {"s": 1, "q": "A founding *Atta sexdens* queen stores perhaps how many sperm?", "c": ["300 million", "3 million", "3,000", "30 billion"], "a": 0, "r": {"p": 315}},
+    {"s": 1, "q": "A four-year-old excavated *Atta* nest had 1,027 chambers, of which how many had fungus gardens?", "c": ["390", "39", "1,027", "1,920"], "a": 0, "r": {"p": 315}},
+    {"s": 1, "q": "If a garden is removed from the ant colony, it soon:", "c": ["Becomes overgrown by foreign fungi or bacteria", "Fruits", "Dies cleanly", "Grows faster"], "a": 0, "r": {"p": 317}},
+    {"s": 2, "q": "A central termite fungus garden can weigh as much as:", "c": ["25 kg", "2.5 kg", "250 kg", "250 g"], "a": 0, "r": {"p": 318}},
+    {"s": 2, "q": "About how many species of *Termitomyces* have been described?", "c": ["About thirty", "About three", "About three hundred", "One"], "a": 0, "r": {"p": 319}},
+    {"s": 3, "q": "Ambrosia fungi include some yeasts and which ascomycetous anamorph genus?", "c": ["*Ambrosiella*", "*Termitomyces*", "*Escovopsis*", "*Macrophoma*"], "a": 0, "r": {"p": 319}},
+    {"s": 4, "q": "In female woodwasp larvae, the fungus is kept dormant in mycangia embedded in:", "c": ["Wax plates", "Mucilage", "Silk", "Chitin capsules"], "a": 0, "r": {"p": 320}}
+  ]
+}

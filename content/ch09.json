@@ -1,0 +1,1358 @@
+{
+ "n": 9,
+ "title": "Fungal Physiology and Metabolism",
+ "pages": [
+  175,
+  194
+ ],
+ "sections": [
+  {
+   "title": "Cell Components",
+   "pages": [
+    175,
+    176
+   ],
+   "questions": [
+    {
+     "q": "In the genetic code, each amino acid is specified by a sequence of how many bases?",
+     "c": [
+      "Three (a codon)",
+      "Two",
+      "Four",
+      "Six"
+     ],
+     "a": 0,
+     "r": {
+      "p": 175
+     }
+    },
+    {
+     "q": "Which pyrimidine in DNA is replaced by uracil in RNA?",
+     "c": [
+      "Thymine",
+      "Cytosine",
+      "Adenine",
+      "Guanine"
+     ],
+     "a": 0,
+     "r": {
+      "p": 175
+     }
+    },
+    {
+     "q": "Fungal DNA content is very low, while RNA content is much higher (1%–10% dry mass).",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 176
+     }
+    },
+    {
+     "q": "Chitin is a polymer of:",
+     "c": [
+      "β-1,4 N-acetylglucosamine",
+      "β-1,4 glucose",
+      "Mannose",
+      "α-1,4 glucose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 176
+     }
+    },
+    {
+     "q": "What is the main storage carbohydrate in true fungi?",
+     "c": [
+      "Glycogen",
+      "Starch",
+      "Cellulose",
+      "Sucrose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 176
+     }
+    },
+    {
+     "q": "What is the main fungal sterol?",
+     "c": [
+      "Ergosterol",
+      "Cholesterol",
+      "Stigmasterol",
+      "Lanosterol"
+     ],
+     "a": 0,
+     "r": {
+      "p": 176
+     }
+    }
+   ]
+  },
+  {
+   "title": "Metabolism",
+   "pages": [
+    176,
+    180
+   ],
+   "questions": [
+    {
+     "q": "Anabolic metabolism:",
+     "c": [
+      "Converts food substrates into fungal biomass",
+      "Extracts energy from substrates",
+      "Breaks down fungal walls",
+      "Only occurs in spores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 176
+     }
+    },
+    {
+     "q": "Enzymes can increase reaction rates by factors up to about:",
+     "c": [
+      "10⁷",
+      "10",
+      "100",
+      "10¹⁵"
+     ],
+     "a": 0,
+     "r": {
+      "p": 176
+     }
+    },
+    {
+     "q": "Which glycolytic pathway yields NADPH and ribose?",
+     "c": [
+      "Hexose monophosphate (HM)",
+      "Embden-Meyerhof (EM)",
+      "Citric acid cycle",
+      "Glyoxylate cycle"
+     ],
+     "a": 0,
+     "r": {
+      "p": 177
+     }
+    },
+    {
+     "q": "Oomycetes and zygomycetes carry out which type of fermentation?",
+     "c": [
+      "Lactic acid",
+      "Alcoholic",
+      "Acetic acid",
+      "Butyric acid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 177
+     }
+    },
+    {
+     "q": "Many fungicides work by uncoupling phosphorylation from electron transport or blocking electron transport.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 177
+     }
+    },
+    {
+     "q": "Besides eumycotan fungi and chytrids, which organisms use the α-aminoadipic acid (AAA) pathway for lysine?",
+     "c": [
+      "Euglenids",
+      "Green algae",
+      "Oomycetes",
+      "Vascular plants"
+     ],
+     "a": 0,
+     "r": {
+      "p": 177
+     }
+    },
+    {
+     "q": "How do animals get lysine?",
+     "c": [
+      "From their diet; they are lysine auxotrophs",
+      "By the AAA pathway",
+      "By the DAP pathway",
+      "From gut fungi only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 177
+     }
+    },
+    {
+     "q": "Secondary metabolites are best defined as:",
+     "c": [
+      "Natural products not needed for growth, often made by specific groups during part of the life cycle",
+      "Waste products of respiration",
+      "The main structural compounds of walls",
+      "Enzymes secreted at hyphal tips"
+     ],
+     "a": 0,
+     "r": {
+      "p": 178
+     }
+    },
+    {
+     "q": "Of the known polyacetylenes, the fungal ones are found exclusively in:",
+     "c": [
+      "Basidiomycetes",
+      "Ascomycetes",
+      "Zygomycetes",
+      "Oomycetes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 179
+     }
+    },
+    {
+     "q": "Griseofulvin, ochratoxin, and aflatoxin are examples of:",
+     "c": [
+      "Polyketides",
+      "Terpenes",
+      "Cyclic oligopeptides",
+      "β-lactams"
+     ],
+     "a": 0,
+     "r": {
+      "p": 179
+     }
+    },
+    {
+     "q": "How is leucine synthesis regulated?",
+     "c": [
+      "Rising leucine inhibits synthesis of the first enzyme in the pathway (feedback)",
+      "An overseer gene in the nucleus switches it",
+      "Light turns it off",
+      "It is never regulated"
+     ],
+     "a": 0,
+     "r": {
+      "p": 179
+     }
+    }
+   ]
+  },
+  {
+   "title": "Growth",
+   "pages": [
+    180,
+    184
+   ],
+   "questions": [
+    {
+     "q": "Which growth measure can be repeated over time on the same colony?",
+     "c": [
+      "Colony diameter or radius",
+      "Dry mass",
+      "Protein content",
+      "Fresh weight after harvest"
+     ],
+     "a": 0,
+     "r": {
+      "p": 180
+     }
+    },
+    {
+     "q": "Spores of many coprophilous fungi won't germinate until exposed to:",
+     "c": [
+      "Elevated temperatures or chemicals mimicking an animal gut",
+      "Bright light",
+      "Freezing for a year",
+      "Salt water"
+     ],
+     "a": 0,
+     "r": {
+      "p": 180
+     }
+    },
+    {
+     "q": "Rust spores that won't germinate if too close to sibling spores show:",
+     "c": [
+      "Self-inhibition",
+      "Exogenous dormancy",
+      "Apical dominance",
+      "Staling"
+     ],
+     "a": 0,
+     "r": {
+      "p": 181
+     }
+    },
+    {
+     "q": "Which correctly orders the phases of batch-culture growth?",
+     "c": [
+      "Lag, exponential, decline, death",
+      "Exponential, lag, death, decline",
+      "Lag, decline, exponential, death",
+      "Decline, lag, exponential, death"
+     ],
+     "a": 0,
+     "r": {
+      "p": 182
+     }
+    },
+    {
+     "q": "Growth declining before food runs out, from accumulated waste products, is called:",
+     "c": [
+      "Staling",
+      "Autolysis",
+      "Induction",
+      "Countertransport"
+     ],
+     "a": 0,
+     "r": {
+      "p": 182
+     }
+    },
+    {
+     "q": "A fungus whose mass increases 20% in an hour has a specific growth rate of:",
+     "c": [
+      "0.2",
+      "20",
+      "2",
+      "0.02"
+     ],
+     "a": 0,
+     "r": {
+      "p": 182
+     }
+    },
+    {
+     "q": "Experiments with tritiated N-acetylglucosamine showed new wall material is added:",
+     "c": [
+      "Largely at the apical micron of the hypha",
+      "Evenly along the hypha",
+      "Only at septa",
+      "Only at branch points"
+     ],
+     "a": 0,
+     "r": {
+      "p": 182
+     }
+    },
+    {
+     "q": "Mitomycin C inhibits branch formation but not hyphal elongation.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 183
+     }
+    },
+    {
+     "q": "Kendrick compares septum formation to:",
+     "c": [
+      "The closing of a camera's iris diaphragm",
+      "A zipper closing",
+      "Bricks being laid",
+      "A balloon inflating"
+     ],
+     "a": 0,
+     "r": {
+      "p": 183
+     }
+    },
+    {
+     "q": "Why is membrane filtration sometimes preferred over autoclaving culture media?",
+     "c": [
+      "Autoclaving can caramelize sugars and destroy heat-labile substances like thiamin",
+      "Filtration is faster",
+      "Autoclaving doesn't kill spores",
+      "Filtration adds nutrients"
+     ],
+     "a": 0,
+     "r": {
+      "p": 184
+     }
+    }
+   ]
+  },
+  {
+   "title": "Nutritional Requirements",
+   "pages": [
+    184,
+    188
+   ],
+   "questions": [
+    {
+     "q": "Enzymes that are always present and ready, like those for glucose, are called:",
+     "c": [
+      "Constitutive",
+      "Adaptive",
+      "Inducible",
+      "Exogenous"
+     ],
+     "a": 0,
+     "r": {
+      "p": 184
+     }
+    },
+    {
+     "q": "White rot fungi can use lignin as their sole carbon source.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 184
+     }
+    },
+    {
+     "q": "Which form of nitrogen is even more universally metabolized by fungi than nitrate?",
+     "c": [
+      "Ammonium",
+      "Atmospheric N₂",
+      "Urea",
+      "Nitrite"
+     ],
+     "a": 0,
+     "r": {
+      "p": 185
+     }
+    },
+    {
+     "q": "*Myrothecium* needs biotin for:",
+     "c": [
+      "Spore germination but not mycelial growth",
+      "Mycelial growth but not germination",
+      "Both",
+      "Neither"
+     ],
+     "a": 0,
+     "r": {
+      "p": 185
+     }
+    },
+    {
+     "q": "Which is listed as a fungal macronutrient?",
+     "c": [
+      "Phosphorus",
+      "Boron",
+      "Silicon",
+      "Iodine"
+     ],
+     "a": 0,
+     "r": {
+      "p": 185
+     }
+    },
+    {
+     "q": "Why is EDTA added to some media?",
+     "c": [
+      "It chelates iron, making it more available",
+      "It kills bacteria",
+      "It solidifies agar",
+      "It adds nitrogen"
+     ],
+     "a": 0,
+     "r": {
+      "p": 185
+     }
+    },
+    {
+     "q": "Which compound can act as an enzyme-compatible water substitute in xerotolerant fungi?",
+     "c": [
+      "Glycerol",
+      "Ethanol",
+      "Glucose",
+      "Urea"
+     ],
+     "a": 0,
+     "r": {
+      "p": 186
+     }
+    },
+    {
+     "q": "Why can't rusts, downy mildews, and Glomeromycota be grown on ordinary media?",
+     "c": [
+      "Their physiology is intimately linked with their hosts'",
+      "They need light",
+      "They grow too fast",
+      "They require salt water"
+     ],
+     "a": 0,
+     "r": {
+      "p": 186
+     }
+    },
+    {
+     "q": "When sodium is expelled as potassium is taken up, this is called:",
+     "c": [
+      "Countertransport",
+      "Facilitated diffusion",
+      "Passive diffusion",
+      "Staling"
+     ],
+     "a": 0,
+     "r": {
+      "p": 186,
+      "h": "Transport"
+     }
+    },
+    {
+     "q": "Which enzyme is essential for lignin breakdown by white rot fungi?",
+     "c": [
+      "Laccase (a polyphenol oxidase)",
+      "Cellulase",
+      "Chitinase",
+      "Amylase"
+     ],
+     "a": 0,
+     "r": {
+      "p": 187,
+      "h": "Cellulose and Lignin Decomposition"
+     }
+    },
+    {
+     "q": "Why can't *Saccharomyces cerevisiae* assimilate proteins?",
+     "c": [
+      "It produces only intracellular proteases",
+      "It lacks ribosomes",
+      "It cannot absorb amino acids",
+      "Its wall blocks all molecules"
+     ],
+     "a": 0,
+     "r": {
+      "p": 187,
+      "h": "Protein digestion"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Environmental Effects",
+   "pages": [
+    188,
+    189
+   ],
+   "questions": [
+    {
+     "q": "A fungus's minimum, optimum, and maximum growth temperatures are its:",
+     "c": [
+      "Cardinal temperatures",
+      "Thermal limits",
+      "Psychrophilic range",
+      "Circadian points"
+     ],
+     "a": 0,
+     "r": {
+      "p": 188
+     }
+    },
+    {
+     "q": "Most fungi are:",
+     "c": [
+      "Mesophiles",
+      "Psychrophiles",
+      "Thermophiles",
+      "Halophiles"
+     ],
+     "a": 0,
+     "r": {
+      "p": 188
+     }
+    },
+    {
+     "q": "Thermophiles have maxima above 50°C and optima between 35°C and 50°C.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 188
+     }
+    },
+    {
+     "q": "Most phototropic fungi respond best to which colour of light?",
+     "c": [
+      "Blue",
+      "Red",
+      "Green",
+      "Infrared"
+     ],
+     "a": 0,
+     "r": {
+      "p": 188
+     }
+    },
+    {
+     "q": "In *Pilobolus sphaerosporus* under a 12-hour light/dark regime, discharge peaked:",
+     "c": [
+      "Six hours after the lights came on",
+      "At lights-out",
+      "At midnight",
+      "Randomly"
+     ],
+     "a": 0,
+     "r": {
+      "p": 188,
+      "h": "Circadian rhythms"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Reproduction: The Formation of Propagules",
+   "pages": [
+    189,
+    191
+   ],
+   "questions": [
+    {
+     "q": "Why does a *Penicillium* colony have a white margin and green centre?",
+     "c": [
+      "The margin is still growing while older hyphae are already producing conidia",
+      "The margin is dead",
+      "Light bleaches the edge",
+      "The centre is a different species"
+     ],
+     "a": 0,
+     "r": {
+      "p": 190
+     }
+    },
+    {
+     "q": "In *Aspergillus niger*, which nutrients were required for the formation of conidia themselves?",
+     "c": [
+      "Glucose and nitrate",
+      "Ammonium only",
+      "A TCA cycle acid only",
+      "No nutrients at all"
+     ],
+     "a": 0,
+     "r": {
+      "p": 190
+     }
+    },
+    {
+     "q": "The temperature range permitting sporulation is usually:",
+     "c": [
+      "Narrower than that for assimilative growth",
+      "Wider than that for growth",
+      "Identical to that for growth",
+      "Always above 30°C"
+     ],
+     "a": 0,
+     "r": {
+      "p": 190
+     }
+    },
+    {
+     "q": "In a *Eurotium* species, light stimulates the *Aspergillus* anamorph's conidia but inhibits the teleomorph's ascomata.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 190
+     }
+    },
+    {
+     "q": "Most fungal light responses need roughly how much light energy?",
+     "c": [
+      "0.5–20 J/m²",
+      "500–2,000 J/m²",
+      "Over 10,000 J/m²",
+      "None; they respond to darkness"
+     ],
+     "a": 0,
+     "r": {
+      "p": 191
+     }
+    },
+    {
+     "q": "Compared with mycelium, *Neurospora* conidia contain much higher levels of:",
+     "c": [
+      "Trehalose and carotenoids",
+      "Arginine and ornithine",
+      "Adenine nucleotides",
+      "Chitin only"
+     ],
+     "a": 0,
+     "r": {
+      "p": 191
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Physiology of Sex",
+   "pages": [
+    191,
+    193
+   ],
+   "questions": [
+    {
+     "q": "Why does Kendrick call all fungal sexual chemicals 'hormones'?",
+     "c": [
+      "Related taxa may be homothallic or heterothallic, blurring the hormone/pheromone distinction",
+      "They all act only on the producer",
+      "They are all steroids",
+      "Pheromones don't exist in fungi"
+     ],
+     "a": 0,
+     "r": {
+      "p": 191
+     }
+    },
+    {
+     "q": "*Allomyces* female gametes release a sex hormone called:",
+     "c": [
+      "Sirenin",
+      "Antheridiol",
+      "Trisporic acid",
+      "Tremerogen"
+     ],
+     "a": 0,
+     "r": {
+      "p": 191
+     }
+    },
+    {
+     "q": "In *Achlya ambisexualis*, hormone A (from the female) is:",
+     "c": [
+      "Antheridiol, which induces antheridial branches on the male",
+      "Oogoniol, which induces oogonia",
+      "Sirenin",
+      "Trisporic acid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 191
+     }
+    },
+    {
+     "q": "In *Mucor* and *Phycomyces*, which hormone induces gametangia formation?",
+     "c": [
+      "Trisporic acid",
+      "Sirenin",
+      "Rhodotorucine",
+      "Antheridiol"
+     ],
+     "a": 0,
+     "r": {
+      "p": 192
+     }
+    },
+    {
+     "q": "Yeast mating hormones lock cells into which phase, stopping budding?",
+     "c": [
+      "Interphase (by inhibiting DNA synthesis initiation)",
+      "Metaphase",
+      "Meiosis",
+      "Cytokinesis"
+     ],
+     "a": 0,
+     "r": {
+      "p": 192
+     }
+    },
+    {
+     "q": "Zearalenone from *Fusarium graminearum* apparently stimulates development of its teleomorph, *Gibberella zeae*.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 192
+     }
+    },
+    {
+     "q": "Tremerogen, from *Tremella*, causes yeast-like basidiospores of the opposite type to:",
+     "c": [
+      "Stop budding and produce a conjugation tube",
+      "Form asci",
+      "Swim toward the source",
+      "Produce clamp connections"
+     ],
+     "a": 0,
+     "r": {
+      "p": 192
+     }
+    }
+   ]
+  },
+  {
+   "title": "Antifungal Compounds",
+   "pages": [
+    193,
+    193
+   ],
+   "questions": [
+    {
+     "q": "Polyene antibiotics like nystatin and amphotericin B act by:",
+     "c": [
+      "Complexing with membrane sterols",
+      "Blocking chitin synthesis",
+      "Binding tubulin",
+      "Blocking ribosomes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 193
+     }
+    },
+    {
+     "q": "Why are oomycetes unaffected by polyene antibiotics?",
+     "c": [
+      "Their membranes contain no sterols",
+      "Their walls are cellulose",
+      "They are diploid",
+      "They lack ribosomes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 193
+     }
+    },
+    {
+     "q": "Benzimidazoles such as Benomyl disrupt nuclear division by binding to:",
+     "c": [
+      "Tubulin of the mitotic spindle",
+      "Ergosterol",
+      "Chitin synthetase",
+      "Mitochondrial enzymes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 193
+     }
+    },
+    {
+     "q": "Cycloheximide blocks protein synthesis by binding to ribosomes.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 193
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "Reported G + C base ratios in eumycotan fungal DNA range from:",
+   "c": [
+    "38% to 63%",
+    "10% to 20%",
+    "70% to 90%",
+    "50% exactly"
+   ],
+   "a": 0,
+   "r": {
+    "p": 176
+   }
+  },
+  {
+   "s": 0,
+   "q": "In the notation C18:2 for linoleic acid, the '2' indicates:",
+   "c": [
+    "The number of double bonds",
+    "The number of oxygen atoms",
+    "Two glycerol units",
+    "Two rings"
+   ],
+   "a": 0,
+   "r": {
+    "p": 176
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which yeast is best known for fermenting pyruvate to alcohol and CO₂?",
+   "c": [
+    "*Saccharomyces cerevisiae*",
+    "*Candida albicans*",
+    "*Rhodotorula*",
+    "*Schizosaccharomyces pombe*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 177
+   }
+  },
+  {
+   "s": 1,
+   "q": "The AAA and DAP lysine pathways:",
+   "c": [
+    "Have nothing in common; every step and intermediate differs",
+    "Share all but one step",
+    "Are the same pathway run backward",
+    "Both occur in all fungi"
+   ],
+   "a": 0,
+   "r": {
+    "p": 177
+   }
+  },
+  {
+   "s": 1,
+   "q": "Tryptophan synthesis in *Saccharomyces* requires how many genes, versus four in *Neurospora*?",
+   "c": [
+    "Five",
+    "Three",
+    "Eight",
+    "Four"
+   ],
+   "a": 0,
+   "r": {
+    "p": 177
+   }
+  },
+  {
+   "s": 1,
+   "q": "Trichothecene mycotoxins are chemically:",
+   "c": [
+    "Sesquiterpenoids",
+    "Polyketides",
+    "Cyclic peptides",
+    "Indole alkaloids"
+   ],
+   "a": 0,
+   "r": {
+    "p": 179
+   }
+  },
+  {
+   "s": 1,
+   "q": "Cyclosporine is a cyclic oligopeptide of how many amino acids?",
+   "c": [
+    "Eleven",
+    "Eight",
+    "Twelve",
+    "Twenty"
+   ],
+   "a": 0,
+   "r": {
+    "p": 179
+   }
+  },
+  {
+   "s": 1,
+   "q": "What advantage might aflatoxin give *Aspergillus flavus*?",
+   "c": [
+    "An edge when competing with animals for food such as nuts or seeds",
+    "Faster growth",
+    "Protection from UV",
+    "Help in sexual reproduction"
+   ],
+   "a": 0,
+   "r": {
+    "p": 179
+   }
+  },
+  {
+   "s": 2,
+   "q": "In unicellular yeasts, growth is measured by counting cells or by measuring:",
+   "c": [
+    "Turbidity of the culture",
+    "Colony radius",
+    "Hyphal tips",
+    "Spore print weight"
+   ],
+   "a": 0,
+   "r": {
+    "p": 180
+   }
+  },
+  {
+   "s": 2,
+   "q": "Which fungus (as its *Chrysonilia* anamorph) recorded a specific growth rate of 0.6?",
+   "c": [
+    "*Neurospora crassa*",
+    "*Chaetomium virescens*",
+    "*Rhizopus oligosporus*",
+    "*Aspergillus niger*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 182
+   }
+  },
+  {
+   "s": 2,
+   "q": "How many genes controlling colony morphology have been mapped in *Neurospora*?",
+   "c": [
+    "Ninety",
+    "Nine",
+    "Nine hundred",
+    "Nineteen"
+   ],
+   "a": 0,
+   "r": {
+    "p": 183
+   }
+  },
+  {
+   "s": 2,
+   "q": "Agar melts at 100°C but does not solidify until it cools to about:",
+   "c": [
+    "45°C",
+    "80°C",
+    "20°C",
+    "4°C"
+   ],
+   "a": 0,
+   "r": {
+    "p": 183
+   }
+  },
+  {
+   "s": 3,
+   "q": "A lot of glucose in a mixed substrate tends to:",
+   "c": [
+    "Suppress production of enzymes for other substrates",
+    "Speed use of all substrates",
+    "Kill the fungus",
+    "Induce ligninases"
+   ],
+   "a": 0,
+   "r": {
+    "p": 184
+   }
+  },
+  {
+   "s": 3,
+   "q": "Some chytridiomycetes need sulphur supplied as:",
+   "c": [
+    "Sulphur-containing amino acids such as methionine",
+    "Sulphate",
+    "Hydrogen sulphide",
+    "Elemental sulphur"
+   ],
+   "a": 0,
+   "r": {
+    "p": 185
+   }
+  },
+  {
+   "s": 3,
+   "q": "*Neurospora crassa* has at least how many different amino acid transport systems?",
+   "c": [
+    "Five",
+    "One",
+    "Two",
+    "Twenty"
+   ],
+   "a": 0,
+   "r": {
+    "p": 187
+   }
+  },
+  {
+   "s": 3,
+   "q": "Proteases that cleave a chain into two large fragments are:",
+   "c": [
+    "Endohydrolases",
+    "Exohydrolases",
+    "Laccases",
+    "Cellobiases"
+   ],
+   "a": 0,
+   "r": {
+    "p": 188
+   }
+  },
+  {
+   "s": 4,
+   "q": "Psychrophiles have minimum growth temperatures:",
+   "c": [
+    "Below 0°C",
+    "Above 20°C",
+    "Between 15°C and 40°C",
+    "Above 50°C"
+   ],
+   "a": 0,
+   "r": {
+    "p": 188
+   }
+  },
+  {
+   "s": 4,
+   "q": "Blue light is strongly absorbed by which pigment usually present in photosensitive fungal organs?",
+   "c": [
+    "β-carotene",
+    "Chlorophyll",
+    "Melanin",
+    "Phycocyanin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 188
+   }
+  },
+  {
+   "s": 5,
+   "q": "Initiation of *Coprinopsis lagopus* basidiomata needs only about how much light?",
+   "c": [
+    "8 J/m²",
+    "800 J/m²",
+    "8,000 J/m²",
+    "No light"
+   ],
+   "a": 0,
+   "r": {
+    "p": 191
+   }
+  },
+  {
+   "s": 6,
+   "q": "In *Saccharomyces cerevisiae*, the mating agglutination factors are:",
+   "c": [
+    "Bound to the cell walls",
+    "Released into the water",
+    "Volatile gases",
+    "Found only in protoplasts"
+   ],
+   "a": 0,
+   "r": {
+    "p": 192
+   }
+  },
+  {
+   "s": 6,
+   "q": "The red yeast hormone that induces conjugation tubes in the opposite mating type is:",
+   "c": [
+    "Rhodotorucine",
+    "Tremerogen",
+    "Sirenin",
+    "Oogoniol"
+   ],
+   "a": 0,
+   "r": {
+    "p": 192
+   }
+  },
+  {
+   "s": 7,
+   "q": "Sterol inhibitors such as triadimefon prevent the biosynthesis of:",
+   "c": [
+    "Ergosterol",
+    "Chitin",
+    "Tubulin",
+    "Ribosomes"
+   ],
+   "a": 0,
+   "r": {
+    "p": 193
+   }
+  },
+  {
+   "s": 7,
+   "q": "Carboxins interfere with mitochondrial metabolism, causing accumulation of:",
+   "c": [
+    "Succinate",
+    "Glucose",
+    "Ethanol",
+    "Lactic acid"
+   ],
+   "a": 0,
+   "r": {
+    "p": 193
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "Proteins combined with carbohydrates, found in membranes and walls and secreted as enzymes, are:",
+   "c": [
+    "Glycoproteins",
+    "Nucleoproteins",
+    "Lipoproteins",
+    "Phospholipids"
+   ],
+   "a": 0,
+   "r": {
+    "p": 175
+   }
+  },
+  {
+   "s": 0,
+   "q": "Carotenoids are which type of isoprenoid lipid?",
+   "c": [
+    "Diterpenes",
+    "Triterpenes",
+    "Sesquiterpenes",
+    "Monoterpenes"
+   ],
+   "a": 0,
+   "r": {
+    "p": 176
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which pathway yields ATP and pyruvate?",
+   "c": [
+    "Embden-Meyerhof (EM)",
+    "Hexose monophosphate (HM)",
+    "Shikimic acid pathway",
+    "Mevalonic acid pathway"
+   ],
+   "a": 0,
+   "r": {
+    "p": 177
+   }
+  },
+  {
+   "s": 1,
+   "q": "Zearalenone, though harmful to young pigs, is used as an implant to:",
+   "c": [
+    "Promote growth of beef cattle",
+    "Treat human infertility",
+    "Kill insects",
+    "Ripen fruit"
+   ],
+   "a": 0,
+   "r": {
+    "p": 179
+   }
+  },
+  {
+   "s": 1,
+   "q": "β-lactam antibiotics derived from amino acids include penicillin and:",
+   "c": [
+    "Cephalosporin",
+    "Griseofulvin",
+    "Cyclosporine",
+    "Aflatoxin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 179
+   }
+  },
+  {
+   "s": 2,
+   "q": "Plant pathologists study germination closely because a pathogen's most vulnerable point is often its:",
+   "c": [
+    "Germ tube",
+    "Spore wall",
+    "Sclerotium",
+    "Fruit body"
+   ],
+   "a": 0,
+   "r": {
+    "p": 180
+   }
+  },
+  {
+   "s": 2,
+   "q": "A fungus grown in a very long tube of fresh medium can stay in exponential growth because:",
+   "c": [
+    "It keeps escaping staling products",
+    "It stops branching",
+    "It becomes yeast-like",
+    "It photosynthesizes"
+   ],
+   "a": 0,
+   "r": {
+    "p": 182
+   }
+  },
+  {
+   "s": 2,
+   "q": "Living cultures are often preserved long-term by lyophilization, which means:",
+   "c": [
+    "Freeze-drying and sealing under high vacuum",
+    "Autoclaving",
+    "Storing in oil",
+    "Freezing in water"
+   ],
+   "a": 0,
+   "r": {
+    "p": 184
+   }
+  },
+  {
+   "s": 3,
+   "q": "Thiamin is made of a pyrimidine ring and a:",
+   "c": [
+    "Thiazole ring",
+    "Benzene ring",
+    "Purine ring",
+    "Indole ring"
+   ],
+   "a": 0,
+   "r": {
+    "p": 185
+   }
+  },
+  {
+   "s": 3,
+   "q": "Most animals grow only above a water activity of about:",
+   "c": [
+    "0.99",
+    "0.65",
+    "0.80",
+    "0.90"
+   ],
+   "a": 0,
+   "r": {
+    "p": 185
+   }
+  },
+  {
+   "s": 3,
+   "q": "Before transport, ferric iron is chelated with:",
+   "c": [
+    "Siderochromes",
+    "EDTA only",
+    "Phosphate",
+    "Chitin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 186
+   }
+  },
+  {
+   "s": 5,
+   "q": "*Gnomonia vulgaris* grows between 5°C and 30°C but forms ascomata only between:",
+   "c": [
+    "10°C and 25°C",
+    "0°C and 5°C",
+    "30°C and 40°C",
+    "5°C and 30°C"
+   ],
+   "a": 0,
+   "r": {
+    "p": 190
+   }
+  },
+  {
+   "s": 6,
+   "q": "In *Allomyces*, male gametes maintain sensitivity to sirenin by:",
+   "c": [
+    "Breaking down the sirenin they intercept",
+    "Producing more of it",
+    "Swimming faster",
+    "Ignoring it"
+   ],
+   "a": 0,
+   "r": {
+    "p": 191
+   }
+  }
+ ]
+}

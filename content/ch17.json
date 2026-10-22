@@ -1,0 +1,176 @@
+{
+  "n": 17,
+  "title": "Mycorrhizas: Mutualistic Plant-Fungus Symbioses",
+  "pages": [323, 344],
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [323, 325],
+      "questions": [
+        {"q": "Fossils of which period contain well-preserved arbuscular mycorrhizal structures?", "c": ["Devonian", "Cretaceous", "Jurassic", "Permian"], "a": 0, "r": {"p": 323}},
+        {"q": "The word 'mycorrhiza' was coined in:", "c": ["1885", "1785", "1935", "1965"], "a": 0, "r": {"p": 323}},
+        {"q": "Mycorrhizal fungi pass which scarce element, often limiting for plant growth, to the plant?", "c": ["Phosphorus", "Carbon", "Oxygen", "Sodium"], "a": 0, "r": {"p": 323}},
+        {"q": "Mycorrhizal plants withstand transplant shock and soilborne diseases better than nonmycorrhizal plants.", "c": ["True", "False"], "a": 0, "r": {"p": 323}},
+        {"q": "About how many plant species are believed to have arbuscular mycorrhizas?", "c": ["About 300,000", "About 2,000", "About 30,000", "About 3 million"], "a": 0, "r": {"p": 324}},
+        {"q": "About how many plant species form ectomycorrhizas?", "c": ["About 2,000", "About 300,000", "About 200", "About 20,000"], "a": 0, "r": {"p": 325}},
+        {"q": "Ectomycorrhizal fungi never penetrate the root cells.", "c": ["True", "False"], "a": 0, "r": {"p": 325}},
+        {"q": "Which three components must a functioning mycorrhizal symbiosis have?", "c": ["Soil-exploring mycelium, a fungus-plant interface, and carbohydrate-producing plant tissue", "Spores, flagella, and roots", "Leaves, fruit, and seeds", "Asci, basidia, and arbuscules"], "a": 0, "r": {"p": 325}}
+      ]
+    },
+    {
+      "title": "Development and Morphology of Ectomycorrhizas (EM)",
+      "pages": [325, 327],
+      "questions": [
+        {"q": "EMs form only in which part of the root?", "c": ["The unsuberized zone behind the root tip of short (feeder) roots", "The root cap", "Old woody roots", "The stele"], "a": 0, "r": {"p": 325}},
+        {"q": "The truly diagnostic structure of an ectomycorrhiza, the interface between partners, is the:", "c": ["Hartig net", "Arbuscule", "Vesicle", "Peloton"], "a": 0, "r": {"p": 325}},
+        {"q": "What stops Hartig net hyphae from penetrating the stele?", "c": ["The endodermis", "The cuticle", "The root cap", "Root hairs"], "a": 0, "r": {"p": 325}},
+        {"q": "*Pinus* ectomycorrhizal short roots typically branch:", "c": ["Dichotomously", "Pinnately", "Never", "Spirally"], "a": 0, "r": {"p": 325}},
+        {"q": "Root hair formation is suppressed in EMs because:", "c": ["Mycelial strands and hyphae from the mantle make root hairs redundant", "The fungus eats them", "Roots grow too fast", "The soil is too dry"], "a": 0, "r": {"p": 325}},
+        {"q": "Plant sugars are converted in the fungal mantle into trehalose, mannitol, and glycogen, which the plant cannot reabsorb.", "c": ["True", "False"], "a": 0, "r": {"p": 327}},
+        {"q": "Trees often invest at least what share of their photosynthates in mycobionts?", "c": ["10%", "1%", "50%", "90%"], "a": 0, "r": {"p": 327}},
+        {"q": "Why are ectomycorrhizal plants common in boreal, montane, and cool temperate regions?", "c": ["The mantle stores nutrients and fungi fruit massively, suiting strongly seasonal climates", "They need heat", "Those soils are rich", "There are no AM fungi there"], "a": 0, "r": {"p": 327}}
+      ]
+    },
+    {
+      "title": "Systematics of Ectomycorrhizal Fungi and Their Hosts",
+      "pages": [327, 330],
+      "questions": [
+        {"q": "Most ectomycorrhizal fungi are:", "c": ["Basidiomycetes", "Ascomycetes", "Glomeromycota", "Zygomycetes"], "a": 0, "r": {"p": 327}},
+        {"q": "Ectomycorrhizal ascomycete genera almost all fruit:", "c": ["Underground (hypogeous)", "On dung", "On insects", "In streams"], "a": 0, "r": {"p": 328}},
+        {"q": "About how many fungi form EMs?", "c": ["5,000", "230", "50", "50,000"], "a": 0, "r": {"p": 329}},
+        {"q": "A useful generalization: a fungus producing sizeable underground fruit bodies is extremely likely to be:", "c": ["Mycorrhizal", "Parasitic on insects", "A rust", "Saprobic on wood"], "a": 0, "r": {"p": 329}},
+        {"q": "*Suillus grevillei* associates only with:", "c": ["Larch (*Larix*)", "Douglas fir", "Oak", "Pine"], "a": 0, "r": {"p": 329}},
+        {"q": "Douglas fir may form EMs with as many as how many fungal species?", "c": ["2,000", "20", "200", "20,000"], "a": 0, "r": {"p": 329}},
+        {"q": "The single most important ectomycorrhizal plant family is:", "c": ["Pinaceae", "Fagaceae", "Myrtaceae", "Betulaceae"], "a": 0, "r": {"p": 330}}
+      ]
+    },
+    {
+      "title": "Evaluation and Selection of Ectomycorrhizal Fungi",
+      "pages": [330, 333],
+      "questions": [
+        {"q": "If a fungus can't be grown in pure culture for mass inoculum, it is often:", "c": ["Effectively excluded as a partner", "Preferred", "Grown on bread", "Introduced as spores only"], "a": 0, "r": {"p": 330}},
+        {"q": "Which fungus thrives in soils of extremely low fertility, such as mine spoils?", "c": ["*Pisolithus tinctorius*", "*Paxillus involutus*", "*Thelephora terrestris*", "*Russula*"], "a": 0, "r": {"p": 331}},
+        {"q": "*Cenococcum geophilum* is especially tolerant of:", "c": ["Low water potential (dry conditions)", "Flooding", "Fertilizer", "Salt water"], "a": 0, "r": {"p": 331, "h": "(4) Water relations"}},
+        {"q": "*Pisolithus tinctorius* can tolerate a pH range of about:", "c": ["2.6–8.4", "6.5–7.0", "1–3", "8–11"], "a": 0, "r": {"p": 331, "h": "(6) pH"}},
+        {"q": "EM fungi can give trees some protection against root-pathogenic fungi.", "c": ["True", "False"], "a": 0, "r": {"p": 331, "h": "(9) Disease resistance"}},
+        {"q": "Why might a strand-forming fungus like *Rhizopogon* be preferred?", "c": ["Mycelial strands spread the fungus and translocate nutrients over long distances", "Strands are edible", "Strands prevent disease", "Strands make spores faster"], "a": 0, "r": {"p": 332}},
+        {"q": "*Pisolithus* was the first EM fungus available as commercial mycelial inoculum, but it isn't ideal for:", "c": ["Boreal conifers", "Hot, dry sites", "Mine spoils", "Southern pines"], "a": 0, "r": {"p": 332}},
+        {"q": "How did *Amanita phalloides* reach South America?", "c": ["As a mycobiont of oak seedlings imported from Europe", "In shipments of food", "On birds", "By wind"], "a": 0, "r": {"p": 332}},
+        {"q": "'Trufficulture' uses which fungus as a deliberate mycorrhizal partner?", "c": ["*Tuber melanosporum*", "*Boletus edulis*", "*Amanita pantherina*", "*Lactarius deliciosus*"], "a": 0, "r": {"p": 333}}
+      ]
+    },
+    {
+      "title": "Sources of Ectomycorrhizal Inoculum",
+      "pages": [333, 334],
+      "questions": [
+        {"q": "Why can't natural spore inoculum always be relied on in nurseries?", "c": ["It's seasonal, may not arrive in numbers, and we can't control which fungi come", "Spores never germinate", "It is too expensive", "It always contains pathogens"], "a": 0, "r": {"p": 333}},
+        {"q": "Why did pine seedlings at fourteen new Western Australian nurseries decline and die?", "c": ["Most hadn't met suitable ectomycorrhizal fungi", "Drought", "Insect attack", "Too much fertilizer"], "a": 0, "r": {"p": 333}},
+        {"q": "Soil from beneath established EM trees is reliable inoculum if added to a nursery bed at about:", "c": ["10% by volume", "1% by volume", "50% by volume", "100%"], "a": 0, "r": {"p": 333}},
+        {"q": "Basidiospore inoculum initiates mycorrhizas faster than mycelial inoculum.", "c": ["True", "False"], "a": 1, "r": {"p": 334}},
+        {"q": "Over 450 kg of *Pisolithus* basidiomata were collected on Alabama mine spoils. How much spore is needed per plant?", "c": ["Less than 1 mg", "About 1 g", "About 10 g", "About 100 mg"], "a": 0, "r": {"p": 334}},
+        {"q": "Kendrick suggests concentrating mycelial inoculum efforts on:", "c": ["Early colonizers like *Thelephora* and *Laccaria*", "Late colonizers like *Boletus*", "Toxic species", "Truffles only"], "a": 0, "r": {"p": 334}}
+      ]
+    },
+    {
+      "title": "Morphology and Development of Arbuscular Mycorrhizas (AM)",
+      "pages": [334, 336],
+      "questions": [
+        {"q": "How visible is an AM fungus in a root to the naked eye?", "c": ["Usually undetectable without clearing and staining", "Obvious as a thick mantle", "Bright orange", "Visible as swollen root tips"], "a": 0, "r": {"p": 334}},
+        {"q": "Arbuscules are:", "c": ["Finely branched structures inside cortical cells, encapsulated by the host plasmalemma", "Swellings outside the root", "Spores in the soil", "Fungal mantles"], "a": 0, "r": {"p": 335}},
+        {"q": "How long does an individual arbuscule last before breaking down?", "c": ["Four to fifteen days", "Four to fifteen months", "A few hours", "The life of the plant"], "a": 0, "r": {"p": 335}},
+        {"q": "Why is 'AM' now preferred over 'VAM' (vesicular-arbuscular mycorrhiza)?", "c": ["The genus *Gigaspora* forms no intramatrical vesicles", "Vesicles were found to be artefacts", "VAM is trademarked", "Arbuscules are absent in many"], "a": 0, "r": {"p": 335}},
+        {"q": "AM extramatrical hyphae extend about how far from the root?", "c": ["8 cm or more", "8 mm", "8 metres", "80 cm"], "a": 0, "r": {"p": 336}},
+        {"q": "AM spores are typically:", "c": ["Very large (50–600 µm) and filled with storage lipids", "Tiny and wind-dispersed", "Flagellate", "Produced on gills"], "a": 0, "r": {"p": 336}},
+        {"q": "Kendrick saw up to how many vesicles per cm in older leek roots?", "c": ["500", "5", "50", "5,000"], "a": 0, "r": {"p": 335}}
+      ]
+    },
+    {
+      "title": "Systematics of Arbuscular Mycorrhizal Fungi and Their Hosts",
+      "pages": [336, 339],
+      "questions": [
+        {"q": "As of 2012, mycologists recognized about how many species of AM fungi?", "c": ["230", "30", "2,300", "5,000"], "a": 0, "r": {"p": 336}},
+        {"q": "In the key, which genera form only arbuscules (no vesicles) and auxiliary cells?", "c": ["*Gigaspora* and *Scutellospora*", "*Glomus* and *Acaulospora*", "*Entrophospora* and *Glomus*", "*Acaulospora* and *Gigaspora*"], "a": 0, "r": {"p": 336}},
+        {"q": "The commonest AM genus is:", "c": ["*Glomus*", "*Gigaspora*", "*Acaulospora*", "*Scutellospora*"], "a": 0, "r": {"p": 337}},
+        {"q": "*Acaulospora* spores form:", "c": ["On the side of thin-walled terminal swellings that later collapse", "Inside multispored sporocarps", "At the end of a bulbous hypha", "Inside roots only"], "a": 0, "r": {"p": 337}},
+        {"q": "Which woody family is entirely nonmycorrhizal, with fine brush-like roots?", "c": ["Proteaceae", "Pinaceae", "Ericaceae", "Fagaceae"], "a": 0, "r": {"p": 338}},
+        {"q": "Why can many weedy annuals do without mycorrhizas?", "c": ["They germinate and set seed quickly, relying on finely branched roots with many root hairs", "They photosynthesize faster", "They live in rich soil only", "They have nitrogen-fixing bacteria"], "a": 0, "r": {"p": 338}},
+        {"q": "The Brassicaceae may have discouraged their mycorrhizal fungi through:", "c": ["Chemical defences evolved against herbivores", "Thick roots", "Living in water", "Rapid flowering alone"], "a": 0, "r": {"p": 339}}
+      ]
+    },
+    {
+      "title": "AM Inoculum and Evaluating AM Partners",
+      "pages": [339, 341],
+      "questions": [
+        {"q": "AM fungi can be multiplied only:", "c": ["In dual culture with a host plant (or transformed roots)", "On agar", "In liquid broth", "On bread"], "a": 0, "r": {"p": 339, "h": "Sources of Arbuscular Mycorrhizal Inoculum"}},
+        {"q": "'Hairy root' cultures for growing AM fungi are produced by transforming plant tissue with a plasmid from:", "c": ["*Agrobacterium rhizogenes*", "*E. coli*", "*Streptomyces*", "*Bacillus subtilis*"], "a": 0, "r": {"p": 339}},
+        {"q": "Most AM species can be identified only by their:", "c": ["Spores", "Arbuscules", "Vesicles", "Hyphae in roots"], "a": 0, "r": {"p": 339}},
+        {"q": "In the gridline intersect method on a 1/2-inch grid, the number of intersects equals:", "c": ["Total root length in centimetres", "Number of arbuscules", "Percentage of colonization", "Root dry weight in mg"], "a": 0, "r": {"p": 340, "h": "Evaluation of Arbuscular Mycorrhizal Fungal Partners"}},
+        {"q": "At 100 µg/g available P, the relative mycorrhiza dependency of carrot is 99.2%. What is wheat's?", "c": ["0%", "50%", "99%", "25%"], "a": 0, "r": {"p": 341}},
+        {"q": "Even an efficient AM fungus has little effect if phosphorus and nitrogen are present at luxury levels.", "c": ["True", "False"], "a": 0, "r": {"p": 340}}
+      ]
+    },
+    {
+      "title": "Effects of AM on Plant Disease, and Prospects",
+      "pages": [341, 341],
+      "questions": [
+        {"q": "Experiments generally showed mycorrhizal plants had less fungal disease. What about virus symptoms?", "c": ["They were more severe", "They disappeared", "They were unaffected", "They were milder"], "a": 0, "r": {"p": 341, "h": "Effects of Arbuscular Mycorrhizas on Plant Disease"}},
+        {"q": "Which is one proposed explanation for reduced fungal disease in mycorrhizal plants?", "c": ["Infection sites may already be occupied by the mycorrhizal fungus", "Mycorrhizal fungi produce penicillin", "Pathogens can't smell the roots", "Mycorrhizas lower soil pH"], "a": 0, "r": {"p": 341}},
+        {"q": "Complete the saying: 'Most woody plants require mycorrhizas to survive, and most herbaceous plants need them to...'", "c": ["Thrive", "Flower", "Germinate", "Die"], "a": 0, "r": {"p": 341, "h": "Prospects"}},
+        {"q": "Heavy fertilization in nurseries tends to:", "c": ["Discourage mycorrhizal fungi adapted to infertile soils", "Encourage mycorrhizas", "Have no effect", "Kill pathogens only"], "a": 0, "r": {"p": 341}}
+      ]
+    },
+    {
+      "title": "Other Kinds of Mycorrhizas",
+      "pages": [342, 343],
+      "questions": [
+        {"q": "Orchid seedlings depend on fungi until:", "c": ["Their first chlorophyll-bearing leaf develops, after 2–11 years", "They flower", "They are one month old", "They form seeds"], "a": 0, "r": {"p": 342, "h": "Orchid Mycorrhizas"}},
+        {"q": "Orchid mycorrhizal fungi are commonly anamorphs of:", "c": ["*Rhizoctonia*", "*Glomus*", "*Pisolithus*", "*Rhizoscyphus*"], "a": 0, "r": {"p": 342}},
+        {"q": "Coils of fungal hyphae inside orchid root cells are called:", "c": ["Pelotons", "Arbuscules", "Hartig nets", "Vesicles"], "a": 0, "r": {"p": 342}},
+        {"q": "Ericoid mycorrhizas mostly involve the inoperculate discomycete:", "c": ["*Rhizoscyphus* (*Hymenoscyphus*)", "*Russula*", "*Tuber*", "*Glomus*"], "a": 0, "r": {"p": 342, "h": "Ericoid Mycorrhizas"}},
+        {"q": "In arbutoid mycorrhizas of *Arbutus menziesii*, the fungus:", "c": ["Forms a mantle and fills cortical cells with coiled hyphae instead of a Hartig net", "Forms arbuscules", "Forms no mantle at all", "Lives only outside the root"], "a": 0, "r": {"p": 343, "h": "Arbutoid Mycorrhizas"}},
+        {"q": "Where does achlorophyllous *Monotropa uniflora* ultimately get its sugars?", "c": ["From a conifer, via their shared ectomycorrhizal fungus *Russula*", "From decaying leaves as a saprophyte", "From its own photosynthesis", "From insects"], "a": 0, "r": {"p": 343, "h": "Monotropoid Mycorrhizas"}},
+        {"q": "*Monotropa* is correctly described as a 'saprophyte'.", "c": ["True", "False"], "a": 1, "r": {"p": 343}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Early land plants likely needed fungal partners because they:", "c": ["Lacked extensive root systems for gathering water and minerals", "Couldn't photosynthesize", "Lived in water", "Had no leaves"], "a": 0, "r": {"p": 323}},
+    {"s": 0, "q": "Over what share of higher plant species are normally mycorrhizal?", "c": ["Over 90%", "About 50%", "About 10%", "All"], "a": 0, "r": {"p": 323}},
+    {"s": 0, "q": "Only one AM fungus has ever been seen to:", "c": ["Reproduce sexually", "Form arbuscules", "Grow in soil", "Form spores"], "a": 0, "r": {"p": 324}},
+    {"s": 1, "q": "Far from being harmful, the Hartig net seems to:", "c": ["Prolong the life of cortical cells and the root", "Kill cortical cells quickly", "Stop root growth", "Block the xylem"], "a": 0, "r": {"p": 325}},
+    {"s": 1, "q": "Individual ectomycorrhizal roots remain active for up to:", "c": ["Three years", "Three weeks", "Three decades", "One season"], "a": 0, "r": {"p": 326}},
+    {"s": 1, "q": "Carbohydrates moving through mycelial strands from established trees to seedlings of the same species may help to:", "c": ["Maintain pure stands", "Kill seedlings", "Spread disease", "Prevent fruiting"], "a": 0, "r": {"p": 327}},
+    {"s": 2, "q": "Ectomycorrhizal basidiomycetes belong to at least how many genera?", "c": ["Seventy-three", "Seven", "Seven hundred", "Two"], "a": 0, "r": {"p": 327}},
+    {"s": 2, "q": "Which family is almost entirely ectomycorrhizal?", "c": ["Boletaceae", "Agaricaceae", "Polyporaceae", "Strophariaceae"], "a": 0, "r": {"p": 329}},
+    {"s": 2, "q": "A 250 km transect east from the Oregon coast passes through how many major forest zones?", "c": ["Seventeen", "Three", "Fifty", "Seven"], "a": 0, "r": {"p": 330}},
+    {"s": 3, "q": "Because *Cenococcum* grows best at –15 bars, in irrigated nurseries it may be replaced by:", "c": ["*Thelephora terrestris*", "*Pisolithus*", "*Russula*", "*Amanita*"], "a": 0, "r": {"p": 331}},
+    {"s": 3, "q": "*Pinus cembra* for high-altitude planting is inoculated with a cold-adapted strain of:", "c": ["*Suillus plorans*", "*Pisolithus tinctorius*", "*Boletus edulis*", "*Laccaria laccata*"], "a": 0, "r": {"p": 331}},
+    {"s": 3, "q": "Why did Australia refuse cultures of *Amanita pantherina*?", "c": ["Its fruit bodies contain high levels of ibotenic acid", "It was a poor partner", "It spreads disease", "It is protected"], "a": 0, "r": {"p": 332}},
+    {"s": 4, "q": "Introduced mycorrhizal seedlings planted in seedbeds were first used on a large scale in:", "c": ["Indonesia", "Australia", "Canada", "France"], "a": 0, "r": {"p": 333}},
+    {"s": 4, "q": "*Cenococcum geophilum* sclerotia are useful inoculum because they are:", "c": ["Far less perishable than spores or basidiomata", "Edible", "Flagellate", "Easy to culture on agar"], "a": 0, "r": {"p": 334}},
+    {"s": 5, "q": "AM penetration often occurs through which cells of the exodermis?", "c": ["'Short cells', which are not yet suberized", "Root hairs only", "Meristem cells", "Endodermal cells"], "a": 0, "r": {"p": 335}},
+    {"s": 5, "q": "AM fungi never enter which root cells?", "c": ["Meristematic or endodermal cells", "Cortical cells", "Epidermal cells", "Short cells"], "a": 0, "r": {"p": 335}},
+    {"s": 6, "q": "*Glomus* now includes former members of *Sclerocystis*, which had:", "c": ["Multispored sporocarps", "Flagella", "Clamp connections", "Asci"], "a": 0, "r": {"p": 337}},
+    {"s": 6, "q": "*Gigaspora* forms unique 'ornamented vesicles' typically on:", "c": ["Spiral hyphae", "Root hairs", "Arbuscules", "Sporocarps"], "a": 0, "r": {"p": 337}},
+    {"s": 6, "q": "All or most members of over how many plant families associate with AM fungi?", "c": ["380", "38", "3,800", "18"], "a": 0, "r": {"p": 339}},
+    {"s": 7, "q": "Extramatrical AM hyphae retrieved N and P from nearly how far from a root?", "c": ["3 cm", "3 mm", "30 cm", "3 m"], "a": 0, "r": {"p": 340}},
+    {"s": 7, "q": "Roots are stained for AM assessment with:", "c": ["Acid fuchsin or trypan blue", "Melzer's reagent", "Cotton blue only", "Litmus"], "a": 0, "r": {"p": 340}},
+    {"s": 9, "q": "Gentianaceous mycorrhizas differ from orchid ones in that:", "c": ["The plants can provide nutrients to the fungus", "There are no coils", "They form Hartig nets", "They are ectomycorrhizal"], "a": 0, "r": {"p": 342}},
+    {"s": 9, "q": "*Sarcodes sanguinea* and *Pterospora andromeda* parasitize which ectomycorrhizal fungus?", "c": ["*Rhizopogon*", "*Russula*", "*Tricholoma*", "*Suillus*"], "a": 0, "r": {"p": 343}}
+  ],
+  "review": [
+    {"s": 0, "q": "Mycorrhizal plants withstand which kind of pollution better?", "c": ["Heavy metals and acid rain", "Noise", "Light", "Ozone only"], "a": 0, "r": {"p": 323}},
+    {"s": 0, "q": "The plant and fungal partners in mycorrhizas can be called:", "c": ["Photobionts and mycobionts", "Hosts and pathogens", "Producers and consumers", "Donors and acceptors"], "a": 0, "r": {"p": 324}},
+    {"s": 1, "q": "EMs normally develop how soon after the tree seed germinates?", "c": ["One to three months", "One to three days", "One to three years", "Immediately"], "a": 0, "r": {"p": 325}},
+    {"s": 1, "q": "EM fungi out of contact with a tree:", "c": ["Can't compete with saprobic soil fungi and are harmed by litter toxins", "Thrive on cellulose", "Form lichens", "Become pathogens"], "a": 0, "r": {"p": 327}},
+    {"s": 2, "q": "Which is listed as an EM fungus with a wide host range?", "c": ["*Amanita muscaria*", "*Suillus grevillei*", "*Suillus lakei*", "*Monotropa*"], "a": 0, "r": {"p": 329}},
+    {"s": 3, "q": "Diameter of older trees is measured at breast height, which is:", "c": ["1.4 m", "1 m", "2 m", "0.5 m"], "a": 0, "r": {"p": 331}},
+    {"s": 3, "q": "EM fungi tolerating heavy metals were studied on nickel mine spoils at:", "c": ["Sudbury, Ontario", "Butte, Montana", "Kalgoorlie, Australia", "Cornwall, England"], "a": 0, "r": {"p": 331}},
+    {"s": 3, "q": "*Pisolithus tinctorius* protects *Pinus clausa* seedlings against:", "c": ["*Phytophthora cinnamomi*", "*Venturia*", "Rust", "Ergot"], "a": 0, "r": {"p": 332}},
+    {"s": 3, "q": "In New Zealand, which edible fungus is fruiting as a byproduct of afforestation?", "c": ["*Lactarius deliciosus*", "*Tuber magnatum*", "*Boletus edulis*", "*Amanita caesarea*"], "a": 0, "r": {"p": 333}},
+    {"s": 4, "q": "*Pisolithus* basidiospores were coated onto seeds at a rate of:", "c": ["500,000 to 5 million spores per seed", "About 50 spores per seed", "About 5 billion per seed", "One spore per seed"], "a": 0, "r": {"p": 334}},
+    {"s": 5, "q": "Polyphosphate granules involved in P transport are found in AM hyphae but not in:", "c": ["The finest branches of arbuscules", "Spores", "Vesicles", "Extramatrical hyphae"], "a": 0, "r": {"p": 335}},
+    {"s": 6, "q": "Thirty AM taxa were recognized in 1974; about how many by 1985?", "c": ["120", "30", "500", "230"], "a": 0, "r": {"p": 336}},
+    {"s": 9, "q": "Fungi like *Astraeus hygrometricus* can form EMs with *Pinus banksiana* and ectoendomycorrhizas with:", "c": ["*Arctostaphylos uva-ursi*", "*Monotropa*", "Orchids", "*Arbutus*"], "a": 0, "r": {"p": 343}}
+  ]
+}

@@ -1,0 +1,1051 @@
+{
+ "n": 7,
+ "title": "Lichens—Dual (or Even Triple) Extremophile Organisms",
+ "pages": [
+  145,
+  155
+ ],
+ "sections": [
+  {
+   "title": "Habitats and Anatomy: Lichen = Fungus + Alga(e)",
+   "pages": [
+    145,
+    148
+   ],
+   "questions": [
+    {
+     "q": "Lichens have been found at over what altitude on Mount Everest?",
+     "c": [
+      "7,000 metres",
+      "2,000 metres",
+      "4,000 metres",
+      "8,800 metres (the summit)"
+     ],
+     "a": 0,
+     "r": {
+      "p": 145,
+      "h": "Habitats"
+     }
+    },
+    {
+     "q": "In a lichen, the fungal partner is called the:",
+     "c": [
+      "Mycobiont",
+      "Photobiont",
+      "Phycobiont",
+      "Cephalodium"
+     ],
+     "a": 0,
+     "r": {
+      "p": 145,
+      "h": "Anatomy"
+     }
+    },
+    {
+     "q": "What share of a lichen's biomass do the algae usually make up?",
+     "c": [
+      "5%–10%",
+      "About 50%",
+      "About 90%",
+      "Less than 1%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 145
+     }
+    },
+    {
+     "q": "Lichenized fungi make up about what share of all ascomycetes?",
+     "c": [
+      "40%",
+      "4%",
+      "10%",
+      "75%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 145
+     }
+    },
+    {
+     "q": "Kendrick describes the lichen relationship as closer to balanced parasitism than mutualism. Why?",
+     "c": [
+      "The fungus pirates about 50% of the alga's food and cages the algal cells",
+      "The alga parasitizes the fungus",
+      "Neither partner benefits",
+      "The alga eventually kills the fungus"
+     ],
+     "a": 0,
+     "r": {
+      "p": 147
+     }
+    },
+    {
+     "q": "Which unicellular green alga is the photobiont in most lichens?",
+     "c": [
+      "*Trebouxia*",
+      "*Trentepohlia*",
+      "*Nostoc*",
+      "*Chlamydomonas*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 147,
+      "h": "The Photobionts"
+     }
+    },
+    {
+     "q": "Lichen names always refer to the fungal component.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 147,
+      "h": "The Photobionts"
+     }
+    },
+    {
+     "q": "Wart-like areas containing cyanobacteria on a lichen with green algae are called:",
+     "c": [
+      "Cephalodia",
+      "Isidia",
+      "Soredia",
+      "Podetia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 147
+     }
+    },
+    {
+     "q": "What is the probable main function of cyanobacteria in three-part lichens?",
+     "c": [
+      "Supplying fixed nitrogen",
+      "Supplying water",
+      "Producing spores",
+      "Producing lichen acids"
+     ],
+     "a": 0,
+     "r": {
+      "p": 148
+     }
+    },
+    {
+     "q": "Over what share of lichenized fungi are ascomycetes?",
+     "c": [
+      "Over 98%",
+      "About 50%",
+      "About 75%",
+      "About 20%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 148,
+      "h": "The Mycobionts"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Morphology—Thallus Types",
+   "pages": [
+    148,
+    149
+   ],
+   "questions": [
+    {
+     "q": "Most lichens are discolichens. What does that mean?",
+     "c": [
+      "Their fungal fructifications are apothecial ascomata",
+      "They have disc-shaped thalli",
+      "They contain disc-shaped algae",
+      "They are basidiomycetes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 148
+     }
+    },
+    {
+     "q": "A lichen closely pressed to or embedded in its substrate is:",
+     "c": [
+      "Crustose",
+      "Foliose",
+      "Fruticose",
+      "Squamulose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 148
+     }
+    },
+    {
+     "q": "*Parmelia*, attached by thread-like rhizines and lobed, has which thallus type?",
+     "c": [
+      "Foliose",
+      "Crustose",
+      "Fruticose",
+      "Leprose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 148
+     }
+    },
+    {
+     "q": "'Fruticose' means:",
+     "c": [
+      "Bush-like",
+      "Fruit-bearing",
+      "Powdery",
+      "Scaly"
+     ],
+     "a": 0,
+     "r": {
+      "p": 148
+     }
+    },
+    {
+     "q": "*Cladonia* thalli are often dimorphic, with squamules on the substrate and upright structures called:",
+     "c": [
+      "Podetia",
+      "Rhizines",
+      "Cephalodia",
+      "Lirellae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 148
+     }
+    },
+    {
+     "q": "A thallus made up entirely of loose, powdery material is called:",
+     "c": [
+      "Leprose",
+      "Gelatinous",
+      "Squamulose",
+      "Crustose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 149
+     }
+    }
+   ]
+  },
+  {
+   "title": "Sexual and Asexual Reproduction",
+   "pages": [
+    149,
+    150
+   ],
+   "questions": [
+    {
+     "q": "About how many lichens involve basidiomycetes?",
+     "c": [
+      "About twenty",
+      "About two hundred",
+      "About two thousand",
+      "None"
+     ],
+     "a": 0,
+     "r": {
+      "p": 149
+     }
+    },
+    {
+     "q": "The basidiolichen on the book's cover, whose mycobiont is a small agaric, is:",
+     "c": [
+      "*Lichenomphalia* (*Omphalina*) *ericetorum*",
+      "*Lepraria*",
+      "*Verrucaria*",
+      "*Icmadophila ericetorum*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 149
+     }
+    },
+    {
+     "q": "Lichen hymenia commonly 'puff' clouds of spores like *Peziza*.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 150,
+      "h": "Lichen Asci and Ascospores"
+     }
+    },
+    {
+     "q": "In *Acarospora*, an ascus may contain up to how many spores?",
+     "c": [
+      "100",
+      "8",
+      "4",
+      "1,000"
+     ],
+     "a": 0,
+     "r": {
+      "p": 150
+     }
+    },
+    {
+     "q": "Soredia are:",
+     "c": [
+      "Small groups of algal cells entangled in fungal hyphae, released as powder",
+      "Finger-like outgrowths that break off",
+      "Pycnidial conidia",
+      "Ascospores with algal cells inside"
+     ],
+     "a": 0,
+     "r": {
+      "p": 150,
+      "h": "Asexual and Somatic Reproduction"
+     }
+    },
+    {
+     "q": "Small finger-like or branched outgrowths that break off the thallus are called:",
+     "c": [
+      "Isidia",
+      "Soredia",
+      "Rhizines",
+      "Cephalodia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 150
+     }
+    },
+    {
+     "q": "When *Cladonia* podetia become covered in soredia and stop producing asci, what has happened?",
+     "c": [
+      "A fungal reproductive structure has evolved into a photosynthetic organ",
+      "The lichen has died",
+      "The alga has taken over the thallus",
+      "The podetium has become a pycnidium"
+     ],
+     "a": 0,
+     "r": {
+      "p": 150
+     }
+    }
+   ]
+  },
+  {
+   "title": "Taxonomic Groupings",
+   "pages": [
+    150,
+    152
+   ],
+   "questions": [
+    {
+     "q": "What does current evidence suggest about the origin of lichenization?",
+     "c": [
+      "It appears to have arisen independently in many fungal groups",
+      "It arose once in basidiomycetes",
+      "It arose only in the Lecanorales",
+      "It was acquired from algae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 150
+     }
+    },
+    {
+     "q": "Which class of Ascomycota is 100% lichenized?",
+     "c": [
+      "Lichinomycetes",
+      "Dothideomycetes",
+      "Eurotiomycetes",
+      "Sordariomycetes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 151
+     }
+    },
+    {
+     "q": "Roughly what share of Agaricomycetes are lichenized?",
+     "c": [
+      "About 1%",
+      "About 40%",
+      "About 95%",
+      "About 10%"
+     ],
+     "a": 0,
+     "r": {
+      "p": 151
+     }
+    },
+    {
+     "q": "'Reindeer moss' and 'British soldier' are species of which genus?",
+     "c": [
+      "*Cladonia*",
+      "*Usnea*",
+      "*Peltigera*",
+      "*Parmelia*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 151,
+      "h": "(3) Order Lecanorales"
+     }
+    },
+    {
+     "q": "Which order has blue-green or green photobionts, with cyanobacteria often in cephalodia?",
+     "c": [
+      "Peltigerales",
+      "Arthoniales",
+      "Verrucariales",
+      "Teloschistales"
+     ],
+     "a": 0,
+     "r": {
+      "p": 151,
+      "h": "(4) Order Peltigerales"
+     }
+    },
+    {
+     "q": "Lichenology is now being increasingly integrated with mainstream mycology.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 152
+     }
+    }
+   ]
+  },
+  {
+   "title": "Identification of Lichens",
+   "pages": [
+    152,
+    152
+   ],
+   "questions": [
+    {
+     "q": "About how many unique 'lichen substances' do lichens produce?",
+     "c": [
+      "About 300",
+      "About 30",
+      "About 3,000",
+      "About 3"
+     ],
+     "a": 0,
+     "r": {
+      "p": 152
+     }
+    },
+    {
+     "q": "The indicator litmus is obtained from:",
+     "c": [
+      "Depside-containing lichens",
+      "Red yeasts",
+      "Mushroom pigments",
+      "Cyanobacteria"
+     ],
+     "a": 0,
+     "r": {
+      "p": 152
+     }
+    },
+    {
+     "q": "Which three spot-test chemicals are commonly called for in lichen keys?",
+     "c": [
+      "KOH, chlorine bleach, and PPD",
+      "Iodine, KOH, and acetone",
+      "Melzer's reagent, ethanol, and water",
+      "Litmus, KOH, and salt"
+     ],
+     "a": 0,
+     "r": {
+      "p": 152
+     }
+    },
+    {
+     "q": "Why are refined techniques like chromatography needed for some lichens?",
+     "c": [
+      "Some species contain up to six look-alike 'chemical strains'",
+      "Lichens have no visible features",
+      "Spot tests damage the thallus",
+      "Lichens change colour daily"
+     ],
+     "a": 0,
+     "r": {
+      "p": 152
+     }
+    }
+   ]
+  },
+  {
+   "title": "Lichen Synthesis",
+   "pages": [
+    152,
+    153
+   ],
+   "questions": [
+    {
+     "q": "Why must lichens be constantly resynthesized in nature?",
+     "c": [
+      "Ascospores are often released without any algal cells",
+      "The alga dies every winter",
+      "The fungus is annual",
+      "Lichens are sterile"
+     ],
+     "a": 0,
+     "r": {
+      "p": 152
+     }
+    },
+    {
+     "q": "Lab synthesis of lichens finally succeeded when the partners were:",
+     "c": [
+      "Both in a thoroughly debilitated condition",
+      "Both grown on rich media",
+      "Grown in the dark",
+      "Given extra nitrogen"
+     ],
+     "a": 0,
+     "r": {
+      "p": 152
+     }
+    },
+    {
+     "q": "Once captured, *Trebouxia* leaks which carbohydrate to the fungus?",
+     "c": [
+      "Ribitol",
+      "Erythritol",
+      "Glucose",
+      "Trehalose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 153
+     }
+    },
+    {
+     "q": "The fungus converts absorbed carbohydrates into trehalose, a sugar linked to surviving extreme desiccation.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 153
+     }
+    }
+   ]
+  },
+  {
+   "title": "Growth Rate, Longevity, and Air Pollution",
+   "pages": [
+    153,
+    154
+   ],
+   "questions": [
+    {
+     "q": "A respectable growth rate for many lichens is:",
+     "c": [
+      "1–4 mm per year",
+      "1–4 cm per year",
+      "1–4 mm per day",
+      "1–4 metres per century"
+     ],
+     "a": 0,
+     "r": {
+      "p": 153,
+      "h": "Growth Rate and Longevity"
+     }
+    },
+    {
+     "q": "Some lichen colonies are reputed to be how old?",
+     "c": [
+      "4,500 years",
+      "450 years",
+      "45,000 years",
+      "45 years"
+     ],
+     "a": 0,
+     "r": {
+      "p": 153
+     }
+    },
+    {
+     "q": "Lichenometry uses colonies on dated gravestones to help glaciologists determine:",
+     "c": [
+      "How long ago rock faces emerged from retreating glaciers",
+      "How thick glaciers were",
+      "The age of the gravestone stone",
+      "Past rainfall"
+     ],
+     "a": 0,
+     "r": {
+      "p": 153,
+      "h": "Lichenometry"
+     }
+    },
+    {
+     "q": "Why are lichens so sensitive to acid rain?",
+     "c": [
+      "They lack roots and depend on rain for mineral nutrients",
+      "They grow only in cities",
+      "They photosynthesize only at night",
+      "They are mostly water"
+     ],
+     "a": 0,
+     "r": {
+      "p": 153,
+      "h": "Lichens and Air Pollution"
+     }
+    },
+    {
+     "q": "The fungus *Mycosphaerella ascophylli* in the brown alga *Ascophyllum nodosum* may represent:",
+     "c": [
+      "A kind of reversed lichenization",
+      "A basidiolichen",
+      "A cephalodium",
+      "A crustose lichen"
+     ],
+     "a": 0,
+     "r": {
+      "p": 153
+     }
+    }
+   ]
+  },
+  {
+   "title": "Lichen Phylogeny and Evolution",
+   "pages": [
+    154,
+    154
+   ],
+   "questions": [
+    {
+     "q": "Lichens are best described as:",
+     "c": [
+      "A nutritional rather than a taxonomic group",
+      "A single monophyletic order",
+      "A kingdom of their own",
+      "A group of algae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 154
+     }
+    },
+    {
+     "q": "Why might *Lichenomphalia ericetorum* still be evolving into the lichen condition?",
+     "c": [
+      "Its basidioma contains no algal cells and its relatives aren't lichenized",
+      "It has no fungal partner",
+      "It forms soredia only",
+      "It grows on glaciers"
+     ],
+     "a": 0,
+     "r": {
+      "p": 154
+     }
+    },
+    {
+     "q": "If life were found on a harsh planet, Kendrick suggests we look for life forms like:",
+     "c": [
+      "Archaea",
+      "Lichens",
+      "Mushrooms",
+      "Green algae"
+     ],
+     "a": 0,
+     "r": {
+      "p": 154
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "Which black lichen genera coat rocks above the high-tide line on North American coasts?",
+   "c": [
+    "*Hydropunctaria* and *Wahlenbergiella*",
+    "*Usnea* and *Alectoria*",
+    "*Cladonia* and *Parmelia*",
+    "*Lobaria* and *Sticta*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 145
+   }
+  },
+  {
+   "s": 0,
+   "q": "Cryptoendolithic fungus–alga associations were found beneath the surface of sandstone in deserts of:",
+   "c": [
+    "Antarctica and Namibia",
+    "Arizona and Mexico",
+    "Australia and Chile",
+    "The Sahara and Gobi"
+   ],
+   "a": 0,
+   "r": {
+    "p": 145
+   }
+  },
+  {
+   "s": 0,
+   "q": "Photobionts of over 90% of lichens come from just three genera. Which is the cyanobacterium?",
+   "c": [
+    "*Nostoc*",
+    "*Trebouxia*",
+    "*Trentepohlia*",
+    "*Anabaena*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 147
+   }
+  },
+  {
+   "s": 0,
+   "q": "In lichens with green algae, the carbohydrates moving from alga to fungus are:",
+   "c": [
+    "Sugar alcohols",
+    "Glucose",
+    "Starch",
+    "Sucrose"
+   ],
+   "a": 0,
+   "r": {
+    "p": 147
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Letharia columbiana*, a bright yellow lacy lichen on dead branches, has which thallus type?",
+   "c": [
+    "Fruticose",
+    "Crustose",
+    "Foliose",
+    "Leprose"
+   ],
+   "a": 0,
+   "r": {
+    "p": 148
+   }
+  },
+  {
+   "s": 1,
+   "q": "Squamulose thalli may arise from:",
+   "c": [
+    "Cracking and fragmentation of a crustose thallus",
+    "Fusion of foliose lobes",
+    "Branching of fruticose strands",
+    "Gelatinous swelling"
+   ],
+   "a": 0,
+   "r": {
+    "p": 148
+   }
+  },
+  {
+   "s": 2,
+   "q": "Some lichens like *Roccella*, *Pyrenula*, and *Arthonia* have pseudothecia with:",
+   "c": [
+    "Bitunicate asci",
+    "Operculate asci",
+    "Basidia",
+    "No asci"
+   ],
+   "a": 0,
+   "r": {
+    "p": 149
+   }
+  },
+  {
+   "s": 2,
+   "q": "Asci of the Lecanorales have two wall layers but split at the tip and are functionally:",
+   "c": [
+    "Unitunicate",
+    "Bitunicate",
+    "Prototunicate",
+    "Operculate"
+   ],
+   "a": 0,
+   "r": {
+    "p": 150
+   }
+  },
+  {
+   "s": 2,
+   "q": "Lichens that reproduce asexually are less likely to form ascomata.",
+   "c": [
+    "True",
+    "False"
+   ],
+   "a": 0,
+   "r": {
+    "p": 150
+   }
+  },
+  {
+   "s": 3,
+   "q": "Which order has 300 genera and about 5,700 species, including many of our commonest lichens?",
+   "c": [
+    "Lecanorales",
+    "Arthoniales",
+    "Pyrenulales",
+    "Ostropales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 151
+   }
+  },
+  {
+   "s": 3,
+   "q": "Lirellate ascomata are:",
+   "c": [
+    "Long and narrow",
+    "Round and cup-shaped",
+    "Flask-shaped",
+    "Buried in podetia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 151
+   }
+  },
+  {
+   "s": 4,
+   "q": "Lichen substances are mainly:",
+   "c": [
+    "Weak phenolic acids derived from orcinol or β-orcinol",
+    "Proteins",
+    "Alkaloids",
+    "Steroids"
+   ],
+   "a": 0,
+   "r": {
+    "p": 152
+   }
+  },
+  {
+   "s": 4,
+   "q": "Which lichen substance has antibiotic properties?",
+   "c": [
+    "Usnic acid",
+    "Ribitol",
+    "Trehalose",
+    "Litmus"
+   ],
+   "a": 0,
+   "r": {
+    "p": 152
+   }
+  },
+  {
+   "s": 5,
+   "q": "During synthesis, fungal hyphae grow around each algal cell and produce what on its surface?",
+   "c": [
+    "Appressoria",
+    "Haustoria that kill it",
+    "Soredia",
+    "Asci"
+   ],
+   "a": 0,
+   "r": {
+    "p": 153
+   }
+  },
+  {
+   "s": 6,
+   "q": "Lichens compete with which organism for the title of world's oldest living thing?",
+   "c": [
+    "Bristlecone pines",
+    "Giant sequoias",
+    "The humongous fungus",
+    "Coral reefs"
+   ],
+   "a": 0,
+   "r": {
+    "p": 153
+   }
+  },
+  {
+   "s": 6,
+   "q": "Which pollutant does Kendrick single out in acid rain over eastern North America?",
+   "c": [
+    "Sulphur dioxide (as sulphurous acid)",
+    "Carbon monoxide",
+    "Ozone",
+    "Lead"
+   ],
+   "a": 0,
+   "r": {
+    "p": 153
+   }
+  },
+  {
+   "s": 7,
+   "q": "Which groups may be evolving away from the lichen state?",
+   "c": [
+    "Nonlichenized members of the Ostropales and Arthoniales",
+    "The Peltigerales",
+    "All basidiolichens",
+    "The Lecanorales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 154
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "Lichens grow in exposed places but only where:",
+   "c": [
+    "The air is clean",
+    "The soil is rich",
+    "There is constant shade",
+    "Temperatures stay above freezing"
+   ],
+   "a": 0,
+   "r": {
+    "p": 145
+   }
+  },
+  {
+   "s": 0,
+   "q": "Almost all lichens are at least what percentage fungus?",
+   "c": [
+    "95%",
+    "50%",
+    "75%",
+    "10%"
+   ],
+   "a": 0,
+   "r": {
+    "p": 147
+   }
+  },
+  {
+   "s": 0,
+   "q": "In the lichen thallus, algal cells usually sit:",
+   "c": [
+    "Just below the upper cortex",
+    "In the lower cortex",
+    "Only in the apothecia",
+    "Outside the thallus"
+   ],
+   "a": 0,
+   "r": {
+    "p": 147
+   }
+  },
+  {
+   "s": 0,
+   "q": "What share of lichens contain cyanobacteria as photobionts?",
+   "c": [
+    "About 10%",
+    "About 80%",
+    "About 50%",
+    "None"
+   ],
+   "a": 0,
+   "r": {
+    "p": 147
+   }
+  },
+  {
+   "s": 0,
+   "q": "In lichens containing cyanobacteria, which carbohydrate moves to the fungus?",
+   "c": [
+    "Glucose",
+    "Ribitol",
+    "Erythritol",
+    "Sucrose"
+   ],
+   "a": 0,
+   "r": {
+    "p": 147
+   }
+  },
+  {
+   "s": 1,
+   "q": "*Caloplaca* is easily spotted by its:",
+   "c": [
+    "Brilliant orange apothecia on orange lobed thalli",
+    "Hanging grey strands",
+    "Pink apothecia on a blue-green crust",
+    "Black jelly"
+   ],
+   "a": 0,
+   "r": {
+    "p": 148
+   }
+  },
+  {
+   "s": 2,
+   "q": "In *Pertusaria*, ascospores are large, multinuclear, and often number only:",
+   "c": [
+    "1–4 per ascus",
+    "8 per ascus",
+    "16 per ascus",
+    "100 per ascus"
+   ],
+   "a": 0,
+   "r": {
+    "p": 150
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Cladonia coccifera* podetia may become single:",
+   "c": [
+    "Red apothecia",
+    "Blue pycnidia",
+    "White soredia",
+    "Black perithecia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 150
+   }
+  },
+  {
+   "s": 3,
+   "q": "Which order has crustose rock-inhabiting lichens with pseudothecial ascomata and bitunicate asci?",
+   "c": [
+    "Verrucariales",
+    "Lecanorales",
+    "Peltigerales",
+    "Teloschistales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 151
+   }
+  },
+  {
+   "s": 5,
+   "q": "*Trentepohlia* leaks which carbohydrate to its fungal partner?",
+   "c": [
+    "Erythritol",
+    "Ribitol",
+    "Glucose",
+    "Mannitol"
+   ],
+   "a": 0,
+   "r": {
+    "p": 153
+   }
+  }
+ ]
+}

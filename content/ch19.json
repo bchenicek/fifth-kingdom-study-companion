@@ -1,0 +1,82 @@
+{
+  "n": 19,
+  "title": "Fungi in Food Processing",
+  "pages": [359, 364],
+  "sections": [
+    {
+      "title": "Bread and Beer",
+      "pages": [359, 360],
+      "questions": [
+        {"q": "Bread rises because yeast:", "c": ["Ferments sugars, releasing CO₂ bubbles trapped in the dough", "Produces steam", "Digests gluten", "Releases oxygen"], "a": 0, "r": {"p": 359}},
+        {"q": "The alcoholic fermentation of glucose involves about how many enzymes?", "c": ["Twenty-two", "Two", "Six", "Over a hundred"], "a": 0, "r": {"p": 359}},
+        {"q": "Why doesn't bread contain alcohol?", "c": ["It evaporates during baking", "Bread yeast makes none", "Flour blocks it", "It turns into sugar"], "a": 0, "r": {"p": 359}},
+        {"q": "In malting, starch in barley is converted to sugar by:", "c": ["The barley's own amylase", "Yeast enzymes", "*Aspergillus*", "Added acid"], "a": 0, "r": {"p": 359}},
+        {"q": "Lager is produced by which yeast?", "c": ["*Saccharomyces carlsbergensis*", "*Saccharomyces cerevisiae*", "*Saccharomyces rouxii*", "*Candida*"], "a": 0, "r": {"p": 359}}
+      ]
+    },
+    {
+      "title": "Wine",
+      "pages": [360, 361],
+      "questions": [
+        {"q": "The best wine is made only from varieties of:", "c": ["*Vitis vinifera*", "*Vitis labrusca*", "Any grape", "Wild grapes"], "a": 0, "r": {"p": 360}},
+        {"q": "Red Burgundies are made from which grape?", "c": ["Pinot Noir", "Cabernet Sauvignon", "Gamay", "Grenache"], "a": 0, "r": {"p": 360}},
+        {"q": "Why do some regions have 'vintage years'?", "c": ["Less reliable summers mean grapes don't always get sweet enough", "Older vines make better wine", "Some years have more yeast", "Laws change"], "a": 0, "r": {"p": 360}},
+        {"q": "Who put wine fermentation on a scientific footing in 1866?", "c": ["Louis Pasteur", "Robert Koch", "Professor Millardet", "Rev. M. J. Berkeley"], "a": 0, "r": {"p": 361}},
+        {"q": "Modern winemakers suppress wild yeasts with:", "c": ["Sulphur dioxide", "Copper sulphate", "Heat", "Salt"], "a": 0, "r": {"p": 361}},
+        {"q": "Fermentation is kept relatively cool to boost:", "c": ["Esters and other aromatic compounds", "Alcohol content", "Sweetness", "Tannins"], "a": 0, "r": {"p": 361}},
+        {"q": "The 'noble rot' that makes the best Sauternes and Tokay is caused by:", "c": ["*Botrytis cinerea*", "*Penicillium roquefortii*", "*Aspergillus oryzae*", "*Acetobacter*"], "a": 0, "r": {"p": 361}},
+        {"q": "Ontario Eiswein is made from grapes that have:", "c": ["Frozen on the vine and been pressed while frozen", "Rotted with *Botrytis*", "Been sun-dried", "Been fortified with brandy"], "a": 0, "r": {"p": 361}}
+      ]
+    },
+    {
+      "title": "Spirits and Cheeses",
+      "pages": [361, 362],
+      "questions": [
+        {"q": "Bourbon is distilled from fermented:", "c": ["Corn", "Barley", "Rye", "Grapes"], "a": 0, "r": {"p": 361}},
+        {"q": "*Cyttaria harioti* is fermented by the Araucans of Chile into a drink called:", "c": ["Chicha del llau-llau", "Pulque", "Sake", "Kumis"], "a": 0, "r": {"p": 362}},
+        {"q": "Camembert and Brie are ripened by:", "c": ["*Penicillium camembertii* or *P. caseiolum*", "*Penicillium roquefortii*", "*Aspergillus oryzae*", "Lactobacilli only"], "a": 0, "r": {"p": 362}},
+        {"q": "What gives Camembert its smooth, buttery consistency?", "c": ["Mould proteases diffusing inward and digesting milk proteins", "Added cream", "High salt", "Bacteria producing gas"], "a": 0, "r": {"p": 362}},
+        {"q": "*Penicillium roquefortii* can grow throughout blue cheese curd because it tolerates:", "c": ["High CO₂ and low oxygen", "High salt only", "High temperature", "Strong light"], "a": 0, "r": {"p": 362}},
+        {"q": "The pungent flavour of blue cheese comes largely from methyl ketones such as:", "c": ["2-heptanone", "Ethanol", "Lactic acid", "Ergosterol"], "a": 0, "r": {"p": 362}}
+      ]
+    },
+    {
+      "title": "Fungus-Fermented Foods of the Far East",
+      "pages": [362, 363],
+      "questions": [
+        {"q": "Annual consumption of shoyu (soy sauce) in Japan is nearly:", "c": ["15 litres per person", "1.5 litres per person", "150 litres per person", "500 mL per person"], "a": 0, "r": {"p": 362}},
+        {"q": "Shoyu is made by inoculating soybeans and wheat with:", "c": ["*Aspergillus oryzae*", "*Rhizopus oligosporus*", "*Penicillium*", "*Neurospora*"], "a": 0, "r": {"p": 362}},
+        {"q": "Ket-jap, the Indonesian soy sauce, is made from black soybeans and is notably:", "c": ["Sweet and syrupy", "Very salty and thin", "Spicy", "Fizzy"], "a": 0, "r": {"p": 363}},
+        {"q": "The rice starter for miso, inoculated with *Aspergillus oryzae*, is called:", "c": ["Koji", "Tempeh", "Sufu", "Hamanatto"], "a": 0, "r": {"p": 363}},
+        {"q": "Tempeh is made by inoculating cooked soybeans with:", "c": ["*Rhizopus oligosporus*", "*Aspergillus oryzae*", "*Actinomucor elegans*", "*Neurospora sitophila*"], "a": 0, "r": {"p": 363}},
+        {"q": "Ont-jom is made from peanut press cake using conidia of the *Chrysonilia* anamorph of:", "c": ["*Neurospora sitophila*", "*Aspergillus glaucus*", "*Rhizopus*", "*Saccharomyces*"], "a": 0, "r": {"p": 363}},
+        {"q": "Katsuobushi is fermented bonito fish, made with *Aspergillus glaucus*.", "c": ["True", "False"], "a": 0, "r": {"p": 363}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Kendrick says that without fungi, French bread would be:", "c": ["Matzoh", "Cake", "Crackers", "Porridge"], "a": 0, "r": {"p": 359}},
+    {"s": 0, "q": "Ale is produced by which yeast?", "c": ["*Saccharomyces cerevisiae*", "*Saccharomyces carlsbergensis*", "*Candida*", "*Rhodotorula*"], "a": 0, "r": {"p": 359}},
+    {"s": 1, "q": "Why were *Vitis labrusca* grapes used in New York and Ontario, despite poor wine?", "c": ["They are hardier and more pest- and disease-resistant", "They are sweeter", "They are cheaper to press", "They need no yeast"], "a": 0, "r": {"p": 360}},
+    {"s": 1, "q": "Beaujolais is made from which grape and should be drunk young?", "c": ["Gamay", "Pinot Noir", "Cabernet Sauvignon", "Chardonnay"], "a": 0, "r": {"p": 360}},
+    {"s": 1, "q": "The finest Burgundies grow in soil that is:", "c": ["Limestone-based and very well drained", "Rich black loam", "Clay", "Volcanic ash"], "a": 0, "r": {"p": 360}},
+    {"s": 1, "q": "The yeast early winemakers hoped would dominate was:", "c": ["*Saccharomyces cerevisiae* var. *ellipsoideus*", "*Saccharomyces carlsbergensis*", "*Kloeckera*", "*Acetobacter*"], "a": 0, "r": {"p": 360}},
+    {"s": 1, "q": "Fortified wines like port and sherry have about what alcohol content?", "c": ["20%", "10%", "40%", "5%"], "a": 0, "r": {"p": 361}},
+    {"s": 1, "q": "Storing wine in oak casks imparts more:", "c": ["Tannin (firmness)", "Sugar", "Alcohol", "Colour only"], "a": 0, "r": {"p": 361}},
+    {"s": 2, "q": "In Scotch whisky, extra character comes from peat smoke and:", "c": ["Ageing in wood", "Added sugar", "*Botrytis*", "Blue mould"], "a": 0, "r": {"p": 362}},
+    {"s": 2, "q": "There are more than how many different cheeses?", "c": ["500", "50", "5,000", "100"], "a": 0, "r": {"p": 362}},
+    {"s": 2, "q": "*Penicillium roquefortii* can produce a dangerous mycotoxin, but not during cheesemaking. It is:", "c": ["PR toxin", "Aflatoxin", "Patulin", "Ochratoxin"], "a": 0, "r": {"p": 362}},
+    {"s": 3, "q": "Sufu, a Chinese soybean cheese, is made with:", "c": ["*Actinomucor elegans*", "*Rhizopus oligosporus*", "*Aspergillus oryzae*", "*Penicillium camembertii*"], "a": 0, "r": {"p": 363}},
+    {"s": 3, "q": "Which miso ingredient is inoculated with the yeast *Saccharomyces rouxii*?", "c": ["The steamed soybeans", "The rice koji", "The barley", "The brine"], "a": 0, "r": {"p": 363}}
+  ],
+  "review": [
+    {"s": 0, "q": "Kendrick, though born in Britain, says his beer preference is for:", "c": ["German beer", "British best bitter", "Belgian ale", "Japanese lager"], "a": 0, "r": {"p": 359}},
+    {"s": 1, "q": "Red Bordeaux is made mainly from which grape?", "c": ["Cabernet Sauvignon", "Pinot Noir", "Gamay", "Riesling"], "a": 0, "r": {"p": 360}},
+    {"s": 1, "q": "Hot sunny climates like Australia and South Africa produce grapes with lots of sugar but:", "c": ["Relatively low acidity", "High acidity", "No flavour", "Too much tannin"], "a": 0, "r": {"p": 360}},
+    {"s": 1, "q": "Which bacterium sometimes ruined early wines completely?", "c": ["*Acetobacter*", "*Lactobacillus*", "*E. coli*", "*Bacillus subtilis*"], "a": 0, "r": {"p": 360}},
+    {"s": 1, "q": "Ontario Eiswein is made from which grape?", "c": ["Vidal", "Riesling", "Chardonnay", "Concord"], "a": 0, "r": {"p": 361}},
+    {"s": 2, "q": "The flavour of Camembert and Brie is mild and probably comes largely from:", "c": ["Lactobacilli", "The *Penicillium* mould", "Added herbs", "Yeasts"], "a": 0, "r": {"p": 362}},
+    {"s": 2, "q": "The blue-green colour of blue-cheese veins is due to:", "c": ["Innumerable conidia", "Copper", "Added dye", "Oxidized fat"], "a": 0, "r": {"p": 362}},
+    {"s": 3, "q": "Hamanatto, a Japanese soybean product, is aged with ginger in brine for about:", "c": ["Six months", "Six days", "Six years", "Six hours"], "a": 0, "r": {"p": 363}}
+  ]
+}

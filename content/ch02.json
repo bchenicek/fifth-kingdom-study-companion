@@ -1,0 +1,1287 @@
+{
+ "n": 2,
+ "title": "A Mixed Bag: Slime Moulds, Pseudofungi, and the Flagellate True Fungi",
+ "pages": [
+  16,
+  37
+ ],
+ "sections": [
+  {
+   "title": "Protozoan ‘Pseudofungi’: The So-Called Slime Moulds",
+   "pages": [
+    16,
+    20
+   ],
+   "questions": [
+    {
+     "q": "Which feature shows that the slime moulds are not true fungi?",
+     "c": [
+      "None of the four groups ever produces hyphae, and their assimilative plasmodia lack cell walls",
+      "They all have chitinous walls",
+      "They are all photosynthetic",
+      "They reproduce only by budding"
+     ],
+     "a": 0,
+     "r": {
+      "p": 16
+     }
+    },
+    {
+     "q": "Which slime mould phylum are you most likely to find when looking for fungi in autumn?",
+     "c": [
+      "Myxostelida",
+      "Dictyostelida",
+      "Labyrinthulida",
+      "Plasmodiophorida"
+     ],
+     "a": 0,
+     "r": {
+      "p": 17,
+      "h": "Phylum Myxostelida"
+     }
+    },
+    {
+     "q": "How does a myxostelid plasmodium feed?",
+     "c": [
+      "By engulfing (ingesting) bacteria and other food particles",
+      "By absorbing dissolved nutrients through a chitin wall",
+      "By photosynthesis",
+      "By parasitizing root hairs"
+     ],
+     "a": 0,
+     "r": {
+      "p": 17,
+      "h": "Phylum Myxostelida"
+     }
+    },
+    {
+     "q": "The nuclei of the myxostelid plasmodium are haploid.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 17,
+      "h": "Phylum Myxostelida"
+     }
+    },
+    {
+     "q": "What substance causes *Dictyostelium* amoebae to stream together?",
+     "c": [
+      "Cyclic AMP (cAMP)",
+      "Chitin",
+      "Pectinase",
+      "Cellulose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 18,
+      "h": "Phylum Dictyostelida"
+     }
+    },
+    {
+     "q": "How does a dictyostelid 'slug' (pseudoplasmodium) differ from a true plasmodium?",
+     "c": [
+      "Each amoeba keeps its own cell membrane",
+      "It has a chitinous wall",
+      "Its nuclei are all diploid",
+      "It photosynthesizes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 18,
+      "h": "Phylum Dictyostelida"
+     }
+    },
+    {
+     "q": "What is the stalked fruiting structure of *Dictyostelium* called?",
+     "c": [
+      "Sorocarp",
+      "Sporangium",
+      "Oogonium",
+      "Ascoma"
+     ],
+     "a": 0,
+     "r": {
+      "p": 18,
+      "h": "Phylum Dictyostelida"
+     }
+    },
+    {
+     "q": "*Labyrinthula* causes a wasting disease of which plant?",
+     "c": [
+      "Eel grass (*Zostera*)",
+      "Cabbage",
+      "Potato",
+      "Grape"
+     ],
+     "a": 0,
+     "r": {
+      "p": 19,
+      "h": "Phylum Labyrinthulida"
+     }
+    },
+    {
+     "q": "*Plasmodiophora brassicae* causes which disease of cabbage?",
+     "c": [
+      "Club root",
+      "White rust",
+      "Damping-off",
+      "Wart disease"
+     ],
+     "a": 0,
+     "r": {
+      "p": 19,
+      "h": "Phylum Plasmodiophorida"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Kingdom Chromista: Phylum Hyphochytriomycota",
+   "pages": [
+    20,
+    22
+   ],
+   "questions": [
+    {
+     "q": "Where is the flagellum attached on a hyphochytriomycete zoospore?",
+     "c": [
+      "At the front, pulling the cell like an oar",
+      "At the rear, pushing the cell",
+      "On the side, with two flagella",
+      "There are no flagella"
+     ],
+     "a": 0,
+     "r": {
+      "p": 20
+     }
+    },
+    {
+     "q": "What kind of flagellum do hyphochytriomycetes have?",
+     "c": [
+      "Tinsel flagellum, bearing mastigonemes (flimmers)",
+      "Smooth whiplash flagellum",
+      "One tinsel and one whiplash flagellum",
+      "Many short cilia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 21
+     }
+    },
+    {
+     "q": "Why do biologists put so much weight on the number and kind of flagella?",
+     "c": [
+      "It is an extremely conservative character that changes little over vast spans of time",
+      "It is easy to see with the naked eye",
+      "It determines a fungus's host range",
+      "It changes every generation, so it tracks recent evolution"
+     ],
+     "a": 0,
+     "r": {
+      "p": 21
+     }
+    },
+    {
+     "q": "*Hyphochytrium catenoides* may help in natural biological control by parasitizing the oospores of plant-pathogenic Oomycota.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 22
+     }
+    },
+    {
+     "q": "What does Kendrick say about sexual reproduction in hyphochytrids?",
+     "c": [
+      "No hyphochytrid has yet been seen to reproduce sexually",
+      "It is always oogamous",
+      "It is anisogamous, as in *Allomyces*",
+      "It happens only in pollen grains"
+     ],
+     "a": 0,
+     "r": {
+      "p": 22
+     }
+    }
+   ]
+  },
+  {
+   "title": "Kingdom Chromista: Phylum Oomycota",
+   "pages": [
+    23,
+    29
+   ],
+   "questions": [
+    {
+     "q": "Describe the flagella of an oomycete zoospore.",
+     "c": [
+      "Two flagella from the side of the cell: one tinsel (forward), one whiplash (backward)",
+      "One whiplash flagellum at the rear",
+      "One tinsel flagellum at the front",
+      "Many flagella at the rear"
+     ],
+     "a": 0,
+     "r": {
+      "p": 23
+     }
+    },
+    {
+     "q": "The nuclei in the assimilative hyphae of oomycetes are:",
+     "c": [
+      "Diploid",
+      "Haploid",
+      "Dikaryotic",
+      "Absent"
+     ],
+     "a": 0,
+     "r": {
+      "p": 23
+     }
+    },
+    {
+     "q": "Which feature gives the Oomycota their name?",
+     "c": [
+      "Oogamous sexual reproduction, with each zygote becoming a thick-walled oospore",
+      "Egg-shaped sporangia",
+      "Hyphae that look like eggs in chains",
+      "Spores that form inside animal eggs"
+     ],
+     "a": 0,
+     "r": {
+      "p": 23
+     }
+    },
+    {
+     "q": "Oogamy is unique to the Oomycota among fungi.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 23
+     }
+    },
+    {
+     "q": "*Saprolegnia parasitica* attacks:",
+     "c": [
+      "Fish and their eggs",
+      "Potato leaves",
+      "Grape vines",
+      "Cabbage roots"
+     ],
+     "a": 0,
+     "r": {
+      "p": 24,
+      "h": "Order Saprolegniales"
+     }
+    },
+    {
+     "q": "What advantage does encystment followed by re-germination give *Saprolegnia* zoospores?",
+     "c": [
+      "A second chance at finding food",
+      "Protection from fungicides",
+      "A way to become airborne",
+      "A switch from haploid to diploid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 25
+     }
+    },
+    {
+     "q": "Because the oomycete thallus is diploid, where must meiosis occur?",
+     "c": [
+      "Inside the gametangia",
+      "In the zoospores",
+      "In the oospore at germination",
+      "In the hyphal tips"
+     ],
+     "a": 0,
+     "r": {
+      "p": 25
+     }
+    },
+    {
+     "q": "Kendrick says the airborne sporangia of the Peronosporales are often wrongly called what?",
+     "c": [
+      "Conidia",
+      "Oospores",
+      "Zygospores",
+      "Chlamydospores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 25,
+      "h": "Order Peronosporales"
+     }
+    },
+    {
+     "q": "Damping-off of seedlings is caused by species of which genus?",
+     "c": [
+      "*Pythium*",
+      "*Phytophthora*",
+      "*Albugo*",
+      "*Plasmopara*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 25,
+      "h": "Damping-off disease of seedlings"
+     }
+    },
+    {
+     "q": "Which enzyme lets *Pythium* collapse seedlings by dissolving the middle lamella?",
+     "c": [
+      "Pectinase",
+      "Cellulase",
+      "Chitinase",
+      "Amylase"
+     ],
+     "a": 0,
+     "r": {
+      "p": 25,
+      "h": "Damping-off disease of seedlings"
+     }
+    },
+    {
+     "q": "Who correctly concluded that a fungus caused the Irish potato blight?",
+     "c": [
+      "The Reverend M. J. Berkeley",
+      "Joyce Longcore",
+      "C. G. Orpin",
+      "R. H. Whittaker"
+     ],
+     "a": 0,
+     "r": {
+      "p": 27,
+      "h": "Late blight of potato"
+     }
+    },
+    {
+     "q": "Downy mildew of grape (*Plasmopara viticola*) devastated European vines after being introduced from America in the 1870s.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 28,
+      "h": "Downy mildew of grape"
+     }
+    },
+    {
+     "q": "*Peronospora tabacina* causes:",
+     "c": [
+      "Blue mould of tobacco",
+      "White rust of crucifers",
+      "Late blight of potato",
+      "Wart disease of potato"
+     ],
+     "a": 0,
+     "r": {
+      "p": 28,
+      "h": "Blue mould of tobacco"
+     }
+    },
+    {
+     "q": "*Albugo candida* causes white rust on members of which plant family?",
+     "c": [
+      "Brassicaceae (crucifers)",
+      "Solanaceae (potatoes)",
+      "Vitaceae (grapes)",
+      "Poaceae (grasses)"
+     ],
+     "a": 0,
+     "r": {
+      "p": 28,
+      "h": "White rust disease of crucifers"
+     }
+    }
+   ]
+  },
+  {
+   "title": "True Fungi—Kingdom Eumycota: Flagella",
+   "pages": [
+    30,
+    31
+   ],
+   "questions": [
+    {
+     "q": "Which three flagellate phyla belong to kingdom Eumycota?",
+     "c": [
+      "Chytridiomycota, Blastocladiomycota, Neocallimastigomycota",
+      "Hyphochytriomycota, Oomycota, Chytridiomycota",
+      "Oomycota, Blastocladiomycota, Zygomycota",
+      "Microsporidia, Chytridiomycota, Glomeromycota"
+     ],
+     "a": 0,
+     "r": {
+      "p": 30
+     }
+    },
+    {
+     "q": "What is the internal arrangement of microtubules in a eukaryotic flagellum?",
+     "c": [
+      "9 + 2",
+      "9 + 0",
+      "13 + 2",
+      "6 + 1"
+     ],
+     "a": 0,
+     "r": {
+      "p": 30
+     }
+    },
+    {
+     "q": "The protein that microtubules are built from is:",
+     "c": [
+      "Tubulin",
+      "Chitin",
+      "Actin",
+      "Keratin"
+     ],
+     "a": 0,
+     "r": {
+      "p": 30
+     }
+    },
+    {
+     "q": "Bacterial flagella have the same 9 + 2 structure as eukaryotic flagella.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 31
+     }
+    },
+    {
+     "q": "Flagella let a cell swim up a chemical gradient. What does that mean?",
+     "c": [
+      "Move from lower to higher concentration of a substance",
+      "Move from higher to lower concentration",
+      "Move toward light",
+      "Move against gravity"
+     ],
+     "a": 0,
+     "r": {
+      "p": 30
+     }
+    }
+   ]
+  },
+  {
+   "title": "Phylum 1: Chytridiomycota (including The Frog Problem)",
+   "pages": [
+    31,
+    34
+   ],
+   "questions": [
+    {
+     "q": "Most chytrid zoospores have:",
+     "c": [
+      "A single, backwardly directed whiplash flagellum",
+      "Two flagella from the side",
+      "A single anterior tinsel flagellum",
+      "No flagella"
+     ],
+     "a": 0,
+     "r": {
+      "p": 31
+     }
+    },
+    {
+     "q": "Chytridiales and Spizellomycetales are now separated mainly by:",
+     "c": [
+      "Zoospore ultrastructure",
+      "Thallus shape under the light microscope",
+      "Host range",
+      "Spore colour"
+     ],
+     "a": 0,
+     "r": {
+      "p": 31
+     }
+    },
+    {
+     "q": "A thallus that is entirely converted into a single sporangium is called:",
+     "c": [
+      "Holocarpic",
+      "Eucarpic",
+      "Polycentric",
+      "Rhizomycelial"
+     ],
+     "a": 0,
+     "r": {
+      "p": 31
+     }
+    },
+    {
+     "q": "How do rhizomycelia differ from rhizoids?",
+     "c": [
+      "Rhizomycelia contain nuclei and can be much more extensive",
+      "Rhizomycelia lack nuclei and are under 1 mm long",
+      "Rhizomycelia are always holocarpic",
+      "Rhizomycelia are made of cellulose"
+     ],
+     "a": 0,
+     "r": {
+      "p": 31
+     }
+    },
+    {
+     "q": "*Synchytrium endobioticum* causes which disease?",
+     "c": [
+      "Wart disease of potato",
+      "Late blight of potato",
+      "Club root of cabbage",
+      "Downy mildew of grape"
+     ],
+     "a": 0,
+     "r": {
+      "p": 32
+     }
+    },
+    {
+     "q": "The chytrid killing frogs was placed in which new genus?",
+     "c": [
+      "*Batrachochytrium*",
+      "*Spizellomyces*",
+      "*Cladochytrium*",
+      "*Neocallimastix*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 32,
+      "h": "The Frog Problem"
+     }
+    },
+    {
+     "q": "How is the frog chytrid thought to harm frogs?",
+     "c": [
+      "It thickens the skin, which may interfere with respiration through the skin",
+      "It blocks the lungs with sporangia",
+      "It destroys the eggs before hatching",
+      "It produces a nerve toxin"
+     ],
+     "a": 0,
+     "r": {
+      "p": 32,
+      "h": "The Frog Problem"
+     }
+    },
+    {
+     "q": "Which explanation does Kendrick raise for frogs suddenly succumbing?",
+     "c": [
+      "Immune systems weakened by environmental changes such as increased UV light",
+      "A new mutation making the chytrid airborne",
+      "Overcollection of frogs for food",
+      "Competition with Oomycota"
+     ],
+     "a": 0,
+     "r": {
+      "p": 32,
+      "h": "The Frog Problem"
+     }
+    },
+    {
+     "q": "In *Monoblepharis polymorpha*, sexual reproduction is:",
+     "c": [
+      "Oogamous: a motile sperm and a non-motile egg",
+      "Isogamous with identical gametes",
+      "Absent",
+      "Anisogamous with two motile gametes"
+     ],
+     "a": 0,
+     "r": {
+      "p": 33,
+      "h": "Order Monoblepharidales"
+     }
+    },
+    {
+     "q": "Kendrick notes that *Rozella* may be the earliest-diverging fungal lineage, possibly belonging to the Cryptomycota.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 34
+     }
+    }
+   ]
+  },
+  {
+   "title": "Phylum 2: Blastocladiomycota",
+   "pages": [
+    34,
+    35
+   ],
+   "questions": [
+    {
+     "q": "*Allomyces arbusculus* shows a rotation between which two kinds of thalli?",
+     "c": [
+      "Haploid and diploid",
+      "Dikaryotic and diploid",
+      "Male and female diploid",
+      "Aquatic and terrestrial haploid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 34
+     }
+    },
+    {
+     "q": "*Allomyces* gametes come in two sizes. This condition is called:",
+     "c": [
+      "Anisogamy",
+      "Oogamy",
+      "Isogamy",
+      "Heterothallism"
+     ],
+     "a": 0,
+     "r": {
+      "p": 34
+     }
+    },
+    {
+     "q": "On the haploid thallus of *Allomyces arbusculus*, which gametangia are orange?",
+     "c": [
+      "The male gametangia, just below the female ones",
+      "The female gametangia at the hyphal tips",
+      "Both kinds",
+      "Neither; both are colourless"
+     ],
+     "a": 0,
+     "r": {
+      "p": 34
+     }
+    },
+    {
+     "q": "Thick-walled resistant sporangia of *Allomyces* can survive for up to thirty years before undergoing meiosis.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 35
+     }
+    },
+    {
+     "q": "Some species of *Coelomomyces* are obligate parasites of:",
+     "c": [
+      "Mosquito larvae",
+      "Frogs",
+      "Fish eggs",
+      "Potato tubers"
+     ],
+     "a": 0,
+     "r": {
+      "p": 35
+     }
+    }
+   ]
+  },
+  {
+   "title": "Phylum 3: Neocallimastigomycota",
+   "pages": [
+    36,
+    36
+   ],
+   "questions": [
+    {
+     "q": "Where did Orpin discover *Neocallimastix* and its relatives in 1975?",
+     "c": [
+      "In the rumens of large herbivorous mammals",
+      "In acidic peat bogs",
+      "On frog skin",
+      "In deep-ocean sediments"
+     ],
+     "a": 0,
+     "r": {
+      "p": 36
+     }
+    },
+    {
+     "q": "Which statement about these rumen fungi is correct?",
+     "c": [
+      "They are obligately anaerobic and lack mitochondria",
+      "They are aerobic and photosynthetic",
+      "They have tinsel flagella",
+      "They lack any flagellate stage"
+     ],
+     "a": 0,
+     "r": {
+      "p": 36
+     }
+    },
+    {
+     "q": "Their cellulose-degrading enzymes are more effective than those of the mould *Trichoderma*.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 36
+     }
+    },
+    {
+     "q": "Their zoospores are often:",
+     "c": [
+      "Multiflagellate",
+      "Biflagellate with a tinsel flagellum",
+      "Non-motile",
+      "Amoeboid"
+     ],
+     "a": 0,
+     "r": {
+      "p": 36
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "Germinating myxostelid spores release cells that can act as gametes. What are these cells like?",
+   "c": [
+    "Amoeboid or biflagellate",
+    "Always non-motile",
+    "Uniflagellate with a tinsel flagellum",
+    "Multinucleate plasmodia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 17
+   }
+  },
+  {
+   "s": 0,
+   "q": "Why has *Dictyostelium* been popular with experimental biologists?",
+   "c": [
+    "It is a simple system for studying differentiation",
+    "It produces antibiotics",
+    "It is a major crop pathogen",
+    "It forms mycorrhizas"
+   ],
+   "a": 0,
+   "r": {
+    "p": 18
+   }
+  },
+  {
+   "s": 0,
+   "q": "The naked cells of a *Labyrinthula* colony move within:",
+   "c": [
+    "A network of tubular polysaccharide sheaths they secrete",
+    "Chitinous hyphae",
+    "Host root hairs",
+    "A cellulose stalk"
+   ],
+   "a": 0,
+   "r": {
+    "p": 19
+   }
+  },
+  {
+   "s": 0,
+   "q": "How does *Plasmodiophora brassicae* persist in soil for many years?",
+   "c": [
+    "As uninucleate resting cysts (spores)",
+    "As free-living plasmodia",
+    "As biflagellate zoospores",
+    "As oospores"
+   ],
+   "a": 0,
+   "r": {
+    "p": 19
+   }
+  },
+  {
+   "s": 1,
+   "q": "Hyphochytriomycota resemble Chytridiomycota in several ways. Which shared feature does Kendrick list?",
+   "c": [
+    "Both can be holocarpic or eucarpic and release uniflagellate zoospores",
+    "Both have diploid hyphae",
+    "Both have cellulose walls",
+    "Both are oogamous"
+   ],
+   "a": 0,
+   "r": {
+    "p": 20
+   }
+  },
+  {
+   "s": 1,
+   "q": "Hyphochytrids, like some chytrids, can be 'baited' from soil in the laboratory using:",
+   "c": [
+    "Pollen",
+    "Hemp seeds",
+    "Rolled oats",
+    "Cabbage roots"
+   ],
+   "a": 0,
+   "r": {
+    "p": 22
+   }
+  },
+  {
+   "s": 2,
+   "q": "Oomycete hyphal walls usually contain:",
+   "c": [
+    "A cellulose-like material",
+    "Only chitin",
+    "Silica",
+    "No wall at all"
+   ],
+   "a": 0,
+   "r": {
+    "p": 23
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Saprolegnia* and *Achlya* species that form antheridia and oogonia on the same mycelium are called:",
+   "c": [
+    "Homothallic",
+    "Heterothallic",
+    "Anisogamous",
+    "Holocarpic"
+   ],
+   "a": 0,
+   "r": {
+    "p": 25
+   }
+  },
+  {
+   "s": 2,
+   "q": "Two factors make Peronosporales epidemics possible. One is airborne sporangia; what is the other?",
+   "c": [
+    "Our dense monoculture crops",
+    "Insect vectors",
+    "Contaminated irrigation water",
+    "Fungicide resistance"
+   ],
+   "a": 0,
+   "r": {
+    "p": 25
+   }
+  },
+  {
+   "s": 2,
+   "q": "How did the population of Ireland change in the decade after the first potato blight epidemic?",
+   "c": [
+    "It fell from about 8 million to 4 million",
+    "It fell from about 4 million to 2 million",
+    "It fell by about 10%",
+    "It was unchanged because of emigration to Ireland"
+   ],
+   "a": 0,
+   "r": {
+    "p": 27
+   }
+  },
+  {
+   "s": 2,
+   "q": "Why did potato late blight resurge after 1976?",
+   "c": [
+    "The second mating type was imported, giving rise to sexual populations",
+    "Fungicides were banned",
+    "A new host, tomato, was introduced",
+    "Resistant potatoes lost their resistance"
+   ],
+   "a": 0,
+   "r": {
+    "p": 27
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Phytophthora cinnamomi* is destroying the Jarrah forest in which region?",
+   "c": [
+    "Western Australia",
+    "West Africa",
+    "Britain",
+    "Ontario"
+   ],
+   "a": 0,
+   "r": {
+    "p": 27
+   }
+  },
+  {
+   "s": 2,
+   "q": "Which fungicide, invented by a university professor, saved the French vineyards from downy mildew?",
+   "c": [
+    "Bordeaux Mixture",
+    "Benomyl",
+    "Zineb",
+    "No Damp Off"
+   ],
+   "a": 0,
+   "r": {
+    "p": 28
+   }
+  },
+  {
+   "s": 2,
+   "q": "Kendrick's hint about the most vulnerable stage of *Plasmopara* to chemical attack begins with 'z'. Which stage is it?",
+   "c": [
+    "Zoospore",
+    "Zygote",
+    "Zygospore",
+    "Zone of elongation"
+   ],
+   "a": 0,
+   "r": {
+    "p": 28
+   }
+  },
+  {
+   "s": 2,
+   "q": "Each *Albugo* sporangium germinates to release how many biflagellate zoospores?",
+   "c": [
+    "Eight",
+    "Two",
+    "Four",
+    "Sixteen"
+   ],
+   "a": 0,
+   "r": {
+    "p": 29
+   }
+  },
+  {
+   "s": 3,
+   "q": "Of the five flagellate 'fungal' phyla, which two are chromistan, related to the brown algae?",
+   "c": [
+    "Hyphochytriomycota and Oomycota",
+    "Chytridiomycota and Blastocladiomycota",
+    "Oomycota and Neocallimastigomycota",
+    "Hyphochytriomycota and Chytridiomycota"
+   ],
+   "a": 0,
+   "r": {
+    "p": 30
+   }
+  },
+  {
+   "s": 3,
+   "q": "Tubulin subunits in a microtubule are arranged in how many vertical stacks?",
+   "c": [
+    "Thirteen",
+    "Nine",
+    "Two",
+    "Eleven"
+   ],
+   "a": 0,
+   "r": {
+    "p": 30
+   }
+  },
+  {
+   "s": 4,
+   "q": "Which chytrid is described as polycentric and saprobic on decaying aquatic vegetation?",
+   "c": [
+    "*Cladochytrium*",
+    "*Olpidium brassicae*",
+    "*Spizellomyces punctatus*",
+    "*Synchytrium endobioticum*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 31
+   }
+  },
+  {
+   "s": 4,
+   "q": "Chytrids that parasitize algae can cause epidemics that temporarily reduce primary production in lakes.",
+   "c": [
+    "True",
+    "False"
+   ],
+   "a": 0,
+   "r": {
+    "p": 32
+   }
+  },
+  {
+   "s": 4,
+   "q": "Why does Kendrick say sexual reproduction in chytrids should be re-examined?",
+   "c": [
+    "Some biflagellate zoospores and many resting spores turn out to be asexual",
+    "No chytrid has ever been seen to reproduce sexually",
+    "All chytrids turned out to be oogamous",
+    "Electron microscopy showed their gametes are amoeboid"
+   ],
+   "a": 0,
+   "r": {
+    "p": 32
+   }
+  },
+  {
+   "s": 4,
+   "q": "In *Monoblepharis*, sperm is often released before the adjacent oogonium is ripe. What might this achieve?",
+   "c": [
+    "It avoids self-fertilization and favours outbreeding",
+    "It ensures self-fertilization",
+    "It lets the egg swim away",
+    "It triggers meiosis in the sperm"
+   ],
+   "a": 0,
+   "r": {
+    "p": 34
+   }
+  },
+  {
+   "s": 4,
+   "q": "The parasitic chytrid *Olpidium* appears to be most closely related to which phylum?",
+   "c": [
+    "Zygomycota",
+    "Oomycota",
+    "Basidiomycota",
+    "Microsporidia"
+   ],
+   "a": 0,
+   "r": {
+    "p": 34
+   }
+  },
+  {
+   "s": 5,
+   "q": "In *Allomyces*, thin-walled sporangia on diploid thalli produce:",
+   "c": [
+    "Diploid uniflagellate zoospores",
+    "Haploid meiospores",
+    "Gametes of two sizes",
+    "Oospores"
+   ],
+   "a": 0,
+   "r": {
+    "p": 35
+   }
+  },
+  {
+   "s": 6,
+   "q": "In which order are the rumen fungi now classified?",
+   "c": [
+    "Callimastigales",
+    "Monoblepharidales",
+    "Blastocladiales",
+    "Spizellomycetales"
+   ],
+   "a": 0,
+   "r": {
+    "p": 36
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "What do the four slime mould groups all lack?",
+   "c": [
+    "Hyphae",
+    "Nuclei",
+    "A feeding stage",
+    "Spores"
+   ],
+   "a": 0,
+   "r": {
+    "p": 16
+   }
+  },
+  {
+   "s": 0,
+   "q": "You can keep myxostelid plasmodia as pets, feeding them on:",
+   "c": [
+    "Rolled oats",
+    "Sugar water",
+    "Raw meat",
+    "Pollen"
+   ],
+   "a": 0,
+   "r": {
+    "p": 17
+   }
+  },
+  {
+   "s": 0,
+   "q": "Myxostelid spore formation involves meiosis, so the released spores are:",
+   "c": [
+    "Haploid",
+    "Diploid",
+    "Dikaryotic",
+    "Polyploid"
+   ],
+   "a": 0,
+   "r": {
+    "p": 17
+   }
+  },
+  {
+   "s": 0,
+   "q": "The stalk of a *Dictyostelium* sorocarp is made of:",
+   "c": [
+    "Cellulose",
+    "Chitin",
+    "Keratin",
+    "Protein only"
+   ],
+   "a": 0,
+   "r": {
+    "p": 18
+   }
+  },
+  {
+   "s": 0,
+   "q": "*Plasmodiophora brassicae* primary zoospores first penetrate which part of the cabbage?",
+   "c": [
+    "A root hair",
+    "A leaf stomate",
+    "The flower",
+    "The stem epidermis"
+   ],
+   "a": 0,
+   "r": {
+    "p": 19
+   }
+  },
+  {
+   "s": 2,
+   "q": "Kendrick saw a whitish oomycete fur coat on dead salmon in which river?",
+   "c": [
+    "The Adams River",
+    "The Fraser River",
+    "The Columbia River",
+    "The St. Lawrence River"
+   ],
+   "a": 0,
+   "r": {
+    "p": 23
+   }
+  },
+  {
+   "s": 2,
+   "q": "How many eggs does a Peronosporales oogonium contain?",
+   "c": [
+    "A single egg",
+    "Several eggs",
+    "Eight eggs",
+    "None"
+   ],
+   "a": 0,
+   "r": {
+    "p": 25
+   }
+  },
+  {
+   "s": 2,
+   "q": "At first, people blamed the Irish potato blight on excess water or even:",
+   "c": [
+    "Newly introduced steam locomotives",
+    "Witchcraft",
+    "Insects",
+    "Lightning"
+   ],
+   "a": 0,
+   "r": {
+    "p": 27
+   }
+  },
+  {
+   "s": 2,
+   "q": "Potato late blight now costs the United States about how much per year?",
+   "c": [
+    "$3 billion",
+    "$3 million",
+    "$300 million",
+    "$30 billion"
+   ],
+   "a": 0,
+   "r": {
+    "p": 27
+   }
+  },
+  {
+   "s": 2,
+   "q": "*Phytophthora megakarya* attacks which crop in West Africa?",
+   "c": [
+    "Cacao",
+    "Coffee",
+    "Soybean",
+    "Avocado"
+   ],
+   "a": 0,
+   "r": {
+    "p": 27
+   }
+  },
+  {
+   "s": 2,
+   "q": "In the 1979 Ontario blue mould epidemic, about what share of the tobacco crop was lost?",
+   "c": [
+    "About 30%",
+    "About 3%",
+    "About 90%",
+    "About 50%"
+   ],
+   "a": 0,
+   "r": {
+    "p": 28
+   }
+  },
+  {
+   "s": 3,
+   "q": "A flagellum's cross section looks essentially the same in fungi, *Paramecium*, mosses, and human sperm. What does Kendrick conclude?",
+   "c": [
+    "All eukaryotes really are related",
+    "Flagella evolved many times",
+    "Sperm are a kind of fungus",
+    "Flagella are bacterial in origin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 31
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Olpidium brassicae* has which kind of thallus?",
+   "c": [
+    "Holocarpic",
+    "Eucarpic",
+    "Polycentric",
+    "Rhizomycelial"
+   ],
+   "a": 0,
+   "r": {
+    "p": 31
+   }
+  },
+  {
+   "s": 4,
+   "q": "*Monoblepharis polymorpha* is typically found on submerged twigs in water that is:",
+   "c": [
+    "Slightly alkaline",
+    "Strongly acidic",
+    "Salty",
+    "Hot"
+   ],
+   "a": 0,
+   "r": {
+    "p": 33
+   }
+  }
+ ]
+}

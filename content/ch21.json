@@ -1,0 +1,162 @@
+{
+  "n": 21,
+  "title": "Mycotoxins in Food and Feed",
+  "pages": [372, 391],
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [372, 372],
+      "questions": [
+        {"q": "Mycotoxins are typically:", "c": ["Persistent, often heat-stable fungal metabolites toxic at low doses", "Proteins destroyed by cooking", "Bacterial toxins", "Harmless pigments"], "a": 0, "r": {"p": 372}},
+        {"q": "Food that looks perfectly edible may still contain invisible hyphae and their metabolites.", "c": ["True", "False"], "a": 0, "r": {"p": 372}},
+        {"q": "Well over how many mycotoxins are now known?", "c": ["200", "20", "2,000", "50"], "a": 0, "r": {"p": 372}},
+        {"q": "Most mycotoxin-producing moulds are:", "c": ["Hyphomycetous anamorphs of ascomycetes", "Mushrooms", "Oomycetes", "Rusts"], "a": 0, "r": {"p": 372}}
+      ]
+    },
+    {
+      "title": "Ergot Alkaloids and St. Anthony’s Fire",
+      "pages": [372, 374],
+      "questions": [
+        {"q": "Ergotism struck the Spartans during their war with Athens in:", "c": ["430 BCE", "430 CE", "1430", "1770"], "a": 0, "r": {"p": 372}},
+        {"q": "Why did pilgrims to St. Anthony's shrine often gain relief?", "c": ["They stopped eating ergot-contaminated bread while travelling", "Prayer cured them", "The monks gave them antidotes", "Walking healed gangrene"], "a": 0, "r": {"p": 374}},
+        {"q": "The ergot disease-producing alkaloids are clavine alkaloids and derivatives of:", "c": ["Lysergic acid", "Aflatoxin", "Trichothecane", "Coumarin"], "a": 0, "r": {"p": 373}},
+        {"q": "Gangrenous ergotism is caused by:", "c": ["Vasoconstriction cutting off circulation", "Bacterial infection", "Liver failure", "Nerve damage only"], "a": 0, "r": {"p": 373}},
+        {"q": "'Formication', a symptom of convulsive ergotism, means:", "c": ["Feeling as if ants crawl under the skin", "Producing foam", "Rapid breathing", "Excessive sleep"], "a": 0, "r": {"p": 373}},
+        {"q": "Who exposed the cause of ergotism as early as 1673?", "c": ["Dodart", "Pasteur", "Millardet", "Bassi"], "a": 0, "r": {"p": 373}},
+        {"q": "Ergotamine tartrate is used medically to manage:", "c": ["Migraine", "Diabetes", "Infection", "Asthma"], "a": 0, "r": {"p": 373}},
+        {"q": "Ergometrine has been used to induce labour and control bleeding after childbirth.", "c": ["True", "False"], "a": 0, "r": {"p": 373}}
+      ]
+    },
+    {
+      "title": "Aflatoxins—Toxins, Mutagens, Carcinogens",
+      "pages": [374, 377],
+      "questions": [
+        {"q": "The modern awareness of mycotoxins began in 1960 with:", "c": ["'Turkey X disease' in England", "St. Anthony's fire", "Yellow rain", "Facial eczema"], "a": 0, "r": {"p": 374}},
+        {"q": "The common factor in Turkey X outbreaks was feed containing:", "c": ["Brazilian peanut meal", "Mouldy corn", "Rye", "Fish meal"], "a": 0, "r": {"p": 374}},
+        {"q": "Aflatoxins are produced by:", "c": ["*Aspergillus flavus*", "*Fusarium graminearum*", "*Claviceps purpurea*", "*Penicillium roquefortii*"], "a": 0, "r": {"p": 374}},
+        {"q": "Under most conditions, the major aflatoxin produced is:", "c": ["Aflatoxin B₁", "Aflatoxin G₂", "Aflatoxin M₁", "Aflatoxin B₂"], "a": 0, "r": {"p": 374}},
+        {"q": "Cows eating aflatoxin-contaminated feed produce milk containing:", "c": ["Aflatoxin M₁", "Aflatoxin G₁", "Zearalenone", "Patulin"], "a": 0, "r": {"p": 375}},
+        {"q": "Chronic aflatoxin exposure is most strongly linked to cancer of the:", "c": ["Liver", "Lung", "Skin", "Oesophagus"], "a": 0, "r": {"p": 375}},
+        {"q": "Canada's allowable aflatoxin limit in finished products is now:", "c": ["15 ppb", "20 ppb", "10 ppb", "100 ppb"], "a": 0, "r": {"p": 375}},
+        {"q": "In Nigeria, aflatoxin in corn is reduced by broadcasting:", "c": ["A non-toxigenic strain of *A. flavus* that outcompetes toxic strains", "Fungicide from aircraft", "Lime", "Bacteria"], "a": 0, "r": {"p": 376}}
+      ]
+    },
+    {
+      "title": "Oesophageal Cancer, Fumonisins, and 'Hole in the Head' Disease",
+      "pages": [377, 378],
+      "questions": [
+        {"q": "In Lin Xian, China, oesophageal cancer once killed what share of the population?", "c": ["25%", "2.5%", "50%", "75%"], "a": 0, "r": {"p": 377}},
+        {"q": "Which soil deficiency caused crops in Lin Xian to accumulate nitrite?", "c": ["Molybdenum", "Iron", "Nitrogen", "Zinc"], "a": 0, "r": {"p": 377}},
+        {"q": "Lin Xian's poorest workers made steamed bread lasting three weeks and liked it when it was:", "c": ["Mouldy, for its spicy flavour", "Dry", "Sweet", "Fermented with yeast"], "a": 0, "r": {"p": 377}},
+        {"q": "Oesophageal cancer among the Xhosa of the Transkei is linked to fumonisins from:", "c": ["*Fusarium verticillioides*", "*Aspergillus flavus*", "*Penicillium*", "*Alternaria*"], "a": 0, "r": {"p": 378}},
+        {"q": "Equine leucoencephalomalacia ('hole in the head') causes:", "c": ["Brain necrosis where white matter disintegrates", "Holes in the hooves", "Liver failure", "Skin lesions on the head"], "a": 0, "r": {"p": 378}},
+        {"q": "Equine leucoencephalomalacia is caused by fumonisins in corn mouldy with *Fusarium verticillioides*.", "c": ["True", "False"], "a": 0, "r": {"p": 378}}
+      ]
+    },
+    {
+      "title": "The Trichothecenes",
+      "pages": [378, 381],
+      "questions": [
+        {"q": "Alimentary toxic aleukia (ATA) struck Siberia during and after World War II because people ate:", "c": ["Grain left in the field over winter", "Ergoty rye", "Mouldy peanuts", "Spoiled meat"], "a": 0, "r": {"p": 378}},
+        {"q": "ATA is provoked by which trichothecene?", "c": ["T-2 toxin", "Vomitoxin", "Satratoxin", "Zearalenone"], "a": 0, "r": {"p": 380}},
+        {"q": "Trichothecenes are chemically:", "c": ["Tetracyclic sesquiterpenoids", "Coumarins", "Cyclic peptides", "Steroids"], "a": 0, "r": {"p": 380}},
+        {"q": "Stachybotryotoxicosis killed horses in Ukraine in the 1930s through fodder contaminated by:", "c": ["*Stachybotrys chartarum*", "*Fusarium poae*", "*Claviceps*", "*Pithomyces*"], "a": 0, "r": {"p": 380, "h": "Trichothecenes and Stachybotryotoxicosis in Horses"}},
+        {"q": "Who owed early career success to recognizing that horses needed clean, dry fodder?", "c": ["Nikita Khrushchev", "Joseph Stalin", "Louis Pasteur", "Leon Trotsky"], "a": 0, "r": {"p": 380}},
+        {"q": "'Yellow rain' samples were later shown to be largely pollen, probably:", "c": ["Bee faeces", "Fusarium spores", "Volcanic ash", "Sulphur"], "a": 0, "r": {"p": 381, "h": "Trichothecenes and Yellow Rain"}},
+        {"q": "Deoxynivalenol is called vomitoxin because of its effect on:", "c": ["Pigs", "Horses", "Sheep", "Chickens"], "a": 0, "r": {"p": 381, "h": "Trichothecenes: Vomitoxin, Refusal, and Emesis in Pigs"}},
+        {"q": "Vomitoxin affects pigs at concentrations as low as:", "c": ["0.7 ppm", "70 ppm", "7 ppm", "0.007 ppm"], "a": 0, "r": {"p": 381}},
+        {"q": "After one wet season, Ontario winter wheat growers lost about how much from vomitoxin?", "c": ["$17 million", "$1.7 million", "$170 million", "$17,000"], "a": 0, "r": {"p": 381}}
+      ]
+    },
+    {
+      "title": "Zearalenone, Mouldy Sweet Potato, and Ochratoxin",
+      "pages": [381, 382],
+      "questions": [
+        {"q": "Zearalenone causes oestrogenic syndrome in young female pigs because it:", "c": ["Has many properties of oestrogen", "Destroys the liver", "Blocks testosterone", "Damages kidneys"], "a": 0, "r": {"p": 381}},
+        {"q": "Zearalenone is produced by:", "c": ["*Fusarium graminearum*", "*Aspergillus ochraceus*", "*Fusarium solani*", "*Stachybotrys*"], "a": 0, "r": {"p": 381}},
+        {"q": "In very low doses, zearalenone has been patented as a growth-promoting feed supplement for:", "c": ["Cattle and sheep (not pigs)", "Pigs only", "Chickens", "Horses"], "a": 0, "r": {"p": 382}},
+        {"q": "Mouldy sweet potato toxicosis in cattle affects only the:", "c": ["Lungs", "Liver", "Kidneys", "Brain"], "a": 0, "r": {"p": 382}},
+        {"q": "The sweet potato toxins arise from:", "c": ["*Fusarium solani* catabolizing the plant's phytoalexins", "The fungus alone", "The potato alone", "Bacteria"], "a": 0, "r": {"p": 382}},
+        {"q": "Ochratoxin A primarily damages the:", "c": ["Kidneys", "Liver", "Lungs", "Brain"], "a": 0, "r": {"p": 382}},
+        {"q": "Ochratoxin is linked to a fatal kidney condition among people living near which river?", "c": ["The Danube", "The Nile", "The Rhine", "The Volga"], "a": 0, "r": {"p": 382}}
+      ]
+    },
+    {
+      "title": "Facial Eczema, Lupinosis, and Slobber Factor",
+      "pages": [382, 383],
+      "questions": [
+        {"q": "Facial eczema of New Zealand sheep is caused by sporidesmin from:", "c": ["*Pithomyces chartarum*", "*Phomopsis*", "*Rhizoctonia*", "*Fusarium*"], "a": 0, "r": {"p": 383}},
+        {"q": "The 'eczema' symptom in facial eczema is actually caused by:", "c": ["Photosensitivity from phylloerythrin the damaged liver can't excrete", "Direct skin infection", "Sunburn alone", "Allergy to grass"], "a": 0, "r": {"p": 383}},
+        {"q": "Lupinosis of sheep is caused by phomopsin A from:", "c": ["*Phomopsis leptostromiformis*", "*Pithomyces chartarum*", "*Aspergillus*", "*Claviceps*"], "a": 0, "r": {"p": 383, "h": "Lupinosis of Sheep"}},
+        {"q": "Lupinosis mainly damages the:", "c": ["Liver", "Kidneys", "Lungs", "Brain"], "a": 0, "r": {"p": 383}},
+        {"q": "Cattle drooling and refusing food after eating red clover infected by *Rhizoctonia leguminicola* are affected by:", "c": ["Slaframine", "Patulin", "Penitrem A", "Sporidesmin"], "a": 0, "r": {"p": 383, "h": "Slaframine: Slobber Factor"}},
+        {"q": "How did U.S. Midwest farmers solve the slobber factor problem?", "c": ["They stopped sowing red clover as forage", "They sprayed fungicides", "They bred resistant clover", "They vaccinated cattle"], "a": 0, "r": {"p": 383}}
+      ]
+    },
+    {
+      "title": "Patulin, Tremorgens, PR Toxin, Alternaria, and Cladosporium",
+      "pages": [384, 386],
+      "questions": [
+        {"q": "Patulin was first studied in 1943 as a potential:", "c": ["Antibacterial antibiotic", "Fungicide", "Hallucinogen", "Food colour"], "a": 0, "r": {"p": 384, "h": "Apple Juice and Patulin"}},
+        {"q": "Patulin should be monitored in apple juice because:", "c": ["*Penicillium expansum* commonly rots stored apples", "Apples naturally make it", "It is added as a preservative", "Yeasts produce it"], "a": 0, "r": {"p": 384}},
+        {"q": "'Ijesha shakes' in Nigeria and grass staggers in sheep are suspected to be caused by:", "c": ["Tremorgens (fungal neurotoxins)", "Aflatoxin", "Ergot", "Ochratoxin"], "a": 0, "r": {"p": 384, "h": "Tremorgens, the Shakes, and Staggers"}},
+        {"q": "PR toxin from *Penicillium roquefortii* has been found in blue cheese itself.", "c": ["True", "False"], "a": 1, "r": {"p": 384, "h": "PR Toxin and Blue Cheese"}},
+        {"q": "*Penicillium camembertii* produces which toxin, whose presence in cheese is not yet established?", "c": ["Cyclopiazonic acid", "Patulin", "Aflatoxin", "Zearalenone"], "a": 0, "r": {"p": 385}},
+        {"q": "Tenuazonic acid, the most poisonous *Alternaria* toxin, has been detected in:", "c": ["Commercial tomato pastes", "Milk", "Beer", "Bread"], "a": 0, "r": {"p": 385, "h": "Alternaria and Tenuazonic Acid"}},
+        {"q": "Storage moulds need only how much moisture, versus 22%–25% for field moulds?", "c": ["13%–18%", "1%–3%", "30%–40%", "50%"], "a": 0, "r": {"p": 385}},
+        {"q": "Optimum temperatures: *Fusarium* species often grow best at 8°C–15°C, while *Aspergillus* species often prefer:", "c": ["30°C–40°C", "0°C–5°C", "15°C–20°C", "50°C–60°C"], "a": 0, "r": {"p": 385}}
+      ]
+    },
+    {
+      "title": "Detection and Detoxification of Mycotoxins",
+      "pages": [386, 389],
+      "questions": [
+        {"q": "Why is sampling food for mycotoxins a problem?", "c": ["Mould growth is unevenly distributed", "Toxins evaporate", "Samples go mouldy", "Toxins are too large to extract"], "a": 0, "r": {"p": 386}},
+        {"q": "Aflatoxins can be detected directly by their:", "c": ["UV fluorescence", "Smell", "Colour in daylight", "Taste"], "a": 0, "r": {"p": 386}},
+        {"q": "The most reliable positive identification of a toxin is by:", "c": ["High-resolution mass spectroscopy", "Smell", "Microscopy", "Bioassay in pigs"], "a": 0, "r": {"p": 386}},
+        {"q": "Heating to 100°C for two hours degrades about what share of aflatoxin?", "c": ["80%", "100%", "20%", "None"], "a": 0, "r": {"p": 386, "h": "Detoxification"}},
+        {"q": "Crude edible oils are treated to remove aflatoxin with:", "c": ["NaOH solution", "Sugar", "Water only", "Yeast"], "a": 0, "r": {"p": 386}},
+        {"q": "At least what share of the world's grain is estimated to be contaminated with mycotoxins each year?", "c": ["25%", "2.5%", "75%", "50%"], "a": 0, "r": {"p": 387}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Some peoples in Africa and Asia actually prefer:", "c": ["The spicy flavour food acquires when mouldy", "Unseasoned food", "Raw mushrooms", "Fermented milk only"], "a": 0, "r": {"p": 372}},
+    {"s": 1, "q": "Ergot sclerotia contain how many groups of physiologically active substances?", "c": ["Ten groups with over 100 compounds", "One compound", "Three groups", "Fifty groups"], "a": 0, "r": {"p": 373}},
+    {"s": 1, "q": "Mortality from ergotism ranged from:", "c": ["11% to 60%", "1% to 2%", "90% to 100%", "Never fatal"], "a": 0, "r": {"p": 373}},
+    {"s": 1, "q": "Effective control of ergotism came after a famine in:", "c": ["1770", "1673", "1581", "1889"], "a": 0, "r": {"p": 373}},
+    {"s": 1, "q": "A Canadian hog farmer won $100,000 after losing pigs to ergot even though:", "c": ["The grain hadn't exceeded the permitted ergot level", "He had tested the feed", "The pigs were insured", "The ergot was in hay"], "a": 0, "r": {"p": 374}},
+    {"s": 2, "q": "Aflatoxins are chemically:", "c": ["Bisfuranocoumarins", "Trichothecenes", "Lysergic acid amides", "Cyclic peptides"], "a": 0, "r": {"p": 374}},
+    {"s": 2, "q": "Discovery of aflatoxin worried UNICEF because it was promoting peanut meal to prevent:", "c": ["Kwashiorkor (protein deficiency)", "Scurvy", "Rickets", "Malaria"], "a": 0, "r": {"p": 375}},
+    {"s": 2, "q": "In rats, as little as 0.015 ppm aflatoxin in the diet over seventy weeks caused:", "c": ["Neoplasms in all rats tested", "No effect", "Mild weight loss", "Death within a day"], "a": 0, "r": {"p": 375}},
+    {"s": 2, "q": "*Aspergillus flavus* competes best in which conditions?", "c": ["Warm climates on low-water-activity substrates", "Cold wet climates", "High-oxygen liquids", "Acid soils"], "a": 0, "r": {"p": 375}},
+    {"s": 3, "q": "In Lin Xian, what share of surgically removed cancers had moulds growing inside them?", "c": ["90%", "9%", "50%", "100%"], "a": 0, "r": {"p": 377}},
+    {"s": 3, "q": "An unnamed haemorrhagic disease in South Africa is linked to home-brewed sorghum beer containing tenuazonic acid and:", "c": ["Cytochalasin", "Aflatoxin", "Patulin", "Sporidesmin"], "a": 0, "r": {"p": 378}},
+    {"s": 4, "q": "Symptoms of ATA appeared after eating about how much contaminated grain?", "c": ["2 kg", "200 g", "20 kg", "20 g"], "a": 0, "r": {"p": 378}},
+    {"s": 4, "q": "The fungi mainly responsible for ATA were *Fusarium poae* and:", "c": ["*Fusarium sporotrichioides*", "*Fusarium graminearum*", "*Fusarium solani*", "*Fusarium verticillioides*"], "a": 0, "r": {"p": 380}},
+    {"s": 4, "q": "All trichothecenes contain an epoxy group at:", "c": ["C-12,13", "C-1,2", "C-9,10", "C-4,5"], "a": 0, "r": {"p": 380}},
+    {"s": 5, "q": "Ochratoxin is produced by *Aspergillus ochraceus* and *Penicillium viridicatum* growing on damp:", "c": ["Barley or oats", "Peanuts", "Apples", "Hay"], "a": 0, "r": {"p": 382}},
+    {"s": 5, "q": "Zearalenone toxin levels in wet-stored corncobs may reach:", "c": ["50–100 ppm", "0.5 ppm", "5,000 ppm", "1 ppb"], "a": 0, "r": {"p": 382}},
+    {"s": 6, "q": "New Zealand farmers avoid facial eczema mainly by:", "c": ["Forecasting weather that favours sporulation and moving sheep", "Spraying grassland", "Vaccination", "Indoor feeding"], "a": 0, "r": {"p": 383}},
+    {"s": 6, "q": "Slaframine is metabolically transformed into a compound similar in activity to:", "c": ["Acetylcholine", "Adrenaline", "Insulin", "Oestrogen"], "a": 0, "r": {"p": 383}},
+    {"s": 7, "q": "Grass staggers toxins may be produced by endophytes such as the *Neotyphodium* anamorph of:", "c": ["*Epichloë typhina*", "*Claviceps*", "*Fusarium*", "*Stachybotrys*"], "a": 0, "r": {"p": 384}},
+    {"s": 7, "q": "Toxins are not normally produced during preparation of soy sauce, miso, and katsuobushi, possibly because:", "c": ["Toxigenic strains have been selected out or conditions inhibit toxin production", "Aspergilli never make toxins", "Salt destroys toxins", "Cooking removes them"], "a": 0, "r": {"p": 384}},
+    {"s": 7, "q": "Toxigenic fungi are reported from how many holomorph genera, once anamorph connections are considered?", "c": ["Thirty-five", "Forty-six", "Five", "Three hundred"], "a": 0, "r": {"p": 385}},
+    {"s": 8, "q": "Sterigmatocystin fluoresces only after spraying with:", "c": ["AlCl₃ in ethanol", "Water", "Iodine", "KOH"], "a": 0, "r": {"p": 386}}
+  ],
+  "review": [
+    {"s": 0, "q": "Mycotoxins remain in food even after:", "c": ["Processing, sterilization, or cooking", "Washing", "Freezing", "Any treatment at all"], "a": 0, "r": {"p": 372}},
+    {"s": 1, "q": "At least how many ergotism epidemics were documented between 1581 and 1889?", "c": ["Sixty-five", "Six", "Six hundred", "Fifteen"], "a": 0, "r": {"p": 373}},
+    {"s": 1, "q": "Ergometrine does not procure abortions because:", "c": ["Uterine muscles become really sensitive to it only at full term", "It is too weak", "It is destroyed in the stomach", "It acts only on blood vessels"], "a": 0, "r": {"p": 373}},
+    {"s": 1, "q": "Today ergot is produced deliberately by the pharmaceutical industry by:", "c": ["Mechanically inoculating rye flowers with spores", "Synthesizing it", "Culturing it on agar", "Collecting from wild grasses"], "a": 0, "r": {"p": 374}},
+    {"s": 2, "q": "Under UV light, aflatoxins B and G fluoresce:", "c": ["Blue and green, respectively", "Red and yellow", "Both white", "Not at all"], "a": 0, "r": {"p": 374}},
+    {"s": 2, "q": "Germany allows how much aflatoxin?", "c": ["10 ppb", "15 ppb", "20 ppb", "0 ppb"], "a": 0, "r": {"p": 375}},
+    {"s": 2, "q": "Peanuts grown in Ontario as a tobacco replacement seem generally:", "c": ["Free of aflatoxin", "Heavily contaminated", "Full of ochratoxin", "Ergoty"], "a": 0, "r": {"p": 376}},
+    {"s": 3, "q": "Rats fed nitrites with mouldy bread produced which carcinogens?", "c": ["Nitrosamines", "Aflatoxins", "Trichothecenes", "Fumonisins"], "a": 0, "r": {"p": 377}},
+    {"s": 4, "q": "About a third of ATA deaths were due to:", "c": ["Asphyxiation from internal throat swelling", "Kidney failure", "Liver cancer", "Gangrene"], "a": 0, "r": {"p": 378}},
+    {"s": 4, "q": "*Stachybotrys* produces satratoxins and other macrocyclic trichothecenes, but humans are at risk only if they:", "c": ["Eat the fungus", "Touch it", "Breathe one spore", "Live near hay"], "a": 0, "r": {"p": 380}},
+    {"s": 5, "q": "Zearalenone has also been used in humans as:", "c": ["An oral contraceptive and for postmenopausal syndrome", "An antibiotic", "A painkiller", "A sedative"], "a": 0, "r": {"p": 382}},
+    {"s": 6, "q": "Facial eczema usually occurs in:", "c": ["Late summer after warm rains", "Midwinter", "Spring droughts", "Any season"], "a": 0, "r": {"p": 383}},
+    {"s": 7, "q": "Epicladosporic acid from *Cladosporium* may have been implicated in:", "c": ["Alimentary toxic aleukia", "Turkey X disease", "Facial eczema", "Lupinosis"], "a": 0, "r": {"p": 385}}
+  ]
+}

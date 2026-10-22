@@ -1,0 +1,102 @@
+{
+  "n": 15,
+  "title": "Fungi Exploiting Microscopic Animals",
+  "pages": [295, 307],
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [295, 295],
+      "questions": [
+        {"q": "About how many fungi have adopted a 'carnivorous' lifestyle?", "c": ["150", "15", "1,500", "15,000"], "a": 0, "r": {"p": 295}},
+        {"q": "The carnivorous fungi are drawn from how many phyla?", "c": ["Four fungal phyla and one pseudofungal phylum", "One phylum only", "Two phyla", "All nine phyla"], "a": 0, "r": {"p": 295}},
+        {"q": "How many mechanisms for exploiting small animals does Kendrick describe?", "c": ["Eleven", "Three", "Six", "Twenty"], "a": 0, "r": {"p": 295}},
+        {"q": "Small soil animals are valuable to fungi mainly as a source of protein (nitrogen).", "c": ["True", "False"], "a": 0, "r": {"p": 295}}
+      ]
+    },
+    {
+      "title": "Mechanisms for Infecting Nematodes and Other Small Animals",
+      "pages": [296, 300],
+      "questions": [
+        {"q": "*Catenaria* zoospores find nematodes by:", "c": ["Chemotaxis, encysting near the mouth or anus", "Random drifting", "Being eaten", "Sticky buds"], "a": 0, "r": {"p": 296, "h": "(1) Motile spores"}},
+        {"q": "*Haptoglossa* is unique among fungi for producing:", "c": ["'Harpoon cells' that inject infective material into prey", "Constricting rings", "Flagellate gametes", "Edible conidia"], "a": 0, "r": {"p": 297, "h": "(2) Injected spores"}},
+        {"q": "Kendrick compares the *Haptoglossa* harpoon cell to the nematocysts of:", "c": ["Cnidarians (jellyfish, corals)", "Spiders", "Insects", "Sponges"], "a": 0, "r": {"p": 297}},
+        {"q": "The harpoon cell mechanism is homologous to cnidarian nematocysts.", "c": ["True", "False"], "a": 1, "r": {"p": 297}},
+        {"q": "*Meristacrum* sporangia that miss a nematode:", "c": ["Germinate to form a small adhesive secondary spore on a stalk", "Die immediately", "Swim away", "Form a ring trap"], "a": 0, "r": {"p": 297, "h": "(3) Adhesive spores"}},
+        {"q": "Clamp connections in *Nematoctonus* hyphae show it is:", "c": ["A dikaryotic basidiomycete anamorph", "A zygomycete", "An oomycete", "An ascomycete"], "a": 0, "r": {"p": 298}},
+        {"q": "*Harposporium anguillulae* conidia infect nematodes by:", "c": ["Being eaten and sticking in the oesophagus", "Swimming to them", "Injecting a harpoon", "Trapping them in rings"], "a": 0, "r": {"p": 298, "h": "(4) Ingested spores"}},
+        {"q": "The teleomorph of *Harposporium anguillulae*, *Atricordyceps harposporifera*, attacks:", "c": ["Millipedes", "Nematodes", "Rotifers", "Amoebae"], "a": 0, "r": {"p": 299}},
+        {"q": "*Harposporium diceraeum* conidia resemble:", "c": ["A high-heeled shoe or clog", "A small bird", "A star", "A coiled spring"], "a": 0, "r": {"p": 299}},
+        {"q": "Species of *Pochonia* parasitize rotifers and are being developed against:", "c": ["Endoparasitic plant nematodes", "Mosquitoes", "Weeds", "Rust fungi"], "a": 0, "r": {"p": 300}}
+      ]
+    },
+    {
+      "title": "Mechanisms for Trapping Nematodes",
+      "pages": [300, 305],
+      "questions": [
+        {"q": "Nematode traps fall into how many kinds?", "c": ["Six", "Two", "Four", "Eleven"], "a": 0, "r": {"p": 300}},
+        {"q": "*Cystopage* and *Stylopage* trap nematodes using:", "c": ["Adhesive-covered assimilative hyphae", "Constricting rings", "Adhesive nets", "Detachable rings"], "a": 0, "r": {"p": 300, "h": "(5) Adhesive-assimilative hyphae"}},
+        {"q": "When a nematode tears an adhesive knob loose, what happens?", "c": ["The knob stays stuck to the cuticle and sends in an infective hypha", "The nematode escapes unharmed", "The knob dies", "The knob shoots spores"], "a": 0, "r": {"p": 300, "h": "(7) Adhesive knobs"}},
+        {"q": "Which trapping device is probably the commonest, recorded in nearly forty species?", "c": ["Adhesive nets", "Constricting rings", "Nonconstricting rings", "Adhesive knobs"], "a": 0, "r": {"p": 300, "h": "(8) Adhesive nets"}},
+        {"q": "The commonest nematode-trapping hyphomycete, with 3D adhesive nets, is:", "c": ["*Arthrobotrys oligospora*", "*Dactylella copepodii*", "*Harposporium anguillulae*", "*Meria*"], "a": 0, "r": {"p": 302}},
+        {"q": "Why can only eumycotan fungi form adhesive nets?", "c": ["Nets need repeated anastomosis of assimilative hyphae", "Only they make glue", "Only they have chitin", "Only they live in soil"], "a": 0, "r": {"p": 300}},
+        {"q": "Nonconstricting (detachable) rings catch nematodes by:", "c": ["Fitting snugly and breaking off as a collar around the worm", "Inflating inward", "Shooting glue", "Releasing a toxin"], "a": 0, "r": {"p": 302, "h": "(9) Nonconstricting rings"}},
+        {"q": "How quickly do the three cells of a constricting ring inflate?", "c": ["In about one-tenth of a second", "Over several minutes", "Over an hour", "In about ten seconds"], "a": 0, "r": {"p": 302, "h": "(10) Constricting rings"}},
+        {"q": "Constricting rings can also be triggered by heat or mechanical stimulation without a nematode.", "c": ["True", "False"], "a": 0, "r": {"p": 302}},
+        {"q": "What allows the ring cells to expand inward so fast?", "c": ["Outer walls rupture along lines of weakness and cells take up water, deploying reserve wall material", "Muscles contract", "Gas is released", "The stalk pulls them"], "a": 0, "r": {"p": 305}},
+        {"q": "Why don't many trap-forming fungi make traps all the time?", "c": ["They produce traps only when they detect chemical signs of nematodes", "Traps form only at night", "Traps need light", "Traps form only in winter"], "a": 0, "r": {"p": 305}},
+        {"q": "Conidia of trap-forming species are usually larger than those of species using sticky or ingested spores because:", "c": ["They carry reserves to build a trap on their own", "They must sink in soil", "They are dispersed by wind", "They are eaten by nematodes"], "a": 0, "r": {"p": 305}}
+      ]
+    },
+    {
+      "title": "Chemical Warfare",
+      "pages": [305, 306],
+      "questions": [
+        {"q": "The oyster mushroom, *Pleurotus ostreatus*, secretes a substance that:", "c": ["Rapidly inactivates nematodes", "Attracts bees", "Kills bacteria", "Dissolves lignin"], "a": 0, "r": {"p": 305, "h": "(11) Toxins"}},
+        {"q": "Why might nematodes be important to *Pleurotus*?", "c": ["Dead wood, its substrate, is notoriously deficient in nitrogen", "Wood lacks sugar", "Nematodes provide water", "Nematodes spread its spores"], "a": 0, "r": {"p": 305}},
+        {"q": "*Rhopalomyces elegans* parasitizes nematode eggs by:", "c": ["Growing toward them, forming appressoria, and penetrating", "Swimming to them", "Trapping them in rings", "Being eaten by them"], "a": 0, "r": {"p": 306}},
+        {"q": "*Rhopalomyces* can also parasitize adult nematodes.", "c": ["True", "False"], "a": 0, "r": {"p": 306}}
+      ]
+    },
+    {
+      "title": "Exploitation of Other Animals and Protists",
+      "pages": [306, 307],
+      "questions": [
+        {"q": "The largest animal known to be captured by a predaceous fungus is:", "c": ["A small springtail (collembolan)", "An earthworm", "A beetle", "A tardigrade"], "a": 0, "r": {"p": 306}},
+        {"q": "*Zoophagus* traps rotifers using:", "c": ["'Lethal lollipops'—sticky knobs the rotifers try to eat", "Constricting rings", "Harpoon cells", "Adhesive nets"], "a": 0, "r": {"p": 306}},
+        {"q": "When the amoeba *Geococcus vulgaris* attacks *Dactylella passalopaga*, the fungus:", "c": ["Gags it with a rapidly swelling bulbous outgrowth", "Dies", "Releases spores", "Swims away"], "a": 0, "r": {"p": 306}},
+        {"q": "Why are amoeba-trapping hyphomycetes rare, according to Kendrick?", "c": ["A fungus would need many tiny amoebae to gain enough energy to sporulate", "Amoebae are toxic", "Amoebae live only in water", "Amoebae are too fast"], "a": 0, "r": {"p": 306}},
+        {"q": "Field trials of nematode-trapping fungi against plant-parasitic nematodes have generally been very successful.", "c": ["True", "False"], "a": 1, "r": {"p": 307}},
+        {"q": "Gut nematodes of domestic animals have been controlled by feeding chlamydospores of:", "c": ["*Duddingtonia* (*Arthrobotrys*) *flagrans*", "*Pleurotus ostreatus*", "*Harposporium*", "*Catenaria*"], "a": 0, "r": {"p": 307}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Fungi that attack large animals are often specialists with a taste for:", "c": ["Keratin", "Chitin", "Cellulose", "Lignin"], "a": 0, "r": {"p": 295}},
+    {"s": 1, "q": "Some *Myzocytium* zoospores that don't find a host soon:", "c": ["Encyst and develop an adhesive bud", "Die", "Form rings", "Become amoebae"], "a": 0, "r": {"p": 296}},
+    {"s": 1, "q": "*Myzocytium* filling its host with oogonia looks rather like:", "c": ["A pea pod", "A string of beads", "A spider web", "A honeycomb"], "a": 0, "r": {"p": 297}},
+    {"s": 1, "q": "Several species of *Nematoctonus* are anamorphs of which gilled genus?", "c": ["*Hohenbuehelia*", "*Pleurotus*", "*Mycena*", "*Coprinus*"], "a": 0, "r": {"p": 298}},
+    {"s": 1, "q": "*Harposporium helicoides* conidia infect nematodes by:", "c": ["Germinating in the intestine", "Piercing the gut wall mechanically", "Sticking to the cuticle", "Swimming in"], "a": 0, "r": {"p": 299}},
+    {"s": 1, "q": "*Harposporium spirosporum* conidia are eaten by:", "c": ["Rotifers", "Nematodes", "Springtails", "Amoebae"], "a": 0, "r": {"p": 300}},
+    {"s": 2, "q": "*Dactylella copepodii* captures which animals?", "c": ["Copepods", "Rotifers", "Springtails", "Mites"], "a": 0, "r": {"p": 300}},
+    {"s": 2, "q": "Hourglass-shaped adhesive knobs that don't break off are produced by *Nematoctonus* anamorphs of:", "c": ["*Hohenbuehelia* and *Resupinatus*", "*Arthrobotrys*", "*Dactylella*", "*Pleurotus*"], "a": 0, "r": {"p": 300}},
+    {"s": 2, "q": "A nematode caught in an adhesive net becomes comatose within about an hour, suggesting:", "c": ["The fungus produces a toxin", "The nematode is starving", "The glue suffocates it", "It is cold"], "a": 0, "r": {"p": 302}},
+    {"s": 2, "q": "All species with nonconstricting rings also produce:", "c": ["Sticky knobs", "Constricting rings", "Harpoon cells", "Zoospores"], "a": 0, "r": {"p": 302}},
+    {"s": 2, "q": "Constricting rings are produced by about how many hyphomycetes?", "c": ["Twelve", "Forty", "Two", "A hundred"], "a": 0, "r": {"p": 302}},
+    {"s": 2, "q": "After inflating, the ring cells don't crush the worm immediately because:", "c": ["Their osmotic pressure has dropped to about a third and must be pumped up again", "The worm is too strong", "The cells burst", "The stalk breaks"], "a": 0, "r": {"p": 305}},
+    {"s": 2, "q": "Which chemical attractants may lure nematodes to some fungi?", "c": ["Ammonia or carbon dioxide", "Sugar", "Oxygen", "Ethanol"], "a": 0, "r": {"p": 305}},
+    {"s": 4, "q": "*Arthrobotrys entomopaga* catches springtails up to 130 µm long using:", "c": ["Clusters of two-celled traps with glue droplets", "Constricting rings", "Toxins", "Harpoon cells"], "a": 0, "r": {"p": 306}},
+    {"s": 4, "q": "Amoeba-trapping hyphomycetes come from four genera including *Dactylella* and:", "c": ["*Tridentaria*", "*Arthrobotrys*", "*Harposporium*", "*Catenaria*"], "a": 0, "r": {"p": 306}},
+    {"s": 4, "q": "The best results against plant-parasitic nematodes came from combining fungal additions with:", "c": ["Green manuring", "Chemical nematicides", "Flooding", "Soil sterilization"], "a": 0, "r": {"p": 307}}
+  ],
+  "review": [
+    {"s": 0, "q": "Kendrick opens with a nematode passing through a hoop that suddenly inflates. What is the hoop?", "c": ["A constricting ring trap", "An adhesive net", "A harpoon cell", "A sticky knob"], "a": 0, "r": {"p": 295}},
+    {"s": 1, "q": "Which phylum is *Catenaria* in?", "c": ["Chytridiomycota", "Oomycota", "Zygomycota", "Ascomycota"], "a": 0, "r": {"p": 296}},
+    {"s": 1, "q": "*Haptoglossa* belongs to which phylum?", "c": ["Oomycota", "Chytridiomycota", "Zygomycota", "Basidiomycota"], "a": 0, "r": {"p": 297}},
+    {"s": 1, "q": "*Verticillium* and *Meria* infect nematodes using:", "c": ["Sticky spores", "Harpoon cells", "Constricting rings", "Swimming spores"], "a": 0, "r": {"p": 297}},
+    {"s": 1, "q": "*Harposporium anguillulae* is the only known case in which:", "c": ["The anamorph exploits one group of animals and the teleomorph another", "A fungus eats plants and animals", "A fungus has no teleomorph", "A fungus is both chytrid and ascomycete"], "a": 0, "r": {"p": 299}},
+    {"s": 2, "q": "Nematodes often recoil violently on touching an adhesive net, an aversive reaction that:", "c": ["Sometimes saves them", "Always fails", "Triggers the net", "Makes them stick faster"], "a": 0, "r": {"p": 302}},
+    {"s": 2, "q": "A nonconstricting ring is made of how many cells?", "c": ["Three", "Two", "Five", "One"], "a": 0, "r": {"p": 302}},
+    {"s": 2, "q": "Kendrick compares the turgor-release mechanism of constricting rings to which other fungal structure?", "c": ["The subsporangial vesicle of *Pilobolus*", "Clamp connections", "Sclerotia", "Rhizomorphs"], "a": 0, "r": {"p": 305}},
+    {"s": 4, "q": "A species of *Harposporium* has been found attacking:", "c": ["Tardigrades (water bears)", "Earthworms", "Mites", "Snails"], "a": 0, "r": {"p": 306}}
+  ]
+}

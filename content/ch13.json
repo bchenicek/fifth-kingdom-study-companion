@@ -1,0 +1,125 @@
+{
+  "n": 13,
+  "title": "Fungicides—Several Generations—More Needed",
+  "pages": [265, 275],
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [265, 266],
+      "questions": [
+        {"q": "Until about 150 years ago, people thought plant diseases were caused by:", "c": ["'Humours' or 'effluvia of the earth, thunder, or snakes'", "Insects", "Bacteria", "Bad seed"], "a": 0, "r": {"p": 265}},
+        {"q": "About what share of all crop losses are due to fungal diseases?", "c": ["Over a third", "About 5%", "Over 90%", "About 10%"], "a": 0, "r": {"p": 265}},
+        {"q": "Conditions favouring apple scab infection occur up to how many times each season?", "c": ["Twenty", "Two", "Fifty", "Once"], "a": 0, "r": {"p": 265}},
+        {"q": "Wheat stem rust can be controlled by breeding resistant varieties.", "c": ["True", "False"], "a": 0, "r": {"p": 265}},
+        {"q": "The first practical fungicide was devised roughly how long after the Irish potato famine?", "c": ["Forty years", "Four years", "A century", "Ten years"], "a": 0, "r": {"p": 265}}
+      ]
+    },
+    {
+      "title": "The First Generation: Inorganic Fungicides",
+      "pages": [266, 267],
+      "questions": [
+        {"q": "What gave Professor Millardet the idea for Bordeaux mixture?", "c": ["Vines by a path, spattered with verdigris to deter grape thieves, looked healthier", "A lab accident", "Reports from Ireland", "Reading about sulphur"], "a": 0, "r": {"p": 266}},
+        {"q": "Bordeaux mixture is a blend of copper sulphate and:", "c": ["Calcium hydroxide (lime)", "Sodium carbonate", "Ammonium carbonate", "Sulphur"], "a": 0, "r": {"p": 266}},
+        {"q": "Protectant fungicides work only if they:", "c": ["Intercept the fungus outside the host", "Are absorbed by roots", "Move through the phloem", "Are injected into trunks"], "a": 0, "r": {"p": 267}},
+        {"q": "Long-term Bordeaux use on vines has built up soil copper concentrations of up to:", "c": ["130 ppm", "13 ppm", "1,300 ppm", "1.3 ppm"], "a": 0, "r": {"p": 267}},
+        {"q": "Sulphur is still occasionally used against powdery mildews but can:", "c": ["Scorch leaves and have a dwarfing effect", "Poison animals", "Build up mercury", "Cause cancer"], "a": 0, "r": {"p": 267}},
+        {"q": "LD50 means:", "c": ["The dose that kills half the animals exposed", "The lowest lethal dose", "The dose that kills all fungi", "The legal dose limit"], "a": 0, "r": {"p": 267}}
+      ]
+    },
+    {
+      "title": "The Second Generation: Organic Fungicides and Seed Dressings",
+      "pages": [267, 269],
+      "questions": [
+        {"q": "Organomercurials were mostly used as:", "c": ["Seed dressings", "Foliar sprays", "Wood preservatives", "Food additives"], "a": 0, "r": {"p": 267}},
+        {"q": "Copper naphthenate (Cuprinol) is used as:", "c": ["A wood preservative", "A seed dressing", "A plant spray", "A food preservative"], "a": 0, "r": {"p": 267}},
+        {"q": "DNOC is sprayed on orchard floors to kill:", "c": ["The overwintering saprobic stages of pathogens like *Venturia*", "Weeds", "Insects on leaves", "Mycorrhizal fungi"], "a": 0, "r": {"p": 268}},
+        {"q": "Why aren't EBDC fungicides truly safe despite high LD50s?", "c": ["They break down to ethylene thiourea, a carcinogen, especially when cooked", "They are highly toxic to rats", "They contain mercury", "They kill crops"], "a": 0, "r": {"p": 268}},
+        {"q": "Potato yields rose dramatically when copper compounds were replaced by dithiocarbamates because the new fungicides:", "c": ["Caused much less damage to the plants", "Were cheaper", "Were systemic", "Also killed insects"], "a": 0, "r": {"p": 268}},
+        {"q": "Captan is unlikely to provoke resistance because it:", "c": ["Acts on many sites in the fungus", "Is systemic", "Is applied rarely", "Is a biological agent"], "a": 0, "r": {"p": 268}},
+        {"q": "Without Captan, about what share of the fruit crop would be lost?", "c": ["25%", "2.5%", "75%", "100%"], "a": 0, "r": {"p": 268}},
+        {"q": "Chloranil was so effective that $775,000 invested in it returned how much to the pea industry in a year?", "c": ["$19 million", "$1.9 million", "$190 million", "$775,000"], "a": 0, "r": {"p": 269}}
+      ]
+    },
+    {
+      "title": "The Third Generation: Systemic Fungicides",
+      "pages": [269, 271],
+      "questions": [
+        {"q": "The first systemic (eradicant) fungicide was:", "c": ["Benomyl", "Captan", "Mancozeb", "Azoxystrobin"], "a": 0, "r": {"p": 269}},
+        {"q": "Benomyl is apoplastic, meaning it travels:", "c": ["Upward in the xylem, not downward in the phloem", "Downward to the roots", "Only through living cells", "Not at all"], "a": 0, "r": {"p": 269}},
+        {"q": "Benomyl works by:", "c": ["Disrupting spindle microtubule assembly in dividing nuclei", "Poisoning many enzymes", "Blocking ergosterol synthesis", "Binding cytochrome b"], "a": 0, "r": {"p": 269}},
+        {"q": "After Benomyl was introduced for apples in 1973, resistance appeared by:", "c": ["1975", "1990", "1980", "1974 (within months)"], "a": 0, "r": {"p": 270}},
+        {"q": "Fosetyl-Al (Aliette) and mefenoxam (Ridomil) act selectively on which group?", "c": ["Oomycota", "Basidiomycota", "Rusts only", "Zygomycota"], "a": 0, "r": {"p": 270}},
+        {"q": "Aliette has a bonus effect of stimulating:", "c": ["Certain endomycorrhizal fungi", "Insect predators", "Plant flowering", "Nitrogen fixation"], "a": 0, "r": {"p": 270}},
+        {"q": "Sterol inhibitors such as Fenarimol act by preventing biosynthesis of:", "c": ["Ergosterol", "Chitin", "Cellulose", "Tubulin"], "a": 0, "r": {"p": 270}},
+        {"q": "Sterol inhibitors work poorly against peach scab and *Rhizopus* fruit rot.", "c": ["True", "False"], "a": 0, "r": {"p": 271}}
+      ]
+    },
+    {
+      "title": "An Unexpected Fourth Generation—the Strobilurins",
+      "pages": [271, 272],
+      "questions": [
+        {"q": "Strobilurin A was first found in which small agaric?", "c": ["*Strobilurus tenacellus*, fruiting on pine cones", "*Mycena*", "*Armillaria*", "*Coprinus*"], "a": 0, "r": {"p": 271}},
+        {"q": "Why couldn't natural strobilurin be used directly?", "c": ["It was sensitive to light and oxygen", "It was too toxic", "It killed plants", "It was too expensive to extract"], "a": 0, "r": {"p": 271}},
+        {"q": "BASF chemists synthesized how many variants over thirteen years?", "c": ["More than 15,000", "About 150", "About 1,500", "Over a million"], "a": 0, "r": {"p": 271}},
+        {"q": "Strobilurins inhibit mitochondrial respiration by binding:", "c": ["The Qo site on cytochrome b", "Tubulin", "Ergosterol", "Chitin synthetase"], "a": 0, "r": {"p": 271}},
+        {"q": "What is unique about strobilurins among site-specific synthetics?", "c": ["They control ascomycetes, basidiomycetes, and Oomycota", "They are inorganic", "They work only on rusts", "They never cause resistance"], "a": 0, "r": {"p": 271}},
+        {"q": "Serenade Garden, suitable for organic gardening, is based on:", "c": ["The bacterium *Bacillus subtilis*", "A strobilurin", "Copper", "A yeast"], "a": 0, "r": {"p": 272}}
+      ]
+    },
+    {
+      "title": "Resistance to Fungicides",
+      "pages": [273, 273],
+      "questions": [
+        {"q": "Resistance became troublesome with the systemics mainly because they:", "c": ["Act on very specific sites in the fungus", "Move through the plant", "Are applied in small doses", "Are organic"], "a": 0, "r": {"p": 273}},
+        {"q": "The first documented case of fungicide resistance was to:", "c": ["Dodine", "Benomyl", "Captan", "Bordeaux mixture"], "a": 0, "r": {"p": 273}},
+        {"q": "Resistance to Dodine appeared after how many years of exclusive use?", "c": ["Ten", "Two", "Fifty", "One"], "a": 0, "r": {"p": 273}},
+        {"q": "To slow resistance, it is often best to use:", "c": ["Mixtures or sequences of unrelated fungicides", "Higher doses of one fungicide", "One fungicide exclusively", "No fungicide at all"], "a": 0, "r": {"p": 273}},
+        {"q": "The mould genus *Lauriomyces*, which produces strongly antifungal compounds, was named after Kendrick's wife.", "c": ["True", "False"], "a": 0, "r": {"p": 273}}
+      ]
+    },
+    {
+      "title": "Choice, Formulation, and Application of Fungicides",
+      "pages": [273, 275],
+      "questions": [
+        {"q": "Ridomil and some other phenylamides are now sold only:", "c": ["Mixed with protectant residual fungicides", "As seed dressings", "In organic formulations", "For greenhouse use"], "a": 0, "r": {"p": 273}},
+        {"q": "Hops downy mildew is caused by:", "c": ["*Pseudoperonospora humuli*", "*Plasmopara viticola*", "*Verticillium*", "*Peronospora tabacina*"], "a": 0, "r": {"p": 274}},
+        {"q": "Why did the brewing industry ask hop growers to abandon Zineb?", "c": ["It breaks down to the carcinogen ethylene thiourea", "It made beer bitter", "It stopped working", "It was too costly"], "a": 0, "r": {"p": 274}},
+        {"q": "Surfactants are added to sprays to:", "c": ["Lower surface tension so the spray spreads over the plant", "Slow drying of droplets", "Add colour", "Kill insects"], "a": 0, "r": {"p": 274}},
+        {"q": "Over what share of U.S. corn seed is treated with fungicide?", "c": ["Over 90%", "About 10%", "About half", "None"], "a": 0, "r": {"p": 274}},
+        {"q": "Peanut leaf spot needs fungicide how often in the southeastern U.S.?", "c": ["Every two weeks", "Once a year", "Every day", "Only at planting"], "a": 0, "r": {"p": 274}},
+        {"q": "Calcium propionate is added to bread as a:", "c": ["Mould inhibitor", "Fungicide", "Colouring", "Leavening agent"], "a": 0, "r": {"p": 275}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "Unprotected apple orchards may need fungicide how many times a year?", "c": ["Six to fifteen", "One", "Fifty", "Two"], "a": 0, "r": {"p": 265}},
+    {"s": 1, "q": "In Burgundy mixture, the lime of Bordeaux mixture is replaced by:", "c": ["Sodium carbonate", "Ammonium carbonate", "Calcium carbonate", "Sulphur"], "a": 0, "r": {"p": 266}},
+    {"s": 1, "q": "Bordeaux mixture has now largely been replaced by formulations of:", "c": ["Copper oxide, hydroxide, and oxychloride", "Mercury", "Sulphur", "Benomyl"], "a": 0, "r": {"p": 266}},
+    {"s": 1, "q": "Long-term exposure to low levels of mercury causes severe brain damage, as in:", "c": ["Minamata disease", "St. Anthony's Fire", "Farmer's lung", "Facial eczema"], "a": 0, "r": {"p": 267}},
+    {"s": 2, "q": "Phenylmercuric acetate was used in orchards until it was banned in:", "c": ["1971", "1951", "1990", "1930"], "a": 0, "r": {"p": 267}},
+    {"s": 2, "q": "Triphenyltin hydroxide (Du-ter) was widely used to control:", "c": ["Potato blight", "Apple scab", "Wheat rust", "Damping-off"], "a": 0, "r": {"p": 267}},
+    {"s": 2, "q": "Which dimethyl-dithiocarbamate is used as a seed treatment against damping-off?", "c": ["Thiram", "Ferbam", "Ziram", "Zineb"], "a": 0, "r": {"p": 268}},
+    {"s": 2, "q": "Dichlone (Phygon) is one of the most effective approved treatments for:", "c": ["Apple scab", "Downy mildew", "Rust", "Ergot"], "a": 0, "r": {"p": 268}},
+    {"s": 3, "q": "To control apple scab, Maneb needed 5.4 kg/ha. How much Fenarimol does the job?", "c": ["0.065 kg/ha", "0.3 kg/ha", "5 kg/ha", "0.0001 kg/ha"], "a": 0, "r": {"p": 271}},
+    {"s": 3, "q": "Ambimobile systemics can be valuable even with low mobility because they can reach:", "c": ["The leaf underside, where many pathogens sporulate", "The roots", "Neighbouring plants", "The soil"], "a": 0, "r": {"p": 270}},
+    {"s": 3, "q": "Metalaxyl was quickly registered for soil application after the 1979 Ontario epidemic of:", "c": ["Blue mould of tobacco", "Late blight", "Dutch elm disease", "Corn blight"], "a": 0, "r": {"p": 270}},
+    {"s": 4, "q": "The first commercial strobilurin fungicides went on sale in:", "c": ["1996", "1983", "1973", "2006"], "a": 0, "r": {"p": 271}},
+    {"s": 4, "q": "Within ten years, strobilurins accounted for over what share of the global fungicide market?", "c": ["20%", "2%", "50%", "80%"], "a": 0, "r": {"p": 272}},
+    {"s": 5, "q": "Orchardists using Benomyl + Dodine began to see resistance to the combination in:", "c": ["1978", "1969", "1975", "1990"], "a": 0, "r": {"p": 273}},
+    {"s": 6, "q": "Humectants are added to fungicide sprays to:", "c": ["Slow the drying of droplets", "Lower surface tension", "Add charge", "Increase toxicity"], "a": 0, "r": {"p": 274}},
+    {"s": 6, "q": "Without fungicides, about what share of the cotton crop would be lost?", "c": ["20%", "2%", "75%", "50%"], "a": 0, "r": {"p": 274}},
+    {"s": 6, "q": "FRAC stands for:", "c": ["Fungicide Resistance Action Committee", "Federal Registry of Agricultural Chemicals", "Fungal Research and Control", "Foliar Resistance Assessment Code"], "a": 0, "r": {"p": 274}}
+  ],
+  "review": [
+    {"s": 0, "q": "Kendrick says agriculture allowed the human population to grow exponentially, but brought problems like:", "c": ["Plant diseases and pests in monocultures", "Mycorrhizal failure", "Lichen loss", "Spore allergies only"], "a": 0, "r": {"p": 265}},
+    {"s": 1, "q": "Cheshunt mixture replaces the lime of Bordeaux mixture with:", "c": ["Ammonium carbonate", "Sodium carbonate", "Copper oxide", "Sulphur"], "a": 0, "r": {"p": 266}},
+    {"s": 1, "q": "Inorganic fungicides can be washed off by rain and are also:", "c": ["Phytotoxic as well as fungitoxic", "Systemic", "Harmless to plants", "Specific to one fungus"], "a": 0, "r": {"p": 267}},
+    {"s": 2, "q": "Pentachlorophenol is used as a wood preservative and to control:", "c": ["Slime during papermaking", "Apple scab", "Rust", "Seed rot"], "a": 0, "r": {"p": 267}},
+    {"s": 2, "q": "'Dormant sprays' are applied when:", "c": ["Trees are dormant, since the sprays would damage living leaves", "Fungi are dormant", "It is raining", "Fruit is ripening"], "a": 0, "r": {"p": 268}},
+    {"s": 2, "q": "Captan was registered in Canada in:", "c": ["1951", "1971", "1931", "1996"], "a": 0, "r": {"p": 268}},
+    {"s": 3, "q": "Some QoI systemics can move only through:", "c": ["The thickness of the leaf", "The whole plant", "Roots", "Phloem"], "a": 0, "r": {"p": 270}},
+    {"s": 4, "q": "The first strobilurin registered by the U.S. EPA was:", "c": ["Azoxystrobin (Quadris, Abound)", "Trifloxystrobin", "Pyraclostrobin", "Famoxadone"], "a": 0, "r": {"p": 272}},
+    {"s": 4, "q": "Besides disease control, strobilurins are marketed for:", "c": ["Improving yield through growth regulatory activity", "Killing insects", "Weed control", "Ripening fruit"], "a": 0, "r": {"p": 272}},
+    {"s": 6, "q": "Peanut leaf-spot infection conditions are leaves wet for 4–6 hours at temperatures above:", "c": ["22°C", "10°C", "30°C", "5°C"], "a": 0, "r": {"p": 274}}
+  ]
+}

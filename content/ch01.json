@@ -1,0 +1,971 @@
+{
+ "n": 1,
+ "title": "Kingdoms, Classification, Nomenclature, and Biodiversity",
+ "pages": [
+  1,
+  15
+ ],
+ "sections": [
+  {
+   "title": "Kingdoms—Now There Are Seven!",
+   "pages": [
+    1,
+    5
+   ],
+   "questions": [
+    {
+     "q": "According to Kendrick, living organisms are now divided among how many kingdoms?",
+     "c": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+     ],
+     "a": 2,
+     "r": {
+      "p": 1
+     }
+    },
+    {
+     "q": "The kingdom diagram (after Patterson and Sogin) is based mainly on which kind of evidence?",
+     "c": [
+      "Base sequences from ribosomal RNA",
+      "Fossil cell-wall chemistry",
+      "Spore morphology",
+      "Mitochondrial protein structure"
+     ],
+     "a": 0,
+     "r": {
+      "p": 1
+     }
+    },
+    {
+     "q": "Which two kingdoms make up the prokaryotes?",
+     "c": [
+      "Archaebacteria (Archaea) and Eubacteria",
+      "Protozoa and Chromista",
+      "Eubacteria and Protozoa",
+      "Archaea and Chromista"
+     ],
+     "a": 0,
+     "r": {
+      "p": 1
+     }
+    },
+    {
+     "q": "Mitochondria and plastids are thought to have originated as free-living prokaryotes, partly because they still retain some of their own independent DNA.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 1
+     }
+    },
+    {
+     "q": "Prokaryotic cells usually divide by which process?",
+     "c": [
+      "Binary fission",
+      "Mitosis",
+      "Meiosis",
+      "Budding with a mitotic spindle"
+     ],
+     "a": 0,
+     "r": {
+      "p": 2
+     }
+    },
+    {
+     "q": "In true fungi, the vegetative phase is always haploid. Where, therefore, must meiosis take place?",
+     "c": [
+      "In the zygote",
+      "During gamete formation",
+      "In the hyphal tips",
+      "In the spores before release"
+     ],
+     "a": 0,
+     "r": {
+      "p": 2
+     }
+    },
+    {
+     "q": "The three multicellular kingdoms correspond roughly to three ways of life. Which role does Kendrick assign to the fungi?",
+     "c": [
+      "Decomposers",
+      "Producers",
+      "Consumers",
+      "Primary parasites"
+     ],
+     "a": 0,
+     "r": {
+      "p": 3
+     }
+    },
+    {
+     "q": "How many phyla of fungi does Kendrick recognize in total, and how are they split?",
+     "c": [
+      "Eleven: two chromistan and nine eumycotan",
+      "Nine: all eumycotan",
+      "Eleven: four protozoan and seven eumycotan",
+      "Thirty-two: spread over three kingdoms"
+     ],
+     "a": 0,
+     "r": {
+      "p": 3
+     }
+    },
+    {
+     "q": "Which is NOT part of Kendrick's functional definition of a fungus?",
+     "c": [
+      "Phagotrophic (they ingest food)",
+      "Heterotrophic",
+      "Eukaryotic",
+      "Reproduce by means of spores"
+     ],
+     "a": 0,
+     "r": {
+      "p": 3
+     }
+    },
+    {
+     "q": "Why can 'fungi' belong to two different kingdoms?",
+     "c": [
+      "'Fungus' describes a way of life shared by groups with different evolutionary origins",
+      "Some fungi photosynthesize while others do not",
+      "Fungi switch kingdoms depending on their life-cycle stage",
+      "Lichens count as both plants and fungi"
+     ],
+     "a": 0,
+     "r": {
+      "p": 3
+     }
+    },
+    {
+     "q": "Microsporidia such as *Nosema* are considered fungi mainly because they have chitin-walled spores and appropriate DNA sequences.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 4,
+      "h": "Microsporidia—a seventh fungal phylum"
+     }
+    },
+    {
+     "q": "Which group lives anaerobically in the rumen of herbivores and has multiflagellate spores?",
+     "c": [
+      "Neocallimastigomycota",
+      "Blastocladiomycota",
+      "Cryptomycota",
+      "Microsporidia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 4,
+      "h": "Neocallimastigomycota—an eighth fungal phylum"
+     }
+    },
+    {
+     "q": "Mitochondrial cristae in true fungi are flattened (like animals'), whereas those of Chromista are tubular.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 0,
+     "r": {
+      "p": 5
+     }
+    },
+    {
+     "q": "Which lysine synthesis pathway do true fungi use?",
+     "c": [
+      "The alpha amino adipic acid (AAA) pathway",
+      "The diaminopimelic acid (DAP) pathway",
+      "The Krebs cycle",
+      "The glyoxylate pathway"
+     ],
+     "a": 0,
+     "r": {
+      "p": 5
+     }
+    }
+   ]
+  },
+  {
+   "title": "Biological Classification and the 2007 Phylogenetic Classification",
+   "pages": [
+    5,
+    8
+   ],
+   "questions": [
+    {
+     "q": "Why does Kendrick urge readers not to skip the classification chapters (2–7)?",
+     "c": [
+      "Without a 'cognitive map' of the main groups, the later applied chapters make little sense",
+      "The later chapters repeat them word for word",
+      "Classification is the only part of mycology that is settled",
+      "The glossary depends on them"
+     ],
+     "a": 0,
+     "r": {
+      "p": 5,
+      "h": "Biological Classification"
+     }
+    },
+    {
+     "q": "The 2007 higher-level classification of the fungi (Hibbett et al.) was based especially on which kind of data?",
+     "c": [
+      "Molecular data",
+      "Fossil records",
+      "Spore print colours",
+      "Host-range studies"
+     ],
+     "a": 0,
+     "r": {
+      "p": 5
+     }
+    },
+    {
+     "q": "The 2007 classification includes the Oomycetes and the slime moulds.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 5
+     }
+    },
+    {
+     "q": "Roughly how many authors contributed to the 2007 phylogenetic classification paper?",
+     "c": [
+      "Sixty-six",
+      "Six",
+      "Twelve",
+      "Two hundred"
+     ],
+     "a": 0,
+     "r": {
+      "p": 5
+     }
+    },
+    {
+     "q": "In the 2007 scheme, which two phyla together make up the subkingdom Dikarya?",
+     "c": [
+      "Ascomycota and Basidiomycota",
+      "Zygomycota and Glomeromycota",
+      "Chytridiomycota and Blastocladiomycota",
+      "Basidiomycota and Microsporidia"
+     ],
+     "a": 0,
+     "r": {
+      "p": 6,
+      "h": "Table 1.1"
+     }
+    },
+    {
+     "q": "According to the tables, which phylum includes almost all lichens?",
+     "c": [
+      "Ascomycota",
+      "Basidiomycota",
+      "Glomeromycota",
+      "Zygomycota"
+     ],
+     "a": 0,
+     "r": {
+      "p": 6
+     }
+    }
+   ]
+  },
+  {
+   "title": "Biological Nomenclature",
+   "pages": [
+    9,
+    10
+   ],
+   "questions": [
+    {
+     "q": "What is a binomial?",
+     "c": [
+      "The two-epithet name (genus + species epithet) that uniquely names a species",
+      "A name used in two different kingdoms",
+      "The common name plus the Latin name",
+      "The genus name alone"
+     ],
+     "a": 0,
+     "r": {
+      "p": 9
+     }
+    },
+    {
+     "q": "Which name does Kendrick use for the supermarket mushroom?",
+     "c": [
+      "*Agaricus brunnescens*",
+      "*Agaricus campestris*",
+      "*Pleurotus ostreatus*",
+      "*Lentinula edodes*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 9
+     }
+    },
+    {
+     "q": "The species epithet alone (e.g., *canadensis*) is enough to identify a species unambiguously.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 9
+     }
+    },
+    {
+     "q": "Which correctly orders the ranks from most inclusive to least inclusive?",
+     "c": [
+      "Kingdom, phylum, class, order, family, genus, species",
+      "Kingdom, class, phylum, family, order, genus, species",
+      "Phylum, kingdom, order, class, genus, family, species",
+      "Kingdom, phylum, order, class, genus, family, species"
+     ],
+     "a": 0,
+     "r": {
+      "p": 9
+     }
+    },
+    {
+     "q": "Which is one of Kendrick's three reasons for avoiding common names?",
+     "c": [
+      "The same common name is sometimes applied to different organisms",
+      "Common names cannot be written in italics",
+      "Common names are longer than binomials",
+      "Common names change every time a species is reclassified"
+     ],
+     "a": 0,
+     "r": {
+      "p": 9
+     }
+    },
+    {
+     "q": "Kendrick points out that 'reindeer moss' is actually what kind of organism?",
+     "c": [
+      "A lichen",
+      "A red alga",
+      "A flowering plant",
+      "A fern ally"
+     ],
+     "a": 0,
+     "r": {
+      "p": 9
+     }
+    },
+    {
+     "q": "What problem with Latin names does Kendrick illustrate with *Graphium*?",
+     "c": [
+      "The same generic name can be used in different kingdoms",
+      "Latin grammar changes too quickly",
+      "Some genera have hundreds of species",
+      "Binomials must be underlined in handwriting"
+     ],
+     "a": 0,
+     "r": {
+      "p": 10
+     }
+    }
+   ]
+  },
+  {
+   "title": "Biodiversity",
+   "pages": [
+    11,
+    13
+   ],
+   "questions": [
+    {
+     "q": "Approximately how many fungi have been described so far, according to this section?",
+     "c": [
+      "About 100,000",
+      "About 10,000",
+      "About 1,000,000",
+      "About 8,000"
+     ],
+     "a": 0,
+     "r": {
+      "p": 11
+     }
+    },
+    {
+     "q": "Hawksworth's estimate of global fungal diversity rests on the ratio of fungi to flowering plants in which country?",
+     "c": [
+      "Britain",
+      "Canada",
+      "Costa Rica",
+      "New Zealand"
+     ],
+     "a": 0,
+     "r": {
+      "p": 11
+     }
+    },
+    {
+     "q": "What ratio of fungi to flowering plant species did Hawksworth use?",
+     "c": [
+      "About 6 : 1",
+      "About 2 : 1",
+      "About 10 : 1",
+      "About 1 : 1"
+     ],
+     "a": 0,
+     "r": {
+      "p": 11
+     }
+    },
+    {
+     "q": "Hawksworth's estimate for the total number of fungal species in the world is about:",
+     "c": [
+      "1,500,000",
+      "250,000",
+      "500,000",
+      "12,000,000"
+     ],
+     "a": 0,
+     "r": {
+      "p": 11
+     }
+    },
+    {
+     "q": "Kendrick says it is reasonable to claim we are losing exactly two fungal species each week.",
+     "c": [
+      "True",
+      "False"
+     ],
+     "a": 1,
+     "r": {
+      "p": 12
+     }
+    },
+    {
+     "q": "Which fungus does Kendrick give as an example of a probably endangered species tied to old-growth forest?",
+     "c": [
+      "*Bridgeoporus* (*Oxyporus*) *nobilissimus*",
+      "*Agaricus brunnescens*",
+      "*Nosema*",
+      "*Graphium*"
+     ],
+     "a": 0,
+     "r": {
+      "p": 12
+     }
+    },
+    {
+     "q": "What are 'Red Lists', as used in some European countries?",
+     "c": [
+      "Lists documenting the increasing rarity or disappearance of fungi",
+      "Lists of poisonous mushrooms",
+      "Lists of fungi approved as food",
+      "Lists of plant-pathogenic fungi under quarantine"
+     ],
+     "a": 0,
+     "r": {
+      "p": 12
+     }
+    },
+    {
+     "q": "What does ATBI stand for?",
+     "c": [
+      "All-taxa biodiversity inventory",
+      "Applied taxonomy and biological identification",
+      "Annual tally of biodiversity indices",
+      "Assessment of threatened biota internationally"
+     ],
+     "a": 0,
+     "r": {
+      "p": 13
+     }
+    },
+    {
+     "q": "The ATBI project that actually went ahead (after the Costa Rican one did not) was in which park?",
+     "c": [
+      "Great Smoky Mountains National Park",
+      "Yellowstone National Park",
+      "Pacific Rim National Park",
+      "Banff National Park"
+     ],
+     "a": 0,
+     "r": {
+      "p": 13
+     }
+    }
+   ]
+  }
+ ],
+ "test": [
+  {
+   "s": 0,
+   "q": "Roughly when did the first eukaryotic cells evolve, according to Kendrick?",
+   "c": [
+    "About 2 billion years ago",
+    "About 3,800 million years ago",
+    "About 500 million years ago",
+    "About 1 billion years ago"
+   ],
+   "a": 0,
+   "r": {
+    "p": 1
+   }
+  },
+  {
+   "s": 0,
+   "q": "Which organelle does Kendrick describe as specializing in the oxidation of 3-carbon organic acids (the Krebs cycle) to supply ATP?",
+   "c": [
+    "Mitochondrion",
+    "Plastid",
+    "Flagellum",
+    "Nucleus"
+   ],
+   "a": 0,
+   "r": {
+    "p": 1
+   }
+  },
+  {
+   "s": 0,
+   "q": "During what process is genetic information reassorted by crossing-over?",
+   "c": [
+    "Meiosis",
+    "Mitosis",
+    "Binary fission",
+    "Mutation"
+   ],
+   "a": 0,
+   "r": {
+    "p": 2
+   }
+  },
+  {
+   "s": 0,
+   "q": "Which of these is listed as one of the five eukaryote kingdoms?",
+   "c": [
+    "Chromista (Stramenopila)",
+    "Archaea",
+    "Eubacteria",
+    "Lichenes"
+   ],
+   "a": 0,
+   "r": {
+    "p": 2
+   }
+  },
+  {
+   "s": 0,
+   "q": "Fungi are described as osmotrophic. What does that mean?",
+   "c": [
+    "They absorb their food rather than ingesting it",
+    "They make food from inorganic precursors",
+    "They live only in water",
+    "They regulate their own osmotic pressure by photosynthesis"
+   ],
+   "a": 0,
+   "r": {
+    "p": 3
+   }
+  },
+  {
+   "s": 0,
+   "q": "Like the fungi, the algae span more than one kingdom. Which group of 'algae' is actually prokaryotic?",
+   "c": [
+    "Cyanobacteria (blue-green algae)",
+    "Diatoms",
+    "Brown algae",
+    "Green algae"
+   ],
+   "a": 0,
+   "r": {
+    "p": 3
+   }
+  },
+  {
+   "s": 0,
+   "q": "Whose 1969 work led to general acceptance of the fungi as a separate kingdom?",
+   "c": [
+    "Whittaker",
+    "Hawksworth",
+    "Patterson and Sogin",
+    "Hibbett"
+   ],
+   "a": 0,
+   "r": {
+    "p": 3,
+    "h": "Recent Additions to the True Fungi"
+   }
+  },
+  {
+   "s": 0,
+   "q": "Blastocladiomycota was promoted from an order within the Chytridiomycetes to a phylum in 2006, based on molecular evidence.",
+   "c": [
+    "True",
+    "False"
+   ],
+   "a": 0,
+   "r": {
+    "p": 4,
+    "h": "Blastocladiomycota—a sixth fungal phylum"
+   }
+  },
+  {
+   "s": 0,
+   "q": "What is unusual about the Cryptomycota, compared with most fungi?",
+   "c": [
+    "They lack chitinous cell walls and may feed by engulfing particles",
+    "They photosynthesize",
+    "They have diploid tinsel-flagellate spores",
+    "They are found only in herbivore rumens"
+   ],
+   "a": 0,
+   "r": {
+    "p": 4,
+    "h": "Cryptomycota—a ninth fungal phylum?"
+   }
+  },
+  {
+   "s": 0,
+   "q": "Kendrick describes the Oomycota as convergent analogues of true fungi. Which feature distinguishes them?",
+   "c": [
+    "Cellulosic walls and a somatically diploid thallus",
+    "Chitinous walls and a haploid thallus",
+    "Absence of mitochondria",
+    "Spores without flagella"
+   ],
+   "a": 0,
+   "r": {
+    "p": 4
+   }
+  },
+  {
+   "s": 0,
+   "q": "Flagella of true fungi never carry flimmers (tripartite hairs) like the tinsel flagella of Oomycota.",
+   "c": [
+    "True",
+    "False"
+   ],
+   "a": 0,
+   "r": {
+    "p": 4
+   }
+  },
+  {
+   "s": 0,
+   "q": "Fungus-like organisms (walled, plastid-free heterotrophs) are thought to have arisen at least how many times?",
+   "c": [
+    "Six",
+    "Two",
+    "Once",
+    "Eleven"
+   ],
+   "a": 0,
+   "r": {
+    "p": 4
+   }
+  },
+  {
+   "s": 1,
+   "q": "Which phylum is listed with the Chytridiomycota, Zygomycota and Glomeromycota among the 'six older and simpler groups' in the first 2007 table?",
+   "c": [
+    "Microsporidia",
+    "Ascomycota",
+    "Basidiomycota",
+    "Oomycota"
+   ],
+   "a": 0,
+   "r": {
+    "p": 5
+   }
+  },
+  {
+   "s": 1,
+   "q": "The second table of the 2007 classification covers which phylum, including the rust and smut fungi?",
+   "c": [
+    "Basidiomycota",
+    "Ascomycota",
+    "Zygomycota",
+    "Chytridiomycota"
+   ],
+   "a": 0,
+   "r": {
+    "p": 6
+   }
+  },
+  {
+   "s": 2,
+   "q": "In print, which part of the hierarchy is italicized?",
+   "c": [
+    "The binomial (genus and species)",
+    "Every rank from family down",
+    "Only the family name",
+    "Only higher-ranking taxa such as orders"
+   ],
+   "a": 0,
+   "r": {
+    "p": 9
+   }
+  },
+  {
+   "s": 2,
+   "q": "One of Kendrick's reasons for using Latin for scientific names is:",
+   "c": [
+    "As a 'dead' language it changes slowly, giving stability",
+    "It is easier to pronounce than English",
+    "It was the language of the first mycologists",
+    "It allows names to be shorter"
+   ],
+   "a": 0,
+   "r": {
+    "p": 10
+   }
+  },
+  {
+   "s": 2,
+   "q": "In which kingdom besides the fungi does the genus name *Graphium* also occur?",
+   "c": [
+    "Animals (butterflies)",
+    "Plants (ferns)",
+    "Chromista (diatoms)",
+    "Protozoa (amoebae)"
+   ],
+   "a": 0,
+   "r": {
+    "p": 10
+   }
+  },
+  {
+   "s": 3,
+   "q": "If the world holds only half a million fungi, roughly what share have we described?",
+   "c": [
+    "About 20%",
+    "About 6%",
+    "About 50%",
+    "About 90%"
+   ],
+   "a": 0,
+   "r": {
+    "p": 11
+   }
+  },
+  {
+   "s": 3,
+   "q": "Why does Kendrick think we know practically all birds but only a fraction of fungi?",
+   "c": [
+    "Ornithologists rarely find new species, while mycologists find new taxa every day",
+    "Fungi evolve faster than birds",
+    "Bird names are easier to standardize",
+    "Fungi cannot be preserved for study"
+   ],
+   "a": 0,
+   "r": {
+    "p": 11
+   }
+  },
+  {
+   "s": 3,
+   "q": "Bob Murphy's comments about a North Vietnamese toad illustrate what idea?",
+   "c": [
+    "Protecting charismatic animals protects their forests, and the fungi in them",
+    "Amphibians spread fungal diseases",
+    "Fungi are the main food of rainforest toads",
+    "Toad skin is a source of new antibiotics"
+   ],
+   "a": 0,
+   "r": {
+    "p": 12
+   }
+  },
+  {
+   "s": 3,
+   "q": "How many fungi were estimated for the Great Smoky Mountains park, and how many were described?",
+   "c": [
+    "20,000 estimated; 2,250 described",
+    "100,000 estimated; 9,800 described",
+    "5,400 estimated; 2,816 described",
+    "76,000 estimated; 4,280 described"
+   ],
+   "a": 0,
+   "r": {
+    "p": 13
+   }
+  }
+ ],
+ "review": [
+  {
+   "s": 0,
+   "q": "When did the earliest forms of life (prokaryotes) appear, according to Kendrick?",
+   "c": [
+    "About 3,500–3,800 million years ago",
+    "About 2,000 million years ago",
+    "About 600 million years ago",
+    "About 10,000 million years ago"
+   ],
+   "a": 0,
+   "r": {
+    "p": 1
+   }
+  },
+  {
+   "s": 0,
+   "q": "During their 1,500 million years alone, prokaryotes invented:",
+   "c": [
+    "Photosynthesis",
+    "Mitosis",
+    "Meiosis",
+    "Multicellularity"
+   ],
+   "a": 0,
+   "r": {
+    "p": 1
+   }
+  },
+  {
+   "s": 0,
+   "q": "Which amoeboid pseudofungus's fully sequenced genome shed light on the timing of the origin of the kingdoms?",
+   "c": [
+    "*Dictyostelium discoideum*",
+    "*Nosema*",
+    "*Neurospora crassa*",
+    "*Saccharomyces cerevisiae*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 2
+   }
+  },
+  {
+   "s": 0,
+   "q": "About how many phyla of animals does Kendrick recognize?",
+   "c": [
+    "About thirty-two",
+    "About nine",
+    "About eleven",
+    "About a hundred"
+   ],
+   "a": 0,
+   "r": {
+    "p": 3
+   }
+  },
+  {
+   "s": 0,
+   "q": "Reef-building corals co-existing with endosymbiotic dinoflagellates illustrate what point?",
+   "c": [
+    "Many apparently unitary organisms are actually partnerships",
+    "Corals are a kind of fungus",
+    "Dinoflagellates are true fungi",
+    "Partnerships occur only in the sea"
+   ],
+   "a": 0,
+   "r": {
+    "p": 3
+   }
+  },
+  {
+   "s": 0,
+   "q": "Kendrick warns that rRNA-based fungal phylogenies are still vague because rRNA:",
+   "c": [
+    "Evolves at very different rates in different fungal groups",
+    "Is absent from many fungi",
+    "Cannot be sequenced",
+    "Is identical in all fungi"
+   ],
+   "a": 0,
+   "r": {
+    "p": 5
+   }
+  },
+  {
+   "s": 0,
+   "q": "Kendrick's minimal definition says fungi usually produce spores with walls made of:",
+   "c": [
+    "Chitin",
+    "Cellulose",
+    "Silica",
+    "Keratin"
+   ],
+   "a": 0,
+   "r": {
+    "p": 5
+   }
+  },
+  {
+   "s": 2,
+   "q": "The mushroom genus Kendrick cites as containing hundreds of species is:",
+   "c": [
+    "*Cortinarius*",
+    "*Agaricus*",
+    "*Homo*",
+    "*Graphium*"
+   ],
+   "a": 0,
+   "r": {
+    "p": 9
+   }
+  },
+  {
+   "s": 2,
+   "q": "In handwriting, a binomial should be shown as italic by:",
+   "c": [
+    "Underlining it",
+    "Writing it in capitals",
+    "Putting it in quotation marks",
+    "Writing it in red"
+   ],
+   "a": 0,
+   "r": {
+    "p": 9
+   }
+  },
+  {
+   "s": 3,
+   "q": "Roughly how many bird species does Kendrick say are known?",
+   "c": [
+    "About 8,000",
+    "About 80,000",
+    "About 800",
+    "About 1,000,000"
+   ],
+   "a": 0,
+   "r": {
+    "p": 11
+   }
+  },
+  {
+   "s": 3,
+   "q": "About how many fungal species have been recorded in Britain?",
+   "c": [
+    "About 12,000",
+    "About 2,000",
+    "About 120,000",
+    "About 1,200"
+   ],
+   "a": 0,
+   "r": {
+    "p": 11
+   }
+  },
+  {
+   "s": 3,
+   "q": "Even if every living mycologist described 100 species, roughly how many taxa would that add?",
+   "c": [
+    "About 300,000",
+    "About 3,000",
+    "About 3 million",
+    "About 30,000"
+   ],
+   "a": 0,
+   "r": {
+    "p": 12
+   }
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+  "n": 22,
+  "title": "Poisonous and Hallucinogenic Mushrooms",
+  "pages": [392, 408],
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [392, 394],
+      "questions": [
+        {"q": "Kendrick divides people into 'pickers' and 'kickers'. This trait seems to be:", "c": ["Culturally determined", "Genetic", "Based on income", "Based on age"], "a": 0, "r": {"p": 392}},
+        {"q": "There are more than how many species of fleshy fungi?", "c": ["10,000", "1,000", "100,000", "500"], "a": 0, "r": {"p": 392}},
+        {"q": "There is no simple rule or test that tells whether a mushroom is edible or deadly.", "c": ["True", "False"], "a": 0, "r": {"p": 392}},
+        {"q": "You should eat wild mushrooms only if you:", "c": ["Know or can precisely determine their scientific names", "Have seen animals eat them", "Find them peel easily", "Cook them thoroughly"], "a": 0, "r": {"p": 392}},
+        {"q": "How many types of mushroom poisoning does Kendrick recognize?", "c": ["Twelve", "Four", "Seven", "Twenty"], "a": 0, "r": {"p": 393}},
+        {"q": "About 95% of all mushroom-poisoning fatalities are caused by members of one genus:", "c": ["*Amanita*", "*Cortinarius*", "*Gyromitra*", "*Psilocybe*"], "a": 0, "r": {"p": 393}}
+      ]
+    },
+    {
+      "title": "Group I: Amanitin Poisoning",
+      "pages": [394, 398],
+      "questions": [
+        {"q": "Amanitin-type toxins are cyclic oligopeptides, also called:", "c": ["Cyclopeptides", "Alkaloids", "Trichothecenes", "Coumarins"], "a": 0, "r": {"p": 395}},
+        {"q": "Amatoxins contain eight amino acids, while phallotoxins contain:", "c": ["Seven", "Six", "Nine", "Twelve"], "a": 0, "r": {"p": 395}},
+        {"q": "Why are phallotoxins harmless when eaten, though lethal when injected?", "c": ["They are broken down by digestion or not absorbed by the gut", "They are destroyed by cooking", "They are too dilute", "They are excreted instantly"], "a": 0, "r": {"p": 395}},
+        {"q": "Alpha-amanitin kills cells by binding to:", "c": ["RNA polymerase II", "DNA polymerase", "Ribosomes", "Cell membranes"], "a": 0, "r": {"p": 395}},
+        {"q": "The latent period before amanitin symptoms appear is most commonly about:", "c": ["Twelve hours", "Thirty minutes", "Three days", "Two weeks"], "a": 0, "r": {"p": 395}},
+        {"q": "After the initial violent vomiting and diarrhea, amanitin poisoning shows:", "c": ["A brief, misleading remission", "Immediate death", "Hallucinations", "Full recovery"], "a": 0, "r": {"p": 395}},
+        {"q": "There is currently a specific antidote for amanitin.", "c": ["True", "False"], "a": 1, "r": {"p": 396}},
+        {"q": "Legalon SIL (silybinin), a newer treatment for amatoxin poisoning, is an extract of:", "c": ["Milk thistle", "Willow bark", "Foxglove", "Ginseng"], "a": 0, "r": {"p": 396}},
+        {"q": "Dr. Bastien demonstrated his treatment by:", "c": ["Eating *Amanita phalloides* himself and surviving", "Testing it on mice only", "Treating Drosophila", "Publishing a theoretical model"], "a": 0, "r": {"p": 397, "h": "The Bastien Treatment"}},
+        {"q": "Mycophagous *Drosophila* breeding in amanitin-containing mushrooms gain the advantage that they:", "c": ["Avoid competitors and are never parasitized by the nematode *Howardula*", "Grow larger", "Become poisonous to birds", "Develop faster"], "a": 0, "r": {"p": 398}}
+      ]
+    },
+    {
+      "title": "Groups II and III: Monomethylhydrazine and Orellanine",
+      "pages": [398, 399],
+      "questions": [
+        {"q": "The false morel, often confused with true morels, is:", "c": ["*Gyromitra esculenta*", "*Morchella esculenta*", "*Cortinarius orellanus*", "*Helvella crispa*"], "a": 0, "r": {"p": 398, "h": "Group II: Monomethylhydrazine Poisoning"}},
+        {"q": "Gyromitrin hydrolyzes into monomethylhydrazine, which is also used as:", "c": ["Rocket fuel", "An antibiotic", "A food dye", "Fertilizer"], "a": 0, "r": {"p": 398}},
+        {"q": "Why might the cook become ill while diners did not?", "c": ["MMH boils at 87.5°C and its vapours are toxic", "Cooks eat more", "Raw mushrooms touched the skin", "Coincidence only"], "a": 0, "r": {"p": 398}},
+        {"q": "The specific physiological antagonist given for MMH poisoning is:", "c": ["Pyridoxine hydrochloride", "Atropine", "Vitamin C", "Chlorpromazine"], "a": 0, "r": {"p": 399}},
+        {"q": "Orellanine from *Cortinarius orellanus* is a toxin that destroys the:", "c": ["Kidneys", "Liver", "Brain", "Heart"], "a": 0, "r": {"p": 399, "h": "Group III: Orellanine Poisoning"}},
+        {"q": "The most unusual feature of orellanine poisoning is:", "c": ["Extremely delayed onset, from 3 days to over 2 weeks", "Instant onset", "Hallucinations", "It only affects children"], "a": 0, "r": {"p": 399}},
+        {"q": "The first symptom of orellanine poisoning is usually:", "c": ["Intense thirst with a burning, dry mouth", "Hot flushes", "Salivation and tears", "Visions"], "a": 0, "r": {"p": 399}}
+      ]
+    },
+    {
+      "title": "Groups IV and V: Coprine and Muscarine",
+      "pages": [400, 401],
+      "questions": [
+        {"q": "*Coprinopsis atramentaria* causes symptoms only when the eater also:", "c": ["Drinks alcohol", "Eats meat", "Exercises", "Sleeps"], "a": 0, "r": {"p": 400, "h": "Group IV: Coprine (Antabuse-like) Poisoning"}},
+        {"q": "Coprine poisoning is really poisoning by:", "c": ["Acetaldehyde", "Ethanol", "Methanol", "Muscarine"], "a": 0, "r": {"p": 400}},
+        {"q": "Coprine acts almost identically to which drug used to treat alcoholism?", "c": ["Antabuse (disulfiram)", "Atropine", "Naloxone", "Diazepam"], "a": 0, "r": {"p": 400}},
+        {"q": "Muscarine is found in which two genera of little white or brown mushrooms?", "c": ["*Clitocybe* and *Inocybe*", "*Amanita* and *Galerina*", "*Psilocybe* and *Panaeolus*", "*Russula* and *Lactarius*"], "a": 0, "r": {"p": 400, "h": "Group V: Muscarine Poisoning—PSL Syndrome"}},
+        {"q": "'PSL' in PSL syndrome stands for:", "c": ["Perspiration, salivation, lachrymation", "Pain, swelling, lethargy", "Pulse, sight, liver", "Psychosis, sleep, loss of memory"], "a": 0, "r": {"p": 401}},
+        {"q": "The appropriate treatment for muscarine poisoning is:", "c": ["Carefully administered intravenous atropine", "Pyridoxine", "No treatment ever", "Haemodialysis"], "a": 0, "r": {"p": 401}}
+      ]
+    },
+    {
+      "title": "Group VI: Ibotenic Acid–Muscimol",
+      "pages": [401, 402],
+      "questions": [
+        {"q": "The scarlet-capped, white-spotted fairy-tale mushroom is:", "c": ["*Amanita muscaria*", "*Amanita phalloides*", "*Amanita virosa*", "*Amanita smithiana*"], "a": 0, "r": {"p": 401}},
+        {"q": "The Soma hymns of which sacred text have been interpreted as glorifying *A. muscaria*?", "c": ["The Rig Veda", "The Bible", "The Popol Vuh", "The Koran"], "a": 0, "r": {"p": 401}},
+        {"q": "Siberians learned that the *A. muscaria* inebriant could be recycled because it is:", "c": ["Excreted unaltered in urine", "Stored in fat", "Exhaled", "Destroyed by digestion"], "a": 0, "r": {"p": 401}},
+        {"q": "Dried *A. muscaria* is more potent than fresh because on drying ibotenic acid becomes:", "c": ["Muscimol", "Muscarine", "Psilocin", "Coprine"], "a": 0, "r": {"p": 402}},
+        {"q": "For ibotenic acid–muscimol poisoning, atropine should be given.", "c": ["True", "False"], "a": 1, "r": {"p": 402}}
+      ]
+    },
+    {
+      "title": "Group VII: Psilocybin and Psilocin",
+      "pages": [402, 404],
+      "questions": [
+        {"q": "The Aztec name 'teonanacatl' means:", "c": ["The flesh of the gods", "The sacred tree", "The divine drink", "The mushroom of death"], "a": 0, "r": {"p": 402}},
+        {"q": "Who described participating in the Oaxacan mushroom ceremonies?", "c": ["R. Gordon Wasson", "Dr. Bastien", "David Arora", "Albert Hofmann"], "a": 0, "r": {"p": 402}},
+        {"q": "Psilocybin and psilocin are indole alkaloids related to the neurotransmitter:", "c": ["Serotonin", "Dopamine", "Acetylcholine", "Adrenaline"], "a": 0, "r": {"p": 403}},
+        {"q": "The 'liberty caps' hunted in the Pacific Northwest are:", "c": ["*Psilocybe semilanceata* and *P. pellicula*", "*Amanita muscaria*", "*Panaeolus foenisecii*", "*Gymnopilus spectabilis*"], "a": 0, "r": {"p": 403}},
+        {"q": "Children who have eaten hallucinogenic mushrooms and develop fever should not be given:", "c": ["Aspirin", "Tepid baths", "Diazepam", "Wet sheets"], "a": 0, "r": {"p": 403}},
+        {"q": "In clinical trials, psilocybin showed promise for reducing anxiety and depression in:", "c": ["Cancer patients", "Children", "Alcoholics only", "Athletes"], "a": 0, "r": {"p": 403, "h": "Psilocybin for Treatment of Anxiety and Depression in Cancer Patients"}}
+      ]
+    },
+    {
+      "title": "Groups VIII–XII and Patterns of Poisoning",
+      "pages": [404, 407],
+      "questions": [
+        {"q": "Gastrointestinal irritant mushrooms cause symptoms within:", "c": ["30–90 minutes", "6–24 hours", "3–4 days", "2 weeks"], "a": 0, "r": {"p": 404, "h": "Group VIII: Gastrointestinal Irritants"}},
+        {"q": "Rhabdomyolysis means:", "c": ["Breakdown of skeletal muscle", "Liver failure", "Kidney stones", "Brain swelling"], "a": 0, "r": {"p": 404}},
+        {"q": "*Tricholoma equestre*, once considered choice, caused fatal rhabdomyolysis in:", "c": ["France", "Japan", "Poland", "Canada"], "a": 0, "r": {"p": 404}},
+        {"q": "Angel wings (*Pleurocybella porrigens*) killed people in Japan in 2004 who all had:", "c": ["Serious preexisting kidney disease", "Liver cancer", "Heart disease", "Diabetes"], "a": 0, "r": {"p": 405, "h": "Group X: Poisoning by Pleurocybella porrigens (Angel Wings)"}},
+        {"q": "The most serious problem with *Paxillus involutus* is:", "c": ["Acute haemolytic anaemia after repeated meals", "Hallucinations", "Kidney failure on first meal", "Rhabdomyolysis"], "a": 0, "r": {"p": 406}},
+        {"q": "*Amanita smithiana* is often eaten by mistake for:", "c": ["Matsutake", "Morels", "Chanterelles", "Shiitake"], "a": 0, "r": {"p": 406, "h": "Group XII: Poisoning by Amanita smithiana"}},
+        {"q": "Muscarine and coprine fall into which pattern of toxins?", "c": ["Those acting on the autonomic nervous system", "Those acting on the central nervous system", "Delayed cell destroyers", "Undetermined gut irritants"], "a": 0, "r": {"p": 407}}
+      ]
+    }
+  ],
+  "test": [
+    {"s": 0, "q": "In 1975, a Swiss newspaper reported how many local mushroom deaths in a short period?", "c": ["Fifty-four", "Five", "Five hundred", "Twelve"], "a": 0, "r": {"p": 393}},
+    {"s": 0, "q": "Fatalities are usually caused only by which poisoning groups?", "c": ["I, II, and III", "IV, V, and VI", "VII and VIII", "X, XI, and XII"], "a": 0, "r": {"p": 393}},
+    {"s": 1, "q": "Which genera, besides *Amanita*, contain amanitin-type toxins lethal in tiny doses?", "c": ["*Galerina* and *Conocybe*", "*Psilocybe* and *Panaeolus*", "*Coprinopsis* and *Clitocybe*", "*Russula* and *Boletus*"], "a": 0, "r": {"p": 394}},
+    {"s": 1, "q": "The most poisonous mushroom in eastern North America is probably:", "c": ["*Amanita virosa*", "*Amanita muscaria*", "*Gyromitra esculenta*", "*Inocybe geophylla*"], "a": 0, "r": {"p": 395}},
+    {"s": 1, "q": "*Amanita phalloides* has a cap that is:", "c": ["Greenish", "Scarlet with white spots", "Pure white", "Bright yellow"], "a": 0, "r": {"p": 395}},
+    {"s": 1, "q": "Haemodialysis is of questionable use in removing amanitin because:", "c": ["It removes molecules of MW 300 or less, and amanitin is about 900", "It is too slow", "It damages the liver", "Amanitin is not in the blood"], "a": 0, "r": {"p": 396}},
+    {"s": 1, "q": "Radioimmunoassay shows amanitin levels are far higher in patients':", "c": ["Urine than blood", "Blood than urine", "Hair than blood", "Saliva than urine"], "a": 0, "r": {"p": 397}},
+    {"s": 1, "q": "The Bastien treatment includes intravenous injections of:", "c": ["Vitamin C", "Atropine", "Glucose only", "Insulin"], "a": 0, "r": {"p": 397}},
+    {"s": 2, "q": "*Gyromitra esculenta* causes about what share of fatal mushroom poisonings?", "c": ["2%–4%", "50%", "95%", "0.01%"], "a": 0, "r": {"p": 398}},
+    {"s": 2, "q": "Gyromitra poisoning can strike someone who ate it safely before because:", "c": ["There is a narrow, all-or-nothing margin between no effect and a lethal dose", "Toxins accumulate in fat", "The fungus mutates", "Allergy develops"], "a": 0, "r": {"p": 398}},
+    {"s": 2, "q": "Orellanine outbreaks were first reported in 1957 from:", "c": ["Poland", "France", "Japan", "The United States"], "a": 0, "r": {"p": 399}},
+    {"s": 2, "q": "No confirmed orellanine cases have been reported in North America.", "c": ["True", "False"], "a": 0, "r": {"p": 399}},
+    {"s": 3, "q": "The coprine syndrome lasts as long as alcohol remains in the body, usually:", "c": ["Two to four hours", "Two to four days", "Ten minutes", "A week"], "a": 0, "r": {"p": 400}},
+    {"s": 3, "q": "Death from muscarine poisoning has happened rarely, and only in patients with:", "c": ["Existing cardiovascular disease", "Kidney disease", "Diabetes", "Alcoholism"], "a": 0, "r": {"p": 401}},
+    {"s": 4, "q": "Muscimol is how much more psychoactive than ibotenic acid?", "c": ["Five to ten times", "Twice", "A hundred times", "Equally"], "a": 0, "r": {"p": 402}},
+    {"s": 4, "q": "A fatal dose of *A. muscaria* may be:", "c": ["Ten or more mushrooms", "Half a cap", "Fifty mushrooms", "Any single bite"], "a": 0, "r": {"p": 402}},
+    {"s": 5, "q": "An average effective dose of psilocybin (4–8 mg) is contained in about how much dried mushroom?", "c": ["2 g", "20 g", "200 g", "0.2 g"], "a": 0, "r": {"p": 403}},
+    {"s": 5, "q": "In the psilocybin cancer trials, about what share of patients had lasting reductions in anxiety and depression?", "c": ["80%", "8%", "40%", "100%"], "a": 0, "r": {"p": 404}},
+    {"s": 6, "q": "In *Russula subnigricans* poisoning, released myoglobin causes:", "c": ["Kidney failure", "Hallucinations", "Liver cancer", "Blindness"], "a": 0, "r": {"p": 404}},
+    {"s": 6, "q": "Compared with orellanine, *Amanita smithiana* poisoning has onset that is:", "c": ["Much quicker (4–11 hours)", "Much slower", "Identical", "Immediate"], "a": 0, "r": {"p": 406}}
+  ],
+  "review": [
+    {"s": 0, "q": "Europeans, being pickers, have suffered as many as how many mushroom fatalities in two weeks?", "c": ["100", "10", "1,000", "5"], "a": 0, "r": {"p": 393}},
+    {"s": 0, "q": "Deadly *Amanita* species fruit mainly in:", "c": ["Late summer and fall", "Early spring", "Midwinter", "Year-round equally"], "a": 0, "r": {"p": 393}},
+    {"s": 1, "q": "Those who have eaten deadly amanitas report that the flavour is:", "c": ["Mild", "Bitter", "Burning hot", "Foul"], "a": 0, "r": {"p": 395}},
+    {"s": 1, "q": "Haemoperfusion circulates the patient's blood over:", "c": ["Activated charcoal", "A semipermeable membrane", "A centrifuge", "Ice"], "a": 0, "r": {"p": 396}},
+    {"s": 1, "q": "The amatoxin oral LD₅₀ is about:", "c": ["0.1 mg/kg", "10 mg/kg", "100 mg/kg", "1 g/kg"], "a": 0, "r": {"p": 395}},
+    {"s": 2, "q": "Severe *Gyromitra* poisoning may end in coma and death after:", "c": ["Two to seven days", "Two hours", "Six weeks", "Six months"], "a": 0, "r": {"p": 398}},
+    {"s": 2, "q": "Of 132 people poisoned in the 1957 Polish orellanine outbreaks, how many died?", "c": ["19", "132", "2", "60"], "a": 0, "r": {"p": 399}},
+    {"s": 3, "q": "Coprine-type poisoning can occur up to how long after eating *Coprinopsis atramentaria*?", "c": ["Five days", "Five hours", "Five weeks", "Thirty minutes"], "a": 0, "r": {"p": 400}},
+    {"s": 4, "q": "Dried *A. muscaria* retains its potency for:", "c": ["Five to ten years", "A few days", "One month", "Forever"], "a": 0, "r": {"p": 402}},
+    {"s": 5, "q": "Hallucinations in a child who ate psilocybin mushrooms may be suppressed with:", "c": ["Chlorpromazine", "Atropine", "Aspirin", "Pyridoxine"], "a": 0, "r": {"p": 403}},
+    {"s": 6, "q": "*Paxillus involutus* is the third most common cause of gastrointestinal mushroom symptoms in:", "c": ["Eastern Europe", "Japan", "North America", "Australia"], "a": 0, "r": {"p": 406}}
+  ]
+}
